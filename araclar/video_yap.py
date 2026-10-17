@@ -139,6 +139,9 @@ def main():
     XF = 0.5
     giris_ek = 0.9 if plan.get("baslik_karti") else 0.2
     dikey = plan.get("format", "9:16") != "16:9"
+    PRESET = plan.get("encode_preset", "medium")
+    CRF = plan.get("crf", 20 if dikey else 23)   # uzun video: GitHub 100MB siniri icin daha sikistirma
+    MAXRATE = plan.get("maxrate", "1800k" if not dikey else None)
     if dikey:
         VW, VH, OW, OH = 1080, 1920, 2160, 3840
     else:
@@ -189,8 +192,8 @@ def main():
         bas += sure - XF
     toplam = zamanlama[-1][3]
     print(f"Toplam sure: {toplam:.1f} sn")
-    if toplam > 59.5:
-        print(f"UYARI: {toplam:.1f} sn > 59.5 sn! ek_sure/hedef_sure ayarlayın.")
+    if dikey and toplam > 59.5:
+        print(f"UYARI: {toplam:.1f} sn > 59.5 sn (Shorts)! ek_sure/hedef_sure ayarlayın.")
 
     # --- ASS ---
     ass_yolu = cikti + ".ass"
@@ -257,7 +260,7 @@ def main():
         )
         calis([FFMPEG, "-y", "-loop", "1", "-i", tam_yol(sa["gorsel"]),
                "-filter_complex", filtre, "-map", "[v]",
-               "-t", f"{d:.3f}", "-r", "30", "-c:v", "libx264", "-preset", "medium",
+               "-t", f"{d:.3f}", "-r", "30", "-c:v", "libx264", "-preset", PRESET,
                "-crf", "18", "-pix_fmt", "yuv420p", klip])
 
     # --- xfade + vinyet + altyazi ---
@@ -278,9 +281,13 @@ def main():
         f"subtitles=filename='{ass_gorunur}':fontsdir='{FONTS}',format=yuv420p[vf]"
     )
     gecici = cikti + ".video.mp4"
-    calis([FFMPEG, "-y", *girisler, "-filter_complex", ";".join(video_filtre),
-           "-map", "[vf]", "-r", "30", "-c:v", "libx264", "-preset", "medium",
-           "-crf", "20", "-pix_fmt", "yuv420p", gecici])
+    final_args = [FFMPEG, "-y", *girisler, "-filter_complex", ";".join(video_filtre),
+                  "-map", "[vf]", "-r", "30", "-c:v", "libx264", "-preset", PRESET,
+                  "-crf", str(CRF), "-pix_fmt", "yuv420p"]
+    if MAXRATE:
+        final_args += ["-maxrate", MAXRATE, "-bufsize", str(int(MAXRATE[:-1])*2) + MAXRATE[-1]]
+    final_args.append(gecici)
+    calis(final_args)
 
     # --- birlestir ---
     calis([FFMPEG, "-y", "-i", gecici, "-i", ses_cikti,
