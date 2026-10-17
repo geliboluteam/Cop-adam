@@ -25,7 +25,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | Bölüm | Konu | Yıl/Mekân | Kanca | Durum |
 |---|---|---|---|---|
 | 06 | 11 | 1347-51, Avrupa | Kara Veba şehrinde: kaçış var mı, kaç gün? | ✅ PAKET ÜRETİLDİ: uzun 6:37 (20 sahne) + 2 Shorts (54,4 + 54,4 sn) + YouTube kapağı |
-| 07 | 7 | 79, Pompeii | Vezüv patlarken **kaçabilir miydim?** (18 saatlik pencere) | ⬜ |
+| 07 | 7 | 79, Pompeii | Vezüv patlarken **kaçabilir miydim?** (18 saatlik pencere) | ✅ PAKET ÜRETİLDİ: uzun 7:52 (20 sahne) + 2 Shorts (54,5 + 55,0 sn) + YouTube kapağı |
 | 08 | 32 | 79, Herculaneum | Kül ve pürokladik akış: şehre ulaşmadan **30 dakika** | ⬜ |
 | 09 | 41 | 1883, Krakatoa | Patlamayı duyunca hangi tepeye kaçmalıydım? | ⬜ |
 | 10 | 22 | antik dönem | Deprem/volkan anında antik şehirde | ⬜ |

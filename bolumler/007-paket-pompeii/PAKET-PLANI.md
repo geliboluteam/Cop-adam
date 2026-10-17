@@ -37,7 +37,8 @@ timeline POV (13:00 → 08:00).
 keşfi → Fiorelli alçı dökümleri → bugün.
 
 ## Üretim Sırası
-1. Tur A: uzun sahneler 1-10 (ses + 16:9 görsel)
-2. Tur B: uzun 11-20 + derleme
-3. Tur C: Shorts-1 + derleme
-4. Tur D: Shorts-2 + derleme + YAYIN.md + SFX künyesi + YouTube kapağı
+1. Tur A: ✅ uzun sahneler 1-10 üretildi
+2. Tur B: ✅ uzun sahneler 11-20 + derleme (7:52, x1.10, 63 MB, maxrate 1300k)
+3. Tur C: ✅ Shorts-1 "18 Saat — Kaç ya da Kal" (54,5 sn, saat bantlı timeline)
+4. Tur D: ✅ Shorts-2 "Mumyalanan Şehir" (55,0 sn) + YAYIN.md + SFX künyesi
+   + YouTube kapağı (`kapaklar/thumbnail/bolum-007.png`)
