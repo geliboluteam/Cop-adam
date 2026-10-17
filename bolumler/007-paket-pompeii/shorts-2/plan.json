@@ -1,0 +1,91 @@
+{
+  "baslik_karti": {"yazi1": "EĞER ORADA OLSAYDIM", "yazi2": "MERAKLI: MUMYALANAN ŞEHİR"},
+  "kapanis_karti": {"yazi": "SIRADA NERE?", "alt": "YORUMLARA YAZ"},
+  "muzik": {"dosya": "sfx/0ad/music/The_Hellespont.ogg", "kazanc_db": -21},
+  "hedef_sure": 57.5,
+  "hiz_max": 1.25,
+  "altyazi": false,
+  "sahneler": [
+    {"gorsel": "bolumler/007-paket-pompeii/shorts-2/gorseller/s01.png",
+     "anlatim": "bolumler/007-paket-pompeii/shorts-2/ses/s01.mp3", "anlatim_metin": "",
+     "tarih_bandi": "79 — KÜL",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus", "t": 0.0, "kazanc_db": -15},
+       {"dosya": "sfx/free-sfx/Thimras/cannon_fire.opus", "t": 0.5, "kazanc_db": -20},
+       {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.0, "kazanc_db": -22, "dongu": true, "sure": 6.0},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -17, "dongu": true, "sure": 6.0}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/007-paket-pompeii/shorts-2/gorseller/s02.png",
+     "anlatim": "bolumler/007-paket-pompeii/shorts-2/ses/s02.mp3", "anlatim_metin": "",
+     "tarih_bandi": "YILLAR SONRA",
+     "efektler": [
+       {"dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg", "t": 0.0, "kazanc_db": -18, "dongu": true, "sure": 7.0},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -20, "dongu": true, "sure": 7.0},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus", "t": 3.0, "kazanc_db": -23}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/007-paket-pompeii/shorts-2/gorseller/s03.png",
+     "anlatim": "bolumler/007-paket-pompeii/shorts-2/ses/s03.mp3", "anlatim_metin": "",
+     "tarih_bandi": "1599",
+     "efektler": [
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 0.8, "kazanc_db": -18},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus", "t": 2.0, "kazanc_db": -19},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 3.4, "kazanc_db": -19},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus", "t": 4.5, "kazanc_db": -22}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/007-paket-pompeii/shorts-2/gorseller/s04.png",
+     "anlatim": "bolumler/007-paket-pompeii/shorts-2/ses/s04.mp3", "anlatim_metin": "",
+     "tarih_bandi": "1748 — KAZILAR",
+     "efektler": [
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 0.5, "kazanc_db": -19},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus", "t": 2.0, "kazanc_db": -22},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus", "t": 4.0, "kazanc_db": -20},
+       {"dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg", "t": 0.0, "kazanc_db": -21, "dongu": true, "sure": 6.5}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/007-paket-pompeii/shorts-2/gorseller/s05.png",
+     "anlatim": "bolumler/007-paket-pompeii/shorts-2/ses/s05.mp3", "anlatim_metin": "",
+     "tarih_bandi": "1863 — FIORELLİ",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus", "t": 1.0, "kazanc_db": -18},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus", "t": 3.0, "kazanc_db": -21},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 4.5, "kazanc_db": -22}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/007-paket-pompeii/shorts-2/gorseller/s06.png",
+     "anlatim": "bolumler/007-paket-pompeii/shorts-2/ses/s06.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus", "t": 2.0, "kazanc_db": -24},
+       {"dosya": "sfx/free-sfx/PagDev/fire_loop.opus", "t": 0.0, "kazanc_db": -28, "dongu": true, "sure": 6.5},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -25, "dongu": true, "sure": 6.5}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/007-paket-pompeii/shorts-2/gorseller/s07.png",
+     "anlatim": "bolumler/007-paket-pompeii/shorts-2/ses/s07.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus", "t": 0.0, "kazanc_db": -25, "dongu": true, "sure": 6.5},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus", "t": 2.5, "kazanc_db": -22},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep4.opus", "t": 4.0, "kazanc_db": -23}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/007-paket-pompeii/shorts-2/gorseller/s08.png",
+     "anlatim": "bolumler/007-paket-pompeii/shorts-2/ses/s08.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus", "t": 1.0, "kazanc_db": -18},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-2.opus", "t": 2.6, "kazanc_db": -19},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus", "t": 4.0, "kazanc_db": -21},
+       {"dosya": "sfx/free-sfx/PagDev/fire_loop.opus", "t": 0.0, "kazanc_db": -27, "dongu": true, "sure": 6.0}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/007-paket-pompeii/shorts-2/gorseller/s09.png",
+     "anlatim": "bolumler/007-paket-pompeii/shorts-2/ses/s09.mp3", "anlatim_metin": "",
+     "tarih_bandi": "BUGÜN",
+     "efektler": [
+       {"dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg", "t": 0.0, "kazanc_db": -17, "dongu": true, "sure": 7.0},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus", "t": 1.5, "kazanc_db": -24},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus", "t": 3.0, "kazanc_db": -22}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/007-paket-pompeii/shorts-2/gorseller/s10.png",
+     "anlatim": "bolumler/007-paket-pompeii/shorts-2/ses/s10.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus", "t": 0.2, "kazanc_db": -16},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus", "t": 1.5, "kazanc_db": -19},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus", "t": 0.5, "kazanc_db": -23, "dongu": true, "sure": 7.5},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -21, "dongu": true, "sure": 8.0}
+     ], "ek_sure": 0.8}
+  ]
+}
