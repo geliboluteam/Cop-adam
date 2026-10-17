@@ -128,16 +128,29 @@ def main():
     n = len(sahneler)
     XF = 0.5  # xfade suresi
 
-    # 1) zaman cizelgesi
+    # 1) zaman cizelgesi (+ otomatik anlatim hizi)
+    giris_ek = 0.9 if plan.get("baslik_karti") else 0.2
+    raw = [sure_al(tam_yol(sa["anlatim"])) for sa in sahneler]
+    ektop = 0.0
+    for i, sa in enumerate(sahneler):
+        ek = sa.get("ek_sure", 0.7)
+        if i == n-1: ek += 1.6
+        ektop += ek
+    overhead = giris_ek + 0.35*(n-1) + ektop - XF*(n-1)
+    hedef = plan.get("hedef_sure", 57.5)
+    hiz = sum(raw) / max(hedef - overhead, 1.0)
+    hiz = max(1.0, min(hiz, plan.get("hiz_max", 1.25)))
+    narr = [r/hiz for r in raw]
+    print(f"Anlatim hizi: x{hiz:.3f} (ham toplam {sum(raw):.1f} sn)")
+
     zamanlama = []
     bas = 0.0
-    giris_ek = 0.9 if plan.get("baslik_karti") else 0.2
     for i, sa in enumerate(sahneler):
-        a_sure = sure_al(tam_yol(sa["anlatim"]))
+        a_sure = narr[i]
         ek = sa.get("ek_sure", 0.7)
         if i == 0: ek += giris_ek
         if i == n-1: ek = sa.get("ek_sure", 0.7) + 1.6
-        sure = giris_ek*0 + a_sure + ek if i > 0 else a_sure + ek
+        sure = a_sure + ek
         anlatim_bas = bas + (giris_ek if i == 0 else 0.35)
         zamanlama.append((bas, anlatim_bas, anlatim_bas + a_sure, bas + sure))
         bas += sure - XF
@@ -155,7 +168,9 @@ def main():
         sahne_bas = zamanlama[i][0]
         ses_girisler += ["-i", tam_yol(sa["anlatim"])]
         d = int(zamanlama[i][1]*1000)
-        ses_filtre.append(f"[{g_idx}:a]aresample=48000,aformat=channel_layouts=stereo,volume=1.0,adelay={d}:all=1[a{g_idx}]")
+        ses_filtre.append(f"[{g_idx}:a]aresample=48000,aformat=channel_layouts=stereo,"
+                          f"atempo={hiz:.4f},volume=1.0,adelay={d}:all=1,"
+                          f"asetpts=N/SR/TB[a{g_idx}]")
         g_idx += 1
         for ef in sa.get("efektler", []):
             ses_girisler += ["-i", tam_yol(ef["dosya"])]
@@ -165,7 +180,7 @@ def main():
                 f += f",aloop=loop=-1:size=2e9,atrim=duration={ef.get('sure',5)}"
             d = int((sahne_bas + ef.get("t", 0))*1000)
             f += f",adelay={d}:all=1"
-            f += f"[a{g_idx}]"
+            f += f",asetpts=N/SR/TB[a{g_idx}]"
             ses_filtre.append(f)
             g_idx += 1
     if plan.get("muzik"):
@@ -174,14 +189,19 @@ def main():
         fade_out = max(toplam-3, 0.1)
         ses_filtre.append(
             f"[{g_idx}:a]aresample=48000,aformat=channel_layouts=stereo,volume={g:.3f},"
-            f"atrim=duration={toplam:.2f},afade=t=in:st=0:d=1.5,afade=t=out:st={fade_out:.2f}:d=2.8,adelay=0:all=1[a{g_idx}]")
+            f"atrim=duration={toplam:.2f},afade=t=in:st=0:d=1.5,afade=t=out:st={fade_out:.2f}:d=2.8,adelay=0:all=1,"
+            f"asetpts=N/SR/TB[a{g_idx}]")
         g_idx += 1
     miksis = "".join(f"[a{i}]" for i in range(g_idx))
-    ses_filtre.append(f"{miksis}amix=inputs={g_idx}:normalize=0:duration=first,"
+    ses_filtre.append(f"{miksis}amix=inputs={g_idx}:normalize=0:duration=longest,"
+                      f"atrim=duration={toplam:.2f},apad=whole_dur={toplam:.2f},"
                       f"alimiter=limit=0.95,loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[amix]")
     ses_cikti = cikti + ".mix.m4a"
     calis([FFMPEG, "-y", *ses_girisler, "-filter_complex", ";".join(ses_filtre),
            "-map", "[amix]", "-c:a", "aac", "-b:a", "192k", ses_cikti])
+    print(f"Miks suresi: {sure_al(ses_cikti):.2f} sn (hedef {toplam:.2f})")
+    if os.environ.get("SADECE_MIX"):
+        print("SADECE_MIX: video asamasi atlandi."); return
 
     # 4) sahne klipleri (Ken Burns)
     klip_yollari = []

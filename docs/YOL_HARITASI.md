@@ -7,7 +7,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 
 | Bölüm | Konu | Yıl/Mekân | Kanca | Durum |
 |---|---|---|---|---|
-| 01 | 1 | 1453, İstanbul | Orduda **izci** olarak fethin tam ortasında | 🟥 |
+| 01 | 1 | 1453, İstanbul | Orduda **izci** olarak fethin tam ortasında | ✅ ÜRETİLDİ (`bolumler/001-1453-fethi-izci/`) |
 | 02 | 2 | 1453, Edirne/surlar | Urban'ın dev Şahi topunun başında topçu | 🟧 |
 | 03 | 3 | 1453, Haliç | Donanmada: gemiler **karadan yürütülürken** veya fırtınada | 🟧 |
 | 04 | 4 | 29 Mayıs 1453 | Son hücumda surlara ilerleyen er / **surlarda Bizans nöbetçisi** (iki taraf, tek video alternatifi) | 🟧 |
