@@ -120,8 +120,9 @@ def kapak_yap(no, ayar):
 
 
 def onizleme(ciktilar):
-    """3×2 kontak sayfası: kapaklar/thumbnail/ONIZLEME.png"""
-    kol, satir, tw, th, bosluk, etiket_h = 3, 2, 416, 234, 12, 36
+    """3 sütunlu dinamik kontak sayfası: kapaklar/thumbnail/ONIZLEME.png"""
+    kol, tw, th, bosluk, etiket_h = 3, 416, 234, 12, 36
+    satir = (len(ciktilar) + kol - 1) // kol
     sayfa_w = kol * tw + (kol + 1) * bosluk
     sayfa_h = satir * (th + etiket_h) + (satir + 1) * bosluk
     sayfa = Image.new("RGB", (sayfa_w, sayfa_h), (18, 18, 22))
