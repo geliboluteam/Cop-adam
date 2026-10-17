@@ -1,10 +1,12 @@
 # ÇÖP ADAM — "Eğer Orada Olsaydım" Tarih Serisi
 
-Kırmızı fularlı, beyaz insansı Çöp Adam karakterinin tarihin en büyük anlarının
-**tam ortasına** düştüğü YouTube Shorts serisinin üretim deposu.
+Karakterimiz **MERAKLI**: kırmızı fularlı, burunlu-ağızlı, beyaz insansı çöp
+adam. Tarihin en büyük anlarının **tam ortasına** düşer — YouTube Shorts
+serisinin üretim deposu.
 
-> Karakter hiç değişmez: hep aynı beyaz çöp adam, boynunda hep aynı kırmızı
-> fular. Değişen tek şey kıyafetleri ve içinde bulunduğu tarihtir.
+> Karakter hiç değişmez: hep aynı beyaz çöp adam (nokta gözler, küçük burun,
+> ifadeli ağız), boynunda hep aynı kırmızı fular. Değişen tek şey kıyafetleri
+> ve içinde bulunduğu tarihtir.
 
 ## Depo Yapısı
 

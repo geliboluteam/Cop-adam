@@ -1,45 +1,41 @@
-# BÖLÜM 01 SENARYOSI — "EĞER 1453'TE OLSAYDIM: FETİH ORDUSUNDA İZCİ"
+# BÖLÜM 01 SENARYOSU (v2) — "EĞER 1453'TE OLSAYDIM: MERAKLI, Fetih Ordusunda İzci"
 
-Süre hedefi: ~56 sn · Format: 1080x1920, 30 fps · Ses: seçilecek anlatıcı (TR)
+Karakter: **Meraklı** (burun + ağız eklenmiş güncel tasarım) · Süre hedefi: ~57 sn
+Format: 1080x1920, 30 fps · **10 sahne / 10 görsel** · Ses: voice-02 (TR)
 
-## Yapı
+## Sahne Tablosu
 
-| Sahne | Süre ~ | Anlatıcı metni | Ekranda | Efektler |
+| # | Süre ~ | Anlatıcı metni | Görsel | Efektler |
 |---|---|---|---|---|
-| 1 Kanca | 0–9 sn | Yıl 1453, Nisan. Ben Çöp Adam; boynumda kırmızı fularım, sırtımda yayım. Fatih Sultan Mehmed'in ordusundayım... bir izci olarak. | Başlık kartı: "EĞER 1453'TE OLSAYDIM" + "FETİH ORDUSUNDA İZCİ" | gece kampı: ateş loop + cırcır + rüzgâr; whoosh ile giriş |
-| 2 Toplar | 9–19 sn | Karargâhta Macar ustası Urban'ın döktüğü Şahi topu gök gibi gürlüyor. Üç yüz yirmi kiloluk gülleler, bin yıllık surları sarsıyor. | Altyazı | top ateşi (2 atış) + patlama + çöküş katmanı; müzik girer (-22 dB) |
-| 3 Gece izcilik | 19–30 sn | Görevim geceleri surlara sokulmak: nöbetleri, kapıları, gedikleri saymak. Kalbim göğsüme sığınmıyor... Ama karanlık, izcinin dostudur. | Altyazı | cırcır + rüzgâr esintisi + çimde adımlar; uzakta yay/ok vızıltısı |
-| 4 Gemiler karadan | 30–41 sn | Ve bir gece... gözlerime inanamadım: gemiler karadan yürüyor! Yağlı kızaklarla tepeleri aşan donanma, şafakta Haliç'e iniyor. | Altyazı + "21-22 NİSAN" alt bandı | kızak gıcırtısı hissi (gemi çanı + dalgalar + rüzgâr); kalabalık uğultusu yok — sessiz operasyon vurgusu |
-| 5 Son hücum | 41–50 sn | 29 Mayıs sabahı son hücum! Davullar gök gürültüsü gibi... dalga dalga tırmanış. Ve efsaneye göre, biri sancağı surlara dikiyor. | Altyazı + "29 MAYIS" alt bandı | savaş davulu (modern analoji) + top + patlama + ok yağmuru; efektler öne çıkar |
-| 6 Kapanış | 50–57 sn | Öğlene doğru surlar aşıldı; bir çağ kapandı, yeni bir çağ açıldı. Ben, kırmızı fularlı izci, tam ortasındaydım. Sıradaki durak? Yorumlara yaz! | Kapanış kartı: "SIRADA NERE? 👇" | dalgalar + gündüz kuş sesi; müzik finali; whoosh çıkış |
+| 1 | 0–9 | "Yıl 1453. Adım Meraklı: boynumda kırmızı fularım, sırtımda yayım. Fatih'in ordusundayım." | Alacakaranlıkta tepe üzerinde Meraklı, arkada kamp + surlar | whoosh + kamp ateşi + cırcır + rüzgâr |
+| 2 | 9–15 | "6 Nisan'da kuşatma başladı; sancaklar gibi ben de surlara doğru yürüdüm." | Sancaklı ordu sütunu yürüyor, Meraklı içinde | rüzgâr + uzak davul (analoji) + çim adımları · bant: 6 NİSAN 1453 |
+| 3 | 15–22 | "Karargâhta Urban Usta'nın döktüğü Şahi topu; kocaman namlusu iki adam boyunda." | Şahi topunun yanında şaşkın Meraklı (ağız açık) | ateş + metal darp + rüzgâr |
+| 4 | 22–30 | "Ateşleme anında dünya gürlüyor! Üç yüz yirmi kiloluk gülle bin yıllık surlara çarpıyor." | Top ateşleniyor, Meraklı kulaklarını kapatmış, gülle havada | top ×2 katman + patlama + taş çöküşü |
+| 5 | 30–37 | "Görevim geceleri surlara sokulmak: nöbetleri, kapıları, gedikleri saymak." | Gece surların dibinde çömelmiş Meraklı | cırcır + esinti + adım + uzak yay/ok |
+| 6 | 37–44 | "Bir meşale yaklaştı... Nefesimi tuttum; kalbim gök gürültüsü gibi çarpıyordu." | Nöbetçi meşalesi üstünde, taşlara yapışmış Meraklı | **korkulu nefes** (gerçek kayıt) + cırcır + esinti |
+| 7 | 44–50 | "Ve bir gece gözlerime inanamadım: gemiler karadan yürüyor!" | Kızaklarda gemi, halat çeken Meraklı · bant: 21-22 NİSAN 1453 | dalgalar + rüzgâr + metal sesleri |
+| 8 | 50–56 | "Şafakta donanma Haliç'e indi; karşı kıyıda Bizanslılar donakalmıştı." | Haliç'e inen gemiler, gülümseyen Meraklı, karşıda şaşkın Bizanslılar | kıyı dalgası + gemi çanı + gündüz ortamı |
+| 9 | 56–66 | "29 Mayıs sabahı son hücum! Davullar, oklar, merdivenler... Ve efsaneye göre, biri sancağı surlara dikiyor." | Gedik, merdivenler, sancak, ok yağmuru, koşan Meraklı · bant: 29 MAYIS 1453 | savaş davulu (analoji) + top + oklar + patlama + çöküş |
+| 10 | 66–75 | "Öğlene doğru surlar aşıldı. Ben Meraklı, tam ortasındaydım. Sıradaki durak? Yorumlara yaz!" | Zafer sonrası; kameraya dönen Meraklı, sancak surlarda | whoosh + dalgalar + gündüz kuş sesi |
 
-## Seslandırma metni (tek parça, sahne sahne kaydedilecek)
+(Süreler sıkıştırma+x1,25 hız sonrası gerçek zamanlama için yaklaşıktır;
+betik otomatik kalibre eder. Toplam ~57 sn.)
 
-1. "Yıl 1453, Nisan. Ben Çöp Adam; boynumda kırmızı fularım, sırtımda yayım. Fatih Sultan Mehmed'in ordusundayım... bir izci olarak."
-2. "Karargâhta Macar ustası Urban'ın döktüğü Şahi topu gök gibi gürlüyor. Üç yüz yirmi kiloluk gülleler, bin yıllık surları sarsıyor."
-3. "Görevim geceleri surlara sokulmak: nöbetleri, kapıları, gedikleri saymak. Kalbim göğsüme sığınmıyor... Ama karanlık, izcinin dostudur."
-4. "Ve bir gece... gözlerime inanamadım: gemiler karadan yürüyor! Yağlı kızaklarla tepeleri aşan donanma, şafakta Haliç'e iniyor."
-5. "29 Mayıs sabahı son hücum! Davullar gök gürültüsü gibi... dalga dalga tırmanış. Ve efsaneye göre, biri sancağı surlara dikiyor."
-6. "Öğlene doğru surlar aşıldı; bir çağ kapandı, yeni bir çağ açıldı. Ben, kırmızı fularlı izci, tam ortasındaydım. Sıradaki durak? Yorumlara yaz!"
+## Seslendirme Metinleri (s01–s10)
 
-## Görsel plan (9:16, karakter referansı ile üretilecek)
+1. "Yıl 1453. Adım Meraklı: boynumda kırmızı fularım, sırtımda yayım. Fatih'in ordusundayım."
+2. "6 Nisan'da kuşatma başladı; sancaklar gibi ben de surlara doğru yürüdüm."
+3. "Karargâhta Urban Usta'nın döktüğü Şahi topu; kocaman namlusu iki adam boyunda."
+4. "Ateşleme anında dünya gürlüyor! Üç yüz yirmi kiloluk gülle bin yıllık surlara çarpıyor."
+5. "Görevim geceleri surlara sokulmak: nöbetleri, kapıları, gedikleri saymak."
+6. "Bir meşale yaklaştı... Nefesimi tuttum; kalbim gök gürültüsü gibi çarpıyordu."
+7. "Ve bir gece gözlerime inanamadım: gemiler karadan yürüyor!"
+8. "Şafakta donanma Haliç'e indi; karşı kıyıda Bizanslılar donakalmıştı."
+9. "29 Mayıs sabahı son hücum! Davullar, oklar, merdivenler... Ve efsaneye göre, biri sancağı surlara dikiyor."
+10. "Öğlene doğru surlar aşıldı. Ben Meraklı, tam ortasındaydım. Sıradaki durak? Yorumlara yaz!"
 
-1. **Kanca:** alacakaranlıkta Osmanlı kampı; Çöp Adam tepe üzerinde, sırtında
-   yay, fular rüzgârda; arka planda çadırlar, ateşler, uzakta İstanbul surları.
-2. **Toplar:** dev Şahi topu ateşlenirken; Çöp Adam kulaklarını kapatmış
-   halde topun yanında; duman, gülle havada.
-3. **Gece izcilik:** ay ışığında surların dibinde çömelmiş Çöp Adam; meşale
-   ışığı, nöbetçi gölgeleri duvar üzerinde.
-4. **Gemiler karadan:** yağlanmış kızaklar üstünde yelkenli gemi, öküz/asker
-   çekiyor; Çop Adam halat çekiyor; şafak Haliç'te.
-5. **Son hücum:** sabah ışığında merdivenler, sancak, ok yağmuru; Çöp Adam
-   kalabalıkta ilerliyor, fular gergin.
-6. **Kapanış:** Fetih sonrası — sancak surlarda, güvercinler/martılar; Çöp
-   Adam kameraya dönmüş, fular dalgalanıyor; "SIRADA NERE?" hissi.
+## Dürüst Tarih İşaretleri
 
-## Kurgu teknik notları
-
-- Her sahneye Ken Burns (zoom 1.00→1.12 + hafif pan), sahneler arası 0,5 sn
-  xfade; efekt katmanlı müzik -22 dB, anlatıcı önde.
-- Altyazılar Montserrat ExtraBold, alt-orta, kelime grupları 2 satırı geçmez.
-- Giriş kartı 0-2,5 sn "EĞER 1453'TE OLSAYDIM" yazısı + kırmızı fular vurgusu.
+- Sancak anlatısı: **"efsaneye göre"** (Ulubatlı Hasan çağdaş kaynaklarda yok).
+- Top ve davul sesleri: modern analoji (açıklamada künyeli).
+- Tarih bantları: 6 NİSAN / 21-22 NİSAN / 29 MAYIS 1453.

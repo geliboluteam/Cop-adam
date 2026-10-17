@@ -18,6 +18,7 @@ künyesini ve genel arşiv envanterini tutar.
 | Gece kamp ateşi (loop) | `sfx/free-sfx/PagDev/fire_loop.opus` | PagDev | CC0 | https://opengameart.org/content/fireplace-sound-loop |
 | Ateş çıtırtısı (katman) | `sfx/0ad/attack/fire/c_11.ogg` | 0 A.D. (Wildfire Games) | CC-BY-SA 3.0 | https://github.com/0ad/0ad |
 | Gece cırcır böcekleri | `sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
+| Korkulu nefes (meşale sahnesi) | `sfx/free-sfx/Owlish/Sound Effects Pack/Human/scared-breathing.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
 | Rüzgâr (katman) | `sfx/0ad/ambient/weather/wind_11.ogg` | 0 A.D. (Wildfire Games) | CC-BY-SA 3.0 | https://github.com/0ad/0ad |
 | Rüzgâr esintisi (katman) | `sfx/0ad/ambient/weather/windgust_11.ogg` | 0 A.D. (Wildfire Games) | CC-BY-SA 3.0 | https://github.com/0ad/0ad |
 | İzci adımları (çim) | `sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |

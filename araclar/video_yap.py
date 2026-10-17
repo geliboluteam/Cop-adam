@@ -1,27 +1,19 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Çöp Adam serisi video üretim hattı.
+Çöp Adam / MERAKLI serisi video üretim hattı.
 Kullanım: python3 araclar/video_yap.py <plan.json> <cikti.mp4>
 
-plan.json biçimi:
-{
-  "baslik_karti": {"yazi1": "EĞER 1453'TE OLSAYDIM", "yazi2": "FETİH ORDUSUNDA İZCİ"},
-  "kapanis_karti": {"yazi": "SIRADA NERE?", "alt": "YORUMLARA YAZ"},
-  "muzik": {"dosya": "sfx/0ad/music/The_Hellespont.ogg", "kazanc_db": -22},
-  "sahneler": [
-    {
-      "gorsel": "bolumler/001-.../gorseller/s1.png",
-      "anlatim": "bolumler/001-.../ses/s1.mp3",
-      "metin": "alt yazı metni (opsiyonel, anlatımdan farklıysa)",
-      "tarih_bandi": "21-22 NİSAN 1453",
-      "efektler": [
-        {"dosya": "sfx/.../fire_loop.opus", "t": 0.0, "kazanc_db": -16, "dongu": true, "sure": 9.0}
-      ],
-      "ek_sure": 0.6
-    }, ...
-  ]
-}
+Akış:
+ 0) Anlatım: TTS sessizlik sıkıştırma (baş/orta/son duraklar) + otomatik atempo
+ 1) Zaman çizelgesi (xfade örtüşmeli)
+ 2) ASS altyazı üretimi
+ 3) Ses miks (efekt + müzik + anlatı; loudnorm -14 LUFS)
+ 4) Sahne klipleri: Ken Burns pan/zoom (1080x1920@30)
+ 5) xfade zinciri + vinyet + film greni + altyazı
+ 6) Birleştirme (MP4, faststart)
+
+plan.json alanları için bkz. README / mevcut plan dosyaları.
 """
 import json, os, re, subprocess, sys, math
 
@@ -47,51 +39,25 @@ def sure_al(dosya):
 def tam_yol(p):
     return p if os.path.isabs(p) else os.path.join(KOK, p)
 
+def narr_isle(kaynak, cikti, hiz):
+    """TTS durak sıkıştırma + opsiyonel atempo + timestamp temizliği."""
+    fc = ("aresample=48000,aformat=channel_layouts=stereo,"
+          "silenceremove=start_periods=1:start_threshold=-45dB:start_silence=0.12,"
+          "silenceremove=stop_periods=-1:stop_duration=0.42:stop_threshold=-42dB,"
+          "areverse,silenceremove=start_periods=1:start_threshold=-45dB:start_silence=0.18,areverse")
+    if abs(hiz - 1.0) > 1e-3:
+        fc += f",atempo={hiz:.4f}"
+    fc += ",asetpts=N/SR/TB"
+    calis([FFMPEG, "-y", "-i", kaynak, "-af", fc, "-c:a", "pcm_s16le", cikti])
+
 def ass_zaman(t):
     h = int(t//3600); m = int((t%3600)//60); s = t%60
     return f"{h}:{m:02d}:{s:05.2f}"
-
-def ass_olustur(plan, zamanlama, yol):
-    # zamanlama: her sahne icin (bas, anlatim_bas, anlatim_son, son)
-    satirlar = []
-    sahneler = plan["sahneler"]
-    for i, sa in enumerate(sahneler):
-        bas, nb, ns, son = zamanlama[i]
-        metin = sa.get("metin") or sa.get("anlatim_metin", "")
-        if not metin:
-            continue
-        # metni <=2 satirlik parcalara bol
-        parcalar = parcala(metin)
-        toplam_harf = sum(len(p) for p in parcalar)
-        t = nb
-        for p in parcalar:
-            oran = len(p)/max(toplam_harf,1)
-            p_son = min(t + (ns-nb)*oran + 0.15, son)
-            satirlar.append(f"Dialogue: 0,{ass_zaman(t)},{ass_zaman(p_son)},Caption,,0,0,0,,{p}")
-            t = p_son - 0.15
-        if sa.get("tarih_bandi"):
-            satirlar.append(f"Dialogue: 1,{ass_zaman(bas+0.3)},{ass_zaman(son)},TarihBandi,,0,0,0,,{sa['tarih_bandi']}")
-    # baslik karti
-    bk = plan.get("baslik_karti")
-    if bk:
-        b0, s0 = zamanlama[0][0], zamanlama[0][0]+2.6
-        satirlar.append(f"Dialogue: 2,{ass_zaman(b0)},{ass_zaman(s0)},BaslikKart,,0,0,0,,{bk.get('yazi1','')}")
-        satirlar.append(f"Dialogue: 3,{ass_zaman(b0+0.25)},{ass_zaman(s0)},BaslikKart2,,0,0,0,,{bk.get('yazi2','')}")
-    # kapanis karti
-    kk = plan.get("kapanis_karti")
-    if kk:
-        kb, ks = zamanlama[-1][2], zamanlama[-1][3]+0.6
-        satirlar.append(f"Dialogue: 4,{ass_zaman(kb+0.15)},{ass_zaman(ks)},Kapanis,,0,0,0,,{kk.get('yazi','')}")
-        satirlar.append(f"Dialogue: 4,{ass_zaman(kb+0.45)},{ass_zaman(ks)},KapanisAlt,,0,0,0,,{kk.get('alt','')}")
-    icerik = ASS_SABLON + "\n".join(satirlar) + "\n"
-    with open(yol, "w", encoding="utf-8") as f:
-        f.write(icerik)
 
 def parcala(metin):
     metin = metin.strip()
     if len(metin) <= 46:
         return [metin]
-    # noktalama veya ortadan ikiye
     for ayir in ["... ", ". ", "! ", "? ", ", "]:
         idx = metin.find(ayir, 20)
         if 20 < idx < len(metin)-20:
@@ -119,6 +85,37 @@ Style: KapanisAlt,Montserrat ExtraBold,46,&H00D94F45,&H000000FF,&H00202020,&H960
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
 
+def ass_olustur(plan, zamanlama, yol):
+    satirlar = []
+    sahneler = plan["sahneler"]
+    for i, sa in enumerate(sahneler):
+        bas, nb, ns, son = zamanlama[i]
+        metin = sa.get("anlatim_metin", "")
+        if not metin:
+            continue
+        parcalar = parcala(metin)
+        toplam_harf = sum(len(p) for p in parcalar)
+        t = nb
+        for p in parcalar:
+            oran = len(p)/max(toplam_harf,1)
+            p_son = min(t + (ns-nb)*oran + 0.15, son)
+            satirlar.append(f"Dialogue: 0,{ass_zaman(t)},{ass_zaman(p_son)},Caption,,0,0,0,,{p}")
+            t = p_son - 0.15
+        if sa.get("tarih_bandi"):
+            satirlar.append(f"Dialogue: 1,{ass_zaman(bas+0.3)},{ass_zaman(son)},TarihBandi,,0,0,0,,{sa['tarih_bandi']}")
+    bk = plan.get("baslik_karti")
+    if bk:
+        b0, s0 = zamanlama[0][0], zamanlama[0][0]+2.6
+        satirlar.append(f"Dialogue: 2,{ass_zaman(b0)},{ass_zaman(s0)},BaslikKart,,0,0,0,,{bk.get('yazi1','')}")
+        satirlar.append(f"Dialogue: 3,{ass_zaman(b0+0.25)},{ass_zaman(s0)},BaslikKart2,,0,0,0,,{bk.get('yazi2','')}")
+    kk = plan.get("kapanis_karti")
+    if kk:
+        kb, ks = zamanlama[-1][2], zamanlama[-1][3]+0.6
+        satirlar.append(f"Dialogue: 4,{ass_zaman(kb+0.15)},{ass_zaman(ks)},Kapanis,,0,0,0,,{kk.get('yazi','')}")
+        satirlar.append(f"Dialogue: 4,{ass_zaman(kb+0.45)},{ass_zaman(ks)},KapanisAlt,,0,0,0,,{kk.get('alt','')}")
+    with open(yol, "w", encoding="utf-8") as f:
+        f.write(ASS_SABLON + "\n".join(satirlar) + "\n")
+
 def main():
     plan_yolu = sys.argv[1]
     cikti = sys.argv[2]
@@ -126,51 +123,69 @@ def main():
         plan = json.load(f)
     sahneler = plan["sahneler"]
     n = len(sahneler)
-    XF = 0.5  # xfade suresi
-
-    # 1) zaman cizelgesi (+ otomatik anlatim hizi)
+    XF = 0.5
     giris_ek = 0.9 if plan.get("baslik_karti") else 0.2
-    raw = [sure_al(tam_yol(sa["anlatim"])) for sa in sahneler]
+
+    # ek sureler
     ektop = 0.0
     for i, sa in enumerate(sahneler):
-        ek = sa.get("ek_sure", 0.7)
+        ek = sa.get("ek_sure", 0.4)
         if i == n-1: ek += 1.6
         ektop += ek
     overhead = giris_ek + 0.35*(n-1) + ektop - XF*(n-1)
     hedef = plan.get("hedef_sure", 57.5)
-    hiz = sum(raw) / max(hedef - overhead, 1.0)
-    hiz = max(1.0, min(hiz, plan.get("hiz_max", 1.25)))
-    narr = [r/hiz for r in raw]
-    print(f"Anlatim hizi: x{hiz:.3f} (ham toplam {sum(raw):.1f} sn)")
+    hiz_cap = plan.get("hiz_max", 1.25)
 
+    # --- Anlatim isleme: pass A (sessizlik sikistirma, hiz=1) ---
+    gecA = [f"{cikti}.nA{i}.wav" for i in range(n)]
+    for i, sa in enumerate(sahneler):
+        narr_isle(tam_yol(sa["anlatim"]), gecA[i], 1.0)
+    dA = [sure_al(g) for g in gecA]
+    ham = sum(sure_al(tam_yol(sa["anlatim"])) for sa in sahneler)
+    hiz = sum(dA) / max(hedef - overhead, 1.0)
+    hiz = max(1.0, min(hiz, hiz_cap))
+    print(f"Ham anlatim: {ham:.1f} sn | sıkıştırılmış: {sum(dA):.1f} sn | hız: x{hiz:.3f} (cap {hiz_cap})")
+
+    # --- pass B (nihai hız) ---
+    narr_dosya = [f"{cikti}.n{i}.wav" for i in range(n)]
+    for i, sa in enumerate(sahneler):
+        if abs(hiz-1.0) > 1e-3:
+            narr_isle(tam_yol(sa["anlatim"]), narr_dosya[i], hiz)
+        else:
+            os.replace(gecA[i], narr_dosya[i])
+    narr = [sure_al(g) for g in narr_dosya]
+    for g in gecA:
+        if os.path.exists(g): os.remove(g)
+
+    # --- zaman cizelgesi ---
     zamanlama = []
     bas = 0.0
     for i, sa in enumerate(sahneler):
         a_sure = narr[i]
-        ek = sa.get("ek_sure", 0.7)
+        ek = sa.get("ek_sure", 0.4)
         if i == 0: ek += giris_ek
-        if i == n-1: ek = sa.get("ek_sure", 0.7) + 1.6
+        if i == n-1: ek = sa.get("ek_sure", 0.4) + 1.6
         sure = a_sure + ek
         anlatim_bas = bas + (giris_ek if i == 0 else 0.35)
         zamanlama.append((bas, anlatim_bas, anlatim_bas + a_sure, bas + sure))
         bas += sure - XF
     toplam = zamanlama[-1][3]
     print(f"Toplam sure: {toplam:.1f} sn")
+    if toplam > 59.5:
+        print(f"UYARI: {toplam:.1f} sn > 59.5 sn! ek_sure/hedef_sure ayarlayın.")
 
-    # 2) ASS
+    # --- ASS ---
     ass_yolu = cikti + ".ass"
     ass_olustur(plan, zamanlama, ass_yolu)
 
-    # 3) ses miks
+    # --- ses miks ---
     ses_girisler, ses_filtre = [], []
     g_idx = 0
     for i, sa in enumerate(sahneler):
         sahne_bas = zamanlama[i][0]
-        ses_girisler += ["-i", tam_yol(sa["anlatim"])]
+        ses_girisler += ["-i", narr_dosya[i]]
         d = int(zamanlama[i][1]*1000)
-        ses_filtre.append(f"[{g_idx}:a]aresample=48000,aformat=channel_layouts=stereo,"
-                          f"atempo={hiz:.4f},volume=1.0,adelay={d}:all=1,"
-                          f"asetpts=N/SR/TB[a{g_idx}]")
+        ses_filtre.append(f"[{g_idx}:a]volume=1.0,adelay={d}:all=1,asetpts=N/SR/TB[a{g_idx}]")
         g_idx += 1
         for ef in sa.get("efektler", []):
             ses_girisler += ["-i", tam_yol(ef["dosya"])]
@@ -179,8 +194,7 @@ def main():
             if ef.get("dongu"):
                 f += f",aloop=loop=-1:size=2e9,atrim=duration={ef.get('sure',5)}"
             d = int((sahne_bas + ef.get("t", 0))*1000)
-            f += f",adelay={d}:all=1"
-            f += f",asetpts=N/SR/TB[a{g_idx}]"
+            f += f",adelay={d}:all=1,asetpts=N/SR/TB[a{g_idx}]"
             ses_filtre.append(f)
             g_idx += 1
     if plan.get("muzik"):
@@ -200,10 +214,12 @@ def main():
     calis([FFMPEG, "-y", *ses_girisler, "-filter_complex", ";".join(ses_filtre),
            "-map", "[amix]", "-c:a", "aac", "-b:a", "192k", ses_cikti])
     print(f"Miks suresi: {sure_al(ses_cikti):.2f} sn (hedef {toplam:.2f})")
+    for g in narr_dosya:
+        os.remove(g)
     if os.environ.get("SADECE_MIX"):
         print("SADECE_MIX: video asamasi atlandi."); return
 
-    # 4) sahne klipleri (Ken Burns)
+    # --- sahne klipleri (Ken Burns) ---
     klip_yollari = []
     for i, sa in enumerate(sahneler):
         s_bas, _, _, s_son = zamanlama[i]
@@ -211,12 +227,10 @@ def main():
         klip = f"{cikti}.s{i}.mp4"
         klip_yollari.append((klip, d))
         kareler = max(int(d*30), 12)
-        zoom_in = (i % 2 == 0)
-        if zoom_in:
+        if i % 2 == 0:
             z = f"1+{0.11:.4f}*on/{kareler}"
         else:
             z = f"1.11-{0.11:.4f}*on/{kareler}"
-        # hafif yatay pan (sagdan sola / soldan saga sirayla)
         px = 40 if (i % 3 == 0) else -40
         filtre = (
             f"[0:v]scale=2160:3840:force_original_aspect_ratio=increase,crop=2160:3840,"
@@ -228,7 +242,7 @@ def main():
                "-t", f"{d:.3f}", "-r", "30", "-c:v", "libx264", "-preset", "medium",
                "-crf", "18", "-pix_fmt", "yuv420p", klip])
 
-    # 5) xfade zinciri + altyazi + vinyet
+    # --- xfade + vinyet + altyazi ---
     girisler = []
     for klip, _ in klip_yollari:
         girisler += ["-i", klip]
@@ -250,12 +264,11 @@ def main():
            "-map", "[vf]", "-r", "30", "-c:v", "libx264", "-preset", "medium",
            "-crf", "20", "-pix_fmt", "yuv420p", gecici])
 
-    # 6) birlestir
+    # --- birlestir ---
     calis([FFMPEG, "-y", "-i", gecici, "-i", ses_cikti,
            "-map", "0:v", "-map", "1:a", "-c:v", "copy", "-c:a", "copy",
            "-movflags", "+faststart", cikti])
 
-    # temizlik
     for klip, _ in klip_yollari:
         os.remove(klip)
     os.remove(gecici); os.remove(ses_cikti)

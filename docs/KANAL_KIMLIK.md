@@ -16,6 +16,7 @@ korkar, hayatta kalmaya çalışır. Anlatım hep **birinci ağızdan**dır.
 | Altyazı | Ekran içi, büyük punto, kelime kelime okunabilir |
 | Ses | Anlatıcı önde (-14 LUFS hedefi), efektler anlatımı ezmez |
 | Kapanış sorusu | "Sıradaki durak neresi? Yorumlara yaz!" (etkileşim) |
+| Sahne sayısı | Bölüm başına en az 10 ayrı görsel/sahne |
 
 ## Seri Adı Önerileri (kanal sahibi seçebilir)
 
