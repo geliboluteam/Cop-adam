@@ -17,9 +17,73 @@ plan.json alanları için bkz. README / mevcut plan dosyaları.
 """
 import json, os, re, subprocess, sys, math
 
+from PIL import ImageFont
+
 KOK = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FFMPEG = os.path.join(KOK, "araclar", "bin", "ffmpeg")
 FONTS = os.path.join(KOK, "araclar", "fonts")
+F_KART_TTF = os.path.join(FONTS, "Montserrat-ExtraBold.ttf")
+
+
+def kart_olc(metin, boyut, maxw):
+    """Kart satırı için (fs, satirlar, yukseklik) döndürür.
+
+    Taşma yoksa tek satır; taşıyorsa kelime sarma; yine sığmazsa punto
+    küçültme. Yükseklik = satır sayısı × (ascent+descent). Böylece kart
+    yazıları HİÇBİR KOŞULDA üst üste binmez (2026-10-17 kullanıcı kuralı).
+    """
+    def olc(fs, m):
+        f = ImageFont.truetype(F_KART_TTF, fs)
+        asc, desc = f.getmetrics()
+        w = f.getbbox(m)[2] - f.getbbox(m)[0]
+        return w, asc + desc
+
+    if not metin:
+        return boyut, [""], 0
+    w, h = olc(boyut, metin)
+    if w <= maxw:
+        return boyut, [metin], h
+    kelimeler = metin.split()
+    for fs in range(boyut, 29, -2):
+        f = ImageFont.truetype(F_KART_TTF, fs)
+        asc, desc = f.getmetrics()
+        satirlar, cur = [], ""
+        for k in kelimeler:
+            deneme = (cur + " " + k).strip()
+            if f.getbbox(deneme)[2] <= maxw or not cur:
+                cur = deneme
+            else:
+                satirlar.append(cur)
+                cur = k
+        if cur:
+            satirlar.append(cur)
+        if len(satirlar) <= 3 and all(f.getbbox(s)[2] - f.getbbox(s)[0] <= maxw for s in satirlar):
+            return fs, satirlar, (asc + desc) * len(satirlar)
+    return 30, [metin], olc(30, metin)[1]
+
+
+def kart_yerlesim(metin1, metin2, fs1, fs2, W, H, cy):
+    """İki kart satırını grup halinde cy merkezine AYRI AYRI istifler.
+
+    Dönüş: (override1, metin1', override2, metin2') — ASS \\pos/\\fs dahil.
+    Boş metin gelirse ilgili satır atlanır (None döner).
+    """
+    fs1b, s1, h1 = kart_olc(metin1, fs1, W * 0.88)
+    fs2b, s2, h2 = kart_olc(metin2, fs2, W * 0.88)
+    gap = 0.045 * H
+    if not metin2:
+        o1 = f"{{\\an5\\pos({W // 2},{round(cy)})" + (f"\\fs{fs1b}" if fs1b != fs1 else "") + "}"
+        return o1, "\\N".join(s1), None, None
+    if not metin1:
+        o2 = f"{{\\an5\\pos({W // 2},{round(cy)})" + (f"\\fs{fs2b}" if fs2b != fs2 else "") + "}"
+        return None, None, o2, "\\N".join(s2)
+    toplam = h1 + gap + h2
+    y1 = cy - toplam / 2 + h1 / 2
+    y2 = cy + toplam / 2 - h2 / 2
+    o1 = f"{{\\an5\\pos({W // 2},{round(y1)})" + (f"\\fs{fs1b}" if fs1b != fs1 else "") + "}"
+    o2 = f"{{\\an5\\pos({W // 2},{round(y2)})" + (f"\\fs{fs2b}" if fs2b != fs2 else "") + "}"
+    return o1, "\\N".join(s1), o2, "\\N".join(s2)
+
 
 def calis(cmd):
     r = subprocess.run(cmd, capture_output=True, text=True)
@@ -119,13 +183,25 @@ def ass_olustur(plan, zamanlama, yol, dikey=True):
     bk = plan.get("baslik_karti")
     if bk:
         b0, s0 = zamanlama[0][0], zamanlama[0][0]+2.6
-        satirlar.append(f"Dialogue: 2,{ass_zaman(b0)},{ass_zaman(s0)},BaslikKart,,0,0,0,,{bk.get('yazi1','')}")
-        satirlar.append(f"Dialogue: 3,{ass_zaman(b0+0.25)},{ass_zaman(s0)},BaslikKart2,,0,0,0,,{bk.get('yazi2','')}")
+        W, H = (1080, 1920) if dikey else (1920, 1080)
+        o1, m1, o2, m2 = kart_yerlesim(bk.get("yazi1", ""), bk.get("yazi2", ""),
+                                        104 if dikey else 88, 54 if dikey else 46,
+                                        W, H, H * 0.46)
+        if o1:
+            satirlar.append(f"Dialogue: 2,{ass_zaman(b0)},{ass_zaman(s0)},BaslikKart,,0,0,0,,{o1}{m1}")
+        if o2:
+            satirlar.append(f"Dialogue: 3,{ass_zaman(b0+0.25)},{ass_zaman(s0)},BaslikKart2,,0,0,0,,{o2}{m2}")
     kk = plan.get("kapanis_karti")
     if kk:
         kb, ks = zamanlama[-1][2], zamanlama[-1][3]+0.6
-        satirlar.append(f"Dialogue: 4,{ass_zaman(kb+0.15)},{ass_zaman(ks)},Kapanis,,0,0,0,,{kk.get('yazi','')}")
-        satirlar.append(f"Dialogue: 4,{ass_zaman(kb+0.45)},{ass_zaman(ks)},KapanisAlt,,0,0,0,,{kk.get('alt','')}")
+        W, H = (1080, 1920) if dikey else (1920, 1080)
+        o1, m1, o2, m2 = kart_yerlesim(kk.get("yazi", ""), kk.get("alt", ""),
+                                        84 if dikey else 70, 46 if dikey else 38,
+                                        W, H, H * 0.46)
+        if o1:
+            satirlar.append(f"Dialogue: 4,{ass_zaman(kb+0.15)},{ass_zaman(ks)},Kapanis,,0,0,0,,{o1}{m1}")
+        if o2:
+            satirlar.append(f"Dialogue: 4,{ass_zaman(kb+0.45)},{ass_zaman(ks)},KapanisAlt,,0,0,0,,{o2}{m2}")
     with open(yol, "w", encoding="utf-8") as f:
         f.write(ass_sablon(dikey) + "\n".join(satirlar) + "\n")
 
