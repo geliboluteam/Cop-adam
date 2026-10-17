@@ -9,7 +9,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 |---|---|---|---|---|
 | 01 | 1 | 1453, İstanbul | Orduda **izci** olarak fethin tam ortasında | ✅ v2 FINAL: `merakli-bolum-001-1453-izci.mp4` (56,9 sn, 10 sahne) + kapak |
 | 02 | 2 | 1453, Edirne/surlar | Urban'ın dev Şahi topunun başında topçu | ✅ ÜRETİLDİ (`bolumler/002-1453-sahi-topcusu/`, 54,5 sn) + kapak |
-| 03 | 3 | 1453, Haliç | Donanmada: gemiler **karadan yürütülürken** veya fırtınada | 🟧 |
+| 03 | 3 | 1453, Haliç | Donanmada: gemiler **karadan yürütülürken** veya fırtınada | ✅ ÜRETİLDİ (`bolumler/003-1453-donanmada-denci/`, 54,5 sn) + kapak |
 | 04 | 4 | 29 Mayıs 1453 | Son hücumda surlara ilerleyen er / **surlarda Bizans nöbetçisi** (iki taraf, tek video alternatifi) | 🟧 |
 | 05 | 5 | 1071, Malazgirt | Alparslan'ın ordusunda **haberci** | 🟧 |
 

@@ -52,6 +52,22 @@ künyesini ve genel arşiv envanterini tutar.
 | Tokmak/darbe sesleri | `sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1-2.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
 | Top ateşi / patlama / metal / ateş / rüzgâr / dalgalar / müzik | (Bölüm 01 ile aynı dosyalar) | bkz. Bölüm 01 tablosu | CC0/CC-BY/CC-BY-SA | bkz. yukarı |
 
+## BÖLÜM 03 — DONANMADA DENİCİ KULLANIM KÜNYESESİ
+
+> Deniz savaşının özgün kaydı yoktur; top modern analoji, fırtına/yağmur/dalga
+> türdeş gerçek kayıttır. Fırtına sahnesi kurmaca dramatizasyondur.
+
+| Video içi kullanım | Dosya | Sanatçı/Kaynak | Lisans | Kaynak URL |
+|---|---|---|---|---|
+| Gök gürültüsü | `sfx/0ad/ambient/weather/thunder_10.ogg` | 0 A.D. (Wildfire Games) | CC-BY-SA 3.0 | https://github.com/0ad/0ad |
+| Yağmur (fırtına) | `sfx/0ad/ambient/weather/rain_11.ogg` | 0 A.D. (Wildfire Games) | CC-BY-SA 3.0 | https://github.com/0ad/0ad |
+| Yağmur artığı (şafak) | `sfx/0ad/ambient/weather/rain_12.ogg` | 0 A.D. (Wildfire Games) | CC-BY-SA 3.0 | https://github.com/0ad/0ad |
+| Dalga çarpması (savaş/fırtına) | `sfx/0ad/ambient/water/wavecrash_21.ogg` | 0 A.D. (Wildfire Games) | CC-BY-SA 3.0 | https://github.com/0ad/0ad |
+| Yelken/kumaş çırpınışı | `sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus` | OwlishMedia (owlstorm) | CC0 | https://opengameart.org/content/sound-effects-pack |
+| Kütük/kızak sürtünmesi | `sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1-2.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
+| Onarım darbeleri | `sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1-2.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
+| Diğer (top, metal, çan, rüzgâr, dalga, müzik) | (Bölüm 01 ile aynı dosyalar) | bkz. Bölüm 01 tablosu | CC0/CC-BY/CC-BY-SA | bkz. yukarı |
+
 ## GENEL ARŞİV ENVANTERİ (gelecek bölümler için)
 
 ### `sfx/0ad/` — 0 A.D. (Wildfire Games) — CC-BY-SA 3.0
