@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.s[0-9].mp4
+*.mix.m4a
+*.video.mp4
+.DS_Store
