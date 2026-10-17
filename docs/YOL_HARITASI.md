@@ -3,6 +3,12 @@
 Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 (Konu no = kanal sahibinin orijinal listesindeki sıra; Bölüm = önerilen yayın sırası)
 
+## PAKET DÜZENİ (yeni format)
+
+- Bölüm 05'ten itibaren her konu: **1 uzun video (20 sahne, 5-10 dk) + 2 Shorts
+  (10+10 sahne) + değişmez "düşünüyor" kapak seti**.
+- Bölüm 01-04: eski format (tek Shorts). Bölüm 05 = ilk paket (Malazgirt).
+
 ## Seri A — FETİH & OSMANLI (pilot seri)
 
 | Bölüm | Konu | Yıl/Mekân | Kanca | Durum |
@@ -10,7 +16,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 01 | 1 | 1453, İstanbul | Orduda **izci** olarak fethin tam ortasında | ✅ v2 FINAL: `merakli-bolum-001-1453-izci.mp4` (56,9 sn, 10 sahne) + kapak |
 | 02 | 2 | 1453, Edirne/surlar | Urban'ın dev Şahi topunun başında topçu | ✅ ÜRETİLDİ (`bolumler/002-1453-sahi-topcusu/`, 54,5 sn) + kapak |
 | 03 | 3 | 1453, Haliç | Donanmada: gemiler **karadan yürütülürken** veya fırtınada | ✅ ÜRETİLDİ (`bolumler/003-1453-donanmada-denci/`, 54,5 sn) + kapak |
-| 04 | 4 | 29 Mayıs 1453 | Son hücumda surlara ilerleyen er / **surlarda Bizans nöbetçisi** (iki taraf, tek video alternatifi) | 🔄 ALTYAZISIZ v1: 9/10 görsel + miks hazır; s08 + final derleme sıradaki turda |
+| 04 | 4 | 29 Mayıs 1453 | Son hücumda surlara ilerleyen er / **surlarda Bizans nöbetçisi** (iki taraf, tek video alternatifi) | ✅ ÜRETİLDİ (`bolumler/004-1453-surlarda-nobetci/`, 54,5 sn, ALTYAZISIZ) + kapak |
 | 05 | 5 | 1071, Malazgirt | Alparslan'ın ordusunda **haberci** | 🟧 |
 
 ## Seri B — FELAKETLER

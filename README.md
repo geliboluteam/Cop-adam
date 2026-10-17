@@ -34,8 +34,9 @@ araclar/                   -> ffmpeg, fontlar, video üretim betikleri
 3. **Seslendirme** — seçilmiş Türkçe anlatıcı sesi, sahne sahne kayıt
 4. **Görseller** — karakter referansı ile 9:16 sahne görselleri (dönem kıyafetli)
 5. **Ses efektleri** — `sfx/` arşivinden, lisanslar `SFX_KAYITLARI.md`'de belgeli
-6. **Kurgu** — `python3 araclar/video_yap.py bolumler/NNN-.../plan.json`
-   (Ken Burns pan/zoom + xfade + miks + loudnorm -> 1080x1920 MP4; altyazı yalnızca ilk 3 bölümde)
+6. **Kurgu** — `python3 araclar/video_yap.py <plan.json> <cikti>.mp4`
+   (Ken Burns + xfade + miks + loudnorm; Shorts 1080x1920 ~55 sn, uzun video
+   1920x1080 5-10 dk `hedef_sure` ile; altyazı yalnızca ilk 3 bölümde)
 7. **Yayın** — `bolumler/NNN-*/YAYIN.md` (başlık, açıklama, etiketler, künye)
 8. **Git** — her bölüm kendi commit'i olarak bu depoya işlenir
 

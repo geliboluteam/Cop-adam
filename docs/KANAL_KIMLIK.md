@@ -6,6 +6,18 @@
 önemli anlarının içine düşer; oradaki sıradan bir kişi gibi yaşar, görür,
 korkar, hayatta kalmaya çalışır. Anlatım hep **birinci ağızdan**dır.
 
+## Paket Formatı (2026-10-17'den itibaren)
+
+Her KONU bir "paket" olarak üretilir:
+
+| Ürün | Format | Sahne/görsel | Süre |
+|---|---|---|---|
+| 1 UZUN video | 16:9 üstü dikey değil, 1080x1920 DEĞİL — 1920x1080 (16:9) | 20 sahne | 5-10 dk |
+| 2 SHORTS | 9:16, 1080x1920 | 10+10 sahne | ~55 sn x2 |
+| KAPAK | değişmez "Meraklı düşünüyor" şablonu | — | 16:9 + 9:16 |
+
+(İlk 4 bölüm eski formatta tek Shorts olarak üretilmiştir.)
+
 ## Format (YouTube Shorts)
 
 | Özellik | Değer |
