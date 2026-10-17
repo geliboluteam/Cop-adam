@@ -123,3 +123,19 @@ künyesini ve genel arşiv envanterini tutar.
 - `qubodup/` swoosh'lar (CC0), hayalete benzer inlemeler
 - `LokiF/Swamp/` bataklık/cırcır ortamları; `Superpowers/` orta çağ-fantezi paketi (CC0)
 - `Freesound/` çeşitli küçük efektler; `Electricity/` elektrik sesleri
+
+---
+
+## BÖLÜM 005 — MALAZGİRT PAKETİ (uzun video + 2 Shorts)
+
+*(2026-10-17: sandbox kaybından geri yüklendi — orijinal kayıt git'e girmemişti)*
+
+- Savaş davulları: taiko paketi — **modern analoji** (1071'den özgün ses kaydı yoktur)
+- At koşusu: davul + adım ritmi katmanı — modern analoji
+- Gemi/manastır çanı: `ShipsBells/tang` (nigelk, kamu malı) — analoji
+- Parşömen/kağıt: `Owlish/Sound Effects Pack/Paper/pageturn1` (CC0, OGA)
+- Nefes/şaşkınlık: `Owlish/Sound Effects Pack/Human/gasp1` (CC0, OGA)
+- Gece cırcır böcekleri: Owlish `night-crickets` (CC0, OGA)
+- Kumaş/kefen hareketi: Freesound `320137__owlstorm__blanket-movement-1` (CC0)
+- Su/dalga: 0ad `water/wave_21` (CC-BY-SA)
+- Altın/para: OpenHV `coinflick` (CC0)

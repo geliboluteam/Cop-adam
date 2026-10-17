@@ -6,7 +6,8 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 ## PAKET DÜZENİ (yeni format)
 
 - Bölüm 05'ten itibaren her konu: **1 uzun video (20 sahne, 5-10 dk) + 2 Shorts
-  (10+10 sahne) + değişmez "düşünüyor" kapak seti**.
+  (10+10 sahne) + değişmez "düşünüyor" kapak seti + YouTube küçük resmi**
+  (`kapaklar/thumbnail/`, `araclar/thumbnail_yap.py` — B006'dan itibaren standart).
 - Bölüm 01-04: eski format (tek Shorts). Bölüm 05 = ilk paket (Malazgirt).
 
 ## Seri A — FETİH & OSMANLI (pilot seri)

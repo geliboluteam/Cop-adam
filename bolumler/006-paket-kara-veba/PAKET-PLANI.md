@@ -40,4 +40,6 @@ işaretli kapılar, eczane, mezarlık. (`shorts-1/plan.json`)
 1. Tur A: ✅ hedef — uzun 1-10 (ses + 16:9 görsel)
 2. Tur B: uzun 11-20 + derleme
 3. Tur C: Shorts-1 + derleme
-4. Tur D: Shorts-2 + derleme + YAYIN paketi
+4. Tur D: Shorts-2 + derleme + YAYIN paketi + YouTube kapağı
+   (`python3 araclar/thumbnail_yap.py 006` → `kapaklar/thumbnail/bolum-006.png`;
+    sahne görseli metinsiz üretilir, başlık PIL ile basılır)

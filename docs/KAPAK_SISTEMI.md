@@ -43,3 +43,29 @@ Başlık eşlemesi `araclar/kapak_yap2.py` içindeki `BASLIKLAR` sözlüğünded
 
 - ✅ 55 konunun tamamı için 16:9 + 9:16 kapak üretildi
   (`kapaklar/bolum-001..055.png` + `kapaklar/shorts/bolum-001..055.png`).
+
+---
+
+# YouTube KÜÇÜK RESİM (THUMBNAIL) STANDARDI — v3 (2026-10-17'den itibaren)
+
+Kullanıcı talimatı: YouTube örnek tarzı kapak — **dramatik sahne + sağ önde
+BÜYÜK abartılı ifadeli Meraklı + büyük punto başlık (beyaz + kanal kırmızısı)**.
+YouTube yüklemelerinde bu sistem kullanılır; video-içi künye kartları
+(video_yap.py giriş/tarih/kapanış kartları) olduğu gibi kalır.
+
+## Üretim
+
+```
+python3 araclar/thumbnail_yap.py 006    # tek bölüm
+python3 araclar/thumbnail_yap.py        # sahnesi olan tüm bölümler
+```
+
+- Çıktı: `kapaklar/thumbnail/bolum-XXX.png` (1280×720) + `ONIZLEME.png` (kontak sayfası)
+- Sahne: `kapaklar/thumbnail/sahne/bolum-XXX.jpg` — metinsiz AI sahnesi
+  (karakter referansı ile üretilir; başlık PIL ile üstüne basılır)
+- Tipografi (PIL, piksel keskin): Montserrat Black beyaz ana başlık + siyah
+  kontur; kanonik kırmızı **(217,54,54)** vurgu satırı; kırmızı MERAKLI
+  rozeti; alt bant "EĞER ORADA OLSAYDIM — BÖLÜM N"
+- Bölüm başlıkları script içindeki `BOLUMLER` sözlüğünde tutulur
+- Shorts'lara YouTube özel küçük resim yükleme izni vermez → yalnız ana video
+- Yeni paketlerde Tur D standart adımıdır (B006+); B001-B006 retrofit edildi
