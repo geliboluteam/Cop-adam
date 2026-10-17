@@ -37,9 +37,10 @@ işaretli kapılar, eczane, mezarlık. (`shorts-1/plan.json`)
 → 40 gün → bugünkü miras. (`shorts-2/plan.json`)
 
 ## Üretim Sırası
-1. Tur A: ✅ hedef — uzun 1-10 (ses + 16:9 görsel)
-2. Tur B: uzun 11-20 + derleme
-3. Tur C: Shorts-1 + derleme
-4. Tur D: Shorts-2 + derleme + YAYIN paketi + YouTube kapağı
+1. Tur A: ✅ uzun sahneler 1-10 üretildi
+2. Tur B: ✅ uzun sahneler 11-20 + derleme (6:37, x1.00 doğal hız, 61 MB)
+3. Tur C: ✅ Shorts-1 "Kara Ölüm Gecesi" (54,4 sn)
+4. Tur D: ✅ Shorts-2 "Karantina Nasıl Bulundu?" (54,4 sn) + YAYIN.md
+   + SFX künyesi + YouTube kapağı
    (`python3 araclar/thumbnail_yap.py 006` → `kapaklar/thumbnail/bolum-006.png`;
     sahne görseli metinsiz üretilir, başlık PIL ile basılır)

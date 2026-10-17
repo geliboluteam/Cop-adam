@@ -139,3 +139,24 @@ künyesini ve genel arşiv envanterini tutar.
 - Kumaş/kefen hareketi: Freesound `320137__owlstorm__blanket-movement-1` (CC0)
 - Su/dalga: 0ad `water/wave_21` (CC-BY-SA)
 - Altın/para: OpenHV `coinflick` (CC0)
+
+---
+
+## BÖLÜM 006 — KARA VEBA PAKETİ (uzun video + 2 Shorts)
+
+*(2026-10-17, doğrudan commit'lendi)*
+
+- Kilise çanları: `ShipsBells/tang` + `tangtang` (nigelk, kamu malı) — **analoji**
+  (1348'den özgün ses kaydı yoktur; YAYIN.md'de beyan edildi)
+- Öksürük: Owlish Human `cough1/2/3` (CC0) — çağdaş gerçek kayıt
+- Nefes: Owlish Human `breath-male` (CC0); şaşkınlık: `gasp1` (CC0)
+- Tüy kalem: Owlish Paper `pencil-scratch-1/2` (CC0)
+- Parşömen/kağıt: Owlish Paper `pageturn1` (CC0)
+- Taş/ahşap adımlar: Owlish Footsteps `hard-footstep1-4` (CC0);
+  açık arazi: `grass_footsteps` (CC0)
+- Gece ortamı: `night-crickets` (CC0); kumaş: `blanket-movement-1` (CC0)
+- Meclis/kalabalık mırıltısı: Owlish Impacts `clamour1/2` (CC0) — temsili
+- Su/dalga: 0ad `water/wave_21` (CC-BY-SA); ateş/mum: PagDev `fire_loop` (CC0)
+- Rüzgar: 0ad `wind_11`/`windgust_11`; gün ortamı: `day_temperate_11`
+- Gerilim vuruşu: 0ad `Taiko_2` — **modern davul analojisi**
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
