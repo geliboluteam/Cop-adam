@@ -13,7 +13,7 @@ korkar, hayatta kalmaya çalışır. Anlatım hep **birinci ağızdan**dır.
 | En-boy | 9:16 dikey, 1080x1920, 30 fps |
 | Süre | 50–58 saniye (Shorts akışına uygun) |
 | Yapı | Kanca (0–4 sn) → 4 olay sahnesi → kapanış + soru |
-| Altyazı | Ekran içi, büyük punto, kelime kelime okunabilir |
+| Altyazı | YOK (Bölüm 04'ten itibaren ekran temiz; ilk 3 bölümde yanık altyazı vardı) |
 | Ses | Anlatıcı önde (-14 LUFS hedefi), efektler anlatımı ezmez |
 | Kapanış sorusu | "Sıradaki durak neresi? Yorumlara yaz!" (etkileşim) |
 | Sahne sayısı | Bölüm başına en az 10 ayrı görsel/sahne |

@@ -68,6 +68,18 @@ künyesini ve genel arşiv envanterini tutar.
 | Onarım darbeleri | `sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1-2.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
 | Diğer (top, metal, çan, rüzgâr, dalga, müzik) | (Bölüm 01 ile aynı dosyalar) | bkz. Bölüm 01 tablosu | CC0/CC-BY/CC-BY-SA | bkz. yukarı |
 
+## BÖLÜM 04 — SURLARDA SON NÖBETÇİ KULLANIM KÜNYESESİ
+
+> Savaşın özgün kaydı yoktur; top/patlama/davul modern analoji. Kilise çanı
+> sahnesinde kamu malı GEMİ ÇANI kaydı analogi kullanılmıştır.
+
+| Video içi kullanım | Dosya | Sanatçı/Kaynak | Lisans | Kaynak URL |
+|---|---|---|---|---|
+| Çan (analogi: kilise çanı) | `sfx/free-sfx/ShipsBells/tang.opus` | nigelk (ShipsBells) | Kamu malı | https://whythereyouare.com/ships-bells-applications |
+| Ok yağmuru / yay | `sfx/0ad/attack/weapon/bow_attack_05.ogg`, `arrowfly_03.ogg`, `attack/impact/arrow_04.ogg` | 0 A.D. | CC-BY-SA 3.0 | https://github.com/0ad/0ad |
+| Yakın dövüş darbeleri | `clamour1-2.opus` (OwlishMedia), `klink.ogg` (OpenHV) | OwlishMedia / OpenHV | CC0 | OGA / github.com/OpenHV/OpenHV |
+| Diğer (top, patlama, davul, ateş, gece, rüzgâr, dalga, müzik) | (Bölüm 01 ile aynı dosyalar) | bkz. Bölüm 01 tablosu | CC0/CC-BY/CC-BY-SA | bkz. yukarı |
+
 ## GENEL ARŞİV ENVANTERİ (gelecek bölümler için)
 
 ### `sfx/0ad/` — 0 A.D. (Wildfire Games) — CC-BY-SA 3.0

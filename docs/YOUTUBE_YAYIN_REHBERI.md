@@ -47,7 +47,7 @@ what if, history shorts, ottoman empire, constantinople
 ## Shorts Yükleme Kontrol Listesi
 
 - [ ] Video 9:16 ve ≤ 60 sn
-- [ ] Altyazı yanık (burned-in) — sessiz izleyici için
+- [ ] Altyazı yok (Bölüm 04+; ekran temiz) — sessiz izleyici için YouTube otomatik altyazıyı (CC) etkinleştir
 - [ ] İlk 2 saniyede kanca görünüyor mu?
 - [ ] Başlıkta yıl + anahtar kelime var mı?
 - [ ] Açıklamada SES KÜNYESİ tam mı?

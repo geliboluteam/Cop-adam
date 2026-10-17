@@ -35,7 +35,7 @@ araclar/                   -> ffmpeg, fontlar, video üretim betikleri
 4. **Görseller** — karakter referansı ile 9:16 sahne görselleri (dönem kıyafetli)
 5. **Ses efektleri** — `sfx/` arşivinden, lisanslar `SFX_KAYITLARI.md`'de belgeli
 6. **Kurgu** — `python3 araclar/video_yap.py bolumler/NNN-.../plan.json`
-   (Ken Burns pan/zoom + xfade + altyazı + miks + loudnorm -> 1080x1920 MP4)
+   (Ken Burns pan/zoom + xfade + miks + loudnorm -> 1080x1920 MP4; altyazı yalnızca ilk 3 bölümde)
 7. **Yayın** — `bolumler/NNN-*/YAYIN.md` (başlık, açıklama, etiketler, künye)
 8. **Git** — her bölüm kendi commit'i olarak bu depoya işlenir
 

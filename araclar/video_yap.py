@@ -88,19 +88,19 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 def ass_olustur(plan, zamanlama, yol):
     satirlar = []
     sahneler = plan["sahneler"]
+    altyazi_var = plan.get("altyazi", True)  # Bölüm 04+ : false
     for i, sa in enumerate(sahneler):
         bas, nb, ns, son = zamanlama[i]
         metin = sa.get("anlatim_metin", "")
-        if not metin:
-            continue
-        parcalar = parcala(metin)
-        toplam_harf = sum(len(p) for p in parcalar)
-        t = nb
-        for p in parcalar:
-            oran = len(p)/max(toplam_harf,1)
-            p_son = min(t + (ns-nb)*oran + 0.15, son)
-            satirlar.append(f"Dialogue: 0,{ass_zaman(t)},{ass_zaman(p_son)},Caption,,0,0,0,,{p}")
-            t = p_son - 0.15
+        if altyazi_var and metin:
+            parcalar = parcala(metin)
+            toplam_harf = sum(len(p) for p in parcalar)
+            t = nb
+            for p in parcalar:
+                oran = len(p)/max(toplam_harf,1)
+                p_son = min(t + (ns-nb)*oran + 0.15, son)
+                satirlar.append(f"Dialogue: 0,{ass_zaman(t)},{ass_zaman(p_son)},Caption,,0,0,0,,{p}")
+                t = p_son - 0.15
         if sa.get("tarih_bandi"):
             satirlar.append(f"Dialogue: 1,{ass_zaman(bas+0.3)},{ass_zaman(son)},TarihBandi,,0,0,0,,{sa['tarih_bandi']}")
     bk = plan.get("baslik_karti")
