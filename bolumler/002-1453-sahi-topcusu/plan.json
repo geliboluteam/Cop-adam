@@ -1,0 +1,128 @@
+{
+  "baslik_karti": {"yazi1": "EĞER 1453'TE OLSAYDIM", "yazi2": "MERAKLI: ŞAHİ TOPUNUN USTASI"},
+  "kapanis_karti": {"yazi": "SIRADA NERE?", "alt": "YORUMLARA YAZ"},
+  "muzik": {"dosya": "sfx/0ad/music/The_Hellespont.ogg", "kazanc_db": -21},
+  "hedef_sure": 57.5,
+  "hiz_max": 1.25,
+  "sahneler": [
+    {
+      "gorsel": "bolumler/002-1453-sahi-topcusu/gorseller/s01.png",
+      "anlatim": "bolumler/002-1453-sahi-topcusu/ses/s01.mp3",
+      "anlatim_metin": "Yıl 1452, Edirne. Adım Meraklı; top dökümhanesinde çırağım.",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus", "t": 0.0, "kazanc_db": -15},
+        {"dosya": "sfx/free-sfx/PagDev/fire_loop.opus", "t": 0.3, "kazanc_db": -16, "dongu": true, "sure": 9.0},
+        {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -26, "dongu": true, "sure": 10.0}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/002-1453-sahi-topcusu/gorseller/s02.png",
+      "anlatim": "bolumler/002-1453-sahi-topcusu/ses/s02.mp3",
+      "anlatim_metin": "Urban Usta sultandan görevi aldı: tarihin en büyük topunu dökecektik.",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/PagDev/fire_loop.opus", "t": 0.0, "kazanc_db": -19, "dongu": true, "sure": 8.0},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 1.2, "kazanc_db": -18},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 3.4, "kazanc_db": -20}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/002-1453-sahi-topcusu/gorseller/s03.png",
+      "anlatim": "bolumler/002-1453-sahi-topcusu/ses/s03.mp3",
+      "anlatim_metin": "Üç ay boyunca fırınları yaktık; eriyen tunç kalıba akarken yer sarsıldı.",
+      "efektler": [
+        {"dosya": "sfx/openhv/cc-by-40/big-lava-splash1_dheming_oneirophile.ogg", "t": 1.0, "kazanc_db": -14},
+        {"dosya": "sfx/openhv/cc-by-40/big-lava-splash2_dheming_oneirophile.ogg", "t": 3.6, "kazanc_db": -17},
+        {"dosya": "sfx/free-sfx/PagDev/fire_loop.opus", "t": 0.0, "kazanc_db": -15, "dongu": true, "sure": 9.0},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 0.4, "kazanc_db": -20}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/002-1453-sahi-topcusu/gorseller/s04.png",
+      "anlatim": "bolumler/002-1453-sahi-topcusu/ses/s04.mp3",
+      "anlatim_metin": "Dev top iki parça döküldü; on sekiz ton, iki adam boyunda namlu.",
+      "efektler": [
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 0.6, "kazanc_db": -18},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 2.0, "kazanc_db": -19},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 3.6, "kazanc_db": -20},
+        {"dosya": "sfx/free-sfx/PagDev/fire_loop.opus", "t": 0.0, "kazanc_db": -23, "dongu": true, "sure": 8.0}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/002-1453-sahi-topcusu/gorseller/s05.png",
+      "anlatim": "bolumler/002-1453-sahi-topcusu/ses/s05.mp3",
+      "anlatim_metin": "Kışın yola çıktık: altmış manda, önümüzde yol düzelten iki yüz adam.",
+      "tarih_bandi": "KIŞ 1452",
+      "efektler": [
+        {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -21, "dongu": true, "sure": 9.0},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 1.5, "kazanc_db": -19},
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus", "t": 0.9, "kazanc_db": -20},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 3.8, "kazanc_db": -21}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/002-1453-sahi-topcusu/gorseller/s06.png",
+      "anlatim": "bolumler/002-1453-sahi-topcusu/ses/s06.mp3",
+      "anlatim_metin": "İstanbul önlerinde tabyalar kazdık; dev kızakla topu yerleştirdik.",
+      "tarih_bandi": "NİSAN 1453",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/Freesound/Foley/260130__splicesound__hand-digging-dirt-leaves-crunch.opus", "t": 0.0, "kazanc_db": -15, "dongu": true, "sure": 8.5},
+        {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -24, "dongu": true, "sure": 9.0},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 4.6, "kazanc_db": -19}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/002-1453-sahi-topcusu/gorseller/s07.png",
+      "anlatim": "bolumler/002-1453-sahi-topcusu/ses/s07.mp3",
+      "anlatim_metin": "Atış nöbeti: barut, tokmakla sıkıştırma, granit gülle... tam iki saat.",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus", "t": 1.0, "kazanc_db": -16},
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus", "t": 2.6, "kazanc_db": -17},
+        {"dosya": "sfx/free-sfx/Freesound/Foley/260130__splicesound__hand-digging-dirt-leaves-crunch.opus", "t": 4.2, "kazanc_db": -18},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 0.4, "kazanc_db": -18}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/002-1453-sahi-topcusu/gorseller/s08.png",
+      "anlatim": "bolumler/002-1453-sahi-topcusu/ses/s08.mp3",
+      "anlatim_metin": "Ateşle! Gülle surlara çarpıyor; günde ancak yedi atış yapabiliyoruz.",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/Thimras/cannon_fire.opus", "t": 0.5, "kazanc_db": -8},
+        {"dosya": "sfx/openhv/cc-by-30/cannon_sarge4267.ogg", "t": 0.55, "kazanc_db": -13},
+        {"dosya": "sfx/openhv/cc-by-30/explosion1_smcameron.ogg", "t": 1.8, "kazanc_db": -13},
+        {"dosya": "sfx/0ad/attack/destruction/building_collapse_large_01.ogg", "t": 2.7, "kazanc_db": -16},
+        {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -28, "dongu": true, "sure": 8.5}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/002-1453-sahi-topcusu/gorseller/s09.png",
+      "anlatim": "bolumler/002-1453-sahi-topcusu/ses/s09.mp3",
+      "anlatim_metin": "Namlu ısınıyor; zeytinyağıyla soğutuyoruz, çatlamasın diye.",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/PagDev/fire_loop.opus", "t": 0.0, "kazanc_db": -17, "dongu": true, "sure": 8.0},
+        {"dosya": "sfx/0ad/ambient/weather/windgust_11.ogg", "t": 2.6, "kazanc_db": -20},
+        {"dosya": "sfx/openhv/cc-by-40/small-lava-splash2_dheming_oneirophile.ogg", "t": 1.4, "kazanc_db": -22}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/002-1453-sahi-topcusu/gorseller/s10.png",
+      "anlatim": "bolumler/002-1453-sahi-topcusu/ses/s10.mp3",
+      "anlatim_metin": "Elli dört gün surları dövdük, 29 Mayıs'ta gedik açıldı. Ben Meraklı, topun başındaydım. Sıradaki durak? Yorumlara yaz!",
+      "tarih_bandi": "29 MAYIS 1453",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus", "t": 0.2, "kazanc_db": -16},
+        {"dosya": "sfx/0ad/ambient/water/wave_21.ogg", "t": 0.0, "kazanc_db": -21, "dongu": true, "sure": 11.0},
+        {"dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg", "t": 1.2, "kazanc_db": -21, "dongu": true, "sure": 9.5}
+      ],
+      "ek_sure": 0.8
+    }
+  ]
+}

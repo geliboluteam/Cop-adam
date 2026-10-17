@@ -39,6 +39,19 @@ künyesini ve genel arşiv envanterini tutar.
 - Top atışları sahnesinde anlatıcı sessizken efekt kısa süreliğine öne çıkar.
 - Final: `loudnorm` ile -14 LUFS hedeflenir (YouTube standardı).
 
+## BÖLÜM 02 — ŞAHİ TOPÇUSU KULLANIM KÜNYESESİ
+
+> 1452-53 dökümhane ve atış seslerinin özgün kaydı yoktur; top/patlama modern
+> analoji, fırın/metal/kazma türdeş gerçek kayıttır.
+
+| Video içi kullanım | Dosya | Sanatçı/Kaynak | Lisans | Kaynak URL |
+|---|---|---|---|---|
+| Erimiş tunç dökümü (analoji) | `sfx/openhv/cc-by-40/big-lava-splash1-2_dheming_oneirophile.ogg` | dheming & oneirophile | CC-BY 4.0 | https://freesound.org/people/dheming/sounds/198300/ |
+| Yağ/buhar sesi (soğutma) | `sfx/openhv/cc-by-40/small-lava-splash2_dheming_oneirophile.ogg` | dheming & oneirophile | CC-BY 4.0 | https://freesound.org/people/dheming/sounds/198300/ |
+| Topya tabya kazısı (loop) | `sfx/free-sfx/Freesound/Foley/260130__splicesound__hand-digging-dirt-leaves-crunch.opus` | SpliceSound | CC0 | https://freesound.org/people/SpliceSound/sounds/260130/ |
+| Tokmak/darbe sesleri | `sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1-2.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
+| Top ateşi / patlama / metal / ateş / rüzgâr / dalgalar / müzik | (Bölüm 01 ile aynı dosyalar) | bkz. Bölüm 01 tablosu | CC0/CC-BY/CC-BY-SA | bkz. yukarı |
+
 ## GENEL ARŞİV ENVANTERİ (gelecek bölümler için)
 
 ### `sfx/0ad/` — 0 A.D. (Wildfire Games) — CC-BY-SA 3.0

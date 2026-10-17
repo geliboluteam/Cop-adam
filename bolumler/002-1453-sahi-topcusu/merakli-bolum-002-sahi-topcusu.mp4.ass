@@ -1,0 +1,45 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,58,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,430,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,104,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,54,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,84,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,46,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.90,0:00:03.73,Caption,,0,0,0,,Yıl 1452, Edirne. Adım Merakl
+Dialogue: 0,0:00:03.58,0:00:06.51,Caption,,0,0,0,,ı; top dökümhanesinde çırağım.
+Dialogue: 0,0:00:06.76,0:00:09.19,Caption,,0,0,0,,Urban Usta sultandan görevi aldı:
+Dialogue: 0,0:00:09.04,0:00:11.61,Caption,,0,0,0,,tarihin en büyük topunu dökecektik.
+Dialogue: 0,0:00:11.51,0:00:14.13,Caption,,0,0,0,,Üç ay boyunca fırınları yaktık; eriy
+Dialogue: 0,0:00:13.98,0:00:16.61,Caption,,0,0,0,,en tunç kalıba akarken yer sarsıldı.
+Dialogue: 0,0:00:16.51,0:00:19.57,Caption,,0,0,0,,Dev top iki parça döküldü; on sekiz ton,
+Dialogue: 0,0:00:19.42,0:00:21.24,Caption,,0,0,0,,iki adam boyunda namlu.
+Dialogue: 0,0:00:21.14,0:00:23.49,Caption,,0,0,0,,Kışın yola çıktık: altmış manda,
+Dialogue: 0,0:00:23.34,0:00:25.90,Caption,,0,0,0,,önümüzde yol düzelten iki yüz adam.
+Dialogue: 1,0:00:21.09,0:00:25.95,TarihBandi,,0,0,0,,KIŞ 1452
+Dialogue: 0,0:00:25.80,0:00:28.16,Caption,,0,0,0,,İstanbul önlerinde tabyalar kazdı
+Dialogue: 0,0:00:28.01,0:00:30.36,Caption,,0,0,0,,k; dev kızakla topu yerleştirdik.
+Dialogue: 1,0:00:25.75,0:00:30.41,TarihBandi,,0,0,0,,NİSAN 1453
+Dialogue: 0,0:00:30.26,0:00:33.50,Caption,,0,0,0,,Atış nöbeti: barut, tokmakla sıkıştırma,
+Dialogue: 0,0:00:33.35,0:00:35.74,Caption,,0,0,0,,granit gülle... tam iki saat.
+Dialogue: 0,0:00:35.64,0:00:38.22,Caption,,0,0,0,,Ateşle! Gülle surlara çarpıyor; gü
+Dialogue: 0,0:00:38.07,0:00:40.65,Caption,,0,0,0,,nde ancak yedi atış yapabiliyoruz.
+Dialogue: 0,0:00:40.55,0:00:42.61,Caption,,0,0,0,,Namlu ısınıyor; zeytinyağıyla
+Dialogue: 0,0:00:42.46,0:00:44.52,Caption,,0,0,0,,soğutuyoruz, çatlamasın diye.
+Dialogue: 0,0:00:44.42,0:00:48.31,Caption,,0,0,0,,Elli dört gün surları dövdük, 29 Mayıs'ta gedik açıldı.
+Dialogue: 0,0:00:48.16,0:00:52.52,Caption,,0,0,0,,Ben Meraklı, topun başındaydım. Sıradaki durak? Yorumlara yaz!
+Dialogue: 1,0:00:44.37,0:00:54.42,TarihBandi,,0,0,0,,29 MAYIS 1453
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,EĞER 1453'TE OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,MERAKLI: ŞAHİ TOPUNUN USTASI
+Dialogue: 4,0:00:52.52,0:00:55.02,Kapanis,,0,0,0,,SIRADA NERE?
+Dialogue: 4,0:00:52.82,0:00:55.02,KapanisAlt,,0,0,0,,YORUMLARA YAZ
