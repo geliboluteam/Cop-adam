@@ -23,13 +23,14 @@ arastirma/                 -> bölüm başına kaynaklı tarih araştırması
 senaryo/                   -> bölüm senaryoları (sahne + ses + efekt planı)
 sfx/                       -> ses efekti arşivi + SFX_KAYITLARI.md (lisanslar)
 bolumler/                  -> üretilen bölümler (görsel, ses, video, yayin metni)
+kapaklar/                  -> bölüm kapakları (şablon: araclar/kapak_yap.py)
 araclar/                   -> ffmpeg, fontlar, video üretim betikleri
 ```
 
 ## Bölüm Üretim Akışı
 
 1. **Araştırma** — `arastirma/NNN-*.md` (tarih, kaynaklar, çelişkiler, "efsane mi gerçek mi" notları)
-2. **Senaryo** — `senaryo/NNN-*.md` (~55 sn, 6 sahne, sahne başına efekt işaretleri)
+2. **Senaryo** — `senaryo/NNN-*.md` (~57 sn, en az 10 sahne, sahne başına efekt işaretleri)
 3. **Seslendirme** — seçilmiş Türkçe anlatıcı sesi, sahne sahne kayıt
 4. **Görseller** — karakter referansı ile 9:16 sahne görselleri (dönem kıyafetli)
 5. **Ses efektleri** — `sfx/` arşivinden, lisanslar `SFX_KAYITLARI.md`'de belgeli

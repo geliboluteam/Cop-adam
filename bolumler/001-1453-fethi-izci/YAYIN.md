@@ -54,7 +54,7 @@ tarih, istanbulun fethi, 1453, fatih sultan mehmet, osmanlı, tarihte bugün, ke
 - [x] -14 LUFS miks, anlatıcı önde
 - [ ] Yüklemeden sonra sabit yorum: "Sıradaki durak neresi? 👇"
 - [ ] Çalma listesi: "EĞER OLSAYDIM — TÜM BÖLÜMLER"
-- [ ] Kapak karesi önerisi: son hücum sahnesi (00:47 civarı)
+- [x] Kapak hazır: `kapaklar/bolum-001.png` (şablon: `araclar/kapak_yap.py`, sistem: `docs/KAPAK_SISTEMI.md`)
 
 ## KAYNAKLAR
 
