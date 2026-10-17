@@ -85,7 +85,20 @@ Style: KapanisAlt,Montserrat ExtraBold,46,&H00D94F45,&H000000FF,&H00202020,&H960
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
 
-def ass_olustur(plan, zamanlama, yol):
+def ass_sablon(dikey=True):
+    if dikey:
+        return ASS_SABLON
+    return (ASS_SABLON
+            .replace("PlayResX: 1080", "PlayResX: 1920")
+            .replace("PlayResY: 1920", "PlayResY: 1080")
+            .replace("Style: Caption,Montserrat ExtraBold,58,", "Style: Caption,Montserrat ExtraBold,62,")
+            .replace(",2,60,60,430,1", ",2,60,60,250,1")
+            .replace("Style: BaslikKart,Montserrat ExtraBold,104,", "Style: BaslikKart,Montserrat ExtraBold,88,")
+            .replace("Style: BaslikKart2,Montserrat ExtraBold,54,", "Style: BaslikKart2,Montserrat ExtraBold,46,")
+            .replace("Style: Kapanis,Montserrat ExtraBold,84,", "Style: Kapanis,Montserrat ExtraBold,70,")
+            .replace("Style: KapanisAlt,Montserrat ExtraBold,46,", "Style: KapanisAlt,Montserrat ExtraBold,38,"))
+
+def ass_olustur(plan, zamanlama, yol, dikey=True):
     satirlar = []
     sahneler = plan["sahneler"]
     altyazi_var = plan.get("altyazi", True)  # Bölüm 04+ : false
@@ -114,7 +127,7 @@ def ass_olustur(plan, zamanlama, yol):
         satirlar.append(f"Dialogue: 4,{ass_zaman(kb+0.15)},{ass_zaman(ks)},Kapanis,,0,0,0,,{kk.get('yazi','')}")
         satirlar.append(f"Dialogue: 4,{ass_zaman(kb+0.45)},{ass_zaman(ks)},KapanisAlt,,0,0,0,,{kk.get('alt','')}")
     with open(yol, "w", encoding="utf-8") as f:
-        f.write(ASS_SABLON + "\n".join(satirlar) + "\n")
+        f.write(ass_sablon(dikey) + "\n".join(satirlar) + "\n")
 
 def main():
     plan_yolu = sys.argv[1]
@@ -125,6 +138,11 @@ def main():
     n = len(sahneler)
     XF = 0.5
     giris_ek = 0.9 if plan.get("baslik_karti") else 0.2
+    dikey = plan.get("format", "9:16") != "16:9"
+    if dikey:
+        VW, VH, OW, OH = 1080, 1920, 2160, 3840
+    else:
+        VW, VH, OW, OH = 1920, 1080, 3840, 2160
 
     # ek sureler
     ektop = 0.0
@@ -176,7 +194,7 @@ def main():
 
     # --- ASS ---
     ass_yolu = cikti + ".ass"
-    ass_olustur(plan, zamanlama, ass_yolu)
+    ass_olustur(plan, zamanlama, ass_yolu, dikey)
 
     # --- ses miks ---
     ses_girisler, ses_filtre = [], []
@@ -202,7 +220,7 @@ def main():
         g = math.pow(10, plan["muzik"].get("kazanc_db", -22)/20)
         fade_out = max(toplam-3, 0.1)
         ses_filtre.append(
-            f"[{g_idx}:a]aresample=48000,aformat=channel_layouts=stereo,volume={g:.3f},"
+            f"[{g_idx}:a]aresample=48000,aformat=channel_layouts=stereo,aloop=loop=-1:size=2e9,volume={g:.3f},"
             f"atrim=duration={toplam:.2f},afade=t=in:st=0:d=1.5,afade=t=out:st={fade_out:.2f}:d=2.8,adelay=0:all=1,"
             f"asetpts=N/SR/TB[a{g_idx}]")
         g_idx += 1
@@ -233,9 +251,9 @@ def main():
             z = f"1.11-{0.11:.4f}*on/{kareler}"
         px = 40 if (i % 3 == 0) else -40
         filtre = (
-            f"[0:v]scale=2160:3840:force_original_aspect_ratio=increase,crop=2160:3840,"
+            f"[0:v]scale={OW}:{OH}:force_original_aspect_ratio=increase,crop={OW}:{OH},"
             f"zoompan=z='{z}':x='iw/2-(iw/zoom/2)+({px}*on/{kareler})':y='ih/2-(ih/zoom/2)'"
-            f":d={kareler}:s=1080x1920:fps=30,format=yuv420p[v]"
+            f":d={kareler}:s={VW}x{VH}:fps=30,format=yuv420p[v]"
         )
         calis([FFMPEG, "-y", "-loop", "1", "-i", tam_yol(sa["gorsel"]),
                "-filter_complex", filtre, "-map", "[v]",
