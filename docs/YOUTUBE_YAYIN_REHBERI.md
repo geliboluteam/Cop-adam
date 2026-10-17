@@ -54,3 +54,16 @@ what if, history shorts, ottoman empire, constantinople
 - [ ] Kanal markası (fular) kapak karesinde görünür mü?
 - [ ] Sabit yorum: "Sıradaki durak neresi? 👇" (ilk yorumu kendimiz atarız)
 - [ ] Çalma listesi: "EĞER OLSAYDIM — TÜM BÖLÜMLER"
+
+## KAPANIŞ KARTI STANDARDI (2026-10-17'den itibaren — kalıcı)
+
+Her videonun kapanış kartı ÜÇ satırdır ve kademeli olarak belirir:
+
+1. **"SIRADA NERE?"** — büyük beyaz (Kapanis stili)
+2. **"YORUMLARA YAZ"** — mavi vurgu (KapanisAlt stili)
+3. **"KANALIMA ABONE OLMAYI UNUTMAYIN!"** — kanal kırmızısı (Abone stili)
+
+- `video_yap.py` içinde varsayılan olarak AÇIKTIR; planda
+  `kapanis_karti.abone = ""` yazılarak tek video için kapatılabilir.
+- Satırlar PIL ile ölçülüp garantili %4.5H boşlukla istiflenir —
+  üst üste binme olamaz (kart istif düzeltmesi ile aynı sistem).

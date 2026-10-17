@@ -85,6 +85,31 @@ def kart_yerlesim(metin1, metin2, fs1, fs2, W, H, cy):
     return o1, "\\N".join(s1), o2, "\\N".join(s2)
 
 
+# Kapanış kartı abone çağrısı — kalıcı varsayılan (kullanıcı talimatı, 2026-10-17).
+# Kapatmak için plan içinde kapanis_karti.abone = "" yazılır.
+ABONE_METIN = "KANALIMA ABONE OLMAYI UNUTMAYIN!"
+
+
+def kart_yerlesim_coklu(satirlar, W, H, cy):
+    """N satırlı kart grubunu cy merkezine AYRI AYRI istifler.
+
+    satirlar: [(metin, fs)] → [(override, metin)] döndürür; boş metinler
+    atlanır. Satır arası garantili %4.5H boşluk → üst üste binme imkânsız.
+    """
+    grub = [(m, fs) for m, fs in satirlar if m]
+    olculer = [kart_olc(m, fs, W * 0.88) for m, fs in grub]
+    gap = 0.045 * H
+    toplam = sum(h for _, _, h in olculer) + gap * (len(olculer) - 1)
+    y = cy - toplam / 2
+    sonuc = []
+    for (fs, msatir, h), (metin, fs_orij) in zip(olculer, grub):
+        y += h / 2
+        o = f"{{\\an5\\pos({W // 2},{round(y)})" + (f"\\fs{fs}" if fs != fs_orij else "") + "}"
+        sonuc.append((o, "\\N".join(msatir)))
+        y += h / 2 + gap
+    return sonuc
+
+
 def calis(cmd):
     r = subprocess.run(cmd, capture_output=True, text=True)
     if r.returncode != 0:
@@ -144,6 +169,7 @@ Style: BaslikKart,Montserrat ExtraBold,104,&H00FFFFFF,&H000000FF,&H00202020,&H96
 Style: BaslikKart2,Montserrat ExtraBold,54,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
 Style: Kapanis,Montserrat ExtraBold,84,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
 Style: KapanisAlt,Montserrat ExtraBold,46,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,50,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -160,7 +186,8 @@ def ass_sablon(dikey=True):
             .replace("Style: BaslikKart,Montserrat ExtraBold,104,", "Style: BaslikKart,Montserrat ExtraBold,88,")
             .replace("Style: BaslikKart2,Montserrat ExtraBold,54,", "Style: BaslikKart2,Montserrat ExtraBold,46,")
             .replace("Style: Kapanis,Montserrat ExtraBold,84,", "Style: Kapanis,Montserrat ExtraBold,70,")
-            .replace("Style: KapanisAlt,Montserrat ExtraBold,46,", "Style: KapanisAlt,Montserrat ExtraBold,38,"))
+            .replace("Style: KapanisAlt,Montserrat ExtraBold,46,", "Style: KapanisAlt,Montserrat ExtraBold,38,")
+            .replace("Style: Abone,Montserrat ExtraBold,50,", "Style: Abone,Montserrat ExtraBold,42,"))
 
 def ass_olustur(plan, zamanlama, yol, dikey=True):
     satirlar = []
@@ -195,13 +222,17 @@ def ass_olustur(plan, zamanlama, yol, dikey=True):
     if kk:
         kb, ks = zamanlama[-1][2], zamanlama[-1][3]+0.6
         W, H = (1080, 1920) if dikey else (1920, 1080)
-        o1, m1, o2, m2 = kart_yerlesim(kk.get("yazi", ""), kk.get("alt", ""),
-                                        84 if dikey else 70, 46 if dikey else 38,
-                                        W, H, H * 0.46)
-        if o1:
-            satirlar.append(f"Dialogue: 4,{ass_zaman(kb+0.15)},{ass_zaman(ks)},Kapanis,,0,0,0,,{o1}{m1}")
-        if o2:
-            satirlar.append(f"Dialogue: 4,{ass_zaman(kb+0.45)},{ass_zaman(ks)},KapanisAlt,,0,0,0,,{o2}{m2}")
+        abone = kk.get("abone", ABONE_METIN)  # "" → abone satırı kapalı
+        kart_satirlari = [
+            (kk.get("yazi", ""), 84 if dikey else 70),
+            (kk.get("alt", ""), 46 if dikey else 38),
+        ]
+        stiller = ["Kapanis", "KapanisAlt"]
+        if abone:
+            kart_satirlari.append((abone, 50 if dikey else 42))
+            stiller.append("Abone")
+        for i, ((o, m), stil) in enumerate(zip(kart_yerlesim_coklu(kart_satirlari, W, H, H * 0.46), stiller)):
+            satirlar.append(f"Dialogue: 4,{ass_zaman(kb + 0.15 + 0.3 * i)},{ass_zaman(ks)},{stil},,0,0,0,,{o}{m}")
     with open(yol, "w", encoding="utf-8") as f:
         f.write(ass_sablon(dikey) + "\n".join(satirlar) + "\n")
 
