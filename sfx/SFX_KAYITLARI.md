@@ -80,6 +80,23 @@ künyesini ve genel arşiv envanterini tutar.
 | Yakın dövüş darbeleri | `clamour1-2.opus` (OwlishMedia), `klink.ogg` (OpenHV) | OwlishMedia / OpenHV | CC0 | OGA / github.com/OpenHV/OpenHV |
 | Diğer (top, patlama, davul, ateş, gece, rüzgâr, dalga, müzik) | (Bölüm 01 ile aynı dosyalar) | bkz. Bölüm 01 tablosu | CC0/CC-BY/CC-BY-SA | bkz. yukarı |
 
+## BÖLÜM 005 — MALAZGİRT PAKETİ (uzun + 2 Shorts) KULLANIM KÜNYESESİ
+
+> 1071'in özgün ses kaydı yoktur. Savaş davulları (Taiko) MODERN ANALOJİ; at
+> koşusu davul ritmi + adım kayıtlarıyla temsil edilmiştir (dönem at sesi kaydı
+> kullanılmamıştır — şeffaflık notu açıklamada yer alır).
+
+| Video içi kullanım | Dosya | Sanatçı/Kaynak | Lisans | Kaynak URL |
+|---|---|---|---|---|
+| Savaş davulu (analoji) | `sfx/0ad/music/Taiko_2.ogg` | 0 A.D. müzik ekibi | CC-BY-SA 3.0 | https://github.com/0ad/0ad |
+| Ok/yay + isabet | `bow_attack_05.ogg`, `arrowfly_03.ogg`, `arrow_04.ogg` | 0 A.D. | CC-BY-SA 3.0 | https://github.com/0ad/0ad |
+| Altın/para (antlaşma) | `sfx/openhv/cc0/coinflick.ogg` | OpenHV | CC0 | https://github.com/OpenHV/OpenHV |
+| Parşömen/antlaşma kâğıdı | `sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
+| Nefes/gasP (merhamet anı) | `sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
+| Çan (manastır analogisi) | `sfx/free-sfx/ShipsBells/tang.opus` | nigelk | Kamu malı | https://whythereyouare.com/ships-bells-applications |
+| Adımlar/kumaş/darbeler/gece/ateş/metal | (önceki bölümlerle aynı) | OwlishMedia / PagDev / OpenHV | CC0 | bkz. yukarı |
+| Müzik | `sfx/0ad/music/The_Hellespont.ogg` (uzun videoda döngüde) | 0 A.D. müzik ekibi (temel besteci Omri Lahav) | CC-BY-SA 3.0 | https://github.com/0ad/0ad |
+
 ## GENEL ARŞİV ENVANTERİ (gelecek bölümler için)
 
 ### `sfx/0ad/` — 0 A.D. (Wildfire Games) — CC-BY-SA 3.0

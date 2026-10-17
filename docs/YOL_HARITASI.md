@@ -17,7 +17,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 02 | 2 | 1453, Edirne/surlar | Urban'ın dev Şahi topunun başında topçu | ✅ ÜRETİLDİ (`bolumler/002-1453-sahi-topcusu/`, 54,5 sn) + kapak |
 | 03 | 3 | 1453, Haliç | Donanmada: gemiler **karadan yürütülürken** veya fırtınada | ✅ ÜRETİLDİ (`bolumler/003-1453-donanmada-denci/`, 54,5 sn) + kapak |
 | 04 | 4 | 29 Mayıs 1453 | Son hücumda surlara ilerleyen er / **surlarda Bizans nöbetçisi** (iki taraf, tek video alternatifi) | ✅ ÜRETİLDİ (`bolumler/004-1453-surlarda-nobetci/`, 54,5 sn, ALTYAZISIZ) + kapak |
-| 05 | 5 | 1071, Malazgirt | Alparslan'ın ordusunda **haberci** | 🟧 |
+| 05 | 5 | 1071, Malazgirt | Alparslan'ın ordusunda **haberci** | ✅ PAKET ÜRETİLDİ: uzun 6:11 (20 sahne) + 2 Shorts (54,5 + 58,5 sn) + kapaklar |
 
 ## Seri B — FELAKETLER
 

@@ -40,7 +40,7 @@ elinden alınışı, gözlerine mil, manastır, son mektup hissi. (`shorts-2/pla
 
 ## Üretim Sırası (turlar boyunca)
 
-1. Tur A: uzun video seslendirme 1-10 + görseller 1-10
-2. Tur B: uzun video seslendirme 11-20 + görseller 11-20 → derleme
-3. Tur C: Shorts-1 (10 ses + 10 görsel) → derleme
-4. Tur D: Shorts-2 (10 ses + 10 görsel) → derleme + YAYIN paketleri
+1. Tur A: ✅ (uzun 1-10)
+2. Tur B: ✅ (uzun 11-20 + derleme: 6:11)
+3. Tur C: ✅ (Shorts-1: 54,5 sn)
+4. Tur D: ✅ (Shorts-2: 58,5 sn + YAYIN.md) — PAKET TAMAMLANDI
