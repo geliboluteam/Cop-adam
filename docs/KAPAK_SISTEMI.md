@@ -67,5 +67,7 @@ python3 araclar/thumbnail_yap.py        # sahnesi olan tüm bölümler
   kontur; kanonik kırmızı **(217,54,54)** vurgu satırı; kırmızı MERAKLI
   rozeti; alt bant "EĞER ORADA OLSAYDIM — BÖLÜM N"
 - Bölüm başlıkları script içindeki `BOLUMLER` sözlüğünde tutulur
-- Shorts'lara YouTube özel küçük resim yükleme izni vermez → yalnız ana video
+- **KALICI KURAL (kullanıcı talimatı, 2026-10-17): Shorts videolar için kapak
+  fotoğrafı ÜRETİLMEZ.** Küçük resim yalnızca uzun/ana videoya yapılır
+  (Shorts'ta YouTube özel küçük resim de desteklemez; ilk kare esas alınır).
 - Yeni paketlerde Tur D standart adımıdır (B006+); B001-B006 retrofit edildi
