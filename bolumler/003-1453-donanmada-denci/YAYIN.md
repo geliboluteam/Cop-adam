@@ -1,63 +1,88 @@
-# BÖLÜM 03 — YAYIN PAKETİ (YouTube Shorts)
+# BÖLÜM 003 UZUN — DONANMADA DENCİ 1453 · YAYIN DOSYASI (YALNIZ UZUN VİDEO)
 
-Video: `merakli-bolum-003-donanmada-denci.mp4` · 1080x1920 · 54,5 sn · 30 fps · -14 LUFS · 10 sahne
-Kapak: `kapaklar/bolum-003.png` (hazır)
+Rol: 1453'te Osmanlı kadırgasında kürekçi/güverte çırağı Meraklı (kurgu
+karakter; filo sayıları, Baltaoğlu'nun komutası, 20 Nisan deniz savaşı,
+21-22 Nisan karadan yürütme, 28 Nisan ateş gemileri ve 29 Mayıs gösteriş
+saldırısı tarihsel dayanaklıdır — başlıca kaynaklar Barbaro'nun günlüğü,
+Doukas, Kritovoulos ve çağdaş anlatılardır).
+Not: Bu, B003'ün uzun format (20 sahne) yeniden üretimidir; eski kısa
+format arşivde durur. Konu 3 (Seri A — Fethi & Osmanlı).
 
-## BAŞLIK (önerilen — kopyala-yapıştır)
+---
 
-```
-EĞER 1453'TE OLSAYDIM: MERAKLI, Fırtınada Bir Denici ⚓⛈️ #shorts
-```
+## VİDEO — UZUN VİDEO (ana bölüm)
 
-Alternatifler:
-```
-Zinciri Geçemeyince Gemileri KARADAN YÜRÜTTÜK — 1453 #tarih
-Fırtınayı, Zinciri ve Bir Gecelik Mucizeyi Yaşadım | 1453 #shorts
-```
+**Dosya:** `uzun/merakli-003-uzun-donanmada-denci.mp4` · 10:50 · 1920×1080 · 20 sahne
+**Küçük resim:** `kapaklar/thumbnail/bolum-003.png` (v4: "GEMİLER KARADAN!" / 1453)
 
-## AÇIKLAMA (kopyala-yapıştır)
-
-```
-İlkbahar 1453. Adım MERAKLI — bu kez Osmanlı donanmasında bir denici. Haliç'in ağzındaki meşhur zincir, 20 Nisan'da aramızdan sıyrılan dört tahıl gemisi, gece bastıran fırtına, yırtılan yelken... ve padişahın akıl almaz emri: gemileri karadan yürütmek. Bir gece, bir tepe, 70 gemi. Denizin üstünden değil, TEPELERİN ÜSTÜNDEN. ⚓⛈️
-
-⚠️ DÜRÜST TARİH NOTU: Zincirin denemesi (9 Nisan), 20 Nisan deniz savaşı (üç Ceneviz + bir Bizans gemisi, Baltaoğlu Süleyman Paşa'nın engelleyemediği geçiş) ve 21-22 Nisan gecesi gemilerin karadan yürütülmesi (Tophane-Kasımpaşa hattı, ~60-72 gemi) belgelenmiş tarihtir. Videodaki şiddetli gece fırtınası sahnesi ise serinin kurmaca kurgusudur; o tarihlere ait kayıtlı belirli bir fırtına yoktur.
-
-🔊 SES KÜNYESİ — Ses efektleri gerçek kayıtlardır. 1453'ün özgün ses kaydı yoktur (ilk ses kaydı 1877); top sesi MODERN ANALOJİDİR. Fırtına, gök gürültüsü, yağmur, dalga, kumaş/yelken ve kazıma sesleri türdeş gerçek kayıtlardır:
-• Gök gürültüsü, yağmur, dalga çarpması, rüzgâr, dalgalar, gündüz ortamı — 0 A.D. (Wildfire Games), CC-BY-SA 3.0 — github.com/0ad/0ad
-• Top ateşi — Thimras, CC0 — opengameart.org/content/cannon-fire
-• Yelken/kumaş ve sürtünme sesleri — OwlishMedia, CC0 — opengameart.org/content/sound-effects-pack
-• Toprak/kızak çekişi — SpliceSound, CC0 — freesound.org/people/SpliceSound/sounds/260130/
-• Metal sesleri — OpenHV projesi, CC0 — github.com/OpenHV/OpenHV
-• Gemi çanı — nigelk, kamu malı — whythereyouare.com/ships-bells-applications
-• Geçişler — qubodup, CC0 — opengameart.org/content/swooshes
- Müzik ve uzak davul: "The Hellespont" & "Taiko 2" — 0 A.D. müzik ekibi (temel besteci Omri Lahav), CC-BY-SA 3.0 — github.com/0ad/0ad
-
-🎨 Görseller ve seslendirme yapay zekâ ile üretilmiştir. Karakter (MERAKLI), senaryo ve kurgu özgündür.
-
-#tarih #1453 #istanbul #donanma #osmanlı #haliç #gemilerkaradanyürütüldü #shorts #keşfet #tarihtebugün #meraklı #çöpadam #eğerolsaydım
-
-Sıradaki bölümü SEN seç: hangi tarihte, kim olarak olayım? Yorumlara yaz! 👇
-```
-
-## ETİKETLER (virgüllü)
+### BAŞLIK (kopyala-yapıştır)
 
 ```
-tarih, 1453, istanbulun fethi, osmanli donanmasi, haliç, zincir, gemilerin karadan yürütülmesi, baltaoğlu, fatih sultan mehmet, fırtına, deniz savaşı, tarihte bugün, keşfet, shorts, animasyon, meraklı, çöp adam, eğer olsaydım, what if, history shorts, constantinople, ottoman navy
+EĞER 1453'TE OLSAYDIM: DONANMADA DENCİ — Gemiler Karadan Yürüdü 🚢⛰️ [TAM BÖLÜM]
 ```
 
-## YÜKLEME KONTROL LİSTESİ
+### AÇIKLAMA (kopyala-yapıştır)
 
-- [x] 9:16, 1080x1920, 54,5 sn (< 60 sn)
-- [x] 10 ayrı sahne görseli (zincir → fırtına → karadan yürütme → zafer)
-- [x] Yanık altyazı + 3 tarih bandı (20 NİSAN / 21-22 NİSAN / 29 MAYIS 1453)
-- [x] -14 LUFS miks, anlatıcı önde
-- [x] Kapak: `kapaklar/bolum-003.png` (seri şablonu)
-- [ ] Sabit yorum: "Sıradaki durak neresi? 👇"
-- [ ] Çalma listesi: "EĞER OLSAYDIM — TÜM BÖLÜMLER"
+```
+1453, Marmara. Ben Meraklı: kadırgada üçüncü küreğin çırağıyım.
+Dört gemiyi durduramadık, zinciri kıramadık... sonra bir gece
+gemiyi dağa çektik. Denizcinin gözünden fethin 53 günü.
 
-## KAYNAKLAR
+Bu bölümde:
+⏱ 0:04 — GELİBOLU: TERSANE
+⏱ 0:34 — DONANMA AÇILIYOR
+⏱ 1:05 — ŞEHİR DENİZDEN
+⏱ 1:38 — 18 NİSAN: ADALAR
+⏱ 2:09 — 20 NİSAN: DÖRT YELKEN
+⏱ 2:41 — SAVAŞ: BORDALAR
+⏱ 3:18 — RÜZGÂR DÖNDÜ
+⏱ 3:53 — YENİLGİ SABAHI
+⏱ 4:22 — ZİNCİR
+⏱ 4:54 — GEMİLER KARAYA
+⏱ 5:26 — GECE YÜRÜYÜŞÜ
+⏱ 6:03 — 22 NİSAN ŞAFAĞI
+⏱ 6:33 — HALİÇ DÜZENİ
+⏱ 6:59 — 28 NİSAN: ATEŞ GEMİLERİ
+⏱ 7:31 — ABLUKA
+⏱ 7:58 — UFUK NÖBETİ
+⏱ 8:32 — 28 MAYIS: MUMLAR
+⏱ 9:01 — 29 MAYIS: SANCAK
+⏱ 9:35 — LİMAN BİZİM
+⏱ 10:07 — DÜRÜST TARİH + VEDA
+(Zaman damgaları yaklaşıktır; YouTube Studio'da ince ayar yapın.)
 
-- istanbul.net.tr (Fethin Kronolojisi) · ademder.org.tr (20 Nisan 1453)
-- islamansiklopedisi.org.tr/baltaoglu-suleyman-bey
-- tr.wikipedia.org/wiki/İstanbul'un_Fethi · bbc.com/turkce/articles/c4nn7rwwl4ko
-- Araştırma notu: `arastirma/003-1453-donanmada-denci.md`
+📌 DÜRÜST TARİH NOTU: "Denci Meraklı" kurgu bir karakterdir. Gerçek
+olan: Filo büyüklüğü kaynaklarda 110 ile 430 arasında yazılır
+(Tedaldi 110 · Barbaro 145 · Leonardo di Chio 200-250 · Kritovoulos
+350 · Sphrantzes 430); Barbaro'nun dökümü: 12 tam kadırga, 70-80
+fusta, 20-25 parandarya. 20 Nisan'da Papa'nın kiraladığı 3 Ceneviz
+gemisi + 1 Bizans tahıl gemisi (Sicilya yükü) muharebe sonunda
+Haliç'e girdi; tahıl gemisi kaptanının adı kaynaklarda farklı
+yazılır. Sultanın atıyla denize girmesi Kritovoulos'un anlatısıdır.
+Baltaoğlu'nun rütbesi alındı; sonradan affedildiği yazılır.
+Karadan yürütülen gemi sayısı 67-72 arasında verilir; gecenin
+ayrıntıları (direklerin sökülmesi, deri sarma, yağlı kütük yolu)
+çağdaş ve sonraki anlatılardan derlenmiştir. 28 Nisan ateş gemileri
+saldırısı püskürtüldü; kayıp sayıları kaynaklarda tartışmalıdır ve
+görüntüde gösterilmez. Papa'nın hazırladığı yardım filosu ya hiç
+yola çıkmadı ya da yetişmedi. 29 Mayıs'ta filo deniz duvarına
+gösteriş saldırısı yaptı; asıl hücum kara surlarındaydı. Deniz ve
+top sesleri MODERN ANALOJİDİR; 1453'ten özgün ses kaydı yoktur.
+
+Seslendirme: MERAKLI (voice-02) · Görseller: MERAKLI evreni
+Bir "Eğer Orada Olsaydım" hikâyesi.
+```
+
+### ETİKETLER
+
+```
+istanbulun fethi, 1453, donanma, baltaoglu suleyman, gemilerin karadan yurutulmesi, halic, zincir, kadırga, deniz savasi, 20 nisan, konstantinopolis, osmanli denizciligi, tarih belgeseli, eger orada olsaydim, merakli
+```
+
+---
+
+## Yayın kontrol listesi
+- [ ] `bolum-003.png` kapağını yükle (v4 mevcut)
+- [ ] Zaman damgalarını Studio'da ince ayarla
+- [ ] Shorts YOK (kalıcı format kuralı)
+- [ ] Not: eski kısa format video (54,5 sn) arşivde; uzun sürümü yükle

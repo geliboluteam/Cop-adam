@@ -360,3 +360,24 @@ künyesini ve genel arşiv envanterini tutar.
 - Geçiş: qubodup `swosh-01` (CC0)
 - Ortam: 0ad `day_temperate_11`, `wind_11` (CC-BY-SA)
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
+
+---
+
+## BÖLÜM 003 UZUN — DONANMADA DENCİ (remake; uzun video)
+
+- Deniz/dalga: 0ad `water/wave_21` (CC-BY-SA) — katmanlı deniz ortamı
+- Top ateşi: Thimras `cannon_fire` (CC0, OGA) — **MODERN TOP ATEŞİ
+  ANALOJİSİ** (1453'ten özgün kayıt yoktur; beyan)
+- Ateş gemileri: PagDev `fire_loop` (CC0)
+- Halat/kızak/kalafat: Owlish `scrape1/2/3` (CC0) — temsili
+- Metal/çapa/zincir: OpenHV `klink` (CC0) — temsili zincir sesi
+- Güverte/kalabalık: Owlish `clamour1-6` (CC0) — temsili
+- Kürek/adım: Owlish `hard-footstep2` (CC0)
+- Nefes/heyecan: Owlish `breath-male`, `gasp1`, `laugh1` (CC0)
+- Gece/ufuk: Owlish `night-crickets` (CC0)
+- Mum/kutu: Owlish `tap` (CC0)
+- Sancak/dua/veda: JaggedStone `magical_1` (CC0) — temsili
+- Gerilim: 0ad `Taiko_1/2` — **modern davul analojisi**
+- Geçiş: qubodup `swosh-01` (CC0)
+- Ortam: 0ad `day_temperate_11`, `wind_11` (CC-BY-SA)
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
