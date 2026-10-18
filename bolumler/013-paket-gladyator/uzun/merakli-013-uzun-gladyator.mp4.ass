@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:24.65,TarihBandi,,0,0,0,,ROMA — MS 80
+Dialogue: 1,0:00:24.45,0:00:50.84,TarihBandi,,0,0,0,,LUDUS — ŞAFAK
+Dialogue: 1,0:00:50.64,0:01:16.78,TarihBandi,,0,0,0,,HATIRA — ESİRLİK
+Dialogue: 1,0:01:16.58,0:01:42.36,TarihBandi,,0,0,0,,LUDUS — AKŞAM YEMEĞİ
+Dialogue: 1,0:01:42.16,0:02:09.19,TarihBandi,,0,0,0,,SİLAH ODASI — TİPLER
+Dialogue: 1,0:02:08.99,0:02:37.54,TarihBandi,,0,0,0,,BARRAK ÇATISI — GECE
+Dialogue: 1,0:02:37.34,0:03:03.94,TarihBandi,,0,0,0,,MS 80 — YÜZ GÜN COŞKUSU
+Dialogue: 1,0:03:03.74,0:03:29.75,TarihBandi,,0,0,0,,COLOSSEUM — İLK BAKIŞ
+Dialogue: 1,0:03:29.55,0:03:54.34,TarihBandi,,0,0,0,,HYPOGEUM — BEKLEYİŞ
+Dialogue: 1,0:03:54.14,0:04:21.72,TarihBandi,,0,0,0,,ARENA KAPISI — GİRİŞ
+Dialogue: 1,0:04:21.52,0:04:47.87,TarihBandi,,0,0,0,,ARENA — DANS
+Dialogue: 1,0:04:47.67,0:05:19.86,TarihBandi,,0,0,0,,ARENA — MISSIO
+Dialogue: 1,0:05:19.66,0:05:53.26,TarihBandi,,0,0,0,,BAŞPARMAK SIRRI
+Dialogue: 1,0:05:53.06,0:06:24.18,TarihBandi,,0,0,0,,TİTUS — KARAR ANI
+Dialogue: 1,0:06:23.98,0:06:56.14,TarihBandi,,0,0,0,,ARENA — ZAFER
+Dialogue: 1,0:06:55.94,0:07:26.40,TarihBandi,,0,0,0,,HYPOGEUM — ALACAKARANLIK
+Dialogue: 1,0:07:26.20,0:07:58.94,TarihBandi,,0,0,0,,ŞÖHRETİN İKİ YÜZÜ
+Dialogue: 1,0:07:58.74,0:08:32.50,TarihBandi,,0,0,0,,BARRAK — RÜYA
+Dialogue: 1,0:08:32.30,0:09:03.49,TarihBandi,,0,0,0,,ERTESİ SABAH — LUDUS
+Dialogue: 1,0:09:03.29,0:09:32.72,TarihBandi,,0,0,0,,GÜNBATIMI — VEDALAŞMA
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER 80'DE OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: COLOSSEUM — İLK ARENA DANSIM
+Dialogue: 4,0:09:30.72,0:09:33.32,Kapanis,,0,0,0,,{\an5\pos(960,399)}BAŞPARMAĞIN HANGİ YÖNDE?
+Dialogue: 4,0:09:31.02,0:09:33.32,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}YORUMLARA YAZ
+Dialogue: 4,0:09:31.32,0:09:33.32,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!

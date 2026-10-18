@@ -1,0 +1,726 @@
+{
+ "format": "16:9",
+ "encode_preset": "veryfast",
+ "crf": 23,
+ "maxrate": "1300k",
+ "baslik_karti": {
+  "yazi1": "EĞER 80'DE OLSAYDIM",
+  "yazi2": "MERAKLI: COLOSSEUM — İLK ARENA DANSIM"
+ },
+ "kapanis_karti": {
+  "yazi": "BAŞPARMAĞIN HANGİ YÖNDE?",
+  "alt": "YORUMLARA YAZ"
+ },
+ "muzik": {
+  "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+  "kazanc_db": -21
+ },
+ "hedef_sure": 580,
+ "hiz_max": 1.12,
+ "altyazi": false,
+ "sahneler": [
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s01.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s01.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ROMA — MS 80",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 0.0,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.5,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 25.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 25.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s02.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s02.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "LUDUS — ŞAFAK",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 27.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/hit.opus",
+     "t": 4.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/hit.opus",
+     "t": 9.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/hit.opus",
+     "t": 15.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 21.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s03.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s03.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HATIRA — ESİRLİK",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 26.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 8.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 20.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s04.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s04.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "LUDUS — AKŞAM YEMEĞİ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 26.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/drink-sip-and-swallow.opus",
+     "t": 6.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 9.5,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 14.0,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s05.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s05.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SİLAH ODASI — TİPLER",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 1.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 6.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 12.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 18.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/hit.opus",
+     "t": 22.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s06.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s06.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "BARRAK ÇATISI — GECE",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 0.5,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 29.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 29.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 15.0,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s07.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s07.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "MS 80 — YÜZ GÜN COŞKUSU",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 26.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 2.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 9.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/wolf-whistle.opus",
+     "t": 15.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 20.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s08.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s08.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "COLOSSEUM — İLK BAKIŞ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 26.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 0.5,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour7.opus",
+     "t": 8.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour9.opus",
+     "t": 16.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 23.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s09.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s09.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HYPOGEUM — BEKLEYİŞ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 24.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Freesound/Animals/516829__matrixxx__lion-growl.opus",
+     "t": 6.0,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 10.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/music/Taiko_2.ogg",
+     "t": 0.5,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 23.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s10.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s10.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ARENA KAPISI — GİRİŞ",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 0.5,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/0ad/music/Taiko_2.ogg",
+     "t": 1.5,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 27.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour6.opus",
+     "t": 4.0,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour10.opus",
+     "t": 20.0,
+     "kazanc_db": -19
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s11.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s11.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ARENA — DANS",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/music/Taiko_1.ogg",
+     "t": 0.0,
+     "kazanc_db": -19,
+     "dongu": true,
+     "sure": 26.0
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 3.0,
+     "kazanc_db": -17
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 6.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 8.5,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 10.0,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 14.0,
+     "kazanc_db": -17
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 20.0,
+     "kazanc_db": -18
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s12.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s12.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ARENA — MISSIO",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/stumble.opus",
+     "t": 0.8,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 1.6,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 2.4,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 5.0,
+     "kazanc_db": -17
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour8.opus",
+     "t": 12.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 18.0,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/0ad/music/Taiko_2.ogg",
+     "t": 22.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 12.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 30.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s13.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s13.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "BAŞPARMAK SIRRI",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 0.5,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour11.opus",
+     "t": 6.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/wolf-whistle.opus",
+     "t": 12.0,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 20.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 26.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s14.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s14.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "TİTUS — KARAR ANI",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/music/Taiko_1.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 15.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 2.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 8.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour9.opus",
+     "t": 24.0,
+     "kazanc_db": -15
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s15.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s15.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ARENA — ZAFER",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 32.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour7.opus",
+     "t": 0.5,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/free-sfx/Freesound/Misc/219836__rubberduckie__cymbal-swell-3.opus",
+     "t": 2.0,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 6.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 8.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 15.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 20.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s16.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s16.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HYPOGEUM — ALACAKARANLIK",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 3.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus",
+     "t": 6.5,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 20.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s17.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s17.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ŞÖHRETİN İKİ YÜZÜ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 33.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 3.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/wolf-whistle.opus",
+     "t": 8.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 12.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 25.0,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s18.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s18.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "BARRAK — RÜYA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 34.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 34.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 12.0,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 26.0,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s19.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s19.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ERTESİ SABAH — LUDUS",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 32.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/hit.opus",
+     "t": 4.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 8.0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 14.0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 20.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/uzun/gorseller/s20.png",
+   "anlatim": "bolumler/013-paket-gladyator/uzun/ses/s20.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GÜNBATIMI — VEDALAŞMA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 0.2,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -19,
+     "dongu": true,
+     "sure": 28.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 10.0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 18.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 20.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.9
+  }
+ ]
+}
