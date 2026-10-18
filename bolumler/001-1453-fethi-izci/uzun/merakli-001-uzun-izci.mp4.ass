@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:29.38,TarihBandi,,0,0,0,,EDİRNE'DEN YOLA
+Dialogue: 1,0:00:29.18,0:01:01.63,TarihBandi,,0,0,0,,AKINCI ÖNCÜLERİ
+Dialogue: 1,0:01:01.43,0:01:36.68,TarihBandi,,0,0,0,,İLK GÖRÜŞ: ŞEHİR
+Dialogue: 1,0:01:36.48,0:02:07.29,TarihBandi,,0,0,0,,RAPOR: LYCUS VADİSİ
+Dialogue: 1,0:02:07.09,0:02:42.59,TarihBandi,,0,0,0,,ORDU KAÇ KİŞİ?
+Dialogue: 1,0:02:42.39,0:03:13.53,TarihBandi,,0,0,0,,ŞAHİ YOLDA
+Dialogue: 1,0:03:13.33,0:03:43.31,TarihBandi,,0,0,0,,6 NİSAN — İLK ATIŞLAR
+Dialogue: 1,0:03:43.11,0:04:18.09,TarihBandi,,0,0,0,,ESİR İSTİHBARATI
+Dialogue: 1,0:04:17.89,0:04:48.78,TarihBandi,,0,0,0,,20 NİSAN — DENİZ SAVAŞI
+Dialogue: 1,0:04:48.58,0:05:23.71,TarihBandi,,0,0,0,,GÜZERGÂH KEŞFİ
+Dialogue: 1,0:05:23.51,0:05:57.82,TarihBandi,,0,0,0,,21-22 NİSAN — GECE
+Dialogue: 1,0:05:57.62,0:06:22.48,TarihBandi,,0,0,0,,HALİÇ'TE İKİ DONANMA
+Dialogue: 1,0:06:22.28,0:06:50.65,TarihBandi,,0,0,0,,MAYIS — YORGUNLUK
+Dialogue: 1,0:06:50.45,0:07:18.89,TarihBandi,,0,0,0,,LAĞIM SAVAŞI
+Dialogue: 1,0:07:18.69,0:07:44.63,TarihBandi,,0,0,0,,SON ELÇİLİK
+Dialogue: 1,0:07:44.43,0:08:13.43,TarihBandi,,0,0,0,,28 MAYIS — ÇİFT DUA
+Dialogue: 1,0:08:13.23,0:08:41.62,TarihBandi,,0,0,0,,29 MAYIS — 01:30
+Dialogue: 1,0:08:41.42,0:09:19.64,TarihBandi,,0,0,0,,ŞAFAK — ÜÇÜNCÜ DALGA
+Dialogue: 1,0:09:19.44,0:09:49.97,TarihBandi,,0,0,0,,FATİH ŞEHİRDE
+Dialogue: 1,0:09:49.77,0:10:30.54,TarihBandi,,0,0,0,,DÜRÜST TARİH + VEDA
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER 1453'TE OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: FETHİN İZCİSİ
+Dialogue: 4,0:10:28.54,0:10:31.14,Kapanis,,0,0,0,,{\an5\pos(960,399)}HANGİ ROLÜ SEÇERDİN?
+Dialogue: 4,0:10:28.84,0:10:31.14,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}YORUMLARA YAZ
+Dialogue: 4,0:10:29.14,0:10:31.14,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!
