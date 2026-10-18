@@ -71,3 +71,16 @@ python3 araclar/thumbnail_yap.py        # sahnesi olan tüm bölümler
   fotoğrafı ÜRETİLMEZ.** Küçük resim yalnızca uzun/ana videoya yapılır
   (Shorts'ta YouTube özel küçük resim de desteklemez; ilk kare esas alınır).
 - Yeni paketlerde Tur D standart adımıdır (B006+); B001-B006 retrofit edildi
+
+---
+
+## v4 — YENİ KAPAK STANDARDI (2026-10-18, kullanıcı talimatı — BEKLEMEDE)
+
+Kullanıcı örnek kapak görsellerini gönderecek; tarz onlara göre
+ayarlanacak. İlkeler (örnekler gelince detaylandırılacak):
+1. Shorts hariç yalnız uzun videolara kapak (v3 kuralı sürer).
+2. **Dikkat çekici BÜYÜK başlıklar** — işlenen konuya göre özel.
+3. **Meraklı kapağın odakında**, o bölümün konusuna uygun KIYAFET ve
+   POZ ile (gladyatör miğferli, fırıncı önlüklü, halatçı kuşaklı gibi).
+4. Mevcut 12 kapağın yenilenip yenilenmeyeceği kullanıcıya sorulacak.
+Uygulama: örnekler analiz edilmeden yeni bölüm kapağı üretimi durur.
