@@ -90,3 +90,14 @@ Kapanış CTA: "HANGİ ROLÜ SEÇERDİN? — İZCİ · TOPÇU · DENCİ · NÖBE
 - **Tur C:** YAYIN.md + SFX künyesi "B004 UZUN" + kapak v4 (bolum-004.png
   mevcut: "SON HÜCUM! / 29 MAYIS 1453" — zincir zırhlı nöbetçi) +
   YOL_HARİTASI B04 remake + SERİ A TAMAM notu + mühür + push.
+
+## TURLAR (tamamlandı)
+- Hazırlık ✅ d048758 · Görsel stil kuralı (kıyafetli yan figürler) ✅ a308d67
+- Tur A (s01-s10) ✅ 919b1e3 · Tur B (s11-s20; kıyafetli) ✅ ab043c6
+- Tur A'nın 6 kalabalık sahnesi kıyafetli yeniden üretim + plan.json +
+  derleme ✅ e1dc2f4 — **11:03.5 (663,5 sn) · x1.031 · 96,8 MB · 20 sahne**
+- Tur C: YAYIN.md (uzun sürüm; damga ölçeği ~0.891 + 4 sn kart) + SFX
+  künyesi "B004 UZUN" + YOL_HARİTASI B04 remake + SERİ A TAMAM (4/4)
+  notu + bu mühür.
+- **MÜHÜRLÜ — yeniden üretim yok.** Kapak bolum-004.png v4 mevcut
+  ("SON HÜCUM!" / 29 MAYIS 1453); yeniden üretilmez.

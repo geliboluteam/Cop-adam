@@ -1,68 +1,97 @@
-# BÖLÜM 04 — YAYIN PAKETİ (YouTube Shorts) · ALTYAZISIZ FORMAT
+# BÖLÜM 004 UZUN — SURLARDA NÖBETÇİ 1453 · YAYIN DOSYASI (YALNIZ UZUN VİDEO)
 
-Video: `merakli-bolum-004-surlarda-nobetci.mp4` · 1080x1920 · ~54,5 sn · -14 LUFS · 10 sahne
-**Bu bölümden itibaren ekran altyazısı YOK** (giriş kartı, tarih bantları ve kapanış kartı sürer).
-Kapak: `kapaklar/bolum-004.png` (hazır)
+Rol: 1453'te Konstantinopolis'te fırıncı oğlu, surlarda gece nöbetçisi
+Meraklı (kurgu karakter; Giustiniani'nin 26 Ocak 1453'te gelişi,
+6 Nisan'da kuşatmanın başlaması, 18/20/22/28 Nisan olayları, 22 Mayıs
+ay tutulması, 28 Mayıs son ayini ve 29 Mayıs son hücumu tarihsel
+dayanaklıdır — başlıca kaynaklar Barbaro'nun günlüğü, Sphrantzes,
+Doukas, Kritovoulos, Leonardo di Chio ve Nestor Iskender'in anlatısıdır).
+Not: Bu, B004'ün uzun format (20 sahne) yeniden üretimidir; eski kısa
+format arşivde durur. Konu 4 (Seri A — Fethi & Osmanlı; serinin Bizans
+tarafı bakışı). Görsel stil: yan figürler kıyafetli (vatandaş tünik,
+kadın başörtü+elbise, keşiş koyu cübbe, asker zırh+tabard, imparator
+mor pelerin).
 
-## BAŞLIK (önerilen — kopyala-yapıştır)
+---
 
-```
-EĞER 1453'TE OLSAYDIM: SURLARDA SON NÖBETÇİ 😨🛡️ #shorts
-```
+## VİDEO — UZUN VİDEO (ana bölüm)
 
-Alternatifler:
-```
-Bu Kez Karşı Tarafdayım: Surlarda Bir Bizans Nöbetçisi | 1453
-29 Mayıs Sabahı Surlardaydım — Fethi Savunanın Gözünden #tarih
-```
+**Dosya:** `uzun/merakli-004-uzun-surlarda-nobetci.mp4` · 11:04 · 1920×1080 · 20 sahne
+**Küçük resim:** `kapaklar/thumbnail/bolum-004.png` (v4: "SON HÜCUM!" / 29 MAYIS 1453)
 
-## AÇIKLAMA (kopyala-yapıştır)
-
-```
-29 Mayıs 1453'e bir gece kaldı. Adım MERAKLI — bu kez KARŞI tarafdayım: İstanbul surlarında bir Bizans nöbetçisiyim. Sekiz bin yorgun savunmacı, onarılan gedikler, Ayasofya'daki son ayin, gece yarısı başlayan davullar, üç dalgalı son hücum, Giustiniani'nin yaralanması... ve rivayete göre açık kalan o küçük kapı. Fethi bu kez savunanın gözünden yaşadım. 🛡️🕯️
-
-⚠️ DÜRÜST TARİH NOTU: Son hücumun üç dalga hâlinde geldiği (başıbozuklar → Anadolu birlikleri → yeniçeriler), savunmacı sayısının ~8.000 olduğu ve Giustiniani'nin yaralanıp cepheye dönmediği belgelenmiştir. "Kerkoporta" (açık unutulan küçük kapı) anlatısı esas olarak Dukas'ın tek kaynaklı aktarımdır ve tarihçilerce tartışmalıdır — video bu yüzden "rivayete göre" der.
-
-🔊 SES KÜNYESİ — Ses efektleri gerçek kayıtlardır. 1453'ün özgün ses kaydı yoktur (ilk ses kaydı 1877); top, patlama ve savaş davulu sesleri MODERN ANALOJİDİR. Gece, ateş, ok, rüzgâr, dalgalar türdeş gerçek kayıtlardır; kilise çanı sahnesinde kamu malı gemi çanı kaydı analogi kullanılmıştır:
-• Top ateşi — Thimras, CC0 — opengameart.org/content/cannon-fire
-• Patlama — smcameron, CC-BY 3.0 — freesound.org/people/smcameron/sounds/51467
-• Savaş davulu (modern analoji, Taiko) — 0 A.D. müzik ekibi, CC-BY-SA 3.0 — github.com/0ad/0ad
-• Ok/yay — 0 A.D. (Wildfire Games), CC-BY-SA 3.0 — github.com/0ad/0ad
-• Gece cırcılları, darbeler, adımlar — OwlishMedia, CC0 — opengameart.org/content/sound-effects-pack
-• Toprak/taşıma — SpliceSound, CC0 — freesound.org/people/SpliceSound/sounds/260130/
-• Metal sesleri — OpenHV, CC0 — github.com/OpenHV/OpenHV
-• Çan (analogi) — nigelk, kamu malı — whythereyouare.com/ships-bells-applications
-• Rüzgâr, dalgalar, gündüz ortamı — 0 A.D., CC-BY-SA 3.0 — github.com/0ad/0ad
-• Geçişler — qubodup, CC0 — opengameart.org/content/swooshes
- Müzik: "The Hellespont" — 0 A.D. müzik ekibi (temel besteci Omri Lahav), CC-BY-SA 3.0
-
-🎨 Görseller ve seslendirme yapay zekâ ile üretilmiştir. Karakter (MERAKLI), senaryo ve kurgu özgündür. Bu videoda ekran altyazısı kullanılmamıştır.
-
-#tarih #1453 #istanbul #istanbulunfethi #bizans #surlar #29mayıs #shorts #keşfet #tarihtebugün #meraklı #çöpadam #eğerolsaydım
-
-Sıradaki bölümü SEN seç: hangi tarihte, kim olarak olayım? Yorumlara yaz! 👇
-```
-
-## ETİKETLER (virgüllü)
+### BAŞLIK (kopyala-yapıştır)
 
 ```
-tarih, 1453, istanbulun fethi, bizans, surlar, giustiniani, kerkoporta, konstantinopolis, fatih sultan mehmet, 29 mayıs, tarihte bugün, keşfet, shorts, animasyon, meraklı, çöp adam, eğer olsaydım, what if, history shorts, byzantine, fall of constantinople
+EĞER 1453'TE OLSAYDIM: SURLARDA NÖBETÇİ — Şehir Düşerken 🏰⚔️ [TAM BÖLÜM]
 ```
 
-## YÜKLEME KONTROL LİSTESİ
+### AÇIKLAMA (kopyala-yapıştır)
 
-- [x] 9:16, 1080x1920, ~54,5 sn (< 60 sn)
-- [x] 10 ayrı sahne görseli (nöbet → son ayin → üç dalga → düşüş → sessizlik)
-- [x] **Altyazı YOK** (ekran temiz) — sessiz izleyici için YouTube otomatik altyazı (CC) etkinleştir
-- [x] 2 tarih bandı (28 MAYIS / 29 MAYIS 1453)
-- [x] -14 LUFS miks, anlatıcı önde
-- [x] Kapak: `kapaklar/bolum-004.png` (seri şablonu)
-- [ ] Sabit yorum: "Sıradaki durak neresi? 👇"
-- [ ] Çalma listesi: "EĞER OLSAYDIM — TÜM BÖLÜMLER"
+```
+1453, Konstantinopolis. Ben Meraklı: fırıncının oğlu, gece nöbetçisi.
+Sekiz bin kişi, otuz binlik surlar, elli bin canlı yarı boş bir şehir.
+Giustiniani geldi, çanlar para oldu, gece boyu duvar ördük...
+ve 29 Mayıs sabahı her şey bitti. Bizans tarafının gözünden fethin 53 günü.
 
-## KAYNAKLAR
+Bu bölümde:
+⏱ 0:04 — KONSTANTİNOPOLİS: 1453
+⏱ 0:37 — ÜÇ PARÇA İMPARATORLUK
+⏱ 1:12 — 26 OCAK: İKİ GEMİ UMUT
+⏱ 1:47 — HAZIRLIK: ÇANLAR PARA OLDU
+⏱ 2:18 — 6 NİSAN: İLK GÜLLE
+⏱ 2:49 — NÖBET HAYATI
+⏱ 3:20 — 18 NİSAN: PÜSKÜRTTÜK
+⏱ 3:54 — 20 NİSAN: DÖRT GEMİ
+⏱ 4:30 — 22 NİSAN: TEPELERDE YELKENLER
+⏱ 5:05 — 28 NİSAN: ATEŞ GEMİLERİ
+⏱ 5:40 — MAYIS: OKLAR BİTİYOR
+⏱ 6:13 — ALÂMETLER GECESİ
+⏱ 6:52 — KITLIK
+⏱ 7:27 — 26 MAYIS: İMPARATORUN CEVABI
+⏱ 7:56 — 28 MAYIS: SON AYİN
+⏱ 8:24 — ANNEMLE VEDA
+⏱ 8:55 — 29 MAYIS — 01:30
+⏱ 9:31 — ŞEHİR DÜŞTÜ
+⏱ 10:13 — SULTAN GİRDİ
+⏱ 10:46 — DÜRÜST TARİH + VEDA
+(Zaman damgaları yaklaşıktır; YouTube Studio'da ince ayar yapın.)
 
-- ahaber.com.tr (29 Mayıs 1453 üç dalga) · osmanlitarihi.net (Giustiniani)
-- en.wikipedia.org/wiki/Giovanni_Giustiniani · fatihsultanmehmet.org/29-mayis-1453
-- Kerkoporta tartışması: firedirectioncenter.blogspot.com (Dukas tek kaynak)
-- Araştırma notu: `arastirma/004-1453-surlarda-nobetci.md`
+📌 DÜRÜST TARİH NOTU: "Nöbetçi Meraklı" kurgu bir karakterdir. Gerçek
+olan: savunmacı sayısı kaynaklarda tartışmalıdır — Sphrantzes 4.773
+Yunan + ~200 yabancı sayar; Tedaldi 6-7 bin eğitimli asker + silahlı
+sivil sayar; gönüllülerle toplam 8 binin altındaydı. Surlar 30 binlik
+garnizon için inşa edilmişti; şehirde ~50 bin can kalmıştı.
+Giustiniani 26 Ocak 1453'te 700 profesyonelle (400 Cenova + 300 Sakız)
+kendi parasıyla geldi ve kara surlarının komutanı yapıldı. Kilise
+altın-gümüşlerinin eritilip yabancı askere maaş ödennesi tarihseldir.
+22 Mayıs parçalı ay tutulması astronomik olarak GERÇEK'tir;
+Hodegetria ikonunun düşmesi RİVAYET; sis ve Ayasofya kubbe ışığı GÖRGÜ
+anlatısıdır (Nestor Iskender; "ruh kalktı" vs "uzak ateşler" yorumları).
+İmparatorun "özgür irademizle ölmeye karar verdik" sözü AKTARILAN
+sözdür. 28 Mayıs son ayinini Katolik ve Ortodoks birlikte yaptı
+(karşıt tanık Doukas bile doğrular). Kerkoporta anlatısı Doukas'tan
+gelir ve TARTIŞMALIDIR; düşüşün tek sebebi değildi. Konstantin XI'in
+son anı, cesedi ve mezarı kesin bilinmez. Yağma süresi kaynaklarda
+1-3 gün tartışmalıdır; öğlen sultan şehre girdi, Ayasofya'da toprağa
+secde ettiği söylenir. Top ve savaş sesleri MODERN ANALOJİDİR;
+1453'ten özgün ses kaydı yoktur. Yağma GÖSTERİLMEZ; yalnızca ölçülü
+anlatıda. Yaralanma görüntüsü yok (Giustiniani taşınırken kansız).
+
+Seslendirme: MERAKLI (voice-02) · Görseller: MERAKLI evreni
+Bir "Eğer Orada Olsaydım" hikâyesi.
+```
+
+### ETİKETLER
+
+```
+istanbulun fethi, 1453, konstantinopolis, surlar, bizans, son hucum, 29 mayis 1453, giustiniani, konstantin xi, kerkoporta, ayasofya, halic, ay tutulmasi, tarih belgeseli, eger orada olsaydim, merakli
+```
+
+---
+
+## Yayın kontrol listesi
+- [ ] `bolum-004.png` kapağını yükle (v4 mevcut: "SON HÜCUM!" / 29 MAYIS 1453)
+- [ ] Zaman damgalarını Studio'da ince ayarla
+- [ ] Shorts YOK (kalıcı format kuralı)
+- [ ] Not: eski kısa format video (54,5 sn + .ass) arşivde; uzun sürümü yükle
+- [ ] SERİ A (Fethi 4 bölüm) TAMAM — sıradaki bekleyenler: B17 lejyoner, B18 Sokrates, B20 İskenderiye

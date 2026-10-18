@@ -381,3 +381,20 @@ künyesini ve genel arşiv envanterini tutar.
 - Geçiş: qubodup `swosh-01` (CC0)
 - Ortam: 0ad `day_temperate_11`, `wind_11` (CC-BY-SA)
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
+
+## BÖLÜM 004 UZUN — SURLARDA NÖBETÇİ (remake; uzun video)
+
+- Top ateşi/kuşatma: Thimras `cannon_fire` (CC0, OGA) — **MODERN TOP
+  ATEŞİ ANALOJİSİ** (1453'ten özgün kayıt yoktur; beyan)
+- Moloz/gece tamir ordusu/palanka: Owlish `scrape1/2/3` (CC0) — temsili
+- Metal/zırh/kılıç/çan: OpenHV `klink` (CC0) — temsili
+- Kalabalık/nöbet/sevinç/panik: Owlish `clamour1-7` (CC0) — temsili
+- Nefes/veda/yorgunluk: Owlish `breath-male`, `gasp1` (CC0)
+- Alâmetler/dua/son ayin: JaggedStone `magical_1` (CC0) — temsili
+- Gerilim/son hücum: 0ad `Taiko_1` — **modern davul analojisi**
+- Gece nöbeti: Owlish `night-crickets` (CC0)
+- Ateş gemileri/harç fırını: PagDev `fire_loop` (CC0)
+- Ortam: 0ad `day_temperate_11`, `wind_11`, `windgust_11`,
+  `water/wave_21` (CC-BY-SA)
+- Geçiş: qubodup `swosh-01` (CC0)
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
