@@ -1,0 +1,635 @@
+{
+ "format": "16:9",
+ "encode_preset": "veryfast",
+ "crf": 23,
+ "maxrate": "1300k",
+ "baslik_karti": {
+  "yazi1": "EĞER MÖ 776'DA OLSAYDIM",
+  "yazi2": "MERAKLI: OLİMPİA — İLK KOŞU"
+ },
+ "kapanis_karti": {
+  "yazi": "HANGİ DALDA YARIŞIRIDIN?",
+  "alt": "YORUMLARA YAZ"
+ },
+ "muzik": {
+  "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+  "kazanc_db": -21
+ },
+ "hedef_sure": 560,
+ "hiz_max": 1.12,
+ "altyazi": false,
+ "sahneler": [
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s01.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s01.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "OLİMPİA'YA GİDEN YOL",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 0.0,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.5,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 31.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 31.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s02.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s02.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DÖRT YILDA BİR — FESTİVAL",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 32.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 32.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s03.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s03.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "EKECHEİRİA — KUTSAL ATEŞKES",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 3.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 10.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 16.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 40.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s04.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s04.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "YOLCULUK — ÇINAR ALTI GECE",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 1.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 6.0,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 12.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 32.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s05.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s05.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ALTİS — KUTSAL KORU",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 1.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 38.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 38.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s06.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s06.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KAYIT VE YEMİN",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 2.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+     "t": 10.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 18.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 28.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s07.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s07.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ATLET KAMPI — KLADEOS",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 36.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 6.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 14.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 36.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s08.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s08.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ÇIPLAK DEĞİL — HENÜZ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 2.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 12.0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/tap.opus",
+     "t": 20.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 37.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s09.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s09.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ZEYTİNYAĞI RİTÜELİ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 3.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape2.opus",
+     "t": 12.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 20.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 39.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s10.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s10.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "BALBİS — START TAŞI",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus",
+     "t": 4.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 12.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/tap.opus",
+     "t": 20.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 36.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s11.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s11.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "RAKİPLER — KOROİBOS",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 4.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 12.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 22.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s12.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s12.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "TEK DAL — STADION",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+     "t": 2.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/tap.opus",
+     "t": 8.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 18.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 28.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s13.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s13.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SEYİRCİ BAYIRLARI",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour6.opus",
+     "t": 6.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 16.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 24.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s14.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s14.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HERAİA — KIZLARIN KOŞUSU",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 3.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 10.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 16.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 28.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s15.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s15.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "FESTİVAL SABAHI",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 26.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 6.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+     "t": 14.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/tap.opus",
+     "t": 20.0,
+     "kazanc_db": -22
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s16.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s16.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "YARIŞ — 192,27 METRE",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 0.0,
+     "kazanc_db": -17
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus",
+     "t": 1.2,
+     "kazanc_db": -17
+    },
+    {
+     "dosya": "sfx/0ad/music/Taiko_1.ogg",
+     "t": 4.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 14.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour7.opus",
+     "t": 14.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 22.0,
+     "kazanc_db": -22
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s17.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s17.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SONUÇ — İLK ŞAMPİYON",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 2.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 6.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 14.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 24.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s18.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s18.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KOTİNOS — ZEYTİN ÇELENGİ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 2.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour6.opus",
+     "t": 8.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 14.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 22.0,
+     "kazanc_db": -22
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s19.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s19.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DÜRÜST TARİH",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 3.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+     "t": 12.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 20.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 28.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/015-ilk-olimpiyat/uzun/gorseller/s20.png",
+   "anlatim": "bolumler/015-ilk-olimpiyat/uzun/ses/s20.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "2772 YIL SONRA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 0.2,
+     "kazanc_db": -17
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 4.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 12.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 22.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 26.0
+    }
+   ],
+   "ek_sure": 0.9
+  }
+ ]
+}
