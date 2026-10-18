@@ -13,6 +13,7 @@ Style: BaslikKart,Montserrat ExtraBold,104,&H00FFFFFF,&H000000FF,&H00202020,&H96
 Style: BaslikKart2,Montserrat ExtraBold,54,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
 Style: Kapanis,Montserrat ExtraBold,84,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
 Style: KapanisAlt,Montserrat ExtraBold,46,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,50,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -24,7 +25,8 @@ Dialogue: 1,0:00:27.46,0:00:32.60,TarihBandi,,0,0,0,,AKŞAM
 Dialogue: 1,0:00:32.40,0:00:37.34,TarihBandi,,0,0,0,,GECE YARISI
 Dialogue: 1,0:00:37.14,0:00:42.40,TarihBandi,,0,0,0,,SABAH — 07:30
 Dialogue: 1,0:00:42.20,0:00:47.34,TarihBandi,,0,0,0,,SAAT 08:00
-Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,EĞER 79'DA OLSAYDIM
-Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,MERAKLI: 18 SAAT — KAÇ YA DA KAL
-Dialogue: 4,0:00:52.57,0:00:55.07,Kapanis,,0,0,0,,HANGİ SAATTE?
-Dialogue: 4,0:00:52.87,0:00:55.07,KapanisAlt,,0,0,0,,YORUMLARA YAZ
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(540,773)}EĞER 79'DA\NOLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(540,1054)}MERAKLI: 18 SAAT — KAÇ YA DA\NKAL
+Dialogue: 4,0:00:52.57,0:00:55.07,Kapanis,,0,0,0,,{\an5\pos(540,706)}HANGİ SAATTE?
+Dialogue: 4,0:00:52.87,0:00:55.07,KapanisAlt,,0,0,0,,{\an5\pos(540,873)}YORUMLARA YAZ
+Dialogue: 4,0:00:53.17,0:00:55.07,Abone,,0,0,0,,{\an5\pos(540,1050)}KANALIMA ABONE OLMAYI\NUNUTMAYIN!
