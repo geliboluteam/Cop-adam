@@ -47,3 +47,10 @@ Kapanış: "NEREYE KOŞARDIN?" / "YORUMLARA YAZ" / abone (otomatik)
 SFX: deprem = 0ad thunder + building_collapse_large (modern analoji);
 yangın = fire_loop; kalabalık = clamour; mozaik = pencil-scratch/scrape;
 müzik: The_Hellespont.
+
+---
+
+## DURUM: B010 MÜHÜRLENDİ (2026-10-18)
+1. Tur A ✅ (5c7f2e9 + 360db0d) · 2. Tur B ✅ FİNAL: 9:13.60 / x1.118 /
+   -14.3 LUFS / 89.7 MB (fc0f3e7) · 3. Tur C ✅: YAYIN.md + SFX künyesi +
+   kapak bolum-010.png (ANTAKYA/MS 526) + YOL_HARİTASI B10 ✅

@@ -241,3 +241,22 @@ künyesini ve genel arşiv envanterini tutar.
 - Rivayet/rüya tonu: JaggedStone `magical_1` (Munch sahnesi — temsili)
 - Gerilim vuruşu: 0ad `Taiko_1/2` — **modern davul analojisi**
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
+
+---
+
+## BÖLÜM 010 — ANTAKYA 526 (uzun video)
+
+- Deprem/gümbürtü: 0ad `thunder_10` (CC-BY-SA) — **MODERN ANALOJİ**
+- Yapı çökmesi: 0ad `attack/destruction/building_collapse_large_01`
+  (CC-BY-SA) — **MODERN ANALOJİ** (526'dan özgün kayıt yoktur; beyan)
+- Yangın/kor: PagDev `fire_loop` (CC0)
+- Rüzgar/fırtına: 0ad `wind_11`, `windgust_11`, `rain_11` (CC-BY-SA)
+- Mozaik/usta işi: Owlish `pencil-scratch-1`, `scrape1/2/3` (CC0)
+- Altın/sandık/metal: OpenHV `klink` (CC0)
+- Kalabalık/pazar: Owlish `clamour1-7` (CC0) — temsili
+- Nefes/heyecan: Owlish `breath-male`, `gasp1` (CC0)
+- Adım/kaçış: Owlish `hard-footstep2` (CC0)
+- Gece ortamı: Owlish `night-crickets` (CC0)
+- Müze tıkırtısı: Owlish `tap` (CC0) — temsili
+- Gerilim vuruşu: 0ad `Taiko_1/2` — **modern davul analojisi**
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
