@@ -46,6 +46,7 @@ BOLUMLER = {
     "005": dict(beyaz="MALAZGİRT", kirmizi="1071"),
     "006": dict(beyaz="KARA\nVEBA", kirmizi="1348"),
     "007": dict(beyaz="POMPEII", kirmizi="MS 79"),
+    "008": dict(beyaz="HERCULANEUM", kirmizi="MS 79"),
 }
 
 

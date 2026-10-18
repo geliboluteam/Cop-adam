@@ -179,3 +179,22 @@ künyesini ve genel arşiv envanterini tutar.
 - Fırça/kalem: Owlish `pencil-scratch-1/2` (kazı fırçası temsili, CC0)
 - Parşömen/defter: Owlish `pageturn1` (CC0); metal: OpenHV `klink` (CC0)
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
+
+---
+
+## BÖLÜM 008 — HERCULANEUM PAKETİ (uzun video + 2 Shorts)
+
+- Patlama/gürleme: Thimras `cannon_fire` (CC0, OGA) — **modern top ateşi
+  analojisi** (79'dan özgün ses kaydı yoktur; YAYIN.md'de beyan edildi)
+- Gerilim/zafer vuruşu: 0ad `Taiko_2` — modern davul analojisi
+- Deniz/dalga: 0ad `water/wave_21` / `wavecrash_21` (CC-BY-SA)
+- Rüzgar: 0ad `wind_11`/`windgust_11`; ortam: `day_temperate_11`,
+  Owlish `night-crickets` (CC0)
+- Ateş/mum: PagDev `fire_loop` (CC0)
+- Taş/adım: Owlish `hard-footstep1-4`, `grass_footsteps` (CC0)
+- Kumaş: `320137__owlstorm__blanket-movement-1` (CC0)
+- Nefes/şaşkınlık: Owlish `breath-male`, `gasp1` (CC0)
+- Kalabalık/kazı mırıltısı: Owlish `clamour1/2` (CC0) — temsili
+- Kalem/sayaç: Owlish `pencil-scratch-1/2` (CC0)
+- Parşömen/defter: Owlish `pageturn1` (CC0); metal: OpenHV `klink` (CC0)
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)

@@ -36,7 +36,9 @@ Küçük resim: `kapaklar/thumbnail/bolum-008.png` (Tur D)
 kömürleşen tomarlar → 2023 yapay zekâ zaferi.
 
 ## Üretim Sırası
-1. Tur A: uzun sahneler 1-10 (ses + 16:9 görsel)
-2. Tur B: uzun 11-20 + derleme
-3. Tur C: Shorts-1 + derleme
-4. Tur D: Shorts-2 + derleme + YAYIN.md + SFX künyesi + YouTube kapağı
+1. Tur A: ✅ uzun sahneler 1-10 üretildi
+2. Tur B: ✅ uzun sahneler 11-20 + derleme (7:50, x1.00, 65 MB, maxrate 1300k)
+3. Tur C: ✅ Shorts-1 "4 Dakika" (53,7 sn, hız POV'u, tarih bantlı sayaç)
+4. Tur D: ✅ Shorts-2 "Okunamayan Kütüphane" (54,5 sn, Villa dei Papiri →
+   2023 Vesuvius Challenge) + YAYIN.md + SFX künyesi
+   + YouTube kapağı (`kapaklar/thumbnail/bolum-008.png`)
