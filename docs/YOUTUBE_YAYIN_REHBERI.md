@@ -67,3 +67,9 @@ Her videonun kapanış kartı ÜÇ satırdır ve kademeli olarak belirir:
   `kapanis_karti.abone = ""` yazılarak tek video için kapatılabilir.
 - Satırlar PIL ile ölçülüp garantili %4.5H boşlukla istiflenir —
   üst üste binme olamaz (kart istif düzeltmesi ile aynı sistem).
+
+---
+
+> **FORMAT GÜNCELLEMESİ (2026-10-18):** B014'ten itibaren YALNIZ uzun
+> video üretilir; Shorts bölümleri artık geçerli değildir (B013 son
+> Shorts'lu pakettir). Kural: docs/YOL_HARITASI.md.

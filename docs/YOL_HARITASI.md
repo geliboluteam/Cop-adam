@@ -36,7 +36,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 
 | Bölüm | Konu | Yıl/Mekân | Kanca | Durum |
 |---|---|---|---|---|
-| 13 | 13 | 80 MS, Roma | Gladyatör: ilk kez arenaya çıkıyorum | ⬜ |
+| 13 | 13 | 80 MS, Roma | Gladyatör: ilk kez arenaya çıkıyorum | ✅ |
 | 14 | 14 | ~MÖ 2560, Giza | Piramit işçisinin bir günü (ücret, bira, rampa) | ⬜ |
 | 15 | 24 | MÖ 776, Olimpia | İlk Olimpiyat koşucusu (çıplak, zeytin yağı) | ⬜ |
 | 16 | 35 | MÖ 399, Atina | Kartaca kuşatmasında sivil (MÖ 149-146) — veya Sokrates duruşması izleyicisi (Konu 34) | ⬜ |
@@ -106,3 +106,12 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 - Apollo 11 bölümünde NASA'nın kamu malı görev kontrol ses kayıtları
   kullanılabilir (gerçek çağdaş kayıt!). Titanic/WWI gibi konularda çağdaş
   kayıt yokluğu açıklamada belirtilir, modern analoji kullanılır.
+
+---
+
+## FORMAT KURALI GÜNCELLEMESİ (2026-10-18, kullanıcı talimatı)
+
+**B014'ten itibaren YALNIZ UZUN VİDEO (5-10 dk, 20 sahne) üretilir.**
+Shorts üretimi sona ermiştir (B005-B013 arası 9 Shorts arşivde duruyor).
+Paketin kalan öğeleri sürer: YAYIN.md, SFX künyesi, YouTube kapağı
+(yalnız uzun video), GitHub push, aboneli kapanış kartı.

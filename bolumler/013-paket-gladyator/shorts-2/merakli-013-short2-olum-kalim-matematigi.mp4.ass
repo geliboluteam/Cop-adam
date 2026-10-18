@@ -1,0 +1,34 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,58,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,430,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,104,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,54,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,84,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,46,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,50,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:05.86,TarihBandi,,0,0,0,,GERÇEK MATEMATİK
+Dialogue: 1,0:00:05.66,0:00:11.03,TarihBandi,,0,0,0,,VERİ — 100 DÖVÜŞ
+Dialogue: 1,0:00:10.83,0:00:16.66,TarihBandi,,0,0,0,,BEŞTE DÖRT AYAKTA
+Dialogue: 1,0:00:16.46,0:00:22.82,TarihBandi,,0,0,0,,MISSİO — MERHAMET
+Dialogue: 1,0:00:22.62,0:00:28.39,TarihBandi,,0,0,0,,KALABALIK — MITTE!
+Dialogue: 1,0:00:28.19,0:00:33.60,TarihBandi,,0,0,0,,POLLICE VERSO — SIR
+Dialogue: 1,0:00:33.40,0:00:39.86,TarihBandi,,0,0,0,,1872 — BİR TABLO
+Dialogue: 1,0:00:39.66,0:00:45.43,TarihBandi,,0,0,0,,GLADYATÖR = YATIRIM
+Dialogue: 1,0:00:45.23,0:00:51.96,TarihBandi,,0,0,0,,RUDİS — TAHTA KILIÇ
+Dialogue: 1,0:00:51.76,0:00:59.42,TarihBandi,,0,0,0,,SEN NE YAPARDIN?
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(540,773)}EĞER 80'DE\NOLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(540,1054)}MERAKLI: ÖLÜM KALIM\NMATEMATİĞİ
+Dialogue: 4,0:00:57.52,0:01:00.02,Kapanis,,0,0,0,,{\an5\pos(540,706)}BAŞPARMAĞIN\NHANGİ YÖNDE?
+Dialogue: 4,0:00:57.82,0:01:00.02,KapanisAlt,,0,0,0,,{\an5\pos(540,925)}YORUMLARA YAZ
+Dialogue: 4,0:00:58.12,0:01:00.02,Abone,,0,0,0,,{\an5\pos(540,1102)}KANALIMA ABONE OLMAYI\NUNUTMAYIN!
