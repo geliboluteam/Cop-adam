@@ -1,64 +1,89 @@
-# BÖLÜM 01 — YAYIN PAKETİ (YouTube Shorts) · v2 MERAKLI
+# BÖLÜM 001 UZUN — FETHİN İZCİSİ 1453 · YAYIN DOSYASI (YALNIZ UZUN VİDEO)
 
-Video: `merakli-bolum-001-1453-izci.mp4` · 1080x1920 · ~57 sn · 30 fps · -14 LUFS · 10 sahne
+Rol: 1453'te Osmanlı ordusunda izci Meraklı (kurgu karakter; kuşatma
+kronolojisi, Lycus vadisi/St. Romanüs mevzilenmesi, 21-22 Nisan gemi
+yürütme güzergâhı, savunmacı sayıları ve Kerkoporta anlatısı tarihsel
+dayanaklıdır — başlıca kaynaklar Barbaro'nun günlüğü, Sphrantzes,
+Kritoboulos ve Doukas'tır).
+Not: Bu, B001'in uzun format (20 sahne) yeniden üretimidir; eski kısa
+format arşivde durur. Konu 1 (Seri A — Fethi & Osmanlı).
 
-## BAŞLIK (önerilen — kopyala-yapıştır)
+---
 
-```
-EĞER 1453'TE OLSAYDIM: MERAKLI, Fatih'in Ordusunda Bir İZCİ 😱 #shorts
-```
+## VİDEO — UZUN VİDEO (ana bölüm)
 
-Alternatifler (A/B testi için):
-```
-Adım MERAKLI: İstanbul'un Fethinde Bir İzci | 1453 #tarih
-GEMİLER KARADAN YÜRÜDÜĞÜ GECE — MERAKLI 1453'te #shorts
-```
+**Dosya:** `uzun/merakli-001-uzun-izci.mp4` · 10:31 · 1920×1080 · 20 sahne
+**Küçük resim:** `kapaklar/thumbnail/bolum-001.png` (v4: "SURLAR ÇÖKÜYOR!" / 1453)
 
-## AÇIKLAMA (kopyala-yapıştır)
-
-```
-Nisan 1453. Adım MERAKLI: boynunda kırmızı fularıyla tarihin içine düşen meraklı çöp adam. Bu bölümde Fatih Sultan Mehmed'in ordusunda bir İZCİ: Urban Usta'nın dev Şahi topunun gürlüşünü, gece surlara sürünen görevleri, nöbetçi meşalesinden kıl payı kurtulmayı, gemilerin karadan yürütüldüğü o inanılmaz geceyi ve 29 Mayıs sabahının son hücumunu... tam ortasından yaşıyor. 🔴🎙️
-
-⚠️ DÜRÜST TARİH NOTU: Surlara sancağı diken kişinin kimliği kaynaklarda tartışmalıdır; çağdaş kayıtlarda "Ulubatlı Hasan" ismi geçmez — video bu yüzden "efsaneye göre" der. Kuşatma: 6 Nisan – 29 Mayıs 1453. Gemilerin karadan yürütülmesi: 21–22 Nisan gecesi (kaynaklar 67–72 gemi der). Şahi topu: ~76 cm çap, ~18 ton, ~320 kg gülle.
-
-🔊 SES KÜNYESİ — Bu videodaki ses efektleri gerçek kayıtlardır. 1453'ün özgün ses kaydı yoktur (ilk ses kaydı 1877); top, patlama ve savaş davulu sesleri MODERN ANALOJİ kayıtlardır, dönemin özgün sesi gibi sunulmamıştır. Doğa sesleri (rüzgâr, dalga, ateş, cırcır böceği) türdeş gerçek kayıtlardır:
-• Top ateşi — Thimras, CC0 — opengameart.org/content/cannon-fire
-• Patlamalar — smcameron, CC-BY 3.0 — freesound.org/people/smcameron/sounds/51467
-• Top ateşi (katman) — sarge4267, CC-BY 3.0 — freesound.org/people/sarge4267/sounds/102720
-• Kamp ateşi — PagDev, CC0 — opengameart.org/content/fireplace-sound-loop
-• Gece cırcır böcekleri, adım sesleri, korkulu nefes — OwlishMedia, CC0 — opengameart.org/content/sound-effects-pack
-• Gemi çanı — nigelk, kamu malı — whythereyouare.com/ships-bells-applications
-• Sahne geçişleri — qubodup, CC0 — opengameart.org/content/swooshes
-• Metal sesleri — OpenHV projesi, CC0 — github.com/OpenHV/OpenHV
-• Ok/yay, yapı çöküşü, rüzgâr, dalgalar, gündüz ortamı — 0 A.D. (Wildfire Games), CC-BY-SA 3.0 — github.com/0ad/0ad
- Müzik ve savaş davulu (Taiko, modern analoji): "The Hellespont" & "Taiko 2" — 0 A.D. müzik ekibi (temel besteci Omri Lahav), CC-BY-SA 3.0 — github.com/0ad/0ad
-
-🎨 Görseller ve seslendirme yapay zekâ ile üretilmiştir. Karakter (MERAKLI), senaryo ve kurgu özgündür.
-
-#tarih #1453 #istanbul #istanbulunfethi #fatih #osmanlı #shorts #keşfet #tarihtebugün #meraklı #çöpadam #eğerolsaydım
-
-Sıradaki bölümü SEN seç: hangi tarihte, kim olarak olayım? Yorumlara yaz! 👇
-```
-
-## ETİKETLER (virgüllü)
+### BAŞLIK (kopyala-yapıştır)
 
 ```
-tarih, istanbulun fethi, 1453, fatih sultan mehmet, osmanlı, tarihte bugün, keşfet, shorts, animasyon, meraklı, çöp adam, eğer olsaydım, what if, history shorts, ottoman empire, constantinople, siege, tarihi olaylar, belgesel, eğitici
+EĞER 1453'TE OLSAYDIM: FETHİN İZCİSİ — 53 Günü Gördüm 🏰👁️ [TAM BÖLÜM]
 ```
 
-## YÜKLEME KONTROL LİSTESİ
+### AÇIKLAMA (kopyala-yapıştır)
 
-- [x] 9:16, 1080x1920, ~57 sn (< 60 sn)
-- [x] 10 ayrı sahne görseli (hepsi aynı MERAKLI karakteri)
-- [x] Yanık altyazı + 3 tarih bandı (6 NİSAN / 21-22 NİSAN / 29 MAYIS)
-- [x] -14 LUFS miks, anlatıcı önde
-- [ ] Yüklemeden sonra sabit yorum: "Sıradaki durak neresi? 👇"
-- [ ] Çalma listesi: "EĞER OLSAYDIM — TÜM BÖLÜMLER"
-- [x] Kapak hazır: `kapaklar/bolum-001.png` (şablon: `araclar/kapak_yap.py`, sistem: `docs/KAPAK_SISTEMI.md`)
+```
+6 Nisan - 29 Mayıs 1453. Ben Meraklı: ordunun en öncesindeki izci.
+Gediği ben buldum, güzergâhı ben ölçtüm, lağımları kulağımla duydum —
+ve 29 Mayıs şafağında o küçük kapıyı... Gördüğüm her şeyi rapor ettim;
+şimdi sana anlatıyorum.
 
-## KAYNAKLAR
+Bu bölümde:
+⏱ 0:04 — EDİRNE'DEN YOLA
+⏱ 0:31 — AKINCI ÖNCÜLERİ
+⏱ 1:02 — İLK GÖRÜŞ: ŞEHİR
+⏱ 1:36 — RAPOR: LYCUS VADİSİ
+⏱ 2:06 — ORDU KAÇ KİŞİ?
+⏱ 2:40 — ŞAHİ YOLDA
+⏱ 3:10 — 6 NİSAN: İLK ATIŞLAR
+⏱ 3:38 — ESİR İSTİHBARATI
+⏱ 4:14 — 20 NİSAN: DENİZ SAVAŞI
+⏱ 4:48 — GÜZERGÂH KEŞFİ
+⏱ 5:25 — 21-22 NİSAN: GECE
+⏱ 6:01 — HALİÇ'TE İKİ DONANMA
+⏱ 6:24 — MAYIS: YORGUNLUK
+⏱ 6:52 — LAĞIM SAVAŞI
+⏱ 7:19 — SON ELÇİLİK
+⏱ 7:45 — 28 MAYIS: ÇİFT DUA
+⏱ 8:12 — 29 MAYIS: 01:30
+⏱ 8:39 — ŞAFAK: ÜÇÜNCÜ DALGA
+⏱ 9:17 — FATİH ŞEHİRDE
+⏱ 9:48 — DÜRÜST TARİH + VEDA
+(Zaman damgaları yaklaşıktır; YouTube Studio'da ince ayar yapın.)
 
-- Kuşatma kronolojisi ve gemi sayıları: tr.wikipedia.org/wiki/İstanbul'un_Fethi · bbc.com/turkce/articles/c4nn7rwwl4ko
-- Şahi topu teknikleri: osmanlitarihi.net (İstanbul'un Fethi)
-- Ulubatlı Hasan kaynak tartışması: turktarih.com/efsaneler-gercekler/ulubatli-hasan-gercek-mi/
-- Detaylı araştırma notu: `arastirma/001-1453-istanbulun-fethi-izci.md`
+📌 DÜRÜST TARİH NOTU: "İzci Meraklı" kurgu bir karakterdir. Gerçek
+olan: Kuşatma 6 Nisan-29 Mayıs 1453 arasında 53 gün sürdü; Fatih'in
+otağı St. Romanüs (Topkapı) önüne kuruldu. 21-22 Nisan gecesi 67-72
+gemi (kaynağa göre değişir) yağlı kızaklarla Dolmabahçe-Taksim-
+Kasımpaşa güzergâhından (~3 km) Haliç'e indirildi. Ordu büyüklüğü
+kaynaklarda şişkindir: Barbaro 160.000, Sphrantzes/Doukas 200.000,
+Hammer 250.000 yazar; modern tarihçiler 60-80.000'e iner — kesin sayı
+bilinmez. Savunmacılar Sphrantzes'e göre 4.773 Yunan + ~3.000 gönüllü
+= 8.000'in altında; ~20 km kara suru. KERKOPORTA hikâyesi (açık
+kalan küçük kapı) canlı ama TARTIŞMALI bir rivayettir; Konstantin
+XI'in son anları kaynaklarda farklı anlatılır, kesin bilinmez.
+Elçiliğe verilen cevap ("şehri vermek bana düşmez") aktarılan bir
+sözdür. Yağma süresi kaynaklarda 1-3 gün arasında tartışılır.
+Ulubatlı Hasan anlatısı rivayettir. Hiçbir kaynak "nötr kamera"
+değildir: Barbaro Venedikli, Sphrantzes saraya yakın, Kritoboulos
+Osmanlı himayesinde yazmıştır. Top ve çatışma sesleri MODERN TOP/
+YAPI ANALOJİSİDİR; 1453'ten özgün ses kaydı yoktur.
+
+Seslendirme: MERAKLI (voice-02) · Görseller: MERAKLI evreni
+Bir "Eğer Orada Olsaydım" hikâyesi.
+```
+
+### ETİKETLER
+
+```
+istanbulun fethi, 1453, fatih sultan mehmed, konstantinopolis, kuşatma, osmanlı tarihi, izci, akıncı, şahi topu, gemilerin karadan yürütülmesi, kerkoporta, haliç, tarih belgeseli, eğer orada olsaydım, meraklı
+```
+
+---
+
+## Yayın kontrol listesi
+- [ ] `bolum-001.png` kapağını yükle (v4 mevcut)
+- [ ] Zaman damgalarını Studio'da ince ayarla
+- [ ] Shorts YOK (kalıcı format kuralı)
+- [ ] Not: eski kısa format video (56,9 sn) arşivde; uzun sürümü yükle

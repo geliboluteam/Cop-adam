@@ -321,3 +321,23 @@ künyesini ve genel arşiv envanterini tutar.
 - Geçiş: qubodup `swosh-01` (CC0)
 - Ortam: 0ad `day_temperate_11`, `wind_11` (CC-BY-SA)
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
+
+---
+
+## BÖLÜM 001 UZUN — FETHİN İZCİSİ (remake; uzun video)
+
+- Top ateşi: Thimras `cannon_fire` (CC0, OGA) — **MODERN TOP ATEŞİ
+  ANALOJİSİ** (1453'ten özgün kayıt yoktur; beyan)
+- Kuşatma kalabalığı: Owlish `clamour1-7` (CC0) — temsili
+- Kızak/lağım kazma sesleri: Owlish `scrape1/2/3` (CC0) — temsili
+- Adım/hücum: Owlish `hard-footstep2` (CC0)
+- Nefes/gerilim: Owlish `breath-male`, `gasp1` (CC0)
+- Kâğıt/rapor: Owlish `pencil-scratch-1`, `pageturn1`, `tap` (CC0)
+- Metal/nal/çanak: OpenHV `klink` (CC0)
+- Kamp ateşi: PagDev `fire_loop` (CC0)
+- Rüzgar/deniz: 0ad `wind_11` (CC-BY-SA), 0ad `water/wave_21` (CC-BY-SA)
+- Gece ortamı: Owlish `night-crickets` (CC0)
+- Şafak/zafer: JaggedStone `magical_1` (CC0) — temsili
+- Gerilim vuruşu: 0ad `Taiko_1/2` — **modern davul analojisi**
+- Geçiş: qubodup `swosh-01` (CC0)
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)

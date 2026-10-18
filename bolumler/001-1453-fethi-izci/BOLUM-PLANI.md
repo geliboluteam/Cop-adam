@@ -1,5 +1,9 @@
 # BÖLÜM 001 PLANI — FETHİN İZCİSİ, 1453 (uzun format remake)
 
+> 🔒 **MÜHÜR (2026-10-18):** Tamamlandı — `uzun/merakli-001-uzun-izci.mp4`
+> 10:30.6 · x1.120 · −14.3 LUFS · TP −1.3 · 93,8 MB · 70 efekt ·
+> kapak `bolum-001.png` (v4, mevcut). YAYIN.md hazır.
+
 > Bu dosya B001'in **uzun format (20 sahne, 5-10 dk) yeniden üretim**
 > planıdır. Eski kısa format (56,9 sn, 10 sahne) arşiv olarak kökte
 > durur: `merakli-bolum-001-1453-izci.mp4`. Yeni çıktı:
