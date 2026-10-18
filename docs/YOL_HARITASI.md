@@ -5,7 +5,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 
 ## PAKET DÜZENİ (yeni format)
 
-- Bölüm 05'ten itibaren her konu: **1 uzun video (20 sahne, 5-10 dk) + 2 Shorts
+- Bölüm 05'ten itibaren her konu: **1 uzun video (20 sahne, 5-12 dk) + 2 Shorts
   (10+10 sahne) + YouTube küçük resmi — YALNIZ uzun videoya; Shorts'a kapak
   yok (kalıcı kural)** (`kapaklar/thumbnail/`, `araclar/thumbnail_yap.py`).
 - Bölüm 01-04: eski format (tek Shorts). Bölüm 05 = ilk paket (Malazgirt).
@@ -111,7 +111,9 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 
 ## FORMAT KURALI GÜNCELLEMESİ (2026-10-18, kullanıcı talimatı)
 
-**B014'ten itibaren YALNIZ UZUN VİDEO (5-10 dk, 20 sahne) üretilir.**
+**B014'ten itibaren YALNIZ UZUN VİDEO (5-12 dk, 20 sahne) üretilir.**
+(Aralık 2026-10-18'de kullanıcı talimatıyla 5-10 → 5-12 dk olarak
+genişletildi; B001 10:30 ve B015 10:08 bu aralıkta kalır.)
 Shorts üretimi sona ermiştir (B005-B013 arası 9 Shorts arşivde duruyor).
 Paketin kalan öğeleri sürer: YAYIN.md, SFX künyesi, YouTube kapağı
 (yalnız uzun video), GitHub push, aboneli kapanış kartı.
