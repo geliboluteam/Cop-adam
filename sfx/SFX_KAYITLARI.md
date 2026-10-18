@@ -260,3 +260,19 @@ künyesini ve genel arşiv envanterini tutar.
 - Müze tıkırtısı: Owlish `tap` (CC0) — temsili
 - Gerilim vuruşu: 0ad `Taiko_1/2` — **modern davul analojisi**
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
+
+---
+
+## BÖLÜM 012 — LONDRA 1666 (uzun video; Konu 28 de işlendi)
+
+- Yangın/alev: PagDev `fire_loop` (CC0) — katmanlı yangın ortamı
+- Barut patlaması (yangın duvarı): Thimras `cannon_fire` (CC0, OGA) —
+  **MODERN TOP ATEŞİ ANALOJİSİ** (1666'dan özgün kayıt yoktur; beyan)
+- Rüzgar/fırtına: 0ad `wind_11`, `windgust_11`, `rain_11` (CC-BY-SA)
+- Thames/nehir: 0ad `water/wave_21` (CC-BY-SA)
+- Kalabalık/panik: Owlish `clamour1-8` (CC0) — temsili
+- Nefes/şaşkınlık: Owlish `breath-male`, `gasp1` (CC0)
+- Mahkeme/ofis: Owlish `pencil-scratch-1`, `pageturn1`, `tap` (CC0)
+- İnşaat: Owlish `scrape1/2` (CC0); metal: OpenHV `klink` (CC0)
+- Gerilim vuruşu: 0ad `Taiko_1/2` — **modern davul analojisi**
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)

@@ -49,6 +49,7 @@ BOLUMLER = {
     "008": dict(beyaz="HERCULANEUM", kirmizi="MS 79"),
     "009": dict(beyaz="KRAKATOA", kirmizi="1883"),
     "010": dict(beyaz="ANTAKYA", kirmizi="MS 526"),
+    "012": dict(beyaz="LONDRA", kirmizi="1666"),
     "013": dict(beyaz="GLADYATÖR", kirmizi="MS 80"),
 }
 

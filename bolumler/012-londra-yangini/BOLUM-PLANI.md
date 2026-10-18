@@ -60,3 +60,11 @@ müzik: The_Hellespont.
    görsel kotasına takıldı — Tur C'de) + plan.json yazıldı (79 efekt).
    KALAN (Tur C): s19 görseli + derleme + YAYIN.md + SFX künyesi + kapak
    bolum-012.png (LONDRA/1666) + YOL_HARİTASI B12 ✅ + B11 "işlendi" notu.
+
+---
+
+## DURUM: B012 MÜHÜRLENDİ (2026-10-18)
+1. Tur A ✅ (0c96a74 + 2954102) · 2. Tur B ✅ (d04f4f9) ·
+3. Tur C ✅ FİNAL: derleme 9:51.60 / x1.120 / -14.2 LUFS / 89.4 MB +
+   YAYIN.md + SFX künyesi + kapak bolum-012.png (LONDRA/1666) +
+   YOL_HARİTASI B12 ✅ (+ B11 "işlendi" notu). Konu 28 bu bölümde işlendi.
