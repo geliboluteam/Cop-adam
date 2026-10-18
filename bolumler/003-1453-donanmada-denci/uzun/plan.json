@@ -1,0 +1,617 @@
+{
+ "format": "16:9",
+ "encode_preset": "veryfast",
+ "crf": 23,
+ "maxrate": "1300k",
+ "baslik_karti": {
+  "yazi1": "EĞER 1453'TE OLSAYDIM",
+  "yazi2": "MERAKLI: DONANMADA DENCİ"
+ },
+ "kapanis_karti": {
+  "yazi": "HANGİ ROLÜ SEÇERDİN?",
+  "alt": "YORUMLARA YAZ"
+ },
+ "muzik": {
+  "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+  "kazanc_db": -21
+ },
+ "hedef_sure": 600,
+ "hiz_max": 1.12,
+ "altyazi": false,
+ "sahneler": [
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s01.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s01.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GELİBOLU: TERSANE",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 0.0,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.5,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 35.0
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 10.0,
+     "kazanc_db": -23
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s02.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s02.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DONANMA AÇILIYOR",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 36.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 36.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 20.0,
+     "kazanc_db": -23
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s03.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s03.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ŞEHİR DENİZDEN",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 38.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 18.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 28.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s04.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s04.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "18 NİSAN: ADALAR",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 35.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 6.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 18.0,
+     "kazanc_db": -22
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s05.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s05.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "20 NİSAN: DÖRT YELKEN",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/music/Taiko_2.ogg",
+     "t": 2.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 12.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 8.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 16.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 38.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s06.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s06.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SAVAŞ: BORDALAR",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 8.0,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 14.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 22.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 32.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 43.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s07.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s07.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "RÜZGÂR DÖNDÜ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -19,
+     "dongu": true,
+     "sure": 40.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 10.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 26.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 34.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s08.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s08.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "YENİLGİ SABAHI",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 35.0
+    },
+    {
+     "dosya": "sfx/0ad/music/Taiko_1.ogg",
+     "t": 8.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 8.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 24.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s09.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s09.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ZİNCİR",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 36.0
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 14.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 26.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s10.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s10.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GEMİLER KARAYA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 3.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 8.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 20.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape3.opus",
+     "t": 20.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 28.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 10.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s11.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s11.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GECE YÜRÜYÜŞÜ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape2.opus",
+     "t": 2.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape3.opus",
+     "t": 12.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 24.0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 30.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 38.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s12.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s12.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "22 NİSAN ŞAFAĞI",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 38.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour6.opus",
+     "t": 8.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 16.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 28.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s13.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s13.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HALİÇ DÜZENİ",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 3.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 12.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 36.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s14.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s14.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "28 NİSAN: ATEŞ GEMİLERİ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 4.0,
+     "kazanc_db": -18,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 14.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 20.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 32.0,
+     "kazanc_db": -23
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s15.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s15.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ABLUKA",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 35.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 35.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 22.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s16.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s16.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "UFUK NÖBETİ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 38.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 38.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 26.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s17.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s17.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "28 MAYIS: MUMLAR",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 38.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 14.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/tap.opus",
+     "t": 26.0,
+     "kazanc_db": -22
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s18.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s18.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "29 MAYIS: SANCAK",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/music/Taiko_1.ogg",
+     "t": 4.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 10.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 14.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 26.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 36.0,
+     "kazanc_db": -23
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s19.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s19.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "LİMAN BİZİM",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 34.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 34.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 20.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 28.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s20.png",
+   "anlatim": "bolumler/003-1453-donanmada-denci/uzun/ses/s20.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DÜRÜST TARİH + VEDA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 0.2,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 38.0
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 18.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 32.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.9
+  }
+ ]
+}
