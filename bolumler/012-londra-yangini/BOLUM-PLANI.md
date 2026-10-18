@@ -51,3 +51,12 @@ Kapanış: "EŞYAN MI, HAYATIN MI?" / "YORUMLARA YAZ" / abone (otomatik)
 SFX: yangın=fire_loop; çöküş=thunder+building_collapse; barut=
 cannon_fire (modern analoji); nehir=wave_21; kalabalık=clamour;
 müzik: The_Hellespont.
+
+---
+
+## DURUM (Tur B sonrası)
+1. Tur A ✅ (0c96a74 + 2954102) — s01-s10
+2. Tur B KISMİ ✅: s11-s20 ses 20/20 + görsel 19/20 (s19 Monument görseli
+   görsel kotasına takıldı — Tur C'de) + plan.json yazıldı (79 efekt).
+   KALAN (Tur C): s19 görseli + derleme + YAYIN.md + SFX künyesi + kapak
+   bolum-012.png (LONDRA/1666) + YOL_HARİTASI B12 ✅ + B11 "işlendi" notu.
