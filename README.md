@@ -26,9 +26,8 @@ bolumler/                  -> üretilen bölümler (görsel, ses, video, yayin m
 kapaklar/thumbnail/        -> GÜNCEL bölüm kapakları — v4 standardı
                               (üretici: araclar/thumbnail_yap.py; sahne/ altında
                               hero görüntüleri + ONIZLEME.png kontak sayfası)
-kapaklar/arsiv-v1, arsiv-v2 -> eski tasarım arşivleri (dokunma)
-kapaklar/shorts/            -> Shorts kapak arşivi (Shorts üretilmiyor)
-kapaklar/temel/             -> şablon/temel görseller
+kapaklar/                   -> yalnızca thumbnail/ alt klasörü vardır
+                              (eski arşivler 2026-10-18'de silindi; gerekirse git geçmişinde)
 araclar/                   -> ffmpeg, fontlar, video üretim betikleri
 ```
 

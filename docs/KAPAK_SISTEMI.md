@@ -106,10 +106,13 @@ Kurallar (yalnız uzun/ana videolara; Shorts'a kapak YOK — v3 sürer):
    YENİLENECEKSE sahne görseli de v4 kompozisyonuyla yeniden üretilir
    (kullanıcı onayına bağlı).
 
-## DİZİN YAPISI DÜZELTMESİ (2026-10-18)
+## DİZİN YAPISI DÜZELTMESİ + ARŞİV TEMİZLİĞİ (2026-10-18)
 
-`kapaklar/` kökünde biriken 55 eski şablon kapak (v2 dönemi, tüm yol
-haritası konuları için önceden üretilmiş; 011/015-055 bölümü hiç yok)
-`kapaklar/arsiv-v2/` altına taşındı. **Güncel kapak YALNIZCA
-`kapaklar/thumbnail/bolum-XXX.png`'dir** (bölüm mühürlenince üretilir).
-Köke asla kapak yazılmaz.
+`kapaklar/` kökünde biriken 55 eski şablon kapak arsiv-v2/'ye taşındı;
+ardından kullanıcı talimatıyla **tüm eski arşivler silindi**:
+arsiv-v1/, arsiv-v2/, shorts/ (55 adet 9:16), temel/ (2 eski şablon
+tabanı) + emekli üreticiler araclar/kapak_yap.py & kapak_yap2.py.
+Kalan tek üretici: `araclar/thumbnail_yap.py` (v4).
+**Güncel kapak YALNIZCA `kapaklar/thumbnail/bolum-XXX.png`'dir**
+(bölüm mühürlenince üretilir). Köke asla kapak yazılmaz.
+Silinenler gerekirse git geçmişinden (64431e7 ve öncesi) kurtarılır.
