@@ -198,3 +198,27 @@ künyesini ve genel arşiv envanterini tutar.
 - Kalem/sayaç: Owlish `pencil-scratch-1/2` (CC0)
 - Parşömen/defter: Owlish `pageturn1` (CC0); metal: OpenHV `klink` (CC0)
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
+
+---
+
+## BÖLÜM 013 — GLADYATÖR PAKETİ (uzun video + 2 Shorts)
+
+- Kılıç/metal çarpma: OpenHV `klink` (CC0) — dövüş koreografisi temsili
+- Arena kalabalığı: Owlish `clamour1-11`, `solo-clap`, `wolf-whistle`,
+  `laugh1` (CC0) — temsili seyirci sesi (antik kayıt yoktur)
+- Düşüş/denge kaybı: Owlish `stumble` (CC0)
+- Nefes/heyecan: Owlish `breath-male`, `gasp1` (CC0)
+- Kum/taş adım: Owlish `hard-footstep1-4` (CC0)
+- Kapı/asansör açılışı: 0ad `windgust_11` (CC-BY-SA) + OpenHV `klink`
+- Hypogeum hayvan hissi: Freesound `516829__matrixxx__lion-growl`
+  (Freesound paketi, README; uzak temsili)
+- Zafer çalkantısı: Freesound `219836__rubberduckie__cymbal-swell-3`
+- Rüya/büyü (rudis): JaggedStone `magical_1`
+- Küllü içecek yudumu: Owlish `drink-sip-and-swallow` (CC0)
+- Gerilim vuruşu: 0ad `Taiko_1/2` — **modern davul analojisi** (beyan)
+- Ateş/meşale: PagDev `fire_loop` (CC0)
+- Kalem/sayaç (matematik): Owlish `pencil-scratch-1` (CC0)
+- Kumaş/hareket: `320137__owlstorm__blanket-movement-1` (CC0)
+- Rüzgar/ortam: 0ad `wind_11`, `day_temperate_11`, Owlish
+  `night-crickets` (CC0)
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
