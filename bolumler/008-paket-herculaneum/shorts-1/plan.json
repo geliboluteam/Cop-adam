@@ -1,0 +1,93 @@
+{
+  "baslik_karti": {"yazi1": "EĞER 79'DA OLSAYDIM", "yazi2": "MERAKLI: 4 DAKİKA"},
+  "kapanis_karti": {"yazi": "HANGİ SANİYE?", "alt": "YORUMLARA YAZ"},
+  "muzik": {"dosya": "sfx/0ad/music/The_Hellespont.ogg", "kazanc_db": -21},
+  "hedef_sure": 57.5,
+  "hiz_max": 1.25,
+  "altyazi": false,
+  "sahneler": [
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-1/gorseller/s01.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-1/ses/s01.mp3", "anlatim_metin": "",
+     "tarih_bandi": "HERCULANEUM — 01:00",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus", "t": 0.0, "kazanc_db": -15},
+       {"dosya": "sfx/0ad/ambient/water/wave_21.ogg", "t": 0.3, "kazanc_db": -19, "dongu": true, "sure": 8.0},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus", "t": 0.5, "kazanc_db": -22, "dongu": true, "sure": 7.5}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-1/gorseller/s02.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-1/ses/s02.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/Thimras/cannon_fire.opus", "t": 0.2, "kazanc_db": -14},
+       {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.5, "kazanc_db": -18, "dongu": true, "sure": 6.0},
+       {"dosya": "sfx/0ad/ambient/weather/windgust_11.ogg", "t": 1.5, "kazanc_db": -15}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-1/gorseller/s03.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-1/ses/s03.mp3", "anlatim_metin": "",
+     "tarih_bandi": "160 KM/SAAT",
+     "efektler": [
+       {"dosya": "sfx/0ad/ambient/weather/windgust_11.ogg", "t": 0.0, "kazanc_db": -13},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus", "t": 0.8, "kazanc_db": -16},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus", "t": 1.4, "kazanc_db": -16},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus", "t": 2.0, "kazanc_db": -16},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep4.opus", "t": 2.6, "kazanc_db": -16}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-1/gorseller/s04.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-1/ses/s04.mp3", "anlatim_metin": "",
+     "tarih_bandi": "7 KM",
+     "efektler": [
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -18, "dongu": true, "sure": 6.5},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus", "t": 1.5, "kazanc_db": -21},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 4.0, "kazanc_db": -20}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-1/gorseller/s05.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-1/ses/s05.mp3", "anlatim_metin": "",
+     "tarih_bandi": "4 DAKİKA",
+     "efektler": [
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 0.6, "kazanc_db": -17},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 1.4, "kazanc_db": -17},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 2.2, "kazanc_db": -17},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 3.0, "kazanc_db": -17},
+       {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.0, "kazanc_db": -24, "dongu": true, "sure": 5.5}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-1/gorseller/s06.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-1/ses/s06.mp3", "anlatim_metin": "",
+     "tarih_bandi": "3 SANİYE",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus", "t": 0.4, "kazanc_db": -19},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus", "t": 0.9, "kazanc_db": -16},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus", "t": 1.3, "kazanc_db": -16},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep4.opus", "t": 1.7, "kazanc_db": -16}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-1/gorseller/s07.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-1/ses/s07.mp3", "anlatim_metin": "",
+     "tarih_bandi": "5 SANİYE",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus", "t": 0.8, "kazanc_db": -18},
+       {"dosya": "sfx/0ad/ambient/water/wave_21.ogg", "t": 0.0, "kazanc_db": -20, "dongu": true, "sure": 6.5},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 4.5, "kazanc_db": -23}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-1/gorseller/s08.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-1/ses/s08.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/PagDev/fire_loop.opus", "t": 0.0, "kazanc_db": -24, "dongu": true, "sure": 7.0},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus", "t": 3.0, "kazanc_db": -25},
+       {"dosya": "sfx/0ad/ambient/water/wave_21.ogg", "t": 0.5, "kazanc_db": -26, "dongu": true, "sure": 6.5}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-1/gorseller/s09.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-1/ses/s09.mp3", "anlatim_metin": "",
+     "tarih_bandi": "SANİYELER",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/Thimras/cannon_fire.opus", "t": 2.0, "kazanc_db": -22},
+       {"dosya": "sfx/0ad/ambient/water/wavecrash_21.ogg", "t": 2.4, "kazanc_db": -24},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus", "t": 4.5, "kazanc_db": -26}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-1/gorseller/s10.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-1/ses/s10.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus", "t": 0.2, "kazanc_db": -16},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 1.0, "kazanc_db": -21},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 1.8, "kazanc_db": -21},
+       {"dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg", "t": 0.5, "kazanc_db": -20, "dongu": true, "sure": 7.5}
+     ], "ek_sure": 0.8}
+  ]
+}
