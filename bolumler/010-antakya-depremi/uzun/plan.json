@@ -1,0 +1,633 @@
+{
+ "format": "16:9",
+ "encode_preset": "veryfast",
+ "crf": 23,
+ "maxrate": "1300k",
+ "baslik_karti": {
+  "yazi1": "EĞER 526'DA OLSAYDIM",
+  "yazi2": "MERAKLI: ANTAKYA — ŞEHRİ SİLEN DEPREM"
+ },
+ "kapanis_karti": {
+  "yazi": "NEREYE KOŞARDIN?",
+  "alt": "YORUMLARA YAZ"
+ },
+ "muzik": {
+  "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+  "kazanc_db": -21
+ },
+ "hedef_sure": 560,
+ "hiz_max": 1.12,
+ "altyazi": false,
+ "sahneler": [
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s01.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s01.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ANTAKYA — MS 526",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 28.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 5.0,
+     "kazanc_db": -22
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s02.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s02.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ŞEHRİN GURURU",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 28.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 28.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 15.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s03.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s03.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "525 — YANGIN ANISI",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 24.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 5.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 24.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s04.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s04.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "BAYRAM SABAHI",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 27.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 1.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour7.opus",
+     "t": 8.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 15.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s05.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s05.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ATÖLYE — TESSERA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 25.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 3.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 12.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s06.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s06.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DEPREM — SABAH ORTASI",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/thunder_10.ogg",
+     "t": 0.2,
+     "kazanc_db": -15
+    },
+    {
+     "dosya": "sfx/0ad/attack/destruction/building_collapse_large_01.ogg",
+     "t": 0.8,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/0ad/music/Taiko_2.ogg",
+     "t": 1.0,
+     "kazanc_db": -19,
+     "dongu": true,
+     "sure": 28.0
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 3.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape2.opus",
+     "t": 6.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 8.0,
+     "kazanc_db": -20
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s07.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s07.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KAÇIŞ — DAĞIN ETEĞİ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/music/Taiko_1.ogg",
+     "t": 0.0,
+     "kazanc_db": -19,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 1.0,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 3.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/0ad/attack/destruction/building_collapse_large_01.ogg",
+     "t": 5.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/thunder_10.ogg",
+     "t": 8.0,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 2.0,
+     "kazanc_db": -16
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s08.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s08.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ATEŞ YAĞMURU",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -17,
+     "dongu": true,
+     "sure": 28.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 1.0,
+     "kazanc_db": -17
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 5.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/music/Taiko_2.ogg",
+     "t": 10.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 18.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s09.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s09.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "YEDİNCİ GÜN — ADA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -19,
+     "dongu": true,
+     "sure": 29.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 29.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 10.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 20.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s10.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s10.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SAYILAR",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 4.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 15.0,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s11.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s11.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ENKAZ — UMUT",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape2.opus",
+     "t": 0.5,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/rain_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 25.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 8.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 14.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s12.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s12.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "18 AY — ARTÇILAR",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/thunder_10.ogg",
+     "t": 10.0,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 20.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s13.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s13.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "29 KASIM 528",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/thunder_10.ogg",
+     "t": 0.3,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/0ad/attack/destruction/building_collapse_large_01.ogg",
+     "t": 1.0,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/0ad/music/Taiko_2.ogg",
+     "t": 1.5,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 20.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 28.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s14.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s14.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KONSTANTİNİPOLİ — YAS",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 2.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 8.0,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 20.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s15.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s15.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "YARDIM — 5 CENTENARİA",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 3.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 6.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/hit.opus",
+     "t": 10.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 18.0,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s16.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s16.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "THEOPOLİS",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 2.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 8.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour7.opus",
+     "t": 12.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 30.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s17.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s17.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ATÖLYE — YENİDEN",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 1.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape3.opus",
+     "t": 10.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 18.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 30.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s18.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s18.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SONRASI — 540",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 28.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 6.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/thunder_10.ogg",
+     "t": 14.0,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s19.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s19.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "1500 YIL SONRA — 2023",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 28.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 3.0,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/tap.opus",
+     "t": 10.0,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 18.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/010-antakya-depremi/uzun/gorseller/s20.png",
+   "anlatim": "bolumler/010-antakya-depremi/uzun/ses/s20.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "VEDA — TAŞ VE ŞEHİR",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 0.2,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 27.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 1.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 26.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 20.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.9
+  }
+ ]
+}
