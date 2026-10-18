@@ -13,6 +13,7 @@ Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H960
 Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
 Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
 Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -29,7 +30,8 @@ Dialogue: 1,0:05:51.08,0:06:13.19,TarihBandi,,0,0,0,,1709 → 1738
 Dialogue: 1,0:06:12.99,0:06:35.80,TarihBandi,,0,0,0,,1752 — PAPİRÜS VİLLASI
 Dialogue: 1,0:06:35.60,0:07:01.12,TarihBandi,,0,0,0,,2023 — YAPAY ZEKÂ
 Dialogue: 1,0:07:00.92,0:07:24.33,TarihBandi,,0,0,0,,BİLİM PENCERESİ
-Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,EĞER 79'DA OLSAYDIM
-Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,MERAKLI: HERCULANEUM — DAKİKALARLA ÖLÇÜLEN SÜRE
-Dialogue: 4,0:07:48.43,0:07:51.03,Kapanis,,0,0,0,,KİMİ ALIRDIN?
-Dialogue: 4,0:07:48.73,0:07:51.03,KapanisAlt,,0,0,0,,YORUMLARA YAZ
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER 79'DA OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: HERCULANEUM — DAKİKALARLA ÖLÇÜLEN SÜRE
+Dialogue: 4,0:07:48.43,0:07:51.03,Kapanis,,0,0,0,,{\an5\pos(960,399)}KİMİ ALIRDIN?
+Dialogue: 4,0:07:48.73,0:07:51.03,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}YORUMLARA YAZ
+Dialogue: 4,0:07:49.03,0:07:51.03,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!
