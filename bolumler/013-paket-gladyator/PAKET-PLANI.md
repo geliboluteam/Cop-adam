@@ -41,5 +41,5 @@ missio, başparmak efsanesi, rudis — myth-busting.
 ## Üretim Sırası
 1. Tur A: uzun sahneler 1-10 (ses + 16:9 görsel) — ✅ (commit 93a3660)
 2. Tur B: uzun 11-20 + derleme — ✅ FİNAL: 9:32.80 / x1.000 / -14.3 LUFS / 83.6 MB / 1080p30
-3. Tur C: Shorts-1 + derleme
+3. Tur C: Shorts-1 + derleme — ✅ FİNAL: 54.50s / x1.075 / -14.3 LUFS / 27.6 MB / 1080x1920@30
 4. Tur D: Shorts-2 + derleme + YAYIN.md + SFX künyesi + YouTube kapağı
