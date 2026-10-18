@@ -162,7 +162,7 @@ def onizleme(ciktilar):
 
 
 def main():
-    secilen = [sys.argv[1]] if len(sys.argv) > 1 else sorted(BOLUMLER)
+    secilen = sys.argv[1:] if len(sys.argv) > 1 else sorted(BOLUMLER)
     print(f"Kanal kırmızısı: RGB{KIRMIZI} · v4: büyük başlık + konu-kıyafetli Meraklı")
     os.makedirs(CIKTI_KLASOR, exist_ok=True)
     ciktilar = []
@@ -174,7 +174,11 @@ def main():
         if yol:
             ciktilar.append((no, yol))
     if ciktilar:
-        onizleme(ciktilar)
+        # ONIZLEME her zaman TÜM mevcut kapaklarla (glob)
+        import glob
+        hepsi = [(os.path.basename(p)[6:9], p) for p in
+                 sorted(glob.glob(os.path.join(CIKTI_KLASOR, "bolum-*.png")))]
+        onizleme(hepsi)
 
 
 if __name__ == "__main__":
