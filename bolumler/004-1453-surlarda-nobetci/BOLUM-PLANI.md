@@ -19,6 +19,16 @@ mahalle rahibi, Hodegetria ikonunu taşıyan rahibeler.
 Şiddet kuralı: yaralanma GÖSTERİLMEZ (Giustiniani taşınırken görülür,
 kan yok); yağma anlatıda ölçülü, görsel değil; ölüm görüntüsü yok.
 
+**GÖRSEL STİL KURALI (kullanıcı talebi, 2026-10-18): yan figürler
+KIYAFETLİ.** Kalabalıktaki/beşer figür düz çıplak çubuk adam duruyor;
+bundan sonra tüm yan figürlere basit, döneme uygun, MUTE renkli kıyafet:
+vatandaşlar keten tünik/hırka; kadınlar başörtüsü + uzun elbise;
+keşişler koyu cübbe; askerler zırh yeleği + tabard (Cenevizliler
+kırmızı-haç tabard); imparator mor pelerin; elçi/Padişah gösterişli
+kaftan. Meraklı yine ayrışır: beyaz kafa + kırmızı fular + zincir
+yelek. Uygulama: s11-s20 promptlarında baştan; s02/s03/s05/s06/s07/s08
+(Tur A kalabalık sahneleri) derlemeden ÖNCE yeniden üretilir.
+
 Başlık kartı: "EĞER 1453'TE OLSAYDIM / MERAKLI: SURLARDA NÖBETÇİ"
 Kapanış CTA: "HANGİ ROLÜ SEÇERDİN? — İZCİ · TOPÇU · DENCİ · NÖBETÇİ" +
 "YORUMLARA YAZ" + abone (serinin dört pencere sorusu).
