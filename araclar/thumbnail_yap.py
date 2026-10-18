@@ -111,15 +111,17 @@ def kapak_yap(no, ayar):
                stroke_width=16, stroke_fill=SIYAH + (255,))
         y += (kutu[3] - kutu[1]) + 26
 
-    # 3) VURGU satırı — kanal kırmızısı, başlığa yakın punto (örnek
-    #    kapaklarda kırmızı alan %15-24: vurgu küçük aksan değil, ikinci
-    #    ana öğe)
+    # 3) VURGU — KIRMIZI KUTU içinde beyaz yazı (örnek kapak imzası:
+    #    kırmızı %15-24 blok vurgular; her kapakta düzgün kırmızı varlık)
     y += 4
-    font, kutu = yazi_sigdir(d, ayar["vurgu"], F_BLACK, 600, 132, 14)
-    d.text((x0 + 7, y + 9), ayar["vurgu"], font=font, fill=SIYAH + (140,),
-           stroke_width=14, stroke_fill=SIYAH + (140,))
-    d.text((x0, y), ayar["vurgu"], font=font, fill=KIRMIZI + (255,),
-           stroke_width=14, stroke_fill=SIYAH + (255,))
+    font, kutu = yazi_sigdir(d, ayar["vurgu"], F_BLACK, 560, 108, 0)
+    tw, th = kutu[2] - kutu[0], kutu[3] - kutu[1]
+    px_, py_ = 34, 16
+    d.rounded_rectangle([x0, y, x0 + tw + 2 * px_, y + th + 2 * py_],
+                        radius=14, fill=KIRMIZI + (255,),
+                        outline=SIYAH + (255,), width=5)
+    d.text((x0 + px_ - kutu[0], y + py_ - kutu[1]), ayar["vurgu"],
+           font=font, fill=BEYAZ + (255,))
 
     # 4) sol alt seri etiketi
     etiket = f"EĞER ORADA OLSAYDIM — BÖLÜM {int(no)}"
