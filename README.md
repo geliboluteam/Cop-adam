@@ -23,7 +23,12 @@ arastirma/                 -> bölüm başına kaynaklı tarih araştırması
 senaryo/                   -> bölüm senaryoları (sahne + ses + efekt planı)
 sfx/                       -> ses efekti arşivi + SFX_KAYITLARI.md (lisanslar)
 bolumler/                  -> üretilen bölümler (görsel, ses, video, yayin metni)
-kapaklar/                  -> bölüm kapakları (şablon: araclar/kapak_yap.py)
+kapaklar/thumbnail/        -> GÜNCEL bölüm kapakları — v4 standardı
+                              (üretici: araclar/thumbnail_yap.py; sahne/ altında
+                              hero görüntüleri + ONIZLEME.png kontak sayfası)
+kapaklar/arsiv-v1, arsiv-v2 -> eski tasarım arşivleri (dokunma)
+kapaklar/shorts/            -> Shorts kapak arşivi (Shorts üretilmiyor)
+kapaklar/temel/             -> şablon/temel görseller
 araclar/                   -> ffmpeg, fontlar, video üretim betikleri
 ```
 

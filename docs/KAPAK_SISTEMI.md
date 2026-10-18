@@ -105,3 +105,11 @@ Kurallar (yalnız uzun/ana videolara; Shorts'a kapak YOK — v3 sürer):
 5. Eski (v3) sahne görselleri v4 kompozisyonu içermez; bölüm kapakları
    YENİLENECEKSE sahne görseli de v4 kompozisyonuyla yeniden üretilir
    (kullanıcı onayına bağlı).
+
+## DİZİN YAPISI DÜZELTMESİ (2026-10-18)
+
+`kapaklar/` kökünde biriken 55 eski şablon kapak (v2 dönemi, tüm yol
+haritası konuları için önceden üretilmiş; 011/015-055 bölümü hiç yok)
+`kapaklar/arsiv-v2/` altına taşındı. **Güncel kapak YALNIZCA
+`kapaklar/thumbnail/bolum-XXX.png`'dir** (bölüm mühürlenince üretilir).
+Köke asla kapak yazılmaz.
