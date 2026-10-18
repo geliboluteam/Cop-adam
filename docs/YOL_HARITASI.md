@@ -38,7 +38,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 |---|---|---|---|---|
 | 13 | 13 | 80 MS, Roma | Gladyatör: ilk kez arenaya çıkıyorum | ✅ |
 | 14 | 14 | ~MÖ 2560, Giza | Piramit işçisinin bir günü (ücret, bira, rampa) | ✅ |
-| 15 | 24 | MÖ 776, Olimpia | İlk Olimpiyat koşucusu (çıplak, zeytin yağı) | ⬜ |
+| 15 | 24 | MÖ 776, Olimpia | İlk Olimpiyat koşucusu (çıplak, zeytin yağı) | ✅ |
 | 16 | 35 | MÖ 399, Atina | Kartaca kuşatmasında sivil (MÖ 149-146) — veya Sokrates duruşması izleyicisi (Konu 34) | ⬜ |
 | 17 | 36 | MS 2. yy, limes | Roma lejyoneri sınır karakolunda sıradan gün | ⬜ |
 | 18 | 34 | MÖ 399, Atina | Sokrates'in yargılanması: mahkeme salonunda | ⬜ |

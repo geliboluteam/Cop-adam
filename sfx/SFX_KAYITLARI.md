@@ -300,3 +300,24 @@ künyesini ve genel arşiv envanterini tutar.
 - Sargı/bezin hışırtısı: Owlish `blanket-movement-1` (CC0)
 - Gerilim vuruşu: 0ad `Taiko_2` — **modern davul analojisi**
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
+
+---
+
+## BÖLÜM 015 — İLK OLİMPİYAT KOŞUCUSU (uzun video)
+
+- Koşu/adım: Owlish `hard-footstep2/3` (CC0)
+- Nefes/heyecan: Owlish `breath-male`, `gasp1` (CC0)
+- Kalabalık/bayır: Owlish `clamour1-7`, `solo-clap`, `laugh1` (CC0) — temsili
+- Nehir/Kladeos: 0ad `water/wave_21` (CC-BY-SA)
+- Kamp ateşi/sunak: PagDev `fire_loop` (CC0) — kurban yalnız DUMAN ile
+  temsil edilmiştir (hayvan görüntüsü yok)
+- Yağ/strigil sürtünmesi: Owlish `scrape1/2` (CC0) — temsili
+- Gece kampı: Owlish `blanket-movement-1` (CC0)
+- Kayıt/liste/Hippias: Owlish `pencil-scratch-1`, `pageturn1`, `tap` (CC0)
+- Kamp çanağı: OpenHV `klink` (CC0)
+- Zafer/çelenk: JaggedStone `magical_1` (CC0) — temsili
+- Gerilim vuruşu: 0ad `Taiko_1/2` — **MODERN DAVUL ANALOJİSİ**
+  (MÖ 776'dan özgün kayıt yoktur; beyan)
+- Geçiş: qubodup `swosh-01` (CC0)
+- Ortam: 0ad `day_temperate_11`, `wind_11` (CC-BY-SA)
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)

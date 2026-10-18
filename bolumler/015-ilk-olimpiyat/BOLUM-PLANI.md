@@ -1,5 +1,9 @@
 # BÖLÜM 015 PLANI — İLK OLİMPİYAT KOŞUCUSU MÖ 776 (stadyum koşucusu Meraklı)
 
+> 🔒 **MÜHÜR (2026-10-18):** Tamamlandı — `uzun/merakli-015-uzun-olimpiyat.mp4`
+> 10:07.8 · x1.120 · −14.2 LUFS · TP −1.3 · 90,6 MB · 78 efekt ·
+> kapak `bolum-015.png` (v4: "ÇIPLAK DEĞİLDİK!" / MÖ 776). YAYIN.md hazır.
+
 **Format: YALNIZ UZUN VİDEO (kalıcı kural).** Klasör: `bolumler/015-ilk-olimpiyat/`
 Çıktı: `uzun/merakli-015-uzun-olimpiyat.mp4` · 20 sahne · 5-10 dk · 16:9 ·
 voice-02 · altyazı YOK · giriş kartı + tarih bantları + kapanış + abone.

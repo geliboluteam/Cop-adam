@@ -54,6 +54,7 @@ BOLUMLER = {
     "012": dict(buyuk="4 GÜN\nATEŞ!", vurgu="1666"),
     "013": dict(buyuk="ÖLÜM\nKALIM!", vurgu="MS 80"),
     "014": dict(buyuk="KÖLE\nDEĞİLDİK!", vurgu="MÖ 2560"),
+    "015": dict(buyuk="ÇIPLAK\nDEĞİLDİK!", vurgu="MÖ 776"),
 }
 
 
