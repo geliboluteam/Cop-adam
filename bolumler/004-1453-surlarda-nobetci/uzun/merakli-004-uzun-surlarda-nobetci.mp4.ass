@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:33.48,TarihBandi,,0,0,0,,KONSTANTİNOPOLİS: 1453
+Dialogue: 1,0:00:33.28,0:01:07.00,TarihBandi,,0,0,0,,ÜÇ PARÇA İMPARATORLUK
+Dialogue: 1,0:01:06.80,0:01:43.20,TarihBandi,,0,0,0,,26 OCAK 1453
+Dialogue: 1,0:01:43.00,0:02:13.50,TarihBandi,,0,0,0,,ŞUBAT-MART 1453
+Dialogue: 1,0:02:13.30,0:02:45.81,TarihBandi,,0,0,0,,6 NİSAN 1453
+Dialogue: 1,0:02:45.61,0:03:17.22,TarihBandi,,0,0,0,,NÖBET HAYATI
+Dialogue: 1,0:03:17.02,0:03:51.01,TarihBandi,,0,0,0,,18 NİSAN 1453
+Dialogue: 1,0:03:50.81,0:04:25.92,TarihBandi,,0,0,0,,20 NİSAN 1453
+Dialogue: 1,0:04:25.72,0:04:59.35,TarihBandi,,0,0,0,,22 NİSAN 1453
+Dialogue: 1,0:04:59.15,0:05:33.93,TarihBandi,,0,0,0,,28 NİSAN 1453
+Dialogue: 1,0:05:33.73,0:06:07.44,TarihBandi,,0,0,0,,MAYIS 1453
+Dialogue: 1,0:06:07.24,0:06:46.10,TarihBandi,,0,0,0,,22-25 MAYIS: ALÂMETLER
+Dialogue: 1,0:06:45.90,0:07:20.87,TarihBandi,,0,0,0,,KITLIK
+Dialogue: 1,0:07:20.67,0:07:48.11,TarihBandi,,0,0,0,,26 MAYIS 1453
+Dialogue: 1,0:07:47.91,0:08:16.94,TarihBandi,,0,0,0,,28 MAYIS: SON AYİN
+Dialogue: 1,0:08:16.74,0:08:47.35,TarihBandi,,0,0,0,,28 MAYIS GECESİ
+Dialogue: 1,0:08:47.15,0:09:21.30,TarihBandi,,0,0,0,,29 MAYIS 1453 — 01:30
+Dialogue: 1,0:09:21.10,0:09:59.74,TarihBandi,,0,0,0,,ŞEHİR DÜŞTÜ
+Dialogue: 1,0:09:59.54,0:10:32.02,TarihBandi,,0,0,0,,29 MAYIS: ÖĞLEN
+Dialogue: 1,0:10:31.82,0:11:03.49,TarihBandi,,0,0,0,,DÜRÜST TARİH
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER 1453'TE OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: SURLARDA NÖBETÇİ
+Dialogue: 4,0:11:01.79,0:11:04.09,Kapanis,,0,0,0,,{\an5\pos(960,399)}HANGİ ROLÜ SEÇERDİN?
+Dialogue: 4,0:11:02.09,0:11:04.09,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}YORUMLARA YAZ
+Dialogue: 4,0:11:02.39,0:11:04.09,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!
