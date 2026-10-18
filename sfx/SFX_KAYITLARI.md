@@ -222,3 +222,22 @@ künyesini ve genel arşiv envanterini tutar.
 - Rüzgar/ortam: 0ad `wind_11`, `day_temperate_11`, Owlish
   `night-crickets` (CC0)
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
+
+---
+
+## BÖLÜM 009 — KRAKATOA 1883 (uzun video; yalnız-uzun formatının ilk bölümü)
+
+- Patlama/gürleme: Thimras `cannon_fire` (CC0, OGA) — **MODERN TOP
+  ATEŞİ ANALOJİSİ** (1883'ten özgün ses kaydı yoktur; YAYIN.md'de beyan)
+- Gök gürültüsü/patlama katmanı: 0ad `thunder_10` (CC-BY-SA)
+- Tsunami/dalga: 0ad `water/wavecrash_21`, `wave_21` (CC-BY-SA)
+- Rüzgar/fırtına: 0ad `wind_11`, `windgust_11`, `rain_11` (CC-BY-SA)
+- Ateş/meşale: PagDev `fire_loop` (CC0)
+- Morse/telgraf tıkırtısı: Owlish `tap` (CC0) — temsili
+- Metal/çanak çömlek: OpenHV `klink` (CC0)
+- Nefes/panik: Owlish `breath-male`, `gasp1` (CC0)
+- Kalabalık: Owlish `clamour1-7` (CC0) — temsili
+- Kalem/harita: Owlish `pencil-scratch-1` (CC0)
+- Rivayet/rüya tonu: JaggedStone `magical_1` (Munch sahnesi — temsili)
+- Gerilim vuruşu: 0ad `Taiko_1/2` — **modern davul analojisi**
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)

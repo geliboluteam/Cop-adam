@@ -49,3 +49,10 @@ SFX notları: patlama = Thimras cannon_fire (MODERN ANALOJİ — beyan);
 gök gürültüsü 0ad thunder; tsunami = wavecrash; karanlık = wind + fire_loop;
 telgraf = OpenHV radiobeep (temsili mors); kalabalık = Owlish clamour;
 müzik: The_Hellespont.
+
+---
+
+## DURUM: B009 MÜHÜRLENDİ (2026-10-18)
+1. Tur A ✅ (64d6b39 + 96edd03) · 2. Tur B ✅ FİNAL: 9:13.40 / x1.008 /
+   -14.3 LUFS / 76.7 MB (449ca36) · 3. Tur C ✅: YAYIN.md + SFX künyesi +
+   kapak bolum-009.png + YOL_HARİTASI B09 ✅
