@@ -13,6 +13,7 @@ Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H960
 Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
 Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
 Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -27,7 +28,8 @@ Dialogue: 1,0:05:36.93,0:06:00.15,TarihBandi,,0,0,0,,YILLAR SONRA
 Dialogue: 1,0:05:59.95,0:06:25.15,TarihBandi,,0,0,0,,25 YIL SONRA — MEKTUPLAR
 Dialogue: 1,0:06:24.95,0:06:53.43,TarihBandi,,0,0,0,,1748 → 1863 — KAZILAR
 Dialogue: 1,0:06:53.23,0:07:24.99,TarihBandi,,0,0,0,,AĞUSTOS MU, EKİM Mİ?
-Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,EĞER 79'DA OLSAYDIM
-Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,MERAKLI: POMPEII — 18 SAATLİK PENCERE
-Dialogue: 4,0:07:49.71,0:07:52.31,Kapanis,,0,0,0,,SIRADA NERE?
-Dialogue: 4,0:07:50.01,0:07:52.31,KapanisAlt,,0,0,0,,YORUMLARA YAZ
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER 79'DA OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: POMPEII — 18 SAATLİK PENCERE
+Dialogue: 4,0:07:49.71,0:07:52.31,Kapanis,,0,0,0,,{\an5\pos(960,399)}SIRADA NERE?
+Dialogue: 4,0:07:50.01,0:07:52.31,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}YORUMLARA YAZ
+Dialogue: 4,0:07:50.31,0:07:52.31,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!
