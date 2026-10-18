@@ -76,9 +76,14 @@ python3 araclar/thumbnail_yap.py        # sahnesi olan tüm bölümler
 
 ## v4 — YÜRÜRLÜKTEKİ KAPAK STANDARDI (2026-10-18, kullanıcı talimatı)
 
-Örnek referans: `docs/kapak-ornek/youtube-ornek-1.jpg` (kullanıcı yüklemesi;
-piksel analizi: kırmızı vurgu #C03030 ≈ kanal kırmızısı, kalın koyu
-kontur kütleleri, yüksek kontrast/parlaklık).
+Örnek referans: `docs/kapak-ornek/youtube-ornek-1.jpg` (kullanıcı yüklemesi)
++ `kapak-1..6.jpg` (ekran görüntüsünden ayıklanan 6 örnek kapak).
+Piksel analizi bulguları (6 kapakta tutarlı):
+- kırmızı %15-24 (ikinci ana öğe, aksan değil) · beyaz %15-29 ·
+  siyah %19-39 (ağır kontur/koyu kütle) · sarı ≈ %0
+- konturlu beyaz + kırmızı metin öğeleri karenin büyük bölümüne yayılıyor
+Buna göre: vurgu satırı ~132 puntoa büyütüldü, sol %60'a yumuşak siyah
+perdah eklendi, başlık konturu 16 px.
 
 Kurallar (yalnız uzun/ana videolara; Shorts'a kapak YOK — v3 sürer):
 1. **SAHNE GÖRSELİ** (AI, metinsiz, `sahne/bolum-XXX.jpg`): Meraklı

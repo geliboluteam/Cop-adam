@@ -85,6 +85,13 @@ def kapak_yap(no, ayar):
     katman = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(katman)
 
+    # 0) sol taraf yumuşak siyah perdah — örnek kapaklardaki ağır siyah
+    #    kütleler + metin kontrastı (soldan %60 genişliğe kademeli solar)
+    for x in range(W):
+        pay = 1.0 - x / (W * 0.60)
+        if pay > 0:
+            d.line([(x, 0), (x, H)], fill=(0, 0, 0, int(95 * pay)))
+
     # 1) MERAKLI rozeti (kırmızı) — sol üst, v4'te biraz küçük (başlık yer açar)
     y = 26
     f_rozet = ImageFont.truetype(F_XBOLD, 36)
@@ -97,20 +104,22 @@ def kapak_yap(no, ayar):
     # 2) BÜYÜK İLGİ ÇEKİCİ BAŞLIK — beyaz, dev, kalın siyah kontur (sol blok)
     x0 = 40
     for satir in ayar["buyuk"].split("\n"):
-        font, kutu = yazi_sigdir(d, satir, F_BLACK, 640, 152, 14)
-        d.text((x0 + 7, y + 9), satir, font=font, fill=SIYAH + (140,),
-               stroke_width=14, stroke_fill=SIYAH + (140,))
+        font, kutu = yazi_sigdir(d, satir, F_BLACK, 660, 156, 16)
+        d.text((x0 + 8, y + 10), satir, font=font, fill=SIYAH + (140,),
+               stroke_width=16, stroke_fill=SIYAH + (140,))
         d.text((x0, y), satir, font=font, fill=BEYAZ + (255,),
-               stroke_width=14, stroke_fill=SIYAH + (255,))
+               stroke_width=16, stroke_fill=SIYAH + (255,))
         y += (kutu[3] - kutu[1]) + 26
 
-    # 3) VURGU satırı — kanal kırmızısı
+    # 3) VURGU satırı — kanal kırmızısı, başlığa yakın punto (örnek
+    #    kapaklarda kırmızı alan %15-24: vurgu küçük aksan değil, ikinci
+    #    ana öğe)
     y += 4
-    font, kutu = yazi_sigdir(d, ayar["vurgu"], F_BLACK, 500, 112, 12)
-    d.text((x0 + 6, y + 8), ayar["vurgu"], font=font, fill=SIYAH + (140,),
-           stroke_width=12, stroke_fill=SIYAH + (140,))
+    font, kutu = yazi_sigdir(d, ayar["vurgu"], F_BLACK, 600, 132, 14)
+    d.text((x0 + 7, y + 9), ayar["vurgu"], font=font, fill=SIYAH + (140,),
+           stroke_width=14, stroke_fill=SIYAH + (140,))
     d.text((x0, y), ayar["vurgu"], font=font, fill=KIRMIZI + (255,),
-           stroke_width=12, stroke_fill=SIYAH + (255,))
+           stroke_width=14, stroke_fill=SIYAH + (255,))
 
     # 4) sol alt seri etiketi
     etiket = f"EĞER ORADA OLSAYDIM — BÖLÜM {int(no)}"

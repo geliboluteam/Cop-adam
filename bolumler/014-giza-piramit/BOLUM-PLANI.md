@@ -1,5 +1,9 @@
 # BÖLÜM 014 PLANI — GİZA PİRAMİT İŞÇİSİ MÖ ~2560 (halatçı Meraklı)
 
+> 🔒 **MÜHÜR (2026-10-18):** Tamamlandı — `uzun/merakli-014-uzun-giza.mp4`
+> 9:15.7 · x1.120 · −14.2 LUFS · TP −1.0 · 81,5 MB · 80 efekt ·
+> kapak `bolum-014.png` (v4: "KÖLE DEĞİLDİK!" / MÖ 2560). YAYIN.md hazır.
+
 **Format: YALNIZ UZUN VİDEO (kalıcı kural).** Klasör: `bolumler/014-giza-piramit/`
 Çıktı: `uzun/merakli-014-uzun-giza.mp4` · 20 sahne · 5-10 dk · 16:9 ·
 voice-02 · altyazı YOK · giriş kartı + tarih bantları + kapanış + abone.

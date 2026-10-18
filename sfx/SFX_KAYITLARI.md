@@ -276,3 +276,27 @@ künyesini ve genel arşiv envanterini tutar.
 - İnşaat: Owlish `scrape1/2` (CC0); metal: OpenHV `klink` (CC0)
 - Gerilim vuruşu: 0ad `Taiko_1/2` — **modern davul analojisi**
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
+
+---
+
+## BÖLÜM 014 — GİZA PİRAMİT İŞÇİSİ (uzun video)
+
+- Çöl rüzgarı/şafak: 0ad `wind_11`, `day_temperate_11` (CC-BY-SA)
+- Nil/kanal/mavnalar: 0ad `water/wave_21` (CC-BY-SA)
+- Fırın/ocak: PagDev `fire_loop` (CC0)
+- Bira/yudum: Owlish `drink-sip-and-swallow` (CC0)
+- Kâtip/kayıt: Owlish `pencil-scratch-1`, `pageturn1`, `tap` (CC0)
+- Metal/taş çakması: OpenHV `klink` (CC0)
+- Taş kazıma/sürtünme: Owlish `scrape1/2/3` (CC0)
+- Kalabalık/şantiye: Owlish `clamour1-7` (CC0) — temsili
+- Adım/çekme: Owlish `hard-footstep2/3` (CC0)
+- Çekme ritmi/davul: Owlish `djembe1/2/3` (CC0) — **MODERN DAVUL
+  ANALOJİSİ** (MÖ 2560'dan özgün kayıt yoktur; beyan)
+- Islak kum/su: Freesound `water-trickling` (kaydinhamby) — temsili
+- Gece ortamı: Owlish `night-crickets` (CC0)
+- Yıldız/hizalama büyüsü: JaggedStone `magical_1` (CC0) — temsili
+- Nefes/heyecan/kahkaha: Owlish `breath-male`, `gasp1`, `laugh1`,
+  `solo-clap` (CC0)
+- Sargı/bezin hışırtısı: Owlish `blanket-movement-1` (CC0)
+- Gerilim vuruşu: 0ad `Taiko_2` — **modern davul analojisi**
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
