@@ -1,5 +1,9 @@
 # BÖLÜM 002 PLANI — ŞAHİ'NİN TOPÇUSU 1452-53 (uzun format remake)
 
+> 🔒 **MÜHÜR (2026-10-18):** Tamamlandı — `uzun/merakli-002-uzun-sahi-topcusu.mp4`
+> 10:10.0 · x1.120 · −14.3 LUFS · TP −1.3 · 85,6 MB · 79 efekt ·
+> kapak `bolum-002.png` (v4, mevcut). YAYIN.md hazır.
+
 > B002'nin uzun format (20 sahne, 5-10 dk) yeniden üretim planı. Eski kısa
 > format (54,5 sn, 10 sahne) arşivde kökte durur. Yeni çıktı:
 > `uzun/merakli-002-uzun-sahi-topcusu.mp4`.

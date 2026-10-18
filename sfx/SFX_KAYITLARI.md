@@ -341,3 +341,22 @@ künyesini ve genel arşiv envanterini tutar.
 - Gerilim vuruşu: 0ad `Taiko_1/2` — **modern davul analojisi**
 - Geçiş: qubodup `swosh-01` (CC0)
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
+
+---
+
+## BÖLÜM 002 UZUN — ŞAHİ'NİN TOPÇUSU (remake; uzun video)
+
+- Top ateşi: Thimras `cannon_fire` (CC0, OGA) — **MODERN TOP ATEŞİ
+  ANALOJİSİ** (1453'ten özgün kayıt yoktur; beyan)
+- Dökümhane/fırın: PagDev `fire_loop` (CC0)
+- Kalıp/kum/sürgü: Owlish `scrape1/2/3` (CC0) — temsili
+- Çekiç/onarım: Owlish `tap` (CC0); metal: OpenHV `klink` (CC0)
+- Kalabalık/zafer: Owlish `clamour1-7`, `laugh1`, `gasp1` (CC0) — temsili
+- Nefes/yorgunluk: Owlish `breath-male` (CC0)
+- Adım/karavan: Owlish `hard-footstep2/3` (CC0)
+- Gece/sessiz ocak: Owlish `night-crickets` (CC0)
+- Dua/zafer/veda: JaggedStone `magical_1` (CC0) — temsili
+- Gerilim: 0ad `Taiko_1/2` — **modern davul analojisi**
+- Geçiş: qubodup `swosh-01` (CC0)
+- Ortam: 0ad `day_temperate_11`, `wind_11` (CC-BY-SA)
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
