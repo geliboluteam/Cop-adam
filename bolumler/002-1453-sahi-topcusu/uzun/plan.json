@@ -1,0 +1,648 @@
+{
+ "format": "16:9",
+ "encode_preset": "veryfast",
+ "crf": 23,
+ "maxrate": "1300k",
+ "baslik_karti": {
+  "yazi1": "EĞER 1453'TE OLSAYDIM",
+  "yazi2": "MERAKLI: ŞAHİ'NİN TOPÇUSU"
+ },
+ "kapanis_karti": {
+  "yazi": "HANGİ ROLÜ SEÇERDİN?",
+  "alt": "YORUMLARA YAZ"
+ },
+ "muzik": {
+  "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+  "kazanc_db": -21
+ },
+ "hedef_sure": 600,
+ "hiz_max": 1.12,
+ "altyazi": false,
+ "sahneler": [
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s01.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s01.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "EDİRNE: DÖKÜMHANE",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 6.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 20.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 30.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s02.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s02.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "USTAM: URBAN",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 3.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 14.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 35.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s03.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s03.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "BRONZ DÖKÜM",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 38.0
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 14.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape3.opus",
+     "t": 20.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 32.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s04.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s04.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "OCAK 1453: TEST",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 8.0,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 14.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 18.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 36.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s05.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s05.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "YOL: ALMIŞ ÖKÜZ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus",
+     "t": 3.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape2.opus",
+     "t": 8.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 16.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 32.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s06.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s06.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "BATARYA: İKİ USTA",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 2.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/tap.opus",
+     "t": 8.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 16.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 31.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s07.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s07.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "6 NİSAN: İLK ATIŞ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 10.0,
+     "kazanc_db": -15
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 14.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 24.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 42.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s08.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s08.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "RİTİM: YAĞ VE TAŞ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 4.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 36.0
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 20.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 30.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s09.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s09.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DÜELLO: DUVARLA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 5.0,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 10.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 22.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 12.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 34.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s10.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s10.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "18 NİSAN: GECE",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 0.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 37.0
+    },
+    {
+     "dosya": "sfx/0ad/music/Taiko_2.ogg",
+     "t": 8.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 12.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 14.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 30.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s11.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s11.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ÇATLAK",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/tap.opus",
+     "t": 3.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 10.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 20.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 34.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s12.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s12.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "USTANIN SONU",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 36.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 10.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 20.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 16.0
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 30.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s13.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s13.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "MAYIS RUTİNİ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 6.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 12.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 20.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 34.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s14.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s14.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "21-22 NİSAN: PERDE",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 3.0,
+     "kazanc_db": -17
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 8.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 16.0,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 34.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s15.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s15.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "28 MAYIS: SON GECE",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 2.0,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 34.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 14.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 28.0,
+     "kazanc_db": -23
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s16.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s16.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "29 MAYIS: SUSUŞ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 4.0,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/0ad/music/Taiko_1.ogg",
+     "t": 10.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 10.0
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 24.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 34.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s17.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s17.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "FATİH ŞEHİRDE",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 34.0
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 4.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 12.0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 28.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s18.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s18.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ÇAĞ DÖNDÜ",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 2.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 10.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 32.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 32.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s19.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s19.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "EFSANE: LONDRA'DAKİ TOP",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/tap.opus",
+     "t": 4.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 12.0,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 20.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 36.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s20.png",
+   "anlatim": "bolumler/002-1453-sahi-topcusu/uzun/ses/s20.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DÜRÜST TARİH + VEDA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 0.2,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 38.0
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 16.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 30.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.9
+  }
+ ]
+}
