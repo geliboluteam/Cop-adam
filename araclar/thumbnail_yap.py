@@ -1,24 +1,25 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""MERAKLI serisi — YouTube küçük resim (thumbnail) üreticisi.
+"""MERAKLI serisi — YouTube küçük resim (thumbnail) üreticisi — v4.
 
 Kullanım:
   python3 araclar/thumbnail_yap.py          → sahne görseli olan tüm bölümler
-  python3 araclar/thumbnail_yap.py 006      → sadece bölüm 006
+  python3 araclar/thumbnail_yap.py 014      → sadece bölüm 014
 
-Tasarım standardı (kullanıcı talimatı, 2026-10-17 — YouTube örneği tarzı):
-  - 1280×720 (YouTube önerilen boyut)
-  - dramatik sahne + sağ önde BÜYÜK abartılı ifadeli Meraklı (AI sahnesi)
-  - sol üst: kırmızı MERAKLI rozeti + beyaz kalın ana başlık (siyah kontur)
-    + kanal kırmızısı vurgu satırı (KIRMIZI = 217,54,54 — kapak_yap.py ile
-    birebir aynı kanonik "fular kırmızısı")
-  - sol alt: "EĞER ORADA OLSAYDIM — BÖLÜM N" seri etiketi
-  - Shorts'lar YouTube'da özel küçük resim almadığı için yalnız uzun/ana
-    videolara üretilir.
+v4 STANDARDI (2026-10-18, kullanıcı talimatı — örnek: docs/kapak-ornek/):
+  - 1280×720; Shorts'a kapak ÜRETİLMEZ (yalnız uzun/ana video).
+  - SAHNE GÖRSELİ (AI, metinsiz, bolum-XXX.jpg): Meraklı BÜYÜK — tuvalin
+    sağ ~%40'ını kaplar, kafa yüksekliği tuvalin ~%30'u; o bölümün
+    konusuna özgü KIYAFET ve abartılı İFADE (şok/hayranlık/kararlılık);
+    arka planda dramatik konu sahnesi; SOL TARAF yazı için temiz.
+  - BÜYÜK İLGİ ÇEKİCİ BAŞLIK (2-4 kelime, konuya özel "buyuk"):
+    beyaz, Montserrat-Black, ~150 px, kalın siyah kontur; sol blok.
+  - VURGU SATIRI ("vurgu"): kanal kırmızısı RGB(217,54,54), ~110 px,
+    siyah kontur (yıl / anahtar kelime).
+  - MERAKLI rozeti (kırmızı) sol üst; seri etiketi sol alt.
 
 Sahneler: kapaklar/thumbnail/sahne/bolum-XXX.jpg (metinsiz üretilir)
 Çıktı:    kapaklar/thumbnail/bolum-XXX.png + ONIZLEME.png (kontak sayfası)
-Yeni bölüm paketlerinde Tur D'de standart adımdır (B006'dan itibaren).
 """
 import os
 import sys
@@ -33,36 +34,38 @@ F_XBOLD = os.path.join(KOK, "araclar", "fonts", "Montserrat-ExtraBold.ttf")
 F_BOLD = os.path.join(KOK, "araclar", "fonts", "Montserrat-Bold.ttf")
 
 W, H = 1280, 720
-KIRMIZI = (217, 54, 54)  # kanonik fular kırmızısı (kapak_yap.py ile aynı)
+KIRMIZI = (217, 54, 54)  # kanonik fular kırmızısı
 BEYAZ = (255, 255, 255)
 SIYAH = (0, 0, 0)
 
-# beyaz başlık satırları "\n" ile bölünebilir; kirmizi = vurgu satırı
+# buyuk: 2-4 kelimelik, konuya özel İLGİ ÇEKİCİ büyük başlık ("\n" ile satır)
+# vurgu: kırmızı vurgu satırı (yıl / anahtar kelime)
 BOLUMLER = {
-    "001": dict(beyaz="FETİH'İN\nİZCİSİ", kirmizi="1453"),
-    "002": dict(beyaz="ŞAHİ\nTOPÇUSU", kirmizi="1453"),
-    "003": dict(beyaz="FIRTINADA\nDENCİ", kirmizi="1453"),
-    "004": dict(beyaz="SON\nNÖBETÇİ", kirmizi="1453"),
-    "005": dict(beyaz="MALAZGİRT", kirmizi="1071"),
-    "006": dict(beyaz="KARA\nVEBA", kirmizi="1348"),
-    "007": dict(beyaz="POMPEII", kirmizi="MS 79"),
-    "008": dict(beyaz="HERCULANEUM", kirmizi="MS 79"),
-    "009": dict(beyaz="KRAKATOA", kirmizi="1883"),
-    "010": dict(beyaz="ANTAKYA", kirmizi="MS 526"),
-    "012": dict(beyaz="LONDRA", kirmizi="1666"),
-    "013": dict(beyaz="GLADYATÖR", kirmizi="MS 80"),
+    "001": dict(buyuk="SURLAR\nÇÖKÜYOR!", vurgu="1453"),
+    "002": dict(buyuk="DEV ŞAHİ\nGELİYOR!", vurgu="1453"),
+    "003": dict(buyuk="GEMİLER\nKARADAN!", vurgu="1453"),
+    "004": dict(buyuk="SON\nHÜCUM!", vurgu="29 MAYIS 1453"),
+    "005": dict(buyuk="TARİH\nDÖNDÜ!", vurgu="1071"),
+    "006": dict(buyuk="KARA\nVEBÂ!", vurgu="1348"),
+    "007": dict(buyuk="18 SAATİN\nVAR!", vurgu="MS 79"),
+    "008": dict(buyuk="4\nDAKİKA!", vurgu="MS 79"),
+    "009": dict(buyuk="DÜNYA\nDUYDU!", vurgu="1883"),
+    "010": dict(buyuk="ŞEHİR\nSİLİNDİ!", vurgu="MS 526"),
+    "012": dict(buyuk="4 GÜN\nATEŞ!", vurgu="1666"),
+    "013": dict(buyuk="ÖLÜM\nKALIM!", vurgu="MS 80"),
+    "014": dict(buyuk="KÖLE\nDEĞİLDİK!", vurgu="MÖ 2560"),
 }
 
 
 def yazi_sigdir(cizim, metin, font_yolu, max_genislik, baslangic_boyutu, kontur):
     """Metni max_genislik'e sığdıran en büyük puntoyu bulur."""
     boyut = baslangic_boyutu
-    while boyut > 28:
+    while boyut > 30:
         font = ImageFont.truetype(font_yolu, boyut)
         kutu = cizim.textbbox((0, 0), metin, font=font)
         if kutu[2] - kutu[0] + 2 * kontur <= max_genislik:
             return font, kutu
-        boyut -= 3
+        boyut -= 4
     font = ImageFont.truetype(font_yolu, boyut)
     return font, cizim.textbbox((0, 0), metin, font=font)
 
@@ -81,46 +84,46 @@ def kapak_yap(no, ayar):
     im = kaynak.crop((sol, ust, sol + W, ust + H)).convert("RGBA")
     katman = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(katman)
-    x0 = 52
 
-    # 1) MERAKLI rozeti
-    y = 34
-    f_rozet = ImageFont.truetype(F_XBOLD, 40)
+    # 1) MERAKLI rozeti (kırmızı) — sol üst, v4'te biraz küçük (başlık yer açar)
+    y = 26
+    f_rozet = ImageFont.truetype(F_XBOLD, 36)
     kutu = d.textbbox((0, 0), "MERAKLI", font=f_rozet)
-    rw, rh = kutu[2] - kutu[0] + 46, kutu[3] - kutu[1] + 28
-    d.rounded_rectangle([x0, y, x0 + rw, y + rh], radius=14, fill=KIRMIZI + (255,))
-    d.text((x0 + 23, y + 14 - kutu[1]), "MERAKLI", font=f_rozet, fill=BEYAZ + (255,))
-    y += rh + 22
+    rw, rh = kutu[2] - kutu[0] + 42, kutu[3] - kutu[1] + 24
+    d.rounded_rectangle([34, y, 34 + rw, y + rh], radius=12, fill=KIRMIZI + (255,))
+    d.text((34 + 21, y + 12 - kutu[1]), "MERAKLI", font=f_rozet, fill=BEYAZ + (255,))
+    y += rh + 18
 
-    # 2) beyaz ana başlık (satırlar halinde)
-    for satir in ayar["beyaz"].split("\n"):
-        font, kutu = yazi_sigdir(d, satir, F_BLACK, 620, 112, 11)
-        d.text((x0 + 6, y + 8), satir, font=font, fill=SIYAH + (130,),
-               stroke_width=11, stroke_fill=SIYAH + (130,))
+    # 2) BÜYÜK İLGİ ÇEKİCİ BAŞLIK — beyaz, dev, kalın siyah kontur (sol blok)
+    x0 = 40
+    for satir in ayar["buyuk"].split("\n"):
+        font, kutu = yazi_sigdir(d, satir, F_BLACK, 640, 152, 14)
+        d.text((x0 + 7, y + 9), satir, font=font, fill=SIYAH + (140,),
+               stroke_width=14, stroke_fill=SIYAH + (140,))
         d.text((x0, y), satir, font=font, fill=BEYAZ + (255,),
-               stroke_width=11, stroke_fill=SIYAH + (255,))
-        y += (kutu[3] - kutu[1]) + 30
+               stroke_width=14, stroke_fill=SIYAH + (255,))
+        y += (kutu[3] - kutu[1]) + 26
 
-    # 3) kanal kırmızısı vurgu satırı
-    y += 6
-    font, kutu = yazi_sigdir(d, ayar["kirmizi"], F_BLACK, 420, 122, 11)
-    d.text((x0 + 6, y + 8), ayar["kirmizi"], font=font, fill=SIYAH + (130,),
-           stroke_width=11, stroke_fill=SIYAH + (130,))
-    d.text((x0, y), ayar["kirmizi"], font=font, fill=KIRMIZI + (255,),
-           stroke_width=11, stroke_fill=SIYAH + (255,))
+    # 3) VURGU satırı — kanal kırmızısı
+    y += 4
+    font, kutu = yazi_sigdir(d, ayar["vurgu"], F_BLACK, 500, 112, 12)
+    d.text((x0 + 6, y + 8), ayar["vurgu"], font=font, fill=SIYAH + (140,),
+           stroke_width=12, stroke_fill=SIYAH + (140,))
+    d.text((x0, y), ayar["vurgu"], font=font, fill=KIRMIZI + (255,),
+           stroke_width=12, stroke_fill=SIYAH + (255,))
 
     # 4) sol alt seri etiketi
     etiket = f"EĞER ORADA OLSAYDIM — BÖLÜM {int(no)}"
-    f_etiket = ImageFont.truetype(F_XBOLD, 30)
-    d.text((x0 + 4, H - 56 + 4), etiket, font=f_etiket, fill=SIYAH + (150,),
+    f_etiket = ImageFont.truetype(F_XBOLD, 28)
+    d.text((x0 + 4, H - 52 + 4), etiket, font=f_etiket, fill=SIYAH + (150,),
            stroke_width=6, stroke_fill=SIYAH + (150,))
-    d.text((x0, H - 56), etiket, font=f_etiket, fill=BEYAZ + (255,),
+    d.text((x0, H - 52), etiket, font=f_etiket, fill=BEYAZ + (255,),
            stroke_width=6, stroke_fill=SIYAH + (255,))
 
     im = Image.alpha_composite(im, katman).convert("RGB")
     cikti_yolu = os.path.join(CIKTI_KLASOR, f"bolum-{no}.png")
     im.save(cikti_yolu)
-    print(f"  ✓ bolum-{no}.png  ({ayar['beyaz'].replace(chr(10), ' ')} / {ayar['kirmizi']})")
+    print(f"  ✓ bolum-{no}.png  ({ayar['buyuk'].replace(chr(10), ' ')} / {ayar['vurgu']})")
     return cikti_yolu
 
 
@@ -140,7 +143,7 @@ def onizleme(ciktilar):
         gorsel = Image.open(yol).resize((tw, th), Image.LANCZOS)
         sayfa.paste(gorsel, (x, y))
         d.rectangle([x, y + th, x + tw, y + th + etiket_h], fill=KIRMIZI)
-        metin = f"BÖLÜM {int(no)} · {BOLUMLER[no]['beyaz'].replace(chr(10), ' ')}"
+        metin = f"BÖLÜM {int(no)} · {BOLUMLER[no]['buyuk'].replace(chr(10), ' ')} · {BOLUMLER[no]['vurgu']}"
         kutu = d.textbbox((0, 0), metin, font=f)
         d.text((x + (tw - (kutu[2] - kutu[0])) // 2, y + th + 9), metin,
                font=f, fill=BEYAZ)
@@ -151,7 +154,7 @@ def onizleme(ciktilar):
 
 def main():
     secilen = [sys.argv[1]] if len(sys.argv) > 1 else sorted(BOLUMLER)
-    print(f"Kanal kırmızısı: RGB{KIRMIZI} (kanonik fular kırmızısı)")
+    print(f"Kanal kırmızısı: RGB{KIRMIZI} · v4: büyük başlık + konu-kıyafetli Meraklı")
     os.makedirs(CIKTI_KLASOR, exist_ok=True)
     ciktilar = []
     for no in secilen:

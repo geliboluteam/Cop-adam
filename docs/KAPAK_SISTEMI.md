@@ -74,13 +74,29 @@ python3 araclar/thumbnail_yap.py        # sahnesi olan tüm bölümler
 
 ---
 
-## v4 — YENİ KAPAK STANDARDI (2026-10-18, kullanıcı talimatı — BEKLEMEDE)
+## v4 — YÜRÜRLÜKTEKİ KAPAK STANDARDI (2026-10-18, kullanıcı talimatı)
 
-Kullanıcı örnek kapak görsellerini gönderecek; tarz onlara göre
-ayarlanacak. İlkeler (örnekler gelince detaylandırılacak):
-1. Shorts hariç yalnız uzun videolara kapak (v3 kuralı sürer).
-2. **Dikkat çekici BÜYÜK başlıklar** — işlenen konuya göre özel.
-3. **Meraklı kapağın odakında**, o bölümün konusuna uygun KIYAFET ve
-   POZ ile (gladyatör miğferli, fırıncı önlüklü, halatçı kuşaklı gibi).
-4. Mevcut 12 kapağın yenilenip yenilenmeyeceği kullanıcıya sorulacak.
-Uygulama: örnekler analiz edilmeden yeni bölüm kapağı üretimi durur.
+Örnek referans: `docs/kapak-ornek/youtube-ornek-1.jpg` (kullanıcı yüklemesi;
+piksel analizi: kırmızı vurgu #C03030 ≈ kanal kırmızısı, kalın koyu
+kontur kütleleri, yüksek kontrast/parlaklık).
+
+Kurallar (yalnız uzun/ana videolara; Shorts'a kapak YOK — v3 sürer):
+1. **SAHNE GÖRSELİ** (AI, metinsiz, `sahne/bolum-XXX.jpg`): Meraklı
+   BÜYÜK — tuvalin sağ ~%40'ı, kafa ~%30 yükseklik; bölümün konusuna
+   özgü KIYAFET (gladyatör miğferi, fırıncı önlüğü, halatçı kuşağı...);
+   ABARTILI ifade (şok/hayranlık/kararlılık); arka planda dramatik konu
+   sahnesi; sol %55 yazı için temiz.
+2. **BÜYÜK BAŞLIK** ("buyuk", 2-4 kelime konuya özel çengel):
+   Montserrat-Black ~150 px, beyaz + 14 px siyah kontur, sol blok.
+   Sözlük: "SURLAR ÇÖKÜYOR!" (001), "DEV ŞAHİ GELİYOR!" (002),
+   "GEMİLER KARADAN!" (003), "SON HÜCUM!" (004), "TARİH DÖNDÜ!" (005),
+   "KARA VEBÂ!" (006), "18 SAATİN VAR!" (007), "4 DAKİKA!" (008),
+   "DÜNYA DUYDU!" (009), "ŞEHİR SİLİNDİ!" (010), "4 GÜN ATEŞ!" (012),
+   "ÖLÜM KALIM!" (013), "KÖLE DEĞİLDİK!" (014).
+3. **VURGU satırı** ("vurgu"): yıl/anahtar kelime, kırmızı
+   RGB(217,54,54) ~110 px + siyah kontur.
+4. MERAKLI rozeti sol üst (kırmızı); "EĞER ORADA OLSAYDIM — BÖLÜM N"
+   etiketi sol alt.
+5. Eski (v3) sahne görselleri v4 kompozisyonu içermez; bölüm kapakları
+   YENİLENECEKSE sahne görseli de v4 kompozisyonuyla yeniden üretilir
+   (kullanıcı onayına bağlı).
