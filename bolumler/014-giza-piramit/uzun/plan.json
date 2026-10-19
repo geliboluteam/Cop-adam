@@ -1,0 +1,649 @@
+{
+ "format": "16:9",
+ "encode_preset": "veryfast",
+ "crf": 23,
+ "maxrate": "1300k",
+ "baslik_karti": {
+  "yazi1": "EĞER MÖ 2560'TA OLSAYDIM",
+  "yazi2": "MERAKLI: GİZA — HALATÇININ GÜNÜ"
+ },
+ "kapanis_karti": {
+  "yazi": "HANGİ GÖREVİ SEÇERDİN?",
+  "alt": "YORUMLARA YAZ"
+ },
+ "muzik": {
+  "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+  "kazanc_db": -21
+ },
+ "hedef_sure": 560,
+ "hiz_max": 1.12,
+ "altyazi": false,
+ "sahneler": [
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s01.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s01.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GİZA PLATOSU — MÖ ~2560",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 0.0,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.5,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 32.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 32.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s02.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s02.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "NIL TAŞKINI — SEZON AÇILIŞI",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 29.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.5,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 28.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 10.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s03.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s03.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KAYIT — ÇETEMİZ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 2.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 6.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 14.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 20.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s04.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s04.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HEİT EL-GHURAB — İŞÇİ ŞEHRİ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 28.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 3.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 12.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 28.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s05.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s05.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "TAYIN — EKMEK VE BİRA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 27.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/drink-sip-and-swallow.opus",
+     "t": 4.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 8.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 14.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s06.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s06.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KÖLE DEĞİL",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 31.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 8.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 24.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s07.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s07.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "TAŞ — 2,5 TON",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/hit.opus",
+     "t": 3.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 8.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 14.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 27.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s08.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s08.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ISLAK KUM HİLESİ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Freesound/Nature/381202__kaydinhamby__water-trickling.opus",
+     "t": 1.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe1.opus",
+     "t": 4.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 8.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe2.opus",
+     "t": 16.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 30.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s09.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s09.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "RAMPA SİSTEMİ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe1.opus",
+     "t": 0.5,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape2.opus",
+     "t": 3.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 6.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/0ad/music/Taiko_2.ogg",
+     "t": 10.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 20.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus",
+     "t": 18.0,
+     "kazanc_db": -21
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s10.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s10.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ÇEKME GÜNÜ — RİTİM",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe1.opus",
+     "t": 0.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe2.opus",
+     "t": 2.5,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe3.opus",
+     "t": 5.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 9.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 24.0,
+     "kazanc_db": -23
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s11.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s11.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GECE — HİZALAMA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 12.0,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s12.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s12.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "TURA — MERER'İN DEFTERİ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 31.0
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 4.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 12.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour7.opus",
+     "t": 20.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s13.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s13.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HASTA EVİ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 2.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 10.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 16.0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 28.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s14.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s14.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ET GÜNÜ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 1.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 6.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/drink-sip-and-swallow.opus",
+     "t": 12.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 18.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 28.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s15.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s15.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "MATEMATİK — 2 DAKİKA/BLOK",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 1.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/tap.opus",
+     "t": 7.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+     "t": 14.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/tap.opus",
+     "t": 20.0,
+     "kazanc_db": -21
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s16.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s16.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GRAFİTİ — İMZALAR",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape3.opus",
+     "t": 1.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 8.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 28.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 20.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s17.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s17.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ZİRVE — PİRAMİDYUM",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 0.3,
+     "kazanc_db": -17
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 3.0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour6.opus",
+     "t": 8.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 1.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 26.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 24.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s18.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s18.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ONUR MEZARLIĞI",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 12.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 18.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 22.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s19.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s19.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "4500 YIL SONRA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 2.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/tap.opus",
+     "t": 10.0,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 28.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 18.0,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/014-giza-piramit/uzun/gorseller/s20.png",
+   "anlatim": "bolumler/014-giza-piramit/uzun/ses/s20.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "VEDA — HALATÇI",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 0.2,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 27.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 1.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 26.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 20.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.9
+  }
+ ]
+}

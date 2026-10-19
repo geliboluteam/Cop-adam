@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:22.22,TarihBandi,,0,0,0,,ANJER — 1883
+Dialogue: 1,0:00:22.02,0:00:43.84,TarihBandi,,0,0,0,,19 MAYIS — DAĞ UYANIYOR
+Dialogue: 1,0:00:43.64,0:01:06.12,TarihBandi,,0,0,0,,YAZ — TURİST SEZONU
+Dialogue: 1,0:01:05.92,0:01:30.92,TarihBandi,,0,0,0,,26 AĞUSTOS — SABAH
+Dialogue: 1,0:01:30.72,0:01:55.74,TarihBandi,,0,0,0,,26 AĞUSTOS — AKŞAM
+Dialogue: 1,0:01:55.54,0:02:20.63,TarihBandi,,0,0,0,,22:00 — SON TELGRAF
+Dialogue: 1,0:02:20.43,0:02:42.67,TarihBandi,,0,0,0,,27 AĞUSTOS — 05:30
+Dialogue: 1,0:02:42.47,0:03:07.27,TarihBandi,,0,0,0,,06:44 — DENİZ ÇEKİLİYOR
+Dialogue: 1,0:03:07.07,0:03:31.14,TarihBandi,,0,0,0,,TSUNAMİ — ANJER
+Dialogue: 1,0:03:30.94,0:03:58.05,TarihBandi,,0,0,0,,10:02 — EN BÜYÜK SES
+Dialogue: 1,0:03:57.85,0:04:31.32,TarihBandi,,0,0,0,,ÖĞLE — GECEYE DÖNDÜ
+Dialogue: 1,0:04:31.12,0:05:00.60,TarihBandi,,0,0,0,,SULAR ÇEKİLDİ — BEROUW
+Dialogue: 1,0:05:00.40,0:05:28.85,TarihBandi,,0,0,0,,MATEMATİK — 36.417
+Dialogue: 1,0:05:28.65,0:06:01.77,TarihBandi,,0,0,0,,HAT DIRİLDİ — İLK KÜRESEL HABER
+Dialogue: 1,0:06:01.57,0:06:28.52,TarihBandi,,0,0,0,,DÜNYA KÜÇÜLDÜ
+Dialogue: 1,0:06:28.32,0:06:59.96,TarihBandi,,0,0,0,,BAROMETRELER — 3,5 TUR
+Dialogue: 1,0:06:59.76,0:07:31.85,TarihBandi,,0,0,0,,KAN KIRMIZI GÖKYÜZÜ
+Dialogue: 1,0:07:31.65,0:08:06.97,TarihBandi,,0,0,0,,RİVAYET — ÇIĞLIK
+Dialogue: 1,0:08:06.77,0:08:43.76,TarihBandi,,0,0,0,,ANAK KRAKATAU — 1927
+Dialogue: 1,0:08:43.56,0:09:13.32,TarihBandi,,0,0,0,,VEDA — UFAĞA BAK
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER 1883'TE OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: KRAKATOA — DÜNYANIN DUYDUĞU SES
+Dialogue: 4,0:09:11.32,0:09:13.92,Kapanis,,0,0,0,,{\an5\pos(960,399)}HANGİ TEPEDEN İZLERDİN?
+Dialogue: 4,0:09:11.62,0:09:13.92,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}YORUMLARA YAZ
+Dialogue: 4,0:09:11.92,0:09:13.92,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!

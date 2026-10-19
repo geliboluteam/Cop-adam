@@ -1,0 +1,37 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:01:08.89,0:01:32.28,TarihBandi,,0,0,0,,SAAT 13:00 — PATLAMA
+Dialogue: 1,0:01:54.76,0:02:14.15,TarihBandi,,0,0,0,,AKŞAM — KÖRFEZ
+Dialogue: 1,0:02:13.95,0:02:42.82,TarihBandi,,0,0,0,,TEKNE BARIINAKLARI
+Dialogue: 1,0:02:42.62,0:03:09.16,TarihBandi,,0,0,0,,GECE 01:00 — İLK DALGA
+Dialogue: 1,0:03:31.90,0:03:53.78,TarihBandi,,0,0,0,,SABAH — NEAPOLİS
+Dialogue: 1,0:04:16.03,0:04:39.76,TarihBandi,,0,0,0,,07:30 — POMPEII'NİN SONU
+Dialogue: 1,0:04:39.56,0:05:06.81,TarihBandi,,0,0,0,,ANMA
+Dialogue: 1,0:05:06.61,0:05:31.16,TarihBandi,,0,0,0,,20 METRE KÜL
+Dialogue: 1,0:05:30.96,0:05:51.28,TarihBandi,,0,0,0,,YÜZYILLAR
+Dialogue: 1,0:05:51.08,0:06:13.19,TarihBandi,,0,0,0,,1709 → 1738
+Dialogue: 1,0:06:12.99,0:06:35.80,TarihBandi,,0,0,0,,1752 — PAPİRÜS VİLLASI
+Dialogue: 1,0:06:35.60,0:07:01.12,TarihBandi,,0,0,0,,2023 — YAPAY ZEKÂ
+Dialogue: 1,0:07:00.92,0:07:24.33,TarihBandi,,0,0,0,,BİLİM PENCERESİ
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER 79'DA OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: HERCULANEUM — DAKİKALARLA ÖLÇÜLEN SÜRE
+Dialogue: 4,0:07:48.43,0:07:51.03,Kapanis,,0,0,0,,{\an5\pos(960,399)}KİMİ ALIRDIN?
+Dialogue: 4,0:07:48.73,0:07:51.03,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}YORUMLARA YAZ
+Dialogue: 4,0:07:49.03,0:07:51.03,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!

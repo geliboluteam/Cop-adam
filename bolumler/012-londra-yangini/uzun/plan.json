@@ -1,0 +1,608 @@
+{
+ "format": "16:9",
+ "encode_preset": "veryfast",
+ "crf": 23,
+ "maxrate": "1300k",
+ "baslik_karti": {
+  "yazi1": "EĞER 1666'DA OLSAYDIM",
+  "yazi2": "MERAKLI: LONDRA — DÖRT GÜNLÜK ATEŞ"
+ },
+ "kapanis_karti": {
+  "yazi": "EŞYAN MI, HAYATIN MI?",
+  "alt": "YORUMLARA YAZ"
+ },
+ "muzik": {
+  "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+  "kazanc_db": -21
+ },
+ "hedef_sure": 560,
+ "hiz_max": 1.12,
+ "altyazi": false,
+ "sahneler": [
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s01.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s01.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "PUDDING LANE — 1666",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 32.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 6.0,
+     "kazanc_db": -22
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s02.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s02.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "AHŞAP DEV",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 33.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 18.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s03.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s03.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "CUMARTESİ — SON FIRIN",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 28.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 12.0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 22.0,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s04.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s04.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GECE — 01:00",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -16,
+     "dongu": true,
+     "sure": 37.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 1.0,
+     "kazanc_db": -15
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 2.0,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/0ad/music/Taiko_2.ogg",
+     "t": 8.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 28.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s05.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s05.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "PAZAR — FİRSAT KAÇTI",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 32.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 2.0,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 20.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s06.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s06.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "THAMES SOKAĞI — DEPOLAR",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -17,
+     "dongu": true,
+     "sure": 34.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 0.5,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 5.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 34.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s07.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s07.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "PAZARTESİ — KAOS",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 32.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 2.0,
+     "kazanc_db": -17
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour8.opus",
+     "t": 12.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 20.0,
+     "kazanc_db": -22
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s08.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s08.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SALI — AZİZ PAVLUS",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -16,
+     "dongu": true,
+     "sure": 32.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 1.0,
+     "kazanc_db": -15
+    },
+    {
+     "dosya": "sfx/0ad/music/Taiko_2.ogg",
+     "t": 6.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 26.0
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 14.0,
+     "kazanc_db": -23
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s09.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s09.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KULE — BARUT",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 2.0,
+     "kazanc_db": -15
+    },
+    {
+     "dosya": "sfx/0ad/music/Taiko_1.ogg",
+     "t": 0.0,
+     "kazanc_db": -19,
+     "dongu": true,
+     "sure": 34.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 1.0,
+     "kazanc_db": -14
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour6.opus",
+     "t": 6.0,
+     "kazanc_db": -19
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s10.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s10.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "PERŞEMBE — KÜLLER",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 36.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 15.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 30.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s11.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s11.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "BİLİNMEYEN ÖLÜLER",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 28.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/rain_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 28.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 15.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s12.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s12.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "MOORFIELDS — KRAL",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 28.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 4.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 12.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour7.opus",
+     "t": 18.0,
+     "kazanc_db": -23
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s13.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s13.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "TYBURN — HUBERT",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 8.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 22.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s14.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s14.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "YANGIN MAHKEMESİ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 2.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+     "t": 12.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 20.0,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 28.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s15.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s15.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "1667 — TUĞLA KANUNU",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 1.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 6.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 12.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 28.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s16.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s16.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "WREN — YENİ KUBBE",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 1.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape2.opus",
+     "t": 8.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 20.0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 28.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s17.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s17.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "1681 — SİGORTA",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 3.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 8.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 18.0,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 27.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s18.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s18.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "EFSANE AVI — VEBÂ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+     "t": 1.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/tap.opus",
+     "t": 8.0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 26.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 20.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s19.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s19.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "THE MONUMENT",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 1.0,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 10.0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/tap.opus",
+     "t": 16.0,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 28.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/012-londra-yangini/uzun/gorseller/s20.png",
+   "anlatim": "bolumler/012-londra-yangini/uzun/ses/s20.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "VEDA — KÜLLERDEN EKMEK",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 0.2,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 26.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 26.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 20.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.9
+  }
+ ]
+}

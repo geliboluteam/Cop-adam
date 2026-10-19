@@ -1,0 +1,243 @@
+{
+ "baslik_karti": {
+  "yazi1": "EĞER 80'DE OLSAYDIM",
+  "yazi2": "MERAKLI: ÖLÜM KALIM MATEMATİĞİ"
+ },
+ "kapanis_karti": {
+  "yazi": "BAŞPARMAĞIN HANGİ YÖNDE?",
+  "alt": "YORUMLARA YAZ"
+ },
+ "muzik": {
+  "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+  "kazanc_db": -21
+ },
+ "hedef_sure": 57.5,
+ "hiz_max": 1.25,
+ "altyazi": false,
+ "sahneler": [
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-2/gorseller/s01.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-2/ses/s01.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GERÇEK MATEMATİK",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/music/Taiko_2.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 5.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 3.5,
+     "kazanc_db": -18
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-2/gorseller/s02.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-2/ses/s02.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "VERİ — 100 DÖVÜŞ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 0.8,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 2.5,
+     "kazanc_db": -21
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-2/gorseller/s03.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-2/ses/s03.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "BEŞTE DÖRT AYAKTA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 1.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 3.5,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-2/gorseller/s04.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-2/ses/s04.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "MISSİO — MERHAMET",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/stumble.opus",
+     "t": 1.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 1.8,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 2.6,
+     "kazanc_db": -22
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-2/gorseller/s05.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-2/ses/s05.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KALABALIK — MITTE!",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 0.5,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour9.opus",
+     "t": 2.5,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 4.0,
+     "kazanc_db": -17
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-2/gorseller/s06.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-2/ses/s06.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "POLLICE VERSO — SIR",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 0.5,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 2.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/wolf-whistle.opus",
+     "t": 4.5,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-2/gorseller/s07.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-2/ses/s07.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "1872 — BİR TABLO",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 0.5,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour7.opus",
+     "t": 1.5,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 4.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-2/gorseller/s08.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-2/ses/s08.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GLADYATÖR = YATIRIM",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 1.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 3.0,
+     "kazanc_db": -22
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-2/gorseller/s09.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-2/ses/s09.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "RUDİS — TAHTA KILIÇ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 1.0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 3.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour6.opus",
+     "t": 4.0,
+     "kazanc_db": -18
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-2/gorseller/s10.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-2/ses/s10.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SEN NE YAPARDIN?",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/music/Taiko_1.ogg",
+     "t": 0.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 6.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 0.5,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 2.5,
+     "kazanc_db": -18
+    }
+   ],
+   "ek_sure": 0.8
+  }
+ ]
+}

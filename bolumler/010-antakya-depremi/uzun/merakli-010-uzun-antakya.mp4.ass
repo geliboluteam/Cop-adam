@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:26.84,TarihBandi,,0,0,0,,ANTAKYA — MS 526
+Dialogue: 1,0:00:26.64,0:00:52.95,TarihBandi,,0,0,0,,ŞEHRİN GURURU
+Dialogue: 1,0:00:52.75,0:01:13.54,TarihBandi,,0,0,0,,525 — YANGIN ANISI
+Dialogue: 1,0:01:13.34,0:01:37.77,TarihBandi,,0,0,0,,BAYRAM SABAHI
+Dialogue: 1,0:01:37.57,0:02:00.24,TarihBandi,,0,0,0,,ATÖLYE — TESSERA
+Dialogue: 1,0:02:00.04,0:02:26.69,TarihBandi,,0,0,0,,DEPREM — SABAH ORTASI
+Dialogue: 1,0:02:26.49,0:02:52.80,TarihBandi,,0,0,0,,KAÇIŞ — DAĞIN ETEĞİ
+Dialogue: 1,0:02:52.60,0:03:18.01,TarihBandi,,0,0,0,,ATEŞ YAĞMURU
+Dialogue: 1,0:03:17.81,0:03:44.36,TarihBandi,,0,0,0,,YEDİNCİ GÜN — ADA
+Dialogue: 1,0:03:44.16,0:04:10.94,TarihBandi,,0,0,0,,SAYILAR
+Dialogue: 1,0:04:10.74,0:04:44.01,TarihBandi,,0,0,0,,ENKAZ — UMUT
+Dialogue: 1,0:04:43.81,0:05:13.61,TarihBandi,,0,0,0,,18 AY — ARTÇILAR
+Dialogue: 1,0:05:13.41,0:05:48.75,TarihBandi,,0,0,0,,29 KASIM 528
+Dialogue: 1,0:05:48.55,0:06:15.61,TarihBandi,,0,0,0,,KONSTANTİNİPOLİ — YAS
+Dialogue: 1,0:06:15.41,0:06:43.96,TarihBandi,,0,0,0,,YARDIM — 5 CENTENARİA
+Dialogue: 1,0:06:43.76,0:07:12.68,TarihBandi,,0,0,0,,THEOPOLİS
+Dialogue: 1,0:07:12.48,0:07:43.45,TarihBandi,,0,0,0,,ATÖLYE — YENİDEN
+Dialogue: 1,0:07:43.25,0:08:13.99,TarihBandi,,0,0,0,,SONRASI — 540
+Dialogue: 1,0:08:13.79,0:08:47.32,TarihBandi,,0,0,0,,1500 YIL SONRA — 2023
+Dialogue: 1,0:08:47.12,0:09:13.59,TarihBandi,,0,0,0,,VEDA — TAŞ VE ŞEHİR
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER 526'DA OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: ANTAKYA — ŞEHRİ SİLEN DEPREM
+Dialogue: 4,0:09:11.59,0:09:14.19,Kapanis,,0,0,0,,{\an5\pos(960,399)}NEREYE KOŞARDIN?
+Dialogue: 4,0:09:11.89,0:09:14.19,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}YORUMLARA YAZ
+Dialogue: 4,0:09:12.19,0:09:14.19,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!

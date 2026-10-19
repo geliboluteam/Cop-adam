@@ -1,0 +1,35 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:01:04.40,0:01:23.76,TarihBandi,,0,0,0,,SAAT 13:00 — PATLAMA
+Dialogue: 1,0:01:42.37,0:02:04.71,TarihBandi,,0,0,0,,İKİNDİ — POMZA YAĞMURU
+Dialogue: 1,0:02:49.78,0:03:14.18,TarihBandi,,0,0,0,,AKŞAM — MISENUM
+Dialogue: 1,0:03:13.98,0:03:35.49,TarihBandi,,0,0,0,,GECE YARISI
+Dialogue: 1,0:03:54.26,0:04:16.88,TarihBandi,,0,0,0,,ŞAFAK — STABIAE
+Dialogue: 1,0:04:16.68,0:04:40.15,TarihBandi,,0,0,0,,SABAH — 07:30
+Dialogue: 1,0:04:39.95,0:05:10.49,TarihBandi,,0,0,0,,08:00 — SON DALGA
+Dialogue: 1,0:05:36.93,0:06:00.15,TarihBandi,,0,0,0,,YILLAR SONRA
+Dialogue: 1,0:05:59.95,0:06:25.15,TarihBandi,,0,0,0,,25 YIL SONRA — MEKTUPLAR
+Dialogue: 1,0:06:24.95,0:06:53.43,TarihBandi,,0,0,0,,1748 → 1863 — KAZILAR
+Dialogue: 1,0:06:53.23,0:07:24.99,TarihBandi,,0,0,0,,AĞUSTOS MU, EKİM Mİ?
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER 79'DA OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: POMPEII — 18 SAATLİK PENCERE
+Dialogue: 4,0:07:49.71,0:07:52.31,Kapanis,,0,0,0,,{\an5\pos(960,399)}SIRADA NERE?
+Dialogue: 4,0:07:50.01,0:07:52.31,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}YORUMLARA YAZ
+Dialogue: 4,0:07:50.31,0:07:52.31,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!

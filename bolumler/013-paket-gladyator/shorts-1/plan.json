@@ -1,0 +1,261 @@
+{
+ "baslik_karti": {
+  "yazi1": "EĞER 80'DE OLSAYDIM",
+  "yazi2": "MERAKLI: ARENA KAPISI"
+ },
+ "kapanis_karti": {
+  "yazi": "KAPIDA NE DÜŞÜNÜRDÜN?",
+  "alt": "YORUMLARA YAZ"
+ },
+ "muzik": {
+  "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+  "kazanc_db": -21
+ },
+ "hedef_sure": 57.5,
+ "hiz_max": 1.25,
+ "altyazi": false,
+ "sahneler": [
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-1/gorseller/s01.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-1/ses/s01.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HYPOGEUM — ZEMİN ALTINDA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 6.0
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 2.0,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 3.0,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-1/gorseller/s02.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-1/ses/s02.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "BEKLEYİŞ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 6.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 0.5,
+     "kazanc_db": -22
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-1/gorseller/s03.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-1/ses/s03.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "VİTUS — KARDEŞİM",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 5.0
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 1.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-1/gorseller/s04.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-1/ses/s04.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ASANSÖR — YÜKSELİŞ",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 0.3,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 1.5,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 2.2,
+     "kazanc_db": -15
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 3.0,
+     "kazanc_db": -17
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-1/gorseller/s05.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-1/ses/s05.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ARENA — İLK ADIM",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 0.3,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour7.opus",
+     "t": 0.8,
+     "kazanc_db": -15
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 6.0
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-1/gorseller/s06.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-1/ses/s06.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "50.000 SES",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 0.0,
+     "kazanc_db": -14
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 2.0,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour9.opus",
+     "t": 3.5,
+     "kazanc_db": -15
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-1/gorseller/s07.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-1/ses/s07.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KARŞI KAPI — VİTUS",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 1.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 1.5,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 3.0,
+     "kazanc_db": -18
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-1/gorseller/s08.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-1/ses/s08.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HAKEM — SUMMA RUDIS",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 0.5,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour8.opus",
+     "t": 2.0,
+     "kazanc_db": -18
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-1/gorseller/s09.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-1/ses/s09.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SON SÖZ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 0.3,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 6.0
+    }
+   ],
+   "ek_sure": 0.55
+  },
+  {
+   "gorsel": "bolumler/013-paket-gladyator/shorts-1/gorseller/s10.png",
+   "anlatim": "bolumler/013-paket-gladyator/shorts-1/ses/s10.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DANS BAŞLIYOR",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 0.3,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/0ad/music/Taiko_1.ogg",
+     "t": 0.5,
+     "kazanc_db": -19,
+     "dongu": true,
+     "sure": 6.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour6.opus",
+     "t": 1.0,
+     "kazanc_db": -15
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour10.opus",
+     "t": 3.5,
+     "kazanc_db": -17
+    }
+   ],
+   "ek_sure": 0.8
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+  "baslik_karti": {"yazi1": "EĞER 1453'TE OLSAYDIM", "yazi2": "MERAKLI: FIRTINADA BİR DENİCİ"},
+  "kapanis_karti": {"yazi": "SIRADA NERE?", "alt": "YORUMLARA YAZ"},
+  "muzik": {"dosya": "sfx/0ad/music/The_Hellespont.ogg", "kazanc_db": -21},
+  "hedef_sure": 57.5,
+  "hiz_max": 1.25,
+  "sahneler": [
+    {
+      "gorsel": "bolumler/003-1453-donanmada-denci/gorseller/s01.png",
+      "anlatim": "bolumler/003-1453-donanmada-denci/ses/s01.mp3",
+      "anlatim_metin": "Yıl 1453, ilkbahar. Adım Meraklı; Osmanlı donanmasında bir deniciyim.",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus", "t": 0.0, "kazanc_db": -15},
+        {"dosya": "sfx/0ad/ambient/water/wave_21.ogg", "t": 0.2, "kazanc_db": -18, "dongu": true, "sure": 10.0},
+        {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -24, "dongu": true, "sure": 10.5},
+        {"dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg", "t": 0.8, "kazanc_db": -24, "dongu": true, "sure": 9.0},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 1.6, "kazanc_db": -22}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/003-1453-donanmada-denci/gorseller/s02.png",
+      "anlatim": "bolumler/003-1453-donanmada-denci/ses/s02.mp3",
+      "anlatim_metin": "Haliç'in ağzında o meşhur zincir var; bir kez denedik, geçemedik.",
+      "efektler": [
+        {"dosya": "sfx/0ad/ambient/water/wave_21.ogg", "t": 0.0, "kazanc_db": -18, "dongu": true, "sure": 8.5},
+        {"dosya": "sfx/0ad/ambient/weather/windgust_11.ogg", "t": 1.4, "kazanc_db": -20},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 0.7, "kazanc_db": -20},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 3.1, "kazanc_db": -22}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/003-1453-donanmada-denci/gorseller/s03.png",
+      "anlatim": "bolumler/003-1453-donanmada-denci/ses/s03.mp3",
+      "anlatim_metin": "20 Nisan'da dört tahıl gemisi aramızdan sıyrıldı; rüzgâr onları kurtardı.",
+      "tarih_bandi": "20 NİSAN 1453",
+      "efektler": [
+        {"dosya": "sfx/0ad/ambient/water/wavecrash_21.ogg", "t": 0.0, "kazanc_db": -15, "dongu": true, "sure": 9.0},
+        {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -17, "dongu": true, "sure": 9.0},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 1.5, "kazanc_db": -17},
+        {"dosya": "sfx/free-sfx/Thimras/cannon_fire.opus", "t": 2.6, "kazanc_db": -16},
+        {"dosya": "sfx/0ad/ambient/weather/windgust_11.ogg", "t": 4.6, "kazanc_db": -16}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/003-1453-donanmada-denci/gorseller/s04.png",
+      "anlatim": "bolumler/003-1453-donanmada-denci/ses/s04.mp3",
+      "anlatim_metin": "Bir gece fırtına bastırdı: dalgalar güverteden aşıyor, yelken yırtılıyordu.",
+      "efektler": [
+        {"dosya": "sfx/0ad/ambient/weather/thunder_10.ogg", "t": 0.4, "kazanc_db": -11},
+        {"dosya": "sfx/0ad/ambient/water/wavecrash_21.ogg", "t": 0.0, "kazanc_db": -12, "dongu": true, "sure": 10.0},
+        {"dosya": "sfx/0ad/ambient/weather/rain_11.ogg", "t": 0.0, "kazanc_db": -15, "dongu": true, "sure": 10.0},
+        {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -11, "dongu": true, "sure": 10.5},
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus", "t": 0.8, "kazanc_db": -16},
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus", "t": 3.4, "kazanc_db": -18},
+        {"dosya": "sfx/0ad/ambient/weather/thunder_10.ogg", "t": 5.4, "kazanc_db": -13}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/003-1453-donanmada-denci/gorseller/s05.png",
+      "anlatim": "bolumler/003-1453-donanmada-denci/ses/s05.mp3",
+      "anlatim_metin": "Şafakta onarıyorduk; moraller bozuk. Haliç'e giremiyorduk.",
+      "efektler": [
+        {"dosya": "sfx/0ad/ambient/water/wave_21.ogg", "t": 0.0, "kazanc_db": -21, "dongu": true, "sure": 8.0},
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus", "t": 1.0, "kazanc_db": -18},
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus", "t": 3.0, "kazanc_db": -19},
+        {"dosya": "sfx/0ad/ambient/weather/rain_12.ogg", "t": 0.0, "kazanc_db": -27, "dongu": true, "sure": 7.0}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/003-1453-donanmada-denci/gorseller/s06.png",
+      "anlatim": "bolumler/003-1453-donanmada-denci/ses/s06.mp3",
+      "anlatim_metin": "Ve padişah emri verdi: gemileri karadan yürüteceğiz!",
+      "efektler": [
+        {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -20, "dongu": true, "sure": 8.0},
+        {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.3, "kazanc_db": -26, "dongu": true, "sure": 6.0},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 2.4, "kazanc_db": -20}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/003-1453-donanmada-denci/gorseller/s07.png",
+      "anlatim": "bolumler/003-1453-donanmada-denci/ses/s07.mp3",
+      "anlatim_metin": "Yağlanmış kızaklar, kütük yollar... Tepenin üzerinden geçiyoruz.",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus", "t": 0.0, "kazanc_db": -24, "dongu": true, "sure": 8.5},
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus", "t": 1.0, "kazanc_db": -18},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 2.6, "kazanc_db": -20},
+        {"dosya": "sfx/0ad/ambient/weather/windgust_11.ogg", "t": 4.0, "kazanc_db": -22}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/003-1453-donanmada-denci/gorseller/s08.png",
+      "anlatim": "bolumler/003-1453-donanmada-denci/ses/s08.mp3",
+      "anlatim_metin": "Bütün gece çektik; omuzlarım çatladı, ama gemi kayıyordu.",
+      "tarih_bandi": "21-22 NİSAN 1453",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/Freesound/Foley/260130__splicesound__hand-digging-dirt-leaves-crunch.opus", "t": 0.0, "kazanc_db": -18, "dongu": true, "sure": 8.5},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 0.8, "kazanc_db": -18},
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape2.opus", "t": 2.2, "kazanc_db": -17},
+        {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -20, "dongu": true, "sure": 9.0},
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus", "t": 4.0, "kazanc_db": -20}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/003-1453-donanmada-denci/gorseller/s09.png",
+      "anlatim": "bolumler/003-1453-donanmada-denci/ses/s09.mp3",
+      "anlatim_metin": "Şafakta Haliç'e indik; zincir artık işe yaramıyordu!",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus", "t": 0.0, "kazanc_db": -16},
+        {"dosya": "sfx/0ad/ambient/water/waverocky_21.ogg", "t": 0.3, "kazanc_db": -17, "dongu": true, "sure": 8.0},
+        {"dosya": "sfx/free-sfx/ShipsBells/tangtang.opus", "t": 2.2, "kazanc_db": -15},
+        {"dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg", "t": 0.8, "kazanc_db": -20, "dongu": true, "sure": 7.5}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/003-1453-donanmada-denci/gorseller/s10.png",
+      "anlatim": "bolumler/003-1453-donanmada-denci/ses/s10.mp3",
+      "anlatim_metin": "29 Mayıs'ta şehir düştü; deniz de bizim oldu. Ben Meraklı, güvertedeydim. Sıradaki durak? Yorumlara yaz!",
+      "tarih_bandi": "29 MAYIS 1453",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus", "t": 0.2, "kazanc_db": -16},
+        {"dosya": "sfx/0ad/ambient/water/wave_21.ogg", "t": 0.0, "kazanc_db": -21, "dongu": true, "sure": 11.0},
+        {"dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg", "t": 1.2, "kazanc_db": -21, "dongu": true, "sure": 9.5},
+        {"dosya": "sfx/free-sfx/ShipsBells/tang.opus", "t": 3.2, "kazanc_db": -19}
+      ],
+      "ek_sure": 0.8
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,58,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,430,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,104,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,54,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,84,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,46,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,50,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.90,0:00:06.48,Caption,,0,0,0,,Yıl 1453. Adım Meraklı: boynumda kırmızı fularım, sırtımda yayım.
+Dialogue: 0,0:00:06.33,0:00:08.32,Caption,,0,0,0,,Fatih'in ordusundayım.
+Dialogue: 0,0:00:08.57,0:00:10.60,Caption,,0,0,0,,6 Nisan'da kuşatma başladı; sancakla
+Dialogue: 0,0:00:10.45,0:00:12.48,Caption,,0,0,0,,r gibi ben de surlara doğru yürüdüm.
+Dialogue: 1,0:00:08.52,0:00:12.53,TarihBandi,,0,0,0,,6 NİSAN 1453
+Dialogue: 0,0:00:12.38,0:00:15.07,Caption,,0,0,0,,Karargâhta Urban Usta'nın döktüğü Şahi
+Dialogue: 0,0:00:14.92,0:00:17.67,Caption,,0,0,0,,topu; kocaman namlusu iki adam boyunda.
+Dialogue: 0,0:00:17.57,0:00:19.86,Caption,,0,0,0,,Ateşleme anında dünya gürlüyor!
+Dialogue: 0,0:00:19.71,0:00:23.65,Caption,,0,0,0,,Üç yüz yirmi kiloluk gülle bin yıllık surlara çarpıyor.
+Dialogue: 0,0:00:23.55,0:00:26.44,Caption,,0,0,0,,Görevim geceleri surlara sokulmak: nöbetleri,
+Dialogue: 0,0:00:26.29,0:00:28.09,Caption,,0,0,0,,kapıları, gedikleri saymak.
+Dialogue: 0,0:00:27.99,0:00:29.52,Caption,,0,0,0,,Bir meşale yaklaştı...
+Dialogue: 0,0:00:29.37,0:00:32.91,Caption,,0,0,0,,Nefesimi tuttum; kalbim gök gürültüsü gibi çarpıyordu.
+Dialogue: 0,0:00:32.81,0:00:34.73,Caption,,0,0,0,,Ve bir gece gözlerime inanama
+Dialogue: 0,0:00:34.59,0:00:36.51,Caption,,0,0,0,,dım: gemiler karadan yürüyor!
+Dialogue: 1,0:00:32.76,0:00:36.56,TarihBandi,,0,0,0,,21-22 NİSAN 1453
+Dialogue: 0,0:00:36.41,0:00:38.81,Caption,,0,0,0,,Şafakta donanma Haliç'e indi; karş
+Dialogue: 0,0:00:38.66,0:00:41.06,Caption,,0,0,0,,ı kıyıda Bizanslılar donakalmıştı.
+Dialogue: 0,0:00:40.96,0:00:45.24,Caption,,0,0,0,,29 Mayıs sabahı son hücum! Davullar, oklar, merdivenler...
+Dialogue: 0,0:00:45.09,0:00:48.59,Caption,,0,0,0,,Ve efsaneye göre, biri sancağı surlara dikiyor.
+Dialogue: 1,0:00:40.91,0:00:48.64,TarihBandi,,0,0,0,,29 MAYIS 1453
+Dialogue: 0,0:00:48.49,0:00:50.55,Caption,,0,0,0,,Öğlene doğru surlar aşıldı.
+Dialogue: 0,0:00:50.40,0:00:54.92,Caption,,0,0,0,,Ben Meraklı, tam ortasındaydım. Sıradaki durak? Yorumlara yaz!
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(540,773)}EĞER 1453'TE\NOLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(540,1054)}MERAKLI: FETİH ORDUSUNDA\NİZCİ
+Dialogue: 4,0:00:54.92,0:00:57.42,Kapanis,,0,0,0,,{\an5\pos(540,706)}SIRADA NERE?
+Dialogue: 4,0:00:55.22,0:00:57.42,KapanisAlt,,0,0,0,,{\an5\pos(540,873)}YORUMLARA YAZ
+Dialogue: 4,0:00:55.52,0:00:57.42,Abone,,0,0,0,,{\an5\pos(540,1050)}KANALIMA ABONE OLMAYI\NUNUTMAYIN!

@@ -1,0 +1,134 @@
+{
+  "baslik_karti": {"yazi1": "EĞER 1453'TE OLSAYDIM", "yazi2": "MERAKLI: FETİH ORDUSUNDA İZCİ"},
+  "kapanis_karti": {"yazi": "SIRADA NERE?", "alt": "YORUMLARA YAZ"},
+  "muzik": {"dosya": "sfx/0ad/music/The_Hellespont.ogg", "kazanc_db": -21},
+  "hedef_sure": 58.0,
+  "hiz_max": 1.25,
+  "sahneler": [
+    {
+      "gorsel": "bolumler/001-1453-fethi-izci/gorseller/s01.png",
+      "anlatim": "bolumler/001-1453-fethi-izci/ses/s01.mp3",
+      "anlatim_metin": "Yıl 1453. Adım Meraklı: boynumda kırmızı fularım, sırtımda yayım. Fatih'in ordusundayım.",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus", "t": 0.0, "kazanc_db": -15},
+        {"dosya": "sfx/free-sfx/PagDev/fire_loop.opus", "t": 0.6, "kazanc_db": -17, "dongu": true, "sure": 10.0},
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus", "t": 0.6, "kazanc_db": -21, "dongu": true, "sure": 10.0},
+        {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -26, "dongu": true, "sure": 11.0}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/001-1453-fethi-izci/gorseller/s02.png",
+      "anlatim": "bolumler/001-1453-fethi-izci/ses/s02.mp3",
+      "anlatim_metin": "6 Nisan'da kuşatma başladı; sancaklar gibi ben de surlara doğru yürüdüm.",
+      "tarih_bandi": "6 NİSAN 1453",
+      "efektler": [
+        {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -24, "dongu": true, "sure": 7.0},
+        {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.2, "kazanc_db": -27, "dongu": true, "sure": 6.5},
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus", "t": 0.8, "kazanc_db": -19},
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus", "t": 3.4, "kazanc_db": -21}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/001-1453-fethi-izci/gorseller/s03.png",
+      "anlatim": "bolumler/001-1453-fethi-izci/ses/s03.mp3",
+      "anlatim_metin": "Karargâhta Urban Usta'nın döktüğü Şahi topu; kocaman namlusu iki adam boyunda.",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/PagDev/fire_loop.opus", "t": 0.0, "kazanc_db": -20, "dongu": true, "sure": 7.5},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 1.2, "kazanc_db": -18},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 3.6, "kazanc_db": -20},
+        {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -28, "dongu": true, "sure": 8.0}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/001-1453-fethi-izci/gorseller/s04.png",
+      "anlatim": "bolumler/001-1453-fethi-izci/ses/s04.mp3",
+      "anlatim_metin": "Ateşleme anında dünya gürlüyor! Üç yüz yirmi kiloluk gülle bin yıllık surlara çarpıyor.",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/Thimras/cannon_fire.opus", "t": 0.7, "kazanc_db": -8},
+        {"dosya": "sfx/openhv/cc-by-30/cannon_sarge4267.ogg", "t": 0.75, "kazanc_db": -13},
+        {"dosya": "sfx/openhv/cc-by-30/explosion1_smcameron.ogg", "t": 1.9, "kazanc_db": -13},
+        {"dosya": "sfx/0ad/attack/destruction/building_collapse_large_01.ogg", "t": 2.8, "kazanc_db": -16},
+        {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -28, "dongu": true, "sure": 8.5}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/001-1453-fethi-izci/gorseller/s05.png",
+      "anlatim": "bolumler/001-1453-fethi-izci/ses/s05.mp3",
+      "anlatim_metin": "Görevim geceleri surlara sokulmak: nöbetleri, kapıları, gedikleri saymak.",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus", "t": 0.0, "kazanc_db": -20, "dongu": true, "sure": 7.5},
+        {"dosya": "sfx/0ad/ambient/weather/windgust_11.ogg", "t": 1.2, "kazanc_db": -20},
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus", "t": 0.9, "kazanc_db": -22},
+        {"dosya": "sfx/0ad/attack/weapon/bow_attack_05.ogg", "t": 5.0, "kazanc_db": -26},
+        {"dosya": "sfx/0ad/attack/weapon/arrowfly_03.ogg", "t": 5.4, "kazanc_db": -24}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/001-1453-fethi-izci/gorseller/s06.png",
+      "anlatim": "bolumler/001-1453-fethi-izci/ses/s06.mp3",
+      "anlatim_metin": "Bir meşale yaklaştı... Nefesimi tuttum; kalbim gök gürültüsü gibi çarpıyordu.",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/scared-breathing.opus", "t": 0.3, "kazanc_db": -17, "dongu": true, "sure": 7.0},
+        {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus", "t": 0.0, "kazanc_db": -24, "dongu": true, "sure": 7.5},
+        {"dosya": "sfx/0ad/ambient/weather/windgust_11.ogg", "t": 4.4, "kazanc_db": -19}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/001-1453-fethi-izci/gorseller/s07.png",
+      "anlatim": "bolumler/001-1453-fethi-izci/ses/s07.mp3",
+      "anlatim_metin": "Ve bir gece gözlerime inanamadım: gemiler karadan yürüyor!",
+      "tarih_bandi": "21-22 NİSAN 1453",
+      "efektler": [
+        {"dosya": "sfx/0ad/ambient/water/wave_21.ogg", "t": 0.0, "kazanc_db": -19, "dongu": true, "sure": 7.0},
+        {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -22, "dongu": true, "sure": 7.0},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 1.4, "kazanc_db": -18},
+        {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 3.2, "kazanc_db": -20}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/001-1453-fethi-izci/gorseller/s08.png",
+      "anlatim": "bolumler/001-1453-fethi-izci/ses/s08.mp3",
+      "anlatim_metin": "Şafakta donanma Haliç'e indi; karşı kıyıda Bizanslılar donakalmıştı.",
+      "efektler": [
+        {"dosya": "sfx/0ad/ambient/water/waverocky_21.ogg", "t": 0.0, "kazanc_db": -18, "dongu": true, "sure": 7.0},
+        {"dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg", "t": 0.8, "kazanc_db": -22, "dongu": true, "sure": 6.0},
+        {"dosya": "sfx/free-sfx/ShipsBells/tangtang.opus", "t": 2.2, "kazanc_db": -15}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/001-1453-fethi-izci/gorseller/s09.png",
+      "anlatim": "bolumler/001-1453-fethi-izci/ses/s09.mp3",
+      "anlatim_metin": "29 Mayıs sabahı son hücum! Davullar, oklar, merdivenler... Ve efsaneye göre, biri sancağı surlara dikiyor.",
+      "tarih_bandi": "29 MAYIS 1453",
+      "efektler": [
+        {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.0, "kazanc_db": -14, "dongu": true, "sure": 10.0},
+        {"dosya": "sfx/free-sfx/Thimras/cannon_fire.opus", "t": 1.2, "kazanc_db": -11},
+        {"dosya": "sfx/0ad/attack/weapon/arrowfly_03.ogg", "t": 2.2, "kazanc_db": -17},
+        {"dosya": "sfx/0ad/attack/impact/arrow_04.ogg", "t": 2.7, "kazanc_db": -19},
+        {"dosya": "sfx/0ad/attack/weapon/arrowfly_03.ogg", "t": 3.4, "kazanc_db": -17},
+        {"dosya": "sfx/openhv/cc-by-30/explosion2_smcameron.ogg", "t": 4.8, "kazanc_db": -13},
+        {"dosya": "sfx/0ad/attack/destruction/building_collapse_large_01.ogg", "t": 6.8, "kazanc_db": -16}
+      ],
+      "ek_sure": 0.55
+    },
+    {
+      "gorsel": "bolumler/001-1453-fethi-izci/gorseller/s10.png",
+      "anlatim": "bolumler/001-1453-fethi-izci/ses/s10.mp3",
+      "anlatim_metin": "Öğlene doğru surlar aşıldı. Ben Meraklı, tam ortasındaydım. Sıradaki durak? Yorumlara yaz!",
+      "efektler": [
+        {"dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus", "t": 0.2, "kazanc_db": -16},
+        {"dosya": "sfx/0ad/ambient/water/wave_21.ogg", "t": 0.0, "kazanc_db": -21, "dongu": true, "sure": 10.0},
+        {"dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg", "t": 1.2, "kazanc_db": -21, "dongu": true, "sure": 9.0}
+      ],
+      "ek_sure": 0.8
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:31.02,TarihBandi,,0,0,0,,GELİBOLU: TERSANE
+Dialogue: 1,0:00:30.82,0:01:01.28,TarihBandi,,0,0,0,,DONANMA AÇILIYOR
+Dialogue: 1,0:01:01.08,0:01:32.97,TarihBandi,,0,0,0,,ŞEHİR DENİZDEN
+Dialogue: 1,0:01:32.77,0:02:02.88,TarihBandi,,0,0,0,,18 NİSAN: ADALAR
+Dialogue: 1,0:02:02.68,0:02:37.14,TarihBandi,,0,0,0,,20 NİSAN: DÖRT YELKEN
+Dialogue: 1,0:02:36.94,0:03:12.84,TarihBandi,,0,0,0,,SAVAŞ: BORDALAR
+Dialogue: 1,0:03:12.64,0:03:47.02,TarihBandi,,0,0,0,,RÜZGÂR DÖNDÜ
+Dialogue: 1,0:03:46.82,0:04:17.27,TarihBandi,,0,0,0,,YENİLGİ SABAHI
+Dialogue: 1,0:04:17.07,0:04:50.19,TarihBandi,,0,0,0,,ZİNCİR
+Dialogue: 1,0:04:49.99,0:05:24.39,TarihBandi,,0,0,0,,GEMİLER KARAYA
+Dialogue: 1,0:05:24.19,0:06:01.38,TarihBandi,,0,0,0,,GECE YÜRÜYÜŞÜ
+Dialogue: 1,0:06:01.18,0:06:32.12,TarihBandi,,0,0,0,,22 NİSAN ŞAFAĞI
+Dialogue: 1,0:06:31.92,0:06:59.65,TarihBandi,,0,0,0,,HALİÇ DÜZENİ
+Dialogue: 1,0:06:59.45,0:07:32.56,TarihBandi,,0,0,0,,28 NİSAN: ATEŞ GEMİLERİ
+Dialogue: 1,0:07:32.36,0:08:01.34,TarihBandi,,0,0,0,,ABLUKA
+Dialogue: 1,0:08:01.14,0:08:32.02,TarihBandi,,0,0,0,,UFUK NÖBETİ
+Dialogue: 1,0:08:31.82,0:09:00.59,TarihBandi,,0,0,0,,28 MAYIS: MUMLAR
+Dialogue: 1,0:09:00.39,0:09:34.12,TarihBandi,,0,0,0,,29 MAYIS: SANCAK
+Dialogue: 1,0:09:33.92,0:10:07.90,TarihBandi,,0,0,0,,LİMAN BİZİM
+Dialogue: 1,0:10:07.70,0:10:50.29,TarihBandi,,0,0,0,,DÜRÜST TARİH + VEDA
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER 1453'TE OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: DONANMADA DENCİ
+Dialogue: 4,0:10:48.29,0:10:50.89,Kapanis,,0,0,0,,{\an5\pos(960,399)}HANGİ ROLÜ SEÇERDİN?
+Dialogue: 4,0:10:48.59,0:10:50.89,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}YORUMLARA YAZ
+Dialogue: 4,0:10:48.89,0:10:50.89,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!

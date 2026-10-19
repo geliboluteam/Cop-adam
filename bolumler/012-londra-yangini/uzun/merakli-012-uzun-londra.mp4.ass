@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:28.21,TarihBandi,,0,0,0,,PUDDING LANE — 1666
+Dialogue: 1,0:00:28.01,0:00:57.83,TarihBandi,,0,0,0,,AHŞAP DEV
+Dialogue: 1,0:00:57.63,0:01:23.44,TarihBandi,,0,0,0,,CUMARTESİ — SON FIRIN
+Dialogue: 1,0:01:23.24,0:01:55.25,TarihBandi,,0,0,0,,GECE — 01:00
+Dialogue: 1,0:01:55.05,0:02:24.41,TarihBandi,,0,0,0,,PAZAR — FİRSAT KAÇTI
+Dialogue: 1,0:02:24.21,0:02:56.45,TarihBandi,,0,0,0,,THAMES SOKAĞI — DEPOLAR
+Dialogue: 1,0:02:56.25,0:03:26.49,TarihBandi,,0,0,0,,PAZARTESİ — KAOS
+Dialogue: 1,0:03:26.29,0:03:57.18,TarihBandi,,0,0,0,,SALI — AZİZ PAVLUS
+Dialogue: 1,0:03:56.98,0:04:29.71,TarihBandi,,0,0,0,,KULE — BARUT
+Dialogue: 1,0:04:29.51,0:05:01.25,TarihBandi,,0,0,0,,PERŞEMBE — KÜLLER
+Dialogue: 1,0:05:01.05,0:05:29.71,TarihBandi,,0,0,0,,BİLİNMEYEN ÖLÜLER
+Dialogue: 1,0:05:29.51,0:06:00.88,TarihBandi,,0,0,0,,MOORFIELDS — KRAL
+Dialogue: 1,0:06:00.68,0:06:31.86,TarihBandi,,0,0,0,,TYBURN — HUBERT
+Dialogue: 1,0:06:31.66,0:07:01.03,TarihBandi,,0,0,0,,YANGIN MAHKEMESİ
+Dialogue: 1,0:07:00.83,0:07:31.22,TarihBandi,,0,0,0,,1667 — TUĞLA KANUNU
+Dialogue: 1,0:07:31.02,0:07:57.15,TarihBandi,,0,0,0,,WREN — YENİ KUBBE
+Dialogue: 1,0:07:56.95,0:08:23.97,TarihBandi,,0,0,0,,1681 — SİGORTA
+Dialogue: 1,0:08:23.77,0:08:52.70,TarihBandi,,0,0,0,,EFSANE AVI — VEBÂ
+Dialogue: 1,0:08:52.50,0:09:22.87,TarihBandi,,0,0,0,,THE MONUMENT
+Dialogue: 1,0:09:22.67,0:09:51.56,TarihBandi,,0,0,0,,VEDA — KÜLLERDEN EKMEK
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER 1666'DA OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: LONDRA — DÖRT GÜNLÜK ATEŞ
+Dialogue: 4,0:09:49.56,0:09:52.16,Kapanis,,0,0,0,,{\an5\pos(960,399)}EŞYAN MI, HAYATIN MI?
+Dialogue: 4,0:09:49.86,0:09:52.16,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}YORUMLARA YAZ
+Dialogue: 4,0:09:50.16,0:09:52.16,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!

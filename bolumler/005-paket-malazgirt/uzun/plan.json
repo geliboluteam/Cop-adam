@@ -1,0 +1,167 @@
+{
+  "format": "16:9",
+  "encode_preset": "veryfast",
+  "baslik_karti": {"yazi1": "EĞER 1071'DE OLSAYDIM", "yazi2": "MERAKLI: MALAZGİRT — ANADOLU'NUN KAPILARI"},
+  "kapanis_karti": {"yazi": "SIRADA NERE?", "alt": "YORUMLARA YAZ"},
+  "muzik": {"dosya": "sfx/0ad/music/The_Hellespont.ogg", "kazanc_db": -21},
+  "hedef_sure": 410,
+  "hiz_max": 1.10,
+  "altyazi": false,
+  "sahneler": [
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s01.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s01.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus", "t": 0.0, "kazanc_db": -15},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.2, "kazanc_db": -18, "dongu": true, "sure": 25.0},
+       {"dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg", "t": 1.0, "kazanc_db": -24, "dongu": true, "sure": 22.0}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s02.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s02.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -20, "dongu": true, "sure": 25.0},
+       {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 1.0, "kazanc_db": -28, "dongu": true, "sure": 22.0},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 6.0, "kazanc_db": -24}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s03.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s03.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg", "t": 0.0, "kazanc_db": -22, "dongu": true, "sure": 22.0},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -24, "dongu": true, "sure": 22.0},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus", "t": 4.0, "kazanc_db": -20},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 10.0, "kazanc_db": -22}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s04.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s04.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -16, "dongu": true, "sure": 21.0},
+       {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.3, "kazanc_db": -26, "dongu": true, "sure": 19.0},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus", "t": 2.0, "kazanc_db": -19},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus", "t": 7.0, "kazanc_db": -21},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus", "t": 13.0, "kazanc_db": -19}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s05.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s05.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/0ad/attack/weapon/bow_attack_05.ogg", "t": 1.5, "kazanc_db": -20},
+       {"dosya": "sfx/0ad/attack/weapon/arrowfly_03.ogg", "t": 2.1, "kazanc_db": -17},
+       {"dosya": "sfx/0ad/attack/impact/arrow_04.ogg", "t": 2.8, "kazanc_db": -20},
+       {"dosya": "sfx/0ad/attack/weapon/arrowfly_03.ogg", "t": 5.5, "kazanc_db": -19},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -20, "dongu": true, "sure": 21.0}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s06.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s06.mp3", "anlatim_metin": "",
+     "tarih_bandi": "26 AĞUSTOS 1071",
+     "efektler": [
+       {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.0, "kazanc_db": -21, "dongu": true, "sure": 24.0},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -21, "dongu": true, "sure": 24.0}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s07.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s07.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -22, "dongu": true, "sure": 20.0}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s08.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s08.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 2.5, "kazanc_db": -19},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 6.5, "kazanc_db": -21},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -22, "dongu": true, "sure": 20.0}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s09.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s09.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -28, "dongu": true, "sure": 19.0}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s10.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s10.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.0, "kazanc_db": -19, "dongu": true, "sure": 23.0},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -19, "dongu": true, "sure": 23.0},
+       {"dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus", "t": 17.0, "kazanc_db": -17}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s11.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s11.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/0ad/attack/weapon/bow_attack_05.ogg", "t": 0.8, "kazanc_db": -19},
+       {"dosya": "sfx/0ad/attack/weapon/arrowfly_03.ogg", "t": 1.4, "kazanc_db": -16},
+       {"dosya": "sfx/0ad/attack/weapon/arrowfly_03.ogg", "t": 2.2, "kazanc_db": -18},
+       {"dosya": "sfx/0ad/attack/impact/arrow_04.ogg", "t": 3.0, "kazanc_db": -20},
+       {"dosya": "sfx/0ad/attack/weapon/arrowfly_03.ogg", "t": 6.0, "kazanc_db": -17},
+       {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.0, "kazanc_db": -20, "dongu": true, "sure": 21.0},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -20, "dongu": true, "sure": 21.0}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s12.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s12.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.0, "kazanc_db": -18, "dongu": true, "sure": 22.0},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -16, "dongu": true, "sure": 22.0},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 8.0, "kazanc_db": -20},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus", "t": 5.0, "kazanc_db": -19}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s13.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s13.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -13, "dongu": true, "sure": 21.0},
+       {"dosya": "sfx/0ad/ambient/weather/windgust_11.ogg", "t": 3.0, "kazanc_db": -16},
+       {"dosya": "sfx/0ad/ambient/weather/windgust_11.ogg", "t": 12.0, "kazanc_db": -17}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s14.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s14.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.0, "kazanc_db": -16, "dongu": true, "sure": 20.0},
+       {"dosya": "sfx/0ad/attack/weapon/bow_attack_05.ogg", "t": 2.0, "kazanc_db": -19},
+       {"dosya": "sfx/0ad/attack/weapon/arrowfly_03.ogg", "t": 2.6, "kazanc_db": -17},
+       {"dosya": "sfx/0ad/attack/weapon/arrowfly_03.ogg", "t": 4.4, "kazanc_db": -18},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 8.0, "kazanc_db": -19}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s15.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s15.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus", "t": 1.0, "kazanc_db": -16},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus", "t": 3.2, "kazanc_db": -17},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 2.0, "kazanc_db": -17},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus", "t": 7.0, "kazanc_db": -18},
+       {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.0, "kazanc_db": -18, "dongu": true, "sure": 21.0},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -20, "dongu": true, "sure": 21.0}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s16.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s16.mp3", "anlatim_metin": "",
+     "tarih_bandi": "AKŞAM",
+     "efektler": [
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -20, "dongu": true, "sure": 20.0},
+       {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.0, "kazanc_db": -25, "dongu": true, "sure": 17.0},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 9.0, "kazanc_db": -23}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s17.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s17.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/PagDev/fire_loop.opus", "t": 0.0, "kazanc_db": -25, "dongu": true, "sure": 20.0},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -33, "dongu": true, "sure": 20.0}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s18.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s18.mp3", "anlatim_metin": "",
+     "tarih_bandi": "ŞAFAK — ANTLAŞMA",
+     "efektler": [
+       {"dosya": "sfx/openhv/cc0/coinflick.ogg", "t": 1.5, "kazanc_db": -18},
+       {"dosya": "sfx/openhv/cc0/coinflick.ogg", "t": 4.0, "kazanc_db": -20},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 7.0, "kazanc_db": -22},
+       {"dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg", "t": 0.5, "kazanc_db": -24, "dongu": true, "sure": 18.0},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -24, "dongu": true, "sure": 20.0}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s19.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s19.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -19, "dongu": true, "sure": 21.0},
+       {"dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg", "t": 1.0, "kazanc_db": -22, "dongu": true, "sure": 19.0},
+       {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.0, "kazanc_db": -27, "dongu": true, "sure": 18.0}
+     ], "ek_sure": 0.6},
+    {"gorsel": "bolumler/005-paket-malazgirt/uzun/gorseller/s20.png",
+     "anlatim": "bolumler/005-paket-malazgirt/uzun/ses/s20.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus", "t": 0.2, "kazanc_db": -16},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -19, "dongu": true, "sure": 23.0},
+       {"dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg", "t": 1.5, "kazanc_db": -21, "dongu": true, "sure": 20.0},
+       {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 14.0, "kazanc_db": -25, "dongu": true, "sure": 8.0}
+     ], "ek_sure": 0.9}
+  ]
+}

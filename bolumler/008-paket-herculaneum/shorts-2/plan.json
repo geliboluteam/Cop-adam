@@ -1,0 +1,88 @@
+{
+  "baslik_karti": {"yazi1": "EĞER ORADA OLSAYDIM", "yazi2": "MERAKLI: OKUNAMAYAN KÜTÜPHANE"},
+  "kapanis_karti": {"yazi": "NE YAZIYOR ORADA?", "alt": "YORUMLARA YAZ"},
+  "muzik": {"dosya": "sfx/0ad/music/The_Hellespont.ogg", "kazanc_db": -21},
+  "hedef_sure": 57.5,
+  "hiz_max": 1.25,
+  "altyazi": false,
+  "sahneler": [
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-2/gorseller/s01.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-2/ses/s01.mp3", "anlatim_metin": "",
+     "tarih_bandi": "VİLLA DEI PAPİRİ",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus", "t": 0.0, "kazanc_db": -15},
+       {"dosya": "sfx/free-sfx/PagDev/fire_loop.opus", "t": 0.2, "kazanc_db": -24, "dongu": true, "sure": 6.5},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus", "t": 4.0, "kazanc_db": -26}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-2/gorseller/s02.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-2/ses/s02.mp3", "anlatim_metin": "",
+     "tarih_bandi": "1752",
+     "efektler": [
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 0.5, "kazanc_db": -18},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus", "t": 2.0, "kazanc_db": -20},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus", "t": 4.5, "kazanc_db": -19},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus", "t": 5.5, "kazanc_db": -22}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-2/gorseller/s03.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-2/ses/s03.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus", "t": 1.0, "kazanc_db": -17},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-2.opus", "t": 2.8, "kazanc_db": -18},
+       {"dosya": "sfx/free-sfx/PagDev/fire_loop.opus", "t": 0.0, "kazanc_db": -25, "dongu": true, "sure": 6.0}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-2/gorseller/s04.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-2/ses/s04.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus", "t": 1.5, "kazanc_db": -19},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus", "t": 4.0, "kazanc_db": -22},
+       {"dosya": "sfx/free-sfx/PagDev/fire_loop.opus", "t": 0.0, "kazanc_db": -25, "dongu": true, "sure": 6.5}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-2/gorseller/s05.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-2/ses/s05.mp3", "anlatim_metin": "",
+     "tarih_bandi": "200 YIL SESSİZLİK",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/PagDev/fire_loop.opus", "t": 0.0, "kazanc_db": -27, "dongu": true, "sure": 6.0},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus", "t": 0.5, "kazanc_db": -25, "dongu": true, "sure": 6.0},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus", "t": 3.5, "kazanc_db": -27}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-2/gorseller/s06.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-2/ses/s06.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 0.8, "kazanc_db": -19},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus", "t": 3.0, "kazanc_db": -22},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus", "t": 4.5, "kazanc_db": -23}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-2/gorseller/s07.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-2/ses/s07.mp3", "anlatim_metin": "",
+     "tarih_bandi": "2023 — VESUVIUS CHALLENGE",
+     "efektler": [
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 0.6, "kazanc_db": -20},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus", "t": 2.5, "kazanc_db": -19},
+       {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.0, "kazanc_db": -26, "dongu": true, "sure": 6.0}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-2/gorseller/s08.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-2/ses/s08.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus", "t": 1.0, "kazanc_db": -18},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus", "t": 3.0, "kazanc_db": -17},
+       {"dosya": "sfx/0ad/music/Taiko_2.ogg", "t": 0.0, "kazanc_db": -20, "dongu": true, "sure": 5.5},
+       {"dosya": "sfx/openhv/cc0/klink.ogg", "t": 4.2, "kazanc_db": -22}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-2/gorseller/s09.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-2/ses/s09.mp3", "anlatim_metin": "",
+     "tarih_bandi": "İKİ BİN YILLIK SES",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus", "t": 1.0, "kazanc_db": -18},
+       {"dosya": "sfx/0ad/ambient/weather/wind_11.ogg", "t": 0.0, "kazanc_db": -22, "dongu": true, "sure": 6.0},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus", "t": 4.0, "kazanc_db": -26}
+     ], "ek_sure": 0.55},
+    {"gorsel": "bolumler/008-paket-herculaneum/shorts-2/gorseller/s10.png",
+     "anlatim": "bolumler/008-paket-herculaneum/shorts-2/ses/s10.mp3", "anlatim_metin": "",
+     "efektler": [
+       {"dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus", "t": 0.2, "kazanc_db": -16},
+       {"dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg", "t": 0.5, "kazanc_db": -19, "dongu": true, "sure": 7.5},
+       {"dosya": "sfx/0ad/ambient/water/wave_21.ogg", "t": 0.0, "kazanc_db": -23, "dongu": true, "sure": 7.5},
+       {"dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus", "t": 1.5, "kazanc_db": -20}
+     ], "ek_sure": 0.8}
+  ]
+}

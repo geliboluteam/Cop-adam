@@ -1,0 +1,7 @@
+## Fire Loop
+
+https://opengameart.org/content/fireplace-sound-loop
+CCO
+Wood-Burning on Fireplace Sound Effect loop
+
+Renamed to: fire_loop.opus and volume normalized

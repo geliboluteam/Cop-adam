@@ -1,0 +1,47 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,58,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,430,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,104,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,54,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,84,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,46,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,50,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.90,0:00:04.18,Caption,,0,0,0,,Yıl 1453, ilkbahar. Adım Meraklı;
+Dialogue: 0,0:00:04.03,0:00:07.49,Caption,,0,0,0,,Osmanlı donanmasında bir deniciyim.
+Dialogue: 0,0:00:07.74,0:00:10.31,Caption,,0,0,0,,Haliç'in ağzında o meşhur zincir
+Dialogue: 0,0:00:10.16,0:00:12.74,Caption,,0,0,0,,var; bir kez denedik, geçemedik.
+Dialogue: 0,0:00:12.64,0:00:15.23,Caption,,0,0,0,,20 Nisan'da dört tahıl gemisi aramız
+Dialogue: 0,0:00:15.08,0:00:17.74,Caption,,0,0,0,,dan sıyrıldı; rüzgâr onları kurtardı.
+Dialogue: 1,0:00:12.59,0:00:17.79,TarihBandi,,0,0,0,,20 NİSAN 1453
+Dialogue: 0,0:00:17.64,0:00:21.61,Caption,,0,0,0,,Bir gece fırtına bastırdı: dalgalar güverteden aşıyor,
+Dialogue: 0,0:00:21.46,0:00:23.02,Caption,,0,0,0,,yelken yırtılıyordu.
+Dialogue: 0,0:00:22.92,0:00:25.65,Caption,,0,0,0,,Şafakta onarıyorduk; moraller bozuk.
+Dialogue: 0,0:00:25.50,0:00:27.15,Caption,,0,0,0,,Haliç'e giremiyorduk.
+Dialogue: 0,0:00:27.05,0:00:29.38,Caption,,0,0,0,,Ve padişah emri verdi: gem
+Dialogue: 0,0:00:29.23,0:00:31.56,Caption,,0,0,0,,ileri karadan yürüteceğiz!
+Dialogue: 0,0:00:31.46,0:00:34.08,Caption,,0,0,0,,Yağlanmış kızaklar, kütük yollar...
+Dialogue: 0,0:00:33.93,0:00:36.05,Caption,,0,0,0,,Tepenin üzerinden geçiyoruz.
+Dialogue: 0,0:00:35.95,0:00:39.15,Caption,,0,0,0,,Bütün gece çektik; omuzlarım çatladı,
+Dialogue: 0,0:00:39.00,0:00:40.71,Caption,,0,0,0,,ama gemi kayıyordu.
+Dialogue: 1,0:00:35.90,0:00:40.76,TarihBandi,,0,0,0,,21-22 NİSAN 1453
+Dialogue: 0,0:00:40.61,0:00:42.58,Caption,,0,0,0,,Şafakta Haliç'e indik; zin
+Dialogue: 0,0:00:42.43,0:00:44.39,Caption,,0,0,0,,cir artık işe yaramıyordu!
+Dialogue: 0,0:00:44.29,0:00:47.99,Caption,,0,0,0,,29 Mayıs'ta şehir düştü; deniz de bizim oldu.
+Dialogue: 0,0:00:47.84,0:00:52.56,Caption,,0,0,0,,Ben Meraklı, güvertedeydim. Sıradaki durak? Yorumlara yaz!
+Dialogue: 1,0:00:44.24,0:00:54.46,TarihBandi,,0,0,0,,29 MAYIS 1453
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(540,806)}EĞER 1453'TE\NOLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(540,1054)}MERAKLI: FIRTINADA BİR DENİCİ
+Dialogue: 4,0:00:52.56,0:00:55.06,Kapanis,,0,0,0,,{\an5\pos(540,706)}SIRADA NERE?
+Dialogue: 4,0:00:52.86,0:00:55.06,KapanisAlt,,0,0,0,,{\an5\pos(540,873)}YORUMLARA YAZ
+Dialogue: 4,0:00:53.16,0:00:55.06,Abone,,0,0,0,,{\an5\pos(540,1050)}KANALIMA ABONE OLMAYI\NUNUTMAYIN!

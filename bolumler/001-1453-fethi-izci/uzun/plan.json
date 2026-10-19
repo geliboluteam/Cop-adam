@@ -1,0 +1,599 @@
+{
+ "format": "16:9",
+ "encode_preset": "veryfast",
+ "crf": 23,
+ "maxrate": "1300k",
+ "baslik_karti": {
+  "yazi1": "EĞER 1453'TE OLSAYDIM",
+  "yazi2": "MERAKLI: FETHİN İZCİSİ"
+ },
+ "kapanis_karti": {
+  "yazi": "HANGİ ROLÜ SEÇERDİN?",
+  "alt": "YORUMLARA YAZ"
+ },
+ "muzik": {
+  "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+  "kazanc_db": -21
+ },
+ "hedef_sure": 560,
+ "hiz_max": 1.12,
+ "altyazi": false,
+ "sahneler": [
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s01.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s01.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "EDİRNE'DEN YOLA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 0.0,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.5,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 30.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s02.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s02.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "AKINCI ÖNCÜLERİ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 4.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 12.0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 36.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s03.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s03.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "İLK GÖRÜŞ: ŞEHİR",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 2.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 39.0
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 20.0,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s04.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s04.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "RAPOR: LYCUS VADİSİ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 3.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+     "t": 14.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/tap.opus",
+     "t": 22.0,
+     "kazanc_db": -22
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s05.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s05.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ORDU KAÇ KİŞİ?",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 40.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 14.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 40.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s06.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s06.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ŞAHİ YOLDA",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 2.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape2.opus",
+     "t": 8.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 35.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s07.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s07.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "6 NİSAN — İLK ATIŞLAR",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 6.0,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 9.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 20.0,
+     "kazanc_db": -17
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 33.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s08.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s08.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ESİR İSTİHBARATI",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 16.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 6.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 42.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s09.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s09.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "20 NİSAN — DENİZ SAVAŞI",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -19,
+     "dongu": true,
+     "sure": 39.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 8.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 20.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 39.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s10.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s10.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GÜZERGÂH KEŞFİ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 2.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+     "t": 20.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 43.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s11.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s11.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "21-22 NİSAN — GECE",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 3.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape3.opus",
+     "t": 10.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 22.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 29.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s12.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s12.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HALİÇ'TE İKİ DONANMA",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 8.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 16.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s13.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s13.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "MAYIS — YORGUNLUK",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 4.0,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 14.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 27.0
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 27.0
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s14.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s14.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "LAĞIM SAVAŞI",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape2.opus",
+     "t": 4.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape3.opus",
+     "t": 14.0,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 22.0,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s15.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s15.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SON ELÇİLİK",
+   "efektler": [
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 3.0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour7.opus",
+     "t": 18.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s16.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s16.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "28 MAYIS — ÇİFT DUA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 0.0,
+     "kazanc_db": -22,
+     "dongu": true,
+     "sure": 34.0
+    },
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 8.0,
+     "kazanc_db": -23,
+     "dongu": true,
+     "sure": 26.0
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 24.0,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 30.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s17.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s17.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "29 MAYIS — 01:30",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/music/Taiko_2.ogg",
+     "t": 2.0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 14.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 6.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 10.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 24.0,
+     "kazanc_db": -23
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s18.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s18.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ŞAFAK — ÜÇÜNCÜ DALGA",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/music/Taiko_1.ogg",
+     "t": 3.0,
+     "kazanc_db": -19,
+     "dongu": true,
+     "sure": 12.0
+    },
+    {
+     "dosya": "sfx/free-sfx/Thimras/cannon_fire.opus",
+     "t": 8.0,
+     "kazanc_db": -17
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour6.opus",
+     "t": 14.0,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 20.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 26.0,
+     "kazanc_db": -22
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s19.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s19.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "FATİH ŞEHİRDE",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -24,
+     "dongu": true,
+     "sure": 30.0
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 4.0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 12.0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 26.0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/001-1453-fethi-izci/uzun/gorseller/s20.png",
+   "anlatim": "bolumler/001-1453-fethi-izci/uzun/ses/s20.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DÜRÜST TARİH + VEDA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 0.2,
+     "kazanc_db": -16
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0.0,
+     "kazanc_db": -21,
+     "dongu": true,
+     "sure": 27.0
+    },
+    {
+     "dosya": "sfx/free-sfx/JaggedStone/Magic Spell SFX/magical_1.opus",
+     "t": 16.0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 24.0,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.9
+  }
+ ]
+}
