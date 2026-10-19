@@ -78,7 +78,14 @@ fire_loop; qubodup swosh-01; müzik The_Hellespont.ogg −21 dB.
   (2) s18'deki üç küçük yan figür kıyafetsiz üretilmiş — kıyafetli
   olarak yeniden üretilecek. s03/s12/s18 gözle kontrol edildi:
   s12'de oy gizli, s18'de ölüm gösterimi yok.
-- Tur C ⬜ (s20 + s18 düzeltme + kanonik portre + kapak + derleme)
+- Tur C ✅ MÜHÜR: s20 görseli + s18 kıyafet düzeltmesi üretildi
+  (20/20 görsel); temiz kanonik portre yazılıp
+  `karakter/merakli-referans.png` yapıldı (poster kopyası
+  `merakli-uzak-eski-referans.png` olarak arşivde). plan.json
+  (20 sahne) derlendi: **10:24 (623,5 sn), hız x1.023, 93,0 MB,
+  1920×1080** — giriş/kapanış kartları kare kare doğrulandı.
+  Kapak v4 `kapaklar/thumbnail/bolum-018.png` ("FİLOZOFA ÖLÜM!" /
+  MÖ 399) + YAYIN.md + SFX künyesi (SFX_KAYITLARI BÖLÜM 018 UZUN).
 - KALICILIK ÇÖZÜLDÜ: yerel B018 hazırlık + Tur A zinciri, uzak
   daldaki 92 commitlik geçmiş korunarak `272ad59` merge commit'iyle
   birleştirildi ve force kullanılmadan GitHub'a push edildi. Bundan

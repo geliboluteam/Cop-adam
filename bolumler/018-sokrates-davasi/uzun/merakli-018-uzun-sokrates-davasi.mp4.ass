@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:29.78,TarihBandi,,0,0,0,,ATİNA: MÖ 399
+Dialogue: 1,0:00:29.58,0:01:00.65,TarihBandi,,0,0,0,,ŞAFAK: KURA (TEMSİLÎ)
+Dialogue: 1,0:01:00.45,0:01:30.43,TarihBandi,,0,0,0,,BEŞ YÜZ KİŞİLİK MAHKEME
+Dialogue: 1,0:01:30.23,0:02:01.57,TarihBandi,,0,0,0,,SUÇLAMA OKUNUYOR
+Dialogue: 1,0:02:01.37,0:02:30.25,TarihBandi,,0,0,0,,ESKİ SUÇLAYICILAR
+Dialogue: 1,0:02:30.05,0:03:00.72,TarihBandi,,0,0,0,,KÂHİN BİLMECESİ
+Dialogue: 1,0:03:00.52,0:03:31.96,TarihBandi,,0,0,0,,SORGUDA MELETUS
+Dialogue: 1,0:03:31.76,0:04:00.65,TarihBandi,,0,0,0,,İÇ SES VE GENÇLER
+Dialogue: 1,0:04:00.45,0:04:30.30,TarihBandi,,0,0,0,,AT SİNEĞİ
+Dialogue: 1,0:04:30.10,0:04:58.32,TarihBandi,,0,0,0,,CESARET SİCİLİ
+Dialogue: 1,0:04:58.12,0:05:35.75,TarihBandi,,0,0,0,,YALVARMAYACAĞIM
+Dialogue: 1,0:05:35.55,0:06:05.74,TarihBandi,,0,0,0,,İKİ BRONZ DİSK
+Dialogue: 1,0:06:05.54,0:06:37.42,TarihBandi,,0,0,0,,KARAR: SUÇLU (SAYI: ÇIKARIM)
+Dialogue: 1,0:06:37.22,0:07:09.91,TarihBandi,,0,0,0,,CEZA TEKLİFİ: ŞOK
+Dialogue: 1,0:07:09.71,0:07:42.63,TarihBandi,,0,0,0,,İKİNCİ OY
+Dialogue: 1,0:07:42.43,0:08:14.09,TarihBandi,,0,0,0,,OTUZ GÜN BEKLEYİŞ
+Dialogue: 1,0:08:13.89,0:08:46.95,TarihBandi,,0,0,0,,KAÇMAYACAĞIM
+Dialogue: 1,0:08:46.75,0:09:20.40,TarihBandi,,0,0,0,,SON GÜN BATIMI
+Dialogue: 1,0:09:20.20,0:09:52.68,TarihBandi,,0,0,0,,DÜRÜST TARİH
+Dialogue: 1,0:09:52.48,0:10:23.51,TarihBandi,,0,0,0,,SEÇİM SENİN
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER MÖ 399'DA OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: JÜRİ ÜYESİ
+Dialogue: 4,0:10:21.81,0:10:24.11,Kapanis,,0,0,0,,{\an5\pos(960,375)}HANGİ ROLÜ SEÇERDİN?
+Dialogue: 4,0:10:22.11,0:10:24.11,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}JÜRİ ÜYESİ · SOKRATES'İN ÖĞRENCİSİ · AGORA ESNAFI · DOST KRİTON —\NYORUMLARA YAZ
+Dialogue: 4,0:10:22.41,0:10:24.11,Abone,,0,0,0,,{\an5\pos(960,635)}KANALIMA ABONE OLMAYI UNUTMAYIN!

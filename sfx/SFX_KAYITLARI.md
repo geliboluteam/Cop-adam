@@ -398,3 +398,23 @@ künyesini ve genel arşiv envanterini tutar.
   `water/wave_21` (CC-BY-SA)
 - Geçiş: qubodup `swosh-01` (CC0)
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA)
+
+## BÖLÜM 018 UZUN — SOKRATES'İN DAVASI (uzun video; Seri C Konu 34)
+
+- Mahkeme kalabalığı/uğultu/kahkaha/panik: Owlish `clamour1/3/4/5/6`
+  (CC0) — temsili (MÖ 399'dan özgün ses kaydı yoktur; beyan)
+- Bronz oy diskleri/urna tıngırtısı/üç obolos: rubberduck
+  `item_coins_01`, `stones_01-04` (Free-SFX, CC0) + OpenHV `klink`
+  (CC0) — temsili
+- Klepsydra su sesi: rubberduck `splash_01` (Free-SFX, CC0) — temsili
+- Sıralar/taş sürtmesi: Owlish `scrape1/2/3` (CC0) — temsili
+- Nefes/şaşkınlık: Owlish `breath-male`, `gasp1` (CC0)
+- Adımlar (sıra/liman): Owlish `hard-footstep1/2`, `grass_footsteps` (CC0)
+- Hücre kapıları: bonebrah `stone_door`, rubberduck `door_close_01/02`
+  (Free-SFX, CC0) — temsili
+- Tapınak ateşi: PagDev `fire_loop` (CC0)
+- Gece/şafak: Owlish `night-crickets` (CC0)
+- Ortam: 0ad `day_temperate_11`, `wind_11`, `windgust_11`,
+  `water/wave_21` (CC-BY-SA)
+- Geçiş: qubodup `swosh-01` (CC0)
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA) — −21 dB
