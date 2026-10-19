@@ -73,5 +73,12 @@ fire_loop; qubodup swosh-01; müzik The_Hellespont.ogg −21 dB.
   768×1376 dikey üretildi; bu turun 10 görsel limiti dolduğu için
   Tur B'nin ilk işi s03'ün 16:9 yatay yeniden üretimidir.
 - Tur B ⬜ · Tur C ⬜
-- BEKLEYEN: B017 ham malzemesi de ikinci sıfırlamada kayboldu;
-  uzak dalla BİRLEŞTİRME + PUSH yapılmadan yerel commitler kalıcı değil.
+- KALICILIK ÇÖZÜLDÜ: yerel B018 hazırlık + Tur A zinciri, uzak
+  daldaki 92 commitlik geçmiş korunarak `272ad59` merge commit'iyle
+  birleştirildi ve force kullanılmadan GitHub'a push edildi. Bundan
+  sonraki kalıcı kural: her üretim turunda **commit → anında push →
+  uzak SHA ve dosya listesi doğrulaması**; push doğrulanmadan tur
+  tamamlanmış sayılmaz. Çalışma alanı yine sıfırlanırsa geri dönüş
+  noktası uzak dalın güncel ucudur.
+- NOT: Bu birleştirme uzak daldaki eski B017 Tur A geçmişini korur;
+  hiç push edilmemiş kilitli B017 Tur B/final üretimini geri getirmez.
