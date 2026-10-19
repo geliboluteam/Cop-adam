@@ -58,6 +58,7 @@ BOLUMLER = {
     "017": dict(buyuk="80 MİL\nDUVAR!", vurgu="MS 122"),
     "018": dict(buyuk="FİLOZOFA\nÖLÜM!", vurgu="MÖ 399"),
     "019": dict(buyuk="BULUT\nOLDUM!", vurgu="MÖ 423"),
+    "020": dict(buyuk="KÜTÜPHANE\nYANIYOR!", vurgu="MÖ 48"),
 }
 
 
