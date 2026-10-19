@@ -1,0 +1,694 @@
+{
+ "format": "16:9",
+ "encode_preset": "veryfast",
+ "crf": 23,
+ "maxrate": "1300k",
+ "baslik_karti": {
+  "yazi1": "EĞER MS 122'DE OLSAYDIM",
+  "yazi2": "MERAKLI: ROMA LEJYONERİ"
+ },
+ "kapanis_karti": {
+  "yazi": "HANGİ ROLÜ SEÇERDİN?",
+  "alt": "LEJYONER · CENTURIO · KULE NÖBETÇİSİ · KUZEYLİ ÇOBAN — YORUMLARA YAZ"
+ },
+ "muzik": {
+  "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+  "kazanc_db": -21
+ },
+ "hedef_sure": 630,
+ "hiz_max": 1.12,
+ "altyazi": false,
+ "sahneler": [
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s01.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s01.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "MS 124: DÜNYANIN UCU",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 2,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/stones_02.opus",
+     "t": 18,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 26,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s02.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s02.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ŞAFAK: SEKİZ KİŞİLİK AİLE",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/music/Taiko_1.ogg",
+     "t": 0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 4
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 0,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 10,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 18,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 24,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s03.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s03.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GİYİNME: 30 KİLO",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 4,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 10,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 16,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 26,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s04.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s04.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KAHVALTI (MENÜ BELGELİ)",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 4,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 12,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 20,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s05.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s05.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "YOKLAMA (GERÇEK RAPOR)",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 3,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape2.opus",
+     "t": 10,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour6.opus",
+     "t": 18,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 26,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s06.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s06.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "İNŞAAT: DAMGALI TAŞLAR",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/stones_01.opus",
+     "t": 3,
+     "kazanc_db": -18
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/stones_03.opus",
+     "t": 9,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 14,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/stones_04.opus",
+     "t": 20,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 26,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s07.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s07.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ÖĞLE: İKİ DÜNYA",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus",
+     "t": 8,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 18,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s08.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s08.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KULE: HABER HATTI (ÇIKARIM)",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 8,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 16,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 24,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s09.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s09.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SINIR KAPISI: SÜZGEÇ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/bonebrah/stone_door.opus",
+     "t": 4,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus",
+     "t": 8,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 14,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 22,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s10.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s10.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "YAĞMUR: BRİTANYA KLASİĞİ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/rain_11.ogg",
+     "t": 0,
+     "kazanc_db": -20,
+     "dongu": true,
+     "sure": 34
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus",
+     "t": 6,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/thunder_10.ogg",
+     "t": 14,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 20,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape3.opus",
+     "t": 27,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s11.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s11.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "MAAŞ: 300 SESTERCE",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_coins_01.opus",
+     "t": 4,
+     "kazanc_db": -17
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_coins_01.opus",
+     "t": 11,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape2.opus",
+     "t": 16,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 24,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s12.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s12.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HAMAM SAATİ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/SFX100/splash_01.opus",
+     "t": 4,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 9,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/SFX100/splash_01.opus",
+     "t": 16,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape3.opus",
+     "t": 22,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s13.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s13.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "MEKTUP: ÇORAP LİSTESİ (GERÇEK)",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 0,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 2,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape2.opus",
+     "t": 7,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 18,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s14.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s14.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "AKŞAM SOFRASI",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour5.opus",
+     "t": 6,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 13,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 21,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s15.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s15.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "BİRA KRİZİ (GERÇEK ŞİKÂYET)",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour6.opus",
+     "t": 4,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 9,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 16,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 25,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 0,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s16.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s16.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GECE NÖBETİ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 0,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/PagDev/fire_loop.opus",
+     "t": 8,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 16,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 22,
+     "kazanc_db": -24
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s17.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s17.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ALARM!",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/music/Taiko_1.ogg",
+     "t": 2,
+     "kazanc_db": -16,
+     "dongu": true,
+     "sure": 4
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/gasp1.opus",
+     "t": 4,
+     "kazanc_db": -20
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 7,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 11,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 27,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s18.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s18.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DUVARIN ANLAMI",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 0,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 18,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 24,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s19.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s19.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DÜRÜST TARİH",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 2,
+     "kazanc_db": -21
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/stones_02.opus",
+     "t": 10,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape2.opus",
+     "t": 17,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/017-roma-lejyoneri/uzun/gorseller/s20.png",
+   "anlatim": "bolumler/017-roma-lejyoneri/uzun/ses/s20.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SEÇİM SENİN",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -23
+    },
+    {
+     "dosya": "sfx/free-sfx/qubodup/Swooshes/swosh-01.opus",
+     "t": 1,
+     "kazanc_db": -19
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour4.opus",
+     "t": 10,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/openhv/cc0/klink.ogg",
+     "t": 20,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 27,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  }
+ ]
+}

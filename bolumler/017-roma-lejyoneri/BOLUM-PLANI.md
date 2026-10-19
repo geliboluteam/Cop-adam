@@ -125,6 +125,10 @@ Metin hedefi: ~80-85 kelime/sahne (~34 sn) → final ~10-10,5 dk.
   337,1 sn; 20 sahne toplam 676,8 sn) + görsel (10/10, 1376×768)
   üretildi. s12 (hamam — herkes giyinik) ve s17 (gece alarmı) gözle
   kontrol edildi. Ham malzeme 20/20 tamam; sırada Tur C derleme.
-- **Tur C:** plan.json + derleme + KAPAK bolum-017.png ("80 MİL
-  DUVAR!" / MS 122) + YAYIN.md + SFX künyesi "B017 UZUN" + mühür.
+- **Tur C ✅ MÜHÜR:** plan.json (20 sahne, 97 efekt) derlendi:
+  **10:24 (623,5 sn), hız x1.034, 87,2 MB, 1920×1080** —
+  giriş/kapanış kartları kare kare doğrulandı. Kapak v4
+  `kapaklar/thumbnail/bolum-017.png` ("80 MİL DUVAR!" / MS 122) +
+  YAYIN.md + SFX künyesi (SFX_KAYITLARI BÖLÜM 017 UZUN). Böylece
+  kilitli sürüm tamam; eski voice-02'li sürüm git geçmişinde arşivli.
 - Kural: her tur commit → anında push → uzak doğrulama (B018 düzeni).

@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:38.22,TarihBandi,,0,0,0,,MS 124: DÜNYANIN UCU
+Dialogue: 1,0:00:38.02,0:01:13.08,TarihBandi,,0,0,0,,ŞAFAK: SEKİZ KİŞİLİK AİLE
+Dialogue: 1,0:01:12.88,0:01:45.45,TarihBandi,,0,0,0,,GİYİNME: 30 KİLO
+Dialogue: 1,0:01:45.25,0:02:14.01,TarihBandi,,0,0,0,,KAHVALTI (MENÜ BELGELİ)
+Dialogue: 1,0:02:13.81,0:02:41.88,TarihBandi,,0,0,0,,YOKLAMA (GERÇEK RAPOR)
+Dialogue: 1,0:02:41.68,0:03:09.46,TarihBandi,,0,0,0,,İNŞAAT: DAMGALI TAŞLAR
+Dialogue: 1,0:03:09.26,0:03:42.08,TarihBandi,,0,0,0,,ÖĞLE: İKİ DÜNYA
+Dialogue: 1,0:03:41.88,0:04:11.87,TarihBandi,,0,0,0,,KULE: HABER HATTI (ÇIKARIM)
+Dialogue: 1,0:04:11.67,0:04:43.00,TarihBandi,,0,0,0,,SINIR KAPISI: SÜZGEÇ
+Dialogue: 1,0:04:42.80,0:05:13.08,TarihBandi,,0,0,0,,YAĞMUR: BRİTANYA KLASİĞİ
+Dialogue: 1,0:05:12.88,0:05:45.65,TarihBandi,,0,0,0,,MAAŞ: 300 SESTERCE
+Dialogue: 1,0:05:45.45,0:06:15.21,TarihBandi,,0,0,0,,HAMAM SAATİ
+Dialogue: 1,0:06:15.01,0:06:45.14,TarihBandi,,0,0,0,,MEKTUP: ÇORAP LİSTESİ (GERÇEK)
+Dialogue: 1,0:06:44.94,0:07:18.33,TarihBandi,,0,0,0,,AKŞAM SOFRASI
+Dialogue: 1,0:07:18.13,0:07:47.10,TarihBandi,,0,0,0,,BİRA KRİZİ (GERÇEK ŞİKÂYET)
+Dialogue: 1,0:07:46.90,0:08:14.67,TarihBandi,,0,0,0,,GECE NÖBETİ
+Dialogue: 1,0:08:14.47,0:08:47.79,TarihBandi,,0,0,0,,ALARM!
+Dialogue: 1,0:08:47.59,0:09:19.30,TarihBandi,,0,0,0,,DUVARIN ANLAMI
+Dialogue: 1,0:09:19.10,0:09:51.30,TarihBandi,,0,0,0,,DÜRÜST TARİH
+Dialogue: 1,0:09:51.10,0:10:23.51,TarihBandi,,0,0,0,,SEÇİM SENİN
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER MS 122'DE OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: ROMA LEJYONERİ
+Dialogue: 4,0:10:21.81,0:10:24.11,Kapanis,,0,0,0,,{\an5\pos(960,399)}HANGİ ROLÜ SEÇERDİN?
+Dialogue: 4,0:10:22.11,0:10:24.11,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}LEJYONER · CENTURIO · KULE NÖBETÇİSİ · KUZEYLİ ÇOBAN — YORUMLARA YAZ
+Dialogue: 4,0:10:22.41,0:10:24.11,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!
