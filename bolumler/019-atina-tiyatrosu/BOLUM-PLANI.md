@@ -53,6 +53,18 @@ s18 AKŞAM: MASKELER ÇIKIYOR · s19 DÜRÜST TARİH · s20 SEÇİM SENİN
 - **s09:** Seyirci akın akın doluyor. Yamaca dizilmiş tahta sıralar, önde rahipler ve şehrin ileri gelenleri için ayrılmış koltuklar... Arada dolaşan satıcılar, çocuğunu omzuna almış babalar... Kaç kişiyiz? Binlerce, belki on binden fazla; tam sayı bugün bile tartışmalı. Bu kalabalık yalnız eğlenmeye gelmiyor; şehir burada kendini seyrediyor, kendisiyle dalga geçiyor. Birazdan o dev uğultu susacak ve tek bir nefes kalacak: oyunun ilk sözü. Heyecandan maskemin içini göremiyorum!
 - **s10:** Orkestranın ortasındaki sunakta tütsü yakılıyor; Dionysos'un heykeli de oyunu bizimle izliyor. Habercinin sesiyle uğultu bıçak gibi kesiliyor. Aulos ilk nefesini üflüyor; o ince, titrek ses yamacın her taşına ulaşıyor. İlk oyuncu skene kapısından adımını atıyor ve hikâye başlıyor: borcu yüzünden uyuyamayan bir baba ve onun serseri oğlu... Biz Bulutlar, giriş şarkımız için yan geçitte hazır bekliyoruz. Dizlerim titriyor ama kalbim gülümsüyor: perde yok, saklanmak yok; oyun başlasın!
 
+## TUR B METİNLERİ (s11–s20) — kilitli üretim, voice-03
+- **s11:** Sıra bizde: parodos, yani koronun giriş şarkısı! Yan geçitlerden orkestraya süzülüyoruz; kat kat kumaşlarımız kabarıyor, yirmi dört bulut sahnenin üstünde ağır ağır dönüyoruz. Maskemin iki deliğinden dünya daracık görünüyor ama ayaklarım ezberlediği adımları kendi kendine atıyor. Aulos nefes veriyor, biz dönüyoruz; seyirciden ilk kahkaha ve ilk hayranlık uğultusu aynı anda yükseliyor. İşte o an anlıyorum: koro, oyunun süsü değil; şehrin sahnede atan kalbidir!
+- **s12:** İşte oyunun en ünlü sahnesi: vincimiz gıcırdıyor ve Sokrates rolündeki arkadaşım bir sepetin içinde yukarı yükseliyor! Oradan seyirciye sesleniyor: "Havada yürüyorum ve güneşi düşünüyorum!" Kahkaha yamacı yıkıyor. Biz Bulutlar aşağıda yavaşça salınırken içimden tuhaf bir düşünce geçiyor: bu sepetli, gökte gezen düşünür karikatürü insanların aklına kazınacak. Ve yirmi dört yıl sonra, gerçek Sokrates bir mahkemede bu karikatürle savaşmak zorunda kalacak. Ama o gün, hepimiz sadece gülüyoruz.
+- **s13:** Şimdi agon, yani oyunun büyük söz düellosu: Haklı Söz ile Haksız Söz sahnede kapışıyor! Biri eski terbiyeyi övüyor, öteki haksızı haklı çıkarmanın yollarını sayıyor. Biz koro iki yana açılıp tezahürat eder gibi tempoyu yükseltiyoruz; aulos hızlandıkça sözler de hızlanıyor. Seyirci yer yer kahkaha atıyor, yer yer birbirine bakıp "bunu bize mi dedi?" diye fısıldıyor. Komedya dediğin böyle bir şey: güldürürken şehrin yüzüne ayna tutuyor. Kazanan mı? Maalesef Haksız Söz; oyun bunu bilerek yapıyor!
+- **s14:** Şimdi en tuhaf ve en sevdiğim bölüm: parabasis. Oyun birden duruyor; biz koro öne çıkıp maskelerimizin ardından doğrudan size, seyirciye konuşuyoruz! Şair Aristophanes bizim sesimizle övünüyor, rakiplerine takılıyor, şehre akıl veriyor. Dördüncü duvar diye bir şey yok; hikâye ile gerçek hayat iç içe. Ben ön sıradan bir yurttaşın gözünün içine bakarak şarkımı söylüyorum; o da bana gülümsüyor. Tiyatro o an bir oyun değil, şehrin kendisiyle yaptığı açık bir sohbet oluyor.
+- **s15:** Oyun akarken kuliste kısacık bir nefes: ter içindeyiz, bir görevli su uzatıyor, kostümümün katı düzeltiliyor. Yanımda oyunculardan biri maskesini değiştirip bambaşka bir karakter olarak kapıdan fırlıyor. Eğitmenimiz fısıldıyor: "Sıradaki dönüşte yavaş, unutmayın!" Dışarıdan kahkahalar geliyor; demek ki şaka tutmuş. Kalbim hâlâ hızlı atıyor ama bu tatlı bir yorgunluk. Bir oyun, sahnede görünenlerden çok daha fazla kişinin saniyelik uyumuyla ayakta duruyor. Haydi, işaret geldi; tekrar sahneye!
+- **s16:** Oyun sona yaklaşıyor; hikâye tatlı bir kargaşayla düğümleniyor, babanın öfkesi düşünürün okuluna patlıyor ve seyirci son büyük kahkahasını atıyor. Biz koro, çıkış şarkımızla döne döne orkestrayı boşaltıyoruz. Yamacın tepkisi karışık: coşkulu alkışların arasında yer yer homurtular da duyuyorum. Komedya cesur bir iş; herkese dokununca herkes aynı anda sevinmiyor. Maskemin arkasında sırıtıyorum; sevilsin sevilmesin, bu oyun kimsenin kayıtsız kalamadığı bir oyun oldu. Şimdi söz, şehrin seçtiği yargıçlarda!
+- **s17:** Yarışmanın kaderi on yargıcın elinde; her kabileden bir kişi, kurayla seçilmişler. Oylarını tabletlere yazıp bir urnaya atıyorlar; aktarılan düzene göre tabletlerin hepsi değil, çekilen bir kısmı sayılıyor. Kalbim ağzımda bekliyorum ve... sonuç açıklanıyor: Bulutlar üçüncü, yani sonuncu! Omuzlarım çöküyor; khoregos'un yüzü asılıyor, şairimiz ise öfkeden köpürüyor. Aristophanes bu yenilgiyi hiç unutmayacak; yıllar sonra oyunu baştan yazacaktı. Bazen tarihe geçen oyunlar, kendi gününde kaybedenler oluyor!
+- **s18:** Akşam oluyor; maskeler çıkıyor, yüzüme ilk serin hava değiyor. Sokaklarda festival sürüyor: meşaleler, şarkılar, bugünün şakalarını birbirine anlatan kalabalıklar... Biz korodakiler omuz omuza yürürken en sevdiğimiz anları sayıklıyoruz: sepet sahnesi, büyük tartışma, o ilk dönüş... Yarın tragedyalar var; şehir bir kez daha bu yamaca dolacak. Ben bulut kostümümü katlarken düşünüyorum: bir günlüğüne bulut oldum ama bu gün, ömrüm boyunca anlatacağım bir gün oldu.
+- **s19:** Şimdi dürüst tarih zamanı. Bugün gördüğün mermer Dionysos Tiyatrosu sonraki yüzyılın işi; bizim sahnemiz ahşaptı. Hiçbir maske günümüze kalmadı; malzemeleri de, vincin ve iç sahne düzeneğinin ince ayrıntıları da birer çıkarım. Seyircinin tam sayısı ve kadınların izleyip izlemediği hâlâ tartışmalı. Elimizdeki Bulutlar metni, şairin sonradan gözden geçirdiği ve muhtemelen hiç sahnelenmemiş sürümü; oyunun üçüncü olduğu da antik açıklamaların aktarımı. Yargıç düzeninin ayrıntısı geç kaynaklara dayanıyor. Yani sahne arkası bile, kanıt ile tahminin yan yana yürüdüğü bir yer.
+- **s20:** İşte bir festival gününün perde arkası: ter, tahta, vinç gıcırtısı ve on binlerce kişinin kahkahası. Şimdi seçim senin: Sen o sabah Atina'da olsaydın hangi rolü seçerdin? Döne döne dans eden koro üyesi mi, üç karakteri birden taşıyan baş oyuncu mu, yüzlerce yüzü biçimlendiren maske ustası mı, yoksa her şeyi finanse eden khoregos mu? Bir de bana dürüstçe söyle: sen sahneye çıksan hangi maskeyi takardın? Yorumlara yaz. Kanalıma abone olmayı unutmayın; bir sonraki tarihte görüşürüz!
+
 ## SFX PLANI (doğrulanmış küme yeniden kullanılır)
 - Ortam: 0ad `day_temperate_11`, `wind_11`, `windgust_11` (CC-BY-SA)
 - Seyirci uğultusu/kahkaha/alkış niyetine: Owlish `clamour1-6` (CC0)
@@ -82,9 +94,16 @@ s18 AKŞAM: MASKELER ÇIKIYOR · s19 DÜRÜST TARİH · s20 SEÇİM SENİN
   daha sade, mekanizmayı güvenli prova olarak anlatan yeni üretimidir.
   s01/s05/s09 gözle kontrol edildi: kanonik kimlik tutarlı, ahşap sahne
   ve kıyafetli çöp-adam çevresi kurala uygun.
-- **Tur B:** önce s08 düzeltmesi; sonra s11-s20 metin+ses+görsel
-  (metinler Tur B başında eklenir; kota durumuna göre son sahne görseli
-  Tur C başına kalabilir).
+- **Tur B ✅ (2026-10-20):** s11-s20 metinleri eklendi; sesler s11-s20
+  üretildi (Tur B toplamı 354,9 sn; genel toplam 701,6 sn; hedef 630,
+  hız ~1,08; SADECE_MIX Tur C'de ölçülecek). Görseller s11-s19 üretildi
+  (9/9, 1376×768) ve s08 vinç provası kurtarıldı (yerde/emniyetli prova
+  promptu moderasyonu geçti); s12 sepet sahnesi gözle kontrol ✅.
+  **Tur C başı görsel iş listesi:** (1) s20 kapanış görseli üretilecek;
+  (2) s08 YENİDEN üretim — Meraklı'da zincir desenli tunik kaçmış,
+  himation kuralıyla düzeltilecek; (3) OPSİYONEL s12 düzeltme — uzak
+  seyirci figürleri çöp adam yerine normal cartoon tarzda (küçük/arka
+  plan, kota kalırsa düzelt).
 - **Tur C:** plan.json + derleme + KAPAK bolum-019.png + YAYIN.md +
   SFX künyesi "B019 UZUN" + mühür.
 - Kural: her tur commit → anında push → uzak doğrulama (B017/B018 düzeni).
