@@ -352,23 +352,36 @@ def main():
     for i, sa in enumerate(sahneler):
         s_bas, _, _, s_son = zamanlama[i]
         d = max(s_son - s_bas, 0.8)
-        klip = f"{cikti}.s{i}.mp4"
-        klip_yollari.append((klip, d))
-        kareler = max(int(d*30), 12)
-        if i % 2 == 0:
-            z = f"1+{0.11:.4f}*on/{kareler}"
-        else:
-            z = f"1.11-{0.11:.4f}*on/{kareler}"
+        yon = (i % 2 == 0)          # True: zoom-in, False: zoom-out
         px = 40 if (i % 3 == 0) else -40
-        filtre = (
-            f"[0:v]scale={OW}:{OH}:force_original_aspect_ratio=increase,crop={OW}:{OH},"
-            f"zoompan=z='{z}':x='iw/2-(iw/zoom/2)+({px}*on/{kareler})':y='ih/2-(ih/zoom/2)'"
-            f":d={kareler}:s={VW}x{VH}:fps=30,format=yuv420p[v]"
-        )
-        calis([FFMPEG, "-y", "-loop", "1", "-i", tam_yol(sa["gorsel"]),
-               "-filter_complex", filtre, "-map", "[v]",
-               "-t", f"{d:.3f}", "-r", "30", "-c:v", "libx264", "-preset", PRESET,
-               "-crf", "18", "-pix_fmt", "yuv420p", klip])
+        # gorsel2 varsa sahne iki alt klibe bolunur; d1+d2-XF=d oldugu
+        # icin son asamadaki xfade zinciri hem sahne ici gecisi yapar
+        # hem de toplam sure/senkronu aynen korur (25 gorsel kurali).
+        parcalar = [(sa["gorsel"], d, yon, px)]
+        if sa.get("gorsel2"):
+            try:
+                o = float(sa.get("gorsel2_oran") or 0.5)
+            except (TypeError, ValueError):
+                o = 0.5
+            o = min(max(o, 0.05), 0.95)
+            d1 = min(max(d*o, 1.0), d-1.0) if d > 2 else d/2
+            d2 = d - d1 + XF
+            parcalar = [(sa["gorsel"], d1, yon, px),
+                        (sa["gorsel2"], d2, not yon, -px)]
+        for gorsel, dparca, yon_parca, px_parca in parcalar:
+            klip = f"{cikti}.s{len(klip_yollari)}.mp4"
+            klip_yollari.append((klip, dparca))
+            kareler = max(int(dparca*30), 12)
+            z = f"1+{0.11:.4f}*on/{kareler}" if yon_parca else f"1.11-{0.11:.4f}*on/{kareler}"
+            filtre = (
+                f"[0:v]scale={OW}:{OH}:force_original_aspect_ratio=increase,crop={OW}:{OH},"
+                f"zoompan=z='{z}':x='iw/2-(iw/zoom/2)+({px_parca}*on/{kareler})':y='ih/2-(ih/zoom/2)'"
+                f":d={kareler}:s={VW}x{VH}:fps=30,format=yuv420p[v]"
+            )
+            calis([FFMPEG, "-y", "-loop", "1", "-i", tam_yol(gorsel),
+                   "-filter_complex", filtre, "-map", "[v]",
+                   "-t", f"{dparca:.3f}", "-r", "30", "-c:v", "libx264", "-preset", PRESET,
+                   "-crf", "18", "-pix_fmt", "yuv420p", klip])
 
     # --- xfade + vinyet + altyazi ---
     girisler = []
@@ -377,7 +390,7 @@ def main():
     video_filtre = []
     onceki = "[0:v]"
     offset = 0.0
-    for i in range(1, n):
+    for i in range(1, len(klip_yollari)):
         offset += klip_yollari[i-1][1] - XF
         etiket = f"[vx{i}]"
         video_filtre.append(f"{onceki}[{i}:v]xfade=transition=fade:duration={XF}:offset={offset:.3f}{etiket}")

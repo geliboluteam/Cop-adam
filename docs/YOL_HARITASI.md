@@ -39,11 +39,11 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 13 | 13 | 80 MS, Roma | Gladyatör: ilk kez arenaya çıkıyorum | ✅ |
 | 14 | 14 | ~MÖ 2560, Giza | Piramit işçisinin bir günü (ücret, bira, rampa) | ✅ |
 | 15 | 24 | MÖ 776, Olimpia | İlk Olimpiyat koşucusu (çıplak, zeytin yağı) | ✅ |
-| 16 | 35 | MÖ 399, Atina | Kartaca kuşatmasında sivil (MÖ 149-146) — veya Sokrates duruşması izleyicisi (Konu 34) | ⬜ |
+| 16 | 35 | MÖ 149-146, Kartaca | Kartaca kuşatmasında sivil | ⬜ (2026-10-20 kararı: Sokrates alternatifi B018'e kaydı; Kartaca Seri C tamamlanmadan üretilecek) |
 | 17 | 36 | MS 2. yy, limes | Roma lejyoneri sınır karakolunda sıradan gün | ✅ UZUN (kilitli yeniden üretim): `bolumler/017-roma-lejyoneri/uzun/merakli-017-uzun-roma-lejyoneri.mp4` (10:24, 20 sahne) + kapak v4 |
 | 18 | 34 | MÖ 399, Atina | Sokrates'in yargılanması: mahkeme salonunda | ✅ UZUN: `bolumler/018-sokrates-davasi/uzun/merakli-018-uzun-sokrates-davasi.mp4` (10:24, 20 sahne) + kapak v4 |
 | 19 | 43 | MÖ 423, Atina | Tiyatro sahne arkası: khoros, maskeler, makine | ✅ UZUN: `bolumler/019-atina-tiyatrosu/uzun/merakli-019-uzun-atina-tiyatrosu.mp4` (10:24, 20 sahne, 81,5 MB) + kapak v4 ("BULUT OLDUM!" / MÖ 423) |
-| 20 | 56 | MÖ 48, İskenderiye | Kütüphane yangını: hangi tomarı kurtarırım? | 🟥 ÜRETİMDE: hazırlık tamam; Meraklı kütüphane çırağı, tek gün (Caesar'ın liman yangını günü) |
+| 20 | 56 | MÖ 48, İskenderiye | Kütüphane yangını: hangi tomarı kurtarırım? | 🟥 ÜRETİMDE: Hazırlık+Tur A+Tur B tamam; Meraklı kütüphane çırağı, tek gün; 20/20 ses (726,0 sn), 20/25 görsel; Tur C finali bekliyor |
 | 21 | 51 | MÖ 334-323 | Büyük İskender'in ordusunda haritacı | ⬜ |
 | 22 | 30 | imparatorluk | Taç giyme töreninde saray görevlisi | ⬜ |
 | 23 | 6 | Troya | Truva Atı şehre girerken sokaktayım | ⬜ |
@@ -111,9 +111,20 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 
 ## FORMAT KURALI GÜNCELLEMESİ (2026-10-18, kullanıcı talimatı)
 
-**B014'ten itibaren YALNIZ UZUN VİDEO (5-12 dk, 20 sahne) üretilir.**
+**B014'ten itibaren YALNIZ UZUN VİDEO (5-12 dk, 20 sahne;
+B020'den itibaren 25 görsel) üretilir.**
 (Aralık 2026-10-18'de kullanıcı talimatıyla 5-10 → 5-12 dk olarak
 genişletildi; B001 10:30 ve B015 10:08 bu aralıkta kalır.)
 Shorts üretimi sona ermiştir (B005-B013 arası 9 Shorts arşivde duruyor).
 Paketin kalan öğeleri sürer: YAYIN.md, SFX künyesi, YouTube kapağı
 (yalnız uzun video), GitHub push, aboneli kapanış kartı.
+
+25 görsel uygulaması (2026-10-20): bölüm yine 20 sahnedir; 5 kilit
+sahnede `gorsel2` ile sahne içinde ikinci görsele geçilir. Teknik
+olarak çift görselli sahne iki alt klibe bölünür ve süreler
+`d1+d2-XF=d` kuralıyla hesaplanır; böylece toplam süre ve ses
+senkronu değişmez. Ek görsel dosyaları `sXXb.png` düzenindedir.
+
+Seri sırası kararı (2026-10-20): Seri C tamamlanmadan B016 Kartaca
+da üretilir; ardından B021-B023 tamamlanır. Seri C bittiğinde
+Seri D bekletilir ve doğrudan Seri E Keşif & Ulaşım'a geçilir.
