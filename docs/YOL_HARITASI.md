@@ -40,9 +40,9 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 14 | 14 | ~MÖ 2560, Giza | Piramit işçisinin bir günü (ücret, bira, rampa) | ✅ |
 | 15 | 24 | MÖ 776, Olimpia | İlk Olimpiyat koşucusu (çıplak, zeytin yağı) | ✅ |
 | 16 | 35 | MÖ 399, Atina | Kartaca kuşatmasında sivil (MÖ 149-146) — veya Sokrates duruşması izleyicisi (Konu 34) | ⬜ |
-| 17 | 36 | MS 2. yy, limes | Roma lejyoneri sınır karakolunda sıradan gün | ⬜ |
-| 18 | 34 | MÖ 399, Atina | Sokrates'in yargılanması: mahkeme salonunda | ⬜ |
-| 19 | 43 | Antik Yunan | Tiyatro sahne arkası: khoros, maskeler, makine | ⬜ |
+| 17 | 36 | MS 2. yy, limes | Roma lejyoneri sınır karakolunda sıradan gün | ✅ UZUN (kilitli yeniden üretim): `bolumler/017-roma-lejyoneri/uzun/merakli-017-uzun-roma-lejyoneri.mp4` (10:24, 20 sahne) + kapak v4 |
+| 18 | 34 | MÖ 399, Atina | Sokrates'in yargılanması: mahkeme salonunda | ✅ UZUN: `bolumler/018-sokrates-davasi/uzun/merakli-018-uzun-sokrates-davasi.mp4` (10:24, 20 sahne) + kapak v4 |
+| 19 | 43 | Antik Yunan | Tiyatro sahne arkası: khoros, maskeler, makine | 🟥 ÜRETİMDE (Hazırlık+Tur A): MÖ 423 *Bulutlar*, koro üyesi |
 | 20 | 56 | İskenderiye | Kütüphane yangını: hangi tomarı kurtarırım? | ⬜ |
 | 21 | 51 | MÖ 334-323 | Büyük İskender'in ordusunda haritacı | ⬜ |
 | 22 | 30 | imparatorluk | Taç giyme töreninde saray görevlisi | ⬜ |
