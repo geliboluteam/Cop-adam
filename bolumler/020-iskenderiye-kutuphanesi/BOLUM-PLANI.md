@@ -80,9 +80,12 @@ s18 AKŞAM: KUCAĞIMDAKİ TOMAR · s19 DÜRÜST TARİH · s20 SEÇİM SENİN
   arkası dönük dumanlı liman + Pharos; sol yazı için temiz. Tur C'de.
 
 ## TURLAR
-- **Hazırlık:** arastirma/020 + bu plan + YOL_HARITASI + commit/push.
-- **Tur A:** s01 testi sunumu; onay sonrası ses+görsel s01-s10 →
-  commit → push.
+- **Hazırlık ✅ (2026-10-20):** arastirma/020 + bu plan + YOL_HARITASI
+  commit `4af45cd` ile push edildi.
+- **Tur A ✅ (2026-10-20):** s01 testi PASS (krem khiton + kalem kesesi,
+  zincir yok; 1376×768; ses 33,6 sn) sonrası s02-s10 ses+görselleri
+  üretildi: **10 ses toplam 362,9 sn, 10 görsel 1376×768 (10/10).**
+  Gözle kontrol: s01 ✅ s05 ✅ (kopyacı atölyesi, soyut yazılar).
 - **Tur B:** s11-s20 metin+ses+görsel → commit → push.
 - **Tur C:** plan.json (crf25) + KAPAK bolum-020.png + YAYIN.md +
   SFX künyesi "B020 UZUN" + derleme + mühür.
