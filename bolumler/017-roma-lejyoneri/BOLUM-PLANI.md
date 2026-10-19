@@ -104,7 +104,11 @@ Metin hedefi: ~80-85 kelime/sahne (~34 sn) → final ~10-10,5 dk.
   karakter kararıyla GEÇERSİZ; kilitli üretim hiç push edilmeden
   iki sıfırlamada kayboldu. Bu dosya kilitli sisteme göre güncellendi
   (voice-03 + çöp adam çevresi + s01-s10 metinleri).
-- **Tur A (kilitli yeniden üretim):** s01-s10 ses+görsel.
+- **Tur A (kilitli yeniden üretim) ✅:** s01-s10 ses (voice-03,
+  339,7 sn) + görsel (10/10, 1376×768) üretildi; s01/s05/s09 gözle
+  kontrol edildi (yeni kanonik portre referansıyla kimlik tutarlı,
+  çevre çöp adam + kıyafetli). Eski geçersiz asset'ler aynı yolların
+  üzerine yazıldı (eskileri git geçmişinde).
 - **Tur B:** s11-s20 ses+görsel (Tur B metinleri Tur B başında
   bu plana eklenecek).
 - **Tur C:** plan.json + derleme + KAPAK bolum-017.png ("80 MİL
