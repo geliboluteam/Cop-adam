@@ -68,6 +68,10 @@ fire_loop; qubodup swosh-01; müzik The_Hellespont.ogg −21 dB.
 
 ## TURLAR
 - Hazırlık: yeniden kuruldu (ikinci sıfırlama sonrası)
-- Tur A ⬜ · Tur B ⬜ · Tur C ⬜
+- Tur A: s01-s10 ses + görsel üretildi (10 ses voice-03, toplam
+  322,3 sn; görsellerin 9'u 1376×768). **AÇIK DÜZELTME:** s03
+  768×1376 dikey üretildi; bu turun 10 görsel limiti dolduğu için
+  Tur B'nin ilk işi s03'ün 16:9 yatay yeniden üretimidir.
+- Tur B ⬜ · Tur C ⬜
 - BEKLEYEN: B017 ham malzemesi de ikinci sıfırlamada kayboldu;
   uzak dalla BİRLEŞTİRME + PUSH yapılmadan yerel commitler kalıcı değil.
