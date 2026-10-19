@@ -43,7 +43,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 17 | 36 | MS 2. yy, limes | Roma lejyoneri sınır karakolunda sıradan gün | ✅ UZUN (kilitli yeniden üretim): `bolumler/017-roma-lejyoneri/uzun/merakli-017-uzun-roma-lejyoneri.mp4` (10:24, 20 sahne) + kapak v4 |
 | 18 | 34 | MÖ 399, Atina | Sokrates'in yargılanması: mahkeme salonunda | ✅ UZUN: `bolumler/018-sokrates-davasi/uzun/merakli-018-uzun-sokrates-davasi.mp4` (10:24, 20 sahne) + kapak v4 |
 | 19 | 43 | MÖ 423, Atina | Tiyatro sahne arkası: khoros, maskeler, makine | ✅ UZUN: `bolumler/019-atina-tiyatrosu/uzun/merakli-019-uzun-atina-tiyatrosu.mp4` (10:24, 20 sahne, 81,5 MB) + kapak v4 ("BULUT OLDUM!" / MÖ 423) |
-| 20 | 56 | İskenderiye | Kütüphane yangını: hangi tomarı kurtarırım? | ⬜ |
+| 20 | 56 | MÖ 48, İskenderiye | Kütüphane yangını: hangi tomarı kurtarırım? | 🟥 ÜRETİMDE: hazırlık tamam; Meraklı kütüphane çırağı, tek gün (Caesar'ın liman yangını günü) |
 | 21 | 51 | MÖ 334-323 | Büyük İskender'in ordusunda haritacı | ⬜ |
 | 22 | 30 | imparatorluk | Taç giyme töreninde saray görevlisi | ⬜ |
 | 23 | 6 | Troya | Truva Atı şehre girerken sokaktayım | ⬜ |
