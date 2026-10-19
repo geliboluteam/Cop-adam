@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:33.44,TarihBandi,,0,0,0,,ATİNA · MÖ 423: FESTİVAL GÜNÜ
+Dialogue: 1,0:00:33.24,0:01:02.61,TarihBandi,,0,0,0,,ŞAFAK: AHŞAP SAHNE
+Dialogue: 1,0:01:02.41,0:01:30.56,TarihBandi,,0,0,0,,KORO: 24 KİŞİ, TEK NEFES
+Dialogue: 1,0:01:30.36,0:01:59.29,TarihBandi,,0,0,0,,KHOREGOS: SPONSOR
+Dialogue: 1,0:01:59.09,0:02:31.45,TarihBandi,,0,0,0,,MASKE ODASI (ÇIKARIM)
+Dialogue: 1,0:02:31.25,0:03:01.40,TarihBandi,,0,0,0,,BULUT KOSTÜMLERİ
+Dialogue: 1,0:03:01.20,0:03:30.44,TarihBandi,,0,0,0,,ÜÇ OYUNCU KURALI
+Dialogue: 1,0:03:30.24,0:04:03.24,TarihBandi,,0,0,0,,MECHANE: VİNÇ (ÇIKARIM)
+Dialogue: 1,0:04:03.04,0:04:33.33,TarihBandi,,0,0,0,,SEYİRCİ DOLUYOR (SAYI TARTIŞMALI)
+Dialogue: 1,0:04:33.13,0:05:06.55,TarihBandi,,0,0,0,,OYUN BAŞLIYOR
+Dialogue: 1,0:05:06.35,0:05:38.95,TarihBandi,,0,0,0,,PARODOS: BULUTLAR GİRİYOR
+Dialogue: 1,0:05:38.75,0:06:10.50,TarihBandi,,0,0,0,,SEPET SAHNESİ
+Dialogue: 1,0:06:10.30,0:06:41.69,TarihBandi,,0,0,0,,AGON: SÖZ DÜELLOSU
+Dialogue: 1,0:06:41.49,0:07:12.42,TarihBandi,,0,0,0,,PARABASİS: SEYİRCİYLE SOHBET
+Dialogue: 1,0:07:12.22,0:07:41.85,TarihBandi,,0,0,0,,KULİSTE NEFES
+Dialogue: 1,0:07:41.65,0:08:14.35,TarihBandi,,0,0,0,,FİNAL VE TEPKİLER
+Dialogue: 1,0:08:14.15,0:08:46.11,TarihBandi,,0,0,0,,JÜRİ: ÜÇÜNCÜLÜK (AKTARIM)
+Dialogue: 1,0:08:45.91,0:09:15.78,TarihBandi,,0,0,0,,AKŞAM: MASKE ÇIKIYOR
+Dialogue: 1,0:09:15.58,0:09:49.74,TarihBandi,,0,0,0,,DÜRÜST TARİH
+Dialogue: 1,0:09:49.54,0:10:23.53,TarihBandi,,0,0,0,,SEÇİM SENİN
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER MÖ 423'TE OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: KORO ÜYESİ
+Dialogue: 4,0:10:21.83,0:10:24.13,Kapanis,,0,0,0,,{\an5\pos(960,399)}HANGİ ROLÜ SEÇERDİN?
+Dialogue: 4,0:10:22.13,0:10:24.13,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}KORO ÜYESİ · BAŞ OYUNCU · MASKE USTASI · KHOREGOS — YORUMLARA YAZ
+Dialogue: 4,0:10:22.43,0:10:24.13,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!

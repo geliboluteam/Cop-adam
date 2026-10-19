@@ -437,3 +437,25 @@ künyesini ve genel arşiv envanterini tutar.
   ANALOJİSİ** (cornu sesi değildir; 4 sn kırpılarak)
 - Geçiş: qubodup `swosh-01` (CC0)
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA) — −21 dB
+
+## BÖLÜM 019 UZUN — ATİNA TİYATROSU: SAHNE ARKASI (uzun video; Seri C Konu 43)
+
+- Seyirci uğultusu/kahkaha/alkış/homurtu: Owlish `clamour1/2/3/4/5/6`
+  (CC0) — temsili (MÖ 423'ten özgün ses kaydı yoktur; beyan)
+- Dans adımları/kulis koşusu/akşam yürüyüşü: Owlish
+  `hard-footstep1/2/3/4`, `grass_footsteps` (CC0)
+- Ahşap sahne/vinç (mechane) gıcırtısı/tablet: Owlish `scrape1/2/3`
+  (CC0) — temsili
+- Taş/urna/maske odası: rubberduck `stones_01-04` (Free-SFX, CC0)
+- Skene kapıları: rubberduck `door_close_01/02` (Free-SFX, CC0) — temsili
+- Sunak tütsü ateşi: PagDev `fire_loop` (CC0)
+- Kulis suyu: rubberduck `splash_01` (Free-SFX, CC0)
+- Khoregos kesesi/fibula: rubberduck `item_coins_01` (Free-SFX, CC0),
+  OpenHV `klink` (CC0)
+- Nefes/şaşkınlık: Owlish `breath-male`, `gasp1` (CC0)
+- Ortam: 0ad `day_temperate_11`, `wind_11`, `windgust_11` (CC-BY-SA)
+- Akşam: Owlish `night-crickets` (CC0)
+- Geçiş/kostüm hışmı: qubodup `swosh-01` (CC0)
+- NOT: aulos (çift kamış) için özgün dönem kaydı yoktur; bölümde aulos
+  sesi modern analojiyle de taklit edilmemiştir — YAYIN beyanı.
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA) — −21 dB

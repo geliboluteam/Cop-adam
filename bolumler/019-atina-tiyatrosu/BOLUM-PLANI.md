@@ -104,8 +104,19 @@ s18 AKŞAM: MASKELER ÇIKIYOR · s19 DÜRÜST TARİH · s20 SEÇİM SENİN
   himation kuralıyla düzeltilecek; (3) OPSİYONEL s12 düzeltme — uzak
   seyirci figürleri çöp adam yerine normal cartoon tarzda (küçük/arka
   plan, kota kalırsa düzelt).
-- **Tur C:** plan.json + derleme + KAPAK bolum-019.png + YAYIN.md +
-  SFX künyesi "B019 UZUN" + mühür.
+- **Tur C ✅ (2026-10-20) — BÖLÜM MÜHÜRLÜ:** Tur C başı görsel iş
+  listesinin tamamı kapatıldı: s20 kapanış görseli üretildi; s08
+  zincirsiz himation ile yeniden üretildi ✅; s12, tüm seyircileri
+  çöp adam sisteminde yeni sürümüyle değiştirildi ✅. plan.json
+  (20 sahne, 96 efekt) yazıldı; SADECE_MIX ✅ x1.077, 623,5 sn.
+  İlk derleme crf23'te 101,7 MB (GitHub >100 MB reddi riski) geldiği
+  için plan.json'da crf 25 + maxrate 1250k ile yeniden derlendi →
+  **final `uzun/merakli-019-uzun-atina-tiyatrosu.mp4`: 10:24 (623,5
+  sn), 81,5 MB, 1920×1080.** Kapak v4 `kapaklar/thumbnail/
+  bolum-019.png` ("BULUT OLDUM!" / "MÖ 423", baz
+  `sahne/bolum-019.jpg`) üretildi. Kare kontrolleri: 1,2 sn giriş
+  kartı ✅, 622,8 sn kapanış/abone kartı ✅. YAYIN.md + SFX künyesi
+  "BÖLÜM 019 UZUN" yazıldı; YOL_HARITASI'da Bölüm 19 ✅ işlendi.
 - Kural: her tur commit → anında push → uzak doğrulama (B017/B018 düzeni).
 - Not: B016 (Kartaca alternatifi) yol haritasında kararsız duruyor;
   yayın sırası B019 → B020 olarak sürüyor (karar kanala ait).
