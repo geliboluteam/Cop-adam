@@ -69,10 +69,16 @@ fire_loop; qubodup swosh-01; müzik The_Hellespont.ogg −21 dB.
 ## TURLAR
 - Hazırlık: yeniden kuruldu (ikinci sıfırlama sonrası)
 - Tur A: s01-s10 ses + görsel üretildi (10 ses voice-03, toplam
-  322,3 sn; görsellerin 9'u 1376×768). **AÇIK DÜZELTME:** s03
-  768×1376 dikey üretildi; bu turun 10 görsel limiti dolduğu için
-  Tur B'nin ilk işi s03'ün 16:9 yatay yeniden üretimidir.
-- Tur B ⬜ · Tur C ⬜
+  322,3 sn). s03 dikey kusuru Tur B başında 16:9 yatay yeniden
+  üretilerek kapatıldı (1376×768).
+- Tur B: s11-s20 ses üretildi (10 ses, 351,1 sn; 20 sahne toplam
+  673,4 sn → hedef 630 için oran 1,069, hız sınırı içinde).
+  Görseller s11-s19 üretildi (9/9, 1376×768). **AÇIK DÜZELTMELER
+  (Tur C ilk işleri):** (1) s20 görseli kota nedeniyle üretilmedi;
+  (2) s18'deki üç küçük yan figür kıyafetsiz üretilmiş — kıyafetli
+  olarak yeniden üretilecek. s03/s12/s18 gözle kontrol edildi:
+  s12'de oy gizli, s18'de ölüm gösterimi yok.
+- Tur C ⬜ (s20 + s18 düzeltme + kanonik portre + kapak + derleme)
 - KALICILIK ÇÖZÜLDÜ: yerel B018 hazırlık + Tur A zinciri, uzak
   daldaki 92 commitlik geçmiş korunarak `272ad59` merge commit'iyle
   birleştirildi ve force kullanılmadan GitHub'a push edildi. Bundan
