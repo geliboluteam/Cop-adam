@@ -73,9 +73,18 @@ s18 AKŞAM: MASKELER ÇIKIYOR · s19 DÜRÜST TARİH · s20 SEÇİM SENİN
   büyük/odakta; sol taraf yazı için temiz. Tur C'de üretilecek.
 
 ## TURLAR
-- **Hazırlık:** bu dosya + arastirma/019 → commit + push.
-- **Tur A:** s01-s10 ses+görsel.
-- **Tur B:** s11-s20 metin+ses+görsel (metinler Tur B başında eklenir).
+- **Hazırlık ✅:** arastirma/019 + bu plan + YOL_HARITASI güncellemeleri
+  commit `f96b114` ile push edildi.
+- **Tur A (üretim) ✅/⚠️:** s01-s10 sesleri üretildi (voice-03; toplam
+  346,7 sn). Görseller s01-s07, s09-s10 (9/10, 1376×768) tamam.
+  **AÇIK DÜZELTME:** s08 vinç/sepet görseli ilk üretimde moderasyona
+  takıldı ve bu turun görsel girişimi doldu; Tur B'nin ilk işi s08'in
+  daha sade, mekanizmayı güvenli prova olarak anlatan yeni üretimidir.
+  s01/s05/s09 gözle kontrol edildi: kanonik kimlik tutarlı, ahşap sahne
+  ve kıyafetli çöp-adam çevresi kurala uygun.
+- **Tur B:** önce s08 düzeltmesi; sonra s11-s20 metin+ses+görsel
+  (metinler Tur B başında eklenir; kota durumuna göre son sahne görseli
+  Tur C başına kalabilir).
 - **Tur C:** plan.json + derleme + KAPAK bolum-019.png + YAYIN.md +
   SFX künyesi "B019 UZUN" + mühür.
 - Kural: her tur commit → anında push → uzak doğrulama (B017/B018 düzeni).
