@@ -8,12 +8,10 @@ Konu kilidi: **Troya (efsane çerçevesi ~MÖ 1180) — tahta atın
 ikinci görselleri (20+5=25). Tur A s01-s10 = 10 ses + ana
 görseller ve s04b/s08b; Tur B s11-s20 = 10 ses +
 ana görseller ve s12b/s17b; Tur C = s19b + kapak.
-DURUM: 🟡 Tur A KISMİ: s01-s10 seslerin tamamı hazır
-(ham toplam 407,16 sn). Görseller: s01-s09 ana görsellerin
-tamamı QA PASS ve mühürlü (s03 sağlam sur ve s06 tek at
-düzeltmeleri adayla geçti). Görsel kotası ( Tur başına 10)
-dolduğundan s10 ana görseli + s04b/s08b sonraki Tur kaldı.
-Sıradaki: s10 + s04b/s08b → Tur B (metinler+sesler+görseller).
+DURUM: 🟡 Tur A TAMAM: s01-s10 sesleri (407,16 sn) + 12 görsel
+(s01-s10 ana + s04b/s08b) QA PASS mühürlü. s04b: kulak çizgisi
+ve yüzsüz Sinon adayları reddedildi; üçüncü aday geçti.
+Sıradaki: Tur B (s11-s20 tam metinler+sesler+görseller).
 
 Kaynak özeti: `arastirma/023-uzun-truva-ati.md`.
 Açı: Meraklı, kapı yakınında su ve halat taşıyan hayalî genç
