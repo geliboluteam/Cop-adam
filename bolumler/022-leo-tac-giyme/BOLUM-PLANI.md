@@ -10,7 +10,7 @@ Tur C = s19b + kapak.
 DURUM: 🟢 Tur A TAMAM: 10 ses (ham 368,66 sn) + 12 görsel
 (s01-s10 ana + s02b + s06b) QA PASS ve mühürlü. s05/s08/s10/
 s06b aday-yama süreciyle düzeltildi. Tur B metinleri (s11-s20)
-aşağıda kilitli. Sıradaki: Tur B sesleri → Tur B görselleri
+aşağıda kilitli. Tur B sesleri de tamam. Sıradaki: Tur B görselleri
 (10 ana + s13b/s15b) → Tur C (s19b + kapak + derleme).
 
 Kaynak özeti: `arastirma/022-uzun-leo-tac-giyme.md`.
@@ -402,7 +402,7 @@ yorumlara yaz. Ben Meraklı; bir sonraki bölümde görüşmek
 
 - [x] TEST: s01 ses+görsel üretildi; 3 kol düzeltmesiyle onaylandı
 - [x] Tur A: s01-s10 sesler + ana görseller ve s02b/s06b (12 görsel)
-- [ ] Tur B: s11-s20 sesler + ana görseller ve s13b/s15b
+- [~] Tur B: sesler tamam (s11-s20); görseller kaldı (10 ana + s13b/s15b)
 - [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
 
 ## KAPAK v4 (yalnız uzun video)
