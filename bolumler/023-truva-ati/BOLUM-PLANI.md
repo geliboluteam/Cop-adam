@@ -8,8 +8,9 @@ Konu kilidi: **Troya (efsane çerçevesi ~MÖ 1180) — tahta atın
 ikinci görselleri (20+5=25). Tur A s01-s10 = 10 ses + ana
 görseller ve s04b/s08b; Tur B s11-s20 = 10 ses +
 ana görseller ve s12b/s17b; Tur C = s19b + kapak.
-DURUM: 🟢 HAZIRLIK (araştırma + plan); sıradaki adım: s01 test
-üretimi → kullanıcı onayı → Tur A.
+DURUM: 🟡 S01 TESTİ ÜRETİLDİ: ses 36,02 sn; görsel ikinci adayda
+QA PASS (tam 2 kol; kamp ateşleri anlatıma uygun sönük/kül).
+Sıradaki adım: kullanıcı onayı → Tur A (s02-s10 + s04b/s08b).
 
 Kaynak özeti: `arastirma/023-uzun-truva-ati.md`.
 Açı: Meraklı, kapı yakınında su ve halat taşıyan hayalî genç
@@ -281,7 +282,7 @@ kim dinler? Yorumlara yaz." Kapanış kartı standardı Tur C'de.
 
 ## Tur DURUMU
 
-- [ ] TEST: s01 ses+görsel (kullanıcı onayı için sunulacak)
+- [x] TEST: s01 ses+görsel üretildi; kullanıcı onayı bekleniyor
 - [ ] Tur A: s01-s10 sesler + ana görseller ve s04b/s08b
 - [ ] Tur B: s11-s20 sesler + ana görseller ve s12b/s17b
 - [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
