@@ -6,8 +6,11 @@ Süre: 5-12 dk (hedef ~10:20) | Ses: voice-03 | Altyazı: yok
 görselleri (20+5=25). Tur A s01-s10 = 10 ses + 13 görsel
 (s01-s10, s02b, s06b, s07b); Tur B s11-s20 = 10 ses + 11 görsel
 (s11-s20, s13b); Tur C = s19b + kapak.
-DURUM: 🟡 s01 TESTİ üretildi ve denetlendi (ses 43,1 sn; görsel
-1376×768, PASS); toplu üretim için kullanıcı onayı bekleniyor.
+DURUM: ✅ Tur A TAMAM — s01-s10 sesleri (10 adet, toplam
+403,58 sn) ve Tur A görselleri tamamlandı (13 adet: s01-s10 +
+s02b/s06b/s07b; hepsi 1376×768). s07b, ilk sürümündeki
+kıyafet/uzuv kusuru düzeltilmiş adayla değiştirildi. Sıradaki
+adım: Tur B (s11-s20).
 
 Kaynak özeti: `arastirma/021-uzun-iskender-haritaci.md`.
 Açı: Meraklı, gerçek bematistler Diognetos ve Baiton'un yanında
@@ -260,8 +263,7 @@ DİYECEKTİM, SAKLADIM 😏 / KANALIMA ABONE OLMAYI UNUTMAYIN!"
 ## Tur DURUMU
 
 - [x] TEST: s01 ses+görsel üretildi, denetlendi ve kullanıcı onayladı
-- [ ] Tur A (kısmen tamam): s02-s10 sesler tamam; görsellerden
-  s02-s07, s02b, s06b, s09, s10 tamam — sıradaki ilk iş: s07b + s08
+- [x] Tur A: s01-s10 sesler + 13 görsel (s07b düzeltmesi dahil) tamam
 - [ ] Tur B: s11-s20 sesler + görseller (s13b dahil)
 - [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
 
