@@ -213,79 +213,193 @@ gece baskını gölgeler ve uzaktan dumanla anlatılır.
   yaklaşıyor; sofralar, çiçek çelenkleri, sarılan insanlar.
   Meraklı önde testisiyle durmuş atın gölgesine bakıyor.
 
-### s11 — At AKROPOLDE (Tur B özet)
-Gece çökerken at yukarı şehirde durdurulur; nöbetçiler
-gevşer, şehir uykuya dalar. Meraklı ambar kapısında nöbetçi
-yardımcısı olarak kalır. Görsel: ay ışığında at silueti,
-uyuklayan nöbetçi, Meraklı su testisiyle basamakta.
+### s11 — At AKROPOLDE
+- Metin: "Akşam olunca atı yukarı şehrin meydanına çektik.
+  Halatlar çözüldü, tekerlekler taşlarla sabitlendi; dev
+  gölge, tapınak merdivenlerinin önüne sessizce oturdu.
+  Nöbetçiler bile o gece gevşedi; on yılın yorgunluğu
+  herkesin göz kapaklarına çökmüştü. Ben ambar kapısının
+  önünde, testimi yanıma koyup oturdum. Şehir yavaş yavaş
+  sustu: önce şarkılar, sonra kahkahalar, en son kapı
+  sürgülerinin sesi. Ay yükselirken atın başı yıldızlara
+  değecek gibiydi. Herkes uyuyordu. Bir tek tahtalar, gece
+  serinliğinde hafif hafif çatırdıyordu. O çatırtının
+  neden içimi kemirdiğini hâlâ bilmiyordum."
+- Görsel: ay ışığında meydanda dev at silueti; uyuklayan
+  nöbetçi köşede; Meraklı ambar basamağında oturuyor,
+  testisi yanında yerde, başı elllerinin arasında değil
+  ata bakıyor (iki kol: biri dizinde, biri basamakta).
 
-### s12 — Helen'İN SESLERİ [ÇİFT: s12b, Tur B özet]
-Odysseia anlatımı: Helen gece atın çevresinde dolaşıp
-savaşçıların eşlerinin seslerini taklit eder; içeridekiler
-neredeyse cevap verir, Odysseus susturur. Meraklı sesleri
-uzaktan duyar ama anlamlandıramaz. Görsel: gece, atın
-çevresinde tek kadın figürü (uzaktan), Meraklı sütun
-arkasında dinliyor. s12b: atın karnındaki kapağın karanlık
-yakın planı, içeriden hiçbir şey görünmez; yalnız gölge.
+### s12 — Helen'İN SESLERİ [ÇİFT: s12b]
+- Metin: "Gece yarısına doğru, meydandan yumuşak bir kadın
+  sesi geldi. Odysseia destanı anlatır: O gece Helen, atın
+  çevresinde üç kez dolaşmış ve içeride saklananların
+  eşlerinin seslerini bir bir taklit etmiş. Düşünsene:
+  karanlıkta, yıllardır görmediğin ses adını söylüyor.
+  Destan, içeriden birinin neredeyse cevap vereceğini,
+  Odysseus'un onu son anda susturduğunu söyler. Ben
+  sütunun arkasından yalnızca uzak bir fısıltı duydum;
+  rüzgâr sandım. Oysa bir ses, bir şehri ya da bir sırrı
+  oracıkta ele verebilirdi. O gece sessizlik kazandı; ben
+  de yeniden uyuklamaya daldım."
+- Görsel: gece meydan; atın çevresinde uzaktan tek zarif
+  kadın figürü (uzun elbise, başörtüsü yok ama saç da yok;
+  beyaz kafa kanonu korunur), Meraklı sütun gölgesinde
+  kulak kabartıyor (sağ el kulakta değil, ağza yakın
+  hayret; sol el dizde).
+- s12b: atın karnındaki kapağın karanlık yakın planı;
+  tahta ekleri ve koyu kapak, içeriden hiçbir şey
+  görünmez; yalnız ay ışığı ve gölge; Meraklı yok veya
+  kenarda küçük siluet.
 
-### s13 — ŞEHİR UYURKEN (Tur B özet)
-Filo Tenedos arkasından döner; Sinon meşale yakar. Görsel:
-sur üstünden denizde gemi siluetleri ve tek meşale;
-Meraklı uyanıp basamakta doğrulur.
+### s13 — ŞEHİR UYURKEN
+- Metin: "Şehir derin uykudayken denizin üstünde bir şey
+  kıpırdadı. Efsanenin anlattığına göre Yunan filosu hiç
+  gitmemişti; Tenedos adasının arkasında bekliyordu. Ay
+  ışığında gemi yelkenleri sessizce sahile döndü. Şehirde
+  ise tek bir kişi uyanıktı: Sinon. Anlatıya göre, sur
+  tarafından yüksek bir yerde meşale kaldırdı; bu, filonun
+  beklediği işaretti. Ben ambar basamağında gözümü
+  araladığımda uzakta tek bir alev titreşiyordu. Nöbetçi
+  ateşi sandım. Ne yazık ki bazı işaretler, görecek göz
+  uyanık değilse yalnızca bir ışık gibi görünür."
+- Görsel: sur üstünden geniş bakış: ay ışığında dönen gemi
+  siluetleri; surda tek meşale taşıyan küçük figür (Sinon,
+  uzaktan); önde Meraklı basamakta doğrulmuş denize bakıyor
+  (iki kol: biri basamağa dayanık, diğeri denizi işaret).
 
-### s14 — KAPAK AÇILIYOR (Tur B özet)
-Sinon kapağı açar; askerler halatla iner (uzaktan gölgeler,
-şiddet yok). Meraklı ambarın arkasına saklanır. Görsel:
-atın karnından sarkan halat ve inen koyu siluetler, Meraklı
-küp-amforaların arkasında küçülmüş.
+### s14 — KAPAK AÇILIYOR
+- Metin: "Sonra meydandan tahta sürtünmesi gibi boğuk bir
+  ses geldi. Ay ışığında atın karnında koyu bir kare
+  belirdi: gizli kapak. Bir halat aşağı uzandı ve gölgeler
+  sessizce yere inmeye başladı. Saymadım; nefesimi bile
+  sayamadım. Ambarın arkasındaki amforaların arasına
+  büzüldüm, elimdeki testinin ağzını avucumla kapattım.
+  Gölgeler şehre yabancı adımlarla, hiç konuşmadan
+  dağıldı. Laocoon'un tok sesi, eşikteki o ürkütücü
+  duraksamalar, hepsi bir anda yerli yerine oturdu.
+  Hediye dediğimiz şey, meğer bekleyen bir kapıymış;
+  anahtarı da bizim elimize kendimiz vermişiz."
+- Görsel: atın karnundan sarkan halat ve inen 3-4 koyu
+  siluet (ayrıntı yok, silah belirgin değil); Meraklı
+  amforaların arkasında büzülmüş, iki eli testinin
+  ağzında (iki kol ikisi de testide), gözleri açık.
 
-### s15 — kapılar İÇERİDEN (Tur B özet)
-Kapılar içeriden açılır, şehir gürültüyle uyanır; Meraklı
-karanlık sokaklardan yukarı mahalledeki eski kuyunun
-yanındaki depo aralığına saklanır. Aeneas katmanı rüya
-uyarısı bir cümleyle rivayet diye anılır. Görsel: açılan
-kapıdan meşale ışığı, kaçışan değil saklanan küçük figürler.
+### s15 — kapılar İÇERİDEN
+- Metin: "Çok geçmeden, aşağıdaki büyük kapının sürgüleri
+  içeriden çekildi. Dışarıda filodaki kalabalık
+  bekliyordu; şehir bir anda gürültüyle uyandı. Vergilius,
+  o gece Aeneas'ın rüyasında uyarıldığını anlatır; ama
+  bu bir rivayettir, biz bize kalan seslerle yetinelim.
+  Ben koşmak yerine küçüldüm: eski kuyunun yanındaki depo
+  aralığına, taşların ve çanakların arasına saklandım.
+  Sokaklardan bağırışlar, koşuşmalar ve metal sesleri
+  geçti. Göstermeye dilim varmıyor; anlatının gerisini
+  gölgelere bırakalım. Ben sadece sabahı bekledim ve
+  beklerken şehrimin sesinin nasıl değiştiğini dinledim."
+- Görsel: gece, açık kapıdan meşale ışığı sokağa taşıyor;
+  saklanan küçük figürler (kaçış/panik yakın planı yok);
+  Meraklı kuyu yanındaki aralıkta oturmuş büzülmüş,
+  testisi yanında, iki kolu dizlerinin etrafında.
 
-### s16 — SABAHA KARŞI (Tur B özet)
-Meraklı saklandığı yerden çıkar; uzak tepeden şehirde duman,
-sessizlik ve boş sokaklar. Kayıp hissi yakına gelmeden
-verilir. Görsel: şafak, tersten bakış; Meraklı tepede
-arkası dönük (kırmızı fular görünür), testisi elinden
-düşmüş.
+### s16 — SABAHA KARŞI
+- Metin: "Sabahın ilk ışığında saklandığım yerden çıktım.
+  Şehrin üstünde ince bir duman tabakası asılıydı;
+  sokaklar boştu, bayram çelenkleri taşların üstünde
+  solmuştu. Yukarı tepeye tırmandım ve Troya'ya son kez
+  baktım. Dün kucaklaştığımız meydan sessizdi. At hâlâ
+  orada duruyordu; karnındaki kapak artık açık bir yara
+  gibiydi. Testim elimden kayıp toprağa düştü. Bir şehri
+  kaybetmenin sesi bazen gürültü değil, ertesi sabahın
+  sessizliğidir. Efsane burada tragedyaya döner; ben
+  daha fazla yaklaşmayacağım. Yalnızca şunu soruyorum:
+  Biz koca bir şehri, bir gecede nasıl kaybettik?"
+- Görsel: şafak; tepeden şehre bakış: ince duman, boş
+  sokaklar, meydanda kapaklı at uzakta. Meraklı tepede
+  arkası dönük (kırmızı fular görünür), testisi ayak
+  dibinde yan yatmış; iki kolu yanda boş.
 
-### s17 — NEDEN İNANDIK? [ÇİFT: s17b, Tur B özet]
-Eleştirel düşünme sahnesi: On yıllık yorgunluk, barış
-özlemi, merhametin suistimali ve işaretleri arzuya göre
-okuma. Görsel: boş sabah sokağında terk edilmiş çiçek
-çelenkleri ve halatlar; Meraklı halat halkasını yere
-bırakıyor. s17b: surdaki sökülmüş aralığın sabah hâli,
-düzenli taş yını.
+### s17 — NEDEN İNANDIK? [ÇİFT: s17b]
+- Metin: "Şimdi, o günü sokaktan gören biri olarak
+  kendime dürüst olalım. Neden inandık? Çünkü on yıl
+  korkuyla yaşadık ve barışa susamıştık. Merhametimiz
+  gerçekti; Sinon'a su verişimiz yanlış değildi ama
+  sorgulamadan, kapıları da araladık. İşaretleri arzumuza
+  göre okuduk: dileyen söze değil, hoşumuza gidene kulak
+  verdik. Kassandra da Laocoon da konuştu; biz duymak
+  istediğimizi duyduk. Ders acıdır ama basittir: Bir
+  hediye tam da en çok istediğin şeyi söylüyorsa, bir
+  adım geri çekil. Merhamet et ama sor. Sevin ama dinle.
+  Hediyenin karnını dinlemek, kimsenin onuruna dokunmaz."
+- Görsel: boş sabah sokağında terk edilmiş çiçek
+  çelenkleri ve çekme halatları; Meraklı omzundaki halat
+  halkasını yere usulca bırakıyor (iki kol: ikisi de
+  halatı yere koyuyor), düşünceli.
+- s17b: surdaki sökülmüş aralığın sabah hâli; yanında
+  düzenli taş yığını; Meraklı aralığa arkası dönük
+  bakıyor, testisi sol elinde, sağ kol yanında.
 
-### s18 — GERÇEK Troya (Tur B özet)
-Hisarlık: eğimli surlar, katmanlar, Troya VI ve VIIa;
-~1180'de yangınla yıkım. Schliemann'ın aceleciliği ve
-sonraki dikkatli kazılar birer cümleyle. Görsel: bugünkü
-kazı alanına benzer temsili katman kesiti; Meraklı sur
-kalıntısının yanında küçük (zaman dışı sunucu duruşu
-bilinçli temsilî).
+### s18 — GERÇEK Troya
+- Metin: "Peki bütün bunların ne kadarı gerçek? Troya
+  gerçek bir şehirdi; kalıntıları bugün Çanakkale
+  yakınındaki Hisarlık tepesinde katman katman. Arkeologlar
+  şehir üstüne şehir buldu: eğimli güçlü surlarıyla altıncı
+  katman ve onun üstünde, milattan önce yaklaşık 1180'de
+  yangınla yıkıldığı düşünülen Yedi-A katmanı. On
+  dokuzuncu yüzyılda Heinrich Schliemann, acele kazılarla
+  üst katmanlara zarar verdi; sonraki kazılar daha
+  dikkatli yürüdü. Yangın izi gerçek; fakat o yangını
+  kimin çıkardığını toprak bize söylemiyor. Tahta
+  atı kanıtlayacak bir iz bulunmuş değil. Gerçek
+  çekirdek ile efsaneyi ayırmak, hikâyeyi küçültmez;
+  onu dürüst kılar."
+- Görsel: temsili kazı kesiti; katman katman toprak ve
+  sur kalıntısı; Meraklı kalıntının yanında küçük, iki
+  eliyle katmanları seyirciye sunuyor (tablet yok; testisi
+  bel çantasında değil, ayak dibinde).
 
 ### s19 — DÜRÜST TARİH NOTU [ÇİFT: s19b Tur C'de]
-İlyada'da at yok; Odysseia anar; Vergilius ayrıntı verir;
-kayıp destanlar. Mikonos vazosu ~MÖ 675. Koçbaşı/deprem/gemi
-yorumları hipotezdir. s19 görseli: ozan etrafında dinleyenler
-ve vazo üstünde at kabartması. s19b: kazı katmanları ve
-Mikonos vazosunun temsili çizimi yan yana (okunaklı yazı yok).
+- Metin: "Kaynak rafına dürüstçe bakalım. İlyada destanı
+  savaşın sonunu anlatmaz; tahta at orada yoktur. Atı
+  ilk anan, Odysseia'dır: ozan sarayda atın şarkısını
+  söyler, Odysseus sessizce ağlar. Sinon'un yalanı,
+  Laocoon'un uyarısı ve gece baskınının ayrıntısı
+  asırlar sonra Vergilius'un Aeneis destanında parlar.
+  Aradaki kayıp destanların, yalnız özetleri kaldı. Atın
+  en eski resimlerinden biri, milattan önce yaklaşık
+  675'e tarihlenen Mikonos vazosundadır: tahtadan at
+  ve küçük gizli pencereler, kabartmayla işlenmiş.
+  Modern yorumcular atı; koçbaşına, depremle anılan
+  Poseidon'a ya da 'at' lakaplı bir gemiye benzetir;
+  hepsi hipotezdir, kanıt değil. Hikâye katman
+  katmandır; katmanı söylemek, büyüyü bozmaz."
+- Görsel: ateş başında ozan ve dinleyen küçük halka;
+  bir kenarda üzerinde at kabartması olan büyük kil
+  vazo (pithos). Meraklı dinleyenlerin arasında, iki
+  eli dizlerinde.
+- s19b (Tur C): kazı katmanları ile Mikonos vazosunun
+  temsili çizimi yan yana; okunaklı yazı yok.
 
-### s20 — SEÇİM SENİN (kapanış, Tur B özet)
-"Sen kapıda olsaydın ne yapardın: Laocoon'u dinlemek, atı
-yakmak, karnını dinlemek, Sinon'u sorgulamak, suru hiç
-sökmemek? Hediye sana tam istediğini söylüyorsa önce içini
-kim dinler? Yorumlara yaz." Kapanış kartı standardı Tur C'de.
+### s20 — SEÇİM SENİN (kapanış)
+- Metin: "Şimdi sıra sende. O sabah kapıda, halat
+  omzunda, testi elinde sen olsaydın ne yapardın?
+  Laocoon'u dinleyip atı sahilde mi bırakırdın? Baltayla
+  karnını açıp içine mi bakardın? Sinon'a bir soru daha
+  mı sorardın, yoksa surları hiç mi söktürmezdin? Belki
+  de atı içeri alıp çevresine nöbetçi dikerdin. Bir
+  hediye sana tam istediğini söylüyorsa, içini önce
+  kim dinler? Seçimini ve nedenini yorumlara yaz; bir
+  sonraki bölümde Keşif ve Ulaşım serisiyle yepyeni bir
+  yolculuğa çıkıyoruz. Meraklı kaçar ama söz sende
+  kalır. Görüşmek üzere; kendine ve sorularına iyi bak."
+- Görsel: gün ağarırken kapı önünde tek başına Meraklı,
+  seyirciye dönük açık ellerle soruyor (iki kol iki yana
+  açık avuçlar yukarı); arkada at ve sur sabah ışığında.
 
 ## Tur DURUMU
 
 - [x] TEST: s01 ses+görsel onaylandı (kısmi: ateş/kül düzeltmesi)
-- [ ] Tur A: s01-s10 sesler + ana görseller ve s04b/s08b
+- [x] Tur A: s01-s10 sesler + ana görseller ve s04b/s08b (407,16 sn; 12 görsel)
 - [ ] Tur B: s11-s20 sesler + ana görseller ve s12b/s17b
 - [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
 
