@@ -7,11 +7,19 @@ Konu kilidi: **7 Şubat MS 457, Konstantinopolis — I. Leo'nun ilan günü.**
 görselleri (20+5=25). Tur A s01-s10 = 10 ses + ana görseller ve
 s02b/s06b; Tur B s11-s20 = 10 ses + ana görseller ve s13b/s15b;
 Tur C = s19b + kapak.
-DURUM: 🟢 Tur A TAMAM: 10 ses (ham 368,66 sn) + 12 görsel
-(s01-s10 ana + s02b + s06b) QA PASS ve mühürlü. s05/s08/s10/
-s06b aday-yama süreciyle düzeltildi. Tur B metinleri (s11-s20)
-aşağıda kilitli. Tur B sesleri de tamam. Sıradaki: Tur B görselleri
-(10 ana + s13b/s15b) → Tur C (s19b + kapak + derleme).
+DURUM: 🟡 Tur B GÖRSELLER KISMİ (7/12): Tur A tamam
+(12 görsel). Tur B sesleri tamam (20 ses, ham 761,95 sn).
+PASS+mühürlü: s11, s12, s16, s17, s18, s19, s20.
+Tur C'ye kalan görseller (5 düzeltme/ek):
+- s13 düzeltme: Leo açık diadem + chlamys (kapalı taç/loros
+  benzeri kıyafet elendi); Meraklı'da asa unutulmayacak.
+- s14 düzeltme: 3 kol elendi; asa sütuna dayalı olacak,
+  çanta kayışını hiçbir el tutmayacak.
+- s15 düzeltme: arka plandaki saçlı figürler elendi;
+  herkes kel beyaz kafa.
+- s13b (altın taç yakın plan), s15b (sunakta taç),
+  s19b (10. yy derleyiciler) + kapak bazı.
+Sonra: plan.json + SADECE_MIX + derleme + YAYIN.
 
 Kaynak özeti: `arastirma/022-uzun-leo-tac-giyme.md`.
 Açı: Meraklı, gerçek *silentiarii* düzen görevlilerinin arkasında
@@ -402,7 +410,7 @@ yorumlara yaz. Ben Meraklı; bir sonraki bölümde görüşmek
 
 - [x] TEST: s01 ses+görsel üretildi; 3 kol düzeltmesiyle onaylandı
 - [x] Tur A: s01-s10 sesler + ana görseller ve s02b/s06b (12 görsel)
-- [~] Tur B: sesler tamam (s11-s20); görseller kaldı (10 ana + s13b/s15b)
+- [~] Tur B: sesler tamam; görseller 7/12 PASS (s11,s12,s16-s20); s13/s14/s15 düzeltme + s13b/s15b Tur Cde
 - [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
 
 ## KAPAK v4 (yalnız uzun video)
