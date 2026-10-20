@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:31.35,TarihBandi,,0,0,0,,y. MÖ 1180 · Troya: KAMP BOŞALMIŞ
+Dialogue: 1,0:00:31.15,0:01:03.91,TarihBandi,,0,0,0,,SAHİLDE DEV TAHTA At
+Dialogue: 1,0:01:03.71,0:01:36.54,TarihBandi,,0,0,0,,MEYDANDA ÜÇ ÖNERİ
+Dialogue: 1,0:01:36.34,0:02:08.42,TarihBandi,,0,0,0,,TUTSAK SİNON
+Dialogue: 1,0:02:08.22,0:02:43.39,TarihBandi,,0,0,0,,Athena'YA ADAK (SİNON'UN HİKÂYESİ)
+Dialogue: 1,0:02:43.19,0:03:20.65,TarihBandi,,0,0,0,,Laocoon'UN UYARISI
+Dialogue: 1,0:03:20.45,0:03:55.10,TarihBandi,,0,0,0,,DENİZDEN GELEN YILANLAR
+Dialogue: 1,0:03:54.90,0:04:29.86,TarihBandi,,0,0,0,,SUR SÖKÜLÜYOR
+Dialogue: 1,0:04:29.66,0:05:00.71,TarihBandi,,0,0,0,,EŞİKTE DURAKSAMALAR
+Dialogue: 1,0:05:00.51,0:05:34.37,TarihBandi,,0,0,0,,SOKAKTA BAYRAM
+Dialogue: 1,0:05:34.17,0:06:09.18,TarihBandi,,0,0,0,,At AKROPOLDE
+Dialogue: 1,0:06:08.98,0:06:46.25,TarihBandi,,0,0,0,,Helen'İN SESLERİ
+Dialogue: 1,0:06:46.05,0:07:18.82,TarihBandi,,0,0,0,,ŞEHİR UYURKEN
+Dialogue: 1,0:07:18.62,0:07:52.03,TarihBandi,,0,0,0,,KAPAK AÇILIYOR
+Dialogue: 1,0:07:51.83,0:08:25.88,TarihBandi,,0,0,0,,kapılar İÇERİDEN
+Dialogue: 1,0:08:25.68,0:08:59.36,TarihBandi,,0,0,0,,SABAHA KARŞI
+Dialogue: 1,0:08:59.16,0:09:37.71,TarihBandi,,0,0,0,,NEDEN İNANDIK?
+Dialogue: 1,0:09:37.51,0:10:14.47,TarihBandi,,0,0,0,,GERÇEK Troya: HİSARLIK
+Dialogue: 1,0:10:14.27,0:10:59.75,TarihBandi,,0,0,0,,DÜRÜST TARİH NOTU
+Dialogue: 1,0:10:59.55,0:11:33.49,TarihBandi,,0,0,0,,SEÇİM SENİN
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER Troya'DA OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: SOKAKTAKİ YARDIMCI
+Dialogue: 4,0:11:31.79,0:11:34.09,Kapanis,,0,0,0,,{\an5\pos(960,399)}SEN OLSAYDIN NE YAPARDIN?
+Dialogue: 4,0:11:32.09,0:11:34.09,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}ATI DİNLEMEK · SORGULAMAK · SURU SÖKMEMEK — YORUMLARA YAZ
+Dialogue: 4,0:11:32.39,0:11:34.09,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!

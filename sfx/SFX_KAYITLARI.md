@@ -574,3 +574,32 @@ künyesini ve genel arşiv envanterini tutar.
 - NOT: çan, kutsal yağ, silah/çığlık sesi kullanılmadı; tören
   rüzgâr, kumaş düzeninin adımları, zincir ve kâğıt sesleriyle
   kuruldu. Bütün efektler modern ve türdeş gerçek kayıtlardır.
+"
+
+## BÖLÜM 023 UZUN — ATIN İÇİNDE NE VAR? (Troya, y. MÖ 1180, 110 efekt)
+
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA) — −21 dB, standart.
+- Sahil/deniz: 0ad `water/wave_21`, `wavecrash_21`, `waverocky_21`
+  (CC-BY-SA) — şafak, yılanlar ve gece dönüşü; süre sınırıyla/döngüyle.
+- Açık alan/rüzgâr: 0ad `day_temperate_11`, `wind_11`, `windgust_11`
+  (CC-BY-SA).
+- Gece: Owlish `night-crickets` (CC0).
+- Tahta at/kapak/halât: rubberduck `item_wood_01/02/03`,
+  `wood_01-04`, `wooded_box_open`, `chain_01/02/03` (Free-SFX, CC0);
+  halat sesi zincir kaydıyla MODERN ANALOJİyle temsil edildi.
+- Adımlar: Owlish `hard-footstep1-4`, `running-shoes-1`,
+  `grass_footsteps` (CC0).
+- Su/testi: rubberduck `splash_01/02` (CC0), Owlish
+  `drink-sip-and-swallow` (CC0).
+- Kalabalık/bayram: Owlish `clamour1/2/3`, `laugh1`, `solo-clap`
+  (CC0) — MODERN ANALOJİ; dönemden özgün ses kaydı yoktur (beyan).
+- kapı/sürgü: bonebrah `stone_door` (Free-SFX, CC0).
+- Meşale/ocak: 0ad `attack/fire/c_11` (CC-BY-SA).
+- Sessizlik/nefes: Owlish `breath-male`, `breath-female`, `shh1`,
+  `yawn2` (CC0); kâğıt `paper-sketchbook-page-flips-1/2`,
+  `crumples1` (CC0) fısıltı/çiçek hışırtısı analogları.
+- Çan iması: rubberduck `bell_01/02/03` (CC0), tapınak zamanı
+  için düşük kazanç; uzak metal: `bfh1_metal_hit_03` (CC0).
+- NOT: silah, çığlık ve yakın şiddet sesi kullanılmadı; gece
+  baskını yalnız kapak, halat, sürgü ve uzak uğultuyla kuruldu.
+  Bütün efektler modern ve türdeş gerçek kayıtlardır.

@@ -8,14 +8,10 @@ Konu kilidi: **Troya (efsane çerçevesi ~MÖ 1180) — tahta atın
 ikinci görselleri (20+5=25). Tur A s01-s10 = 10 ses + ana
 görseller ve s04b/s08b; Tur B s11-s20 = 10 ses +
 ana görseller ve s12b/s17b; Tur C = s19b + kapak.
-DURUM: 🟡 Tur A TAMAM: s01-s10 sesleri (407,16 sn) + 12 görsel
-(s01-s10 ana + s04b/s08b) QA PASS mühürlü. s04b: kulak çizgisi
-ve yüzsüz Sinon adayları reddedildi; üçüncü aday geçti.
-Sıradaki: Tur B (s11-s20 tam metinler+sesler+görseller).
-TUR B TAMAM: s11-s20 sesleri + görsellerin tamamı
-(24/25; s19b Tur C'de) QA PASS mühürlü. s12b kapalı kapak
-adayıyla geçti. Ham ses toplamı 837,89 sn → hedef ~700 sn
-(11:40) / x1,20. Sıradaki: Tur C (s19b + kapak + derleme).
+DURUM: ✅ FİNAL — `uzun/merakli-023-uzun-truva-ati.mp4`
+693,52 sn (11:34), 86.298.563 bayt, x1.133; 20 sahne/25 görsel,
+110 efekt. Kare QA (giriş/s12b/s14/s17b/kapanış) PASS.
+Kapak v4: "ATIN İÇİNDE NE VAR?" / MÖ 1180. Seri C tamamlandı.
 
 Kaynak özeti: `arastirma/023-uzun-truva-ati.md`.
 Açı: Meraklı, kapı yakınında su ve halat taşıyan hayalî genç
@@ -404,7 +400,7 @@ gece baskını gölgeler ve uzaktan dumanla anlatılır.
 - [x] TEST: s01 ses+görsel onaylandı (kısmi: ateş/kül düzeltmesi)
 - [x] Tur A: s01-s10 sesler + ana görseller ve s04b/s08b (407,16 sn; 12 görsel)
 - [x] Tur B: s11-s20 sesler + ana görseller ve s12b/s17b
-- [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
+- [x] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
 
 ## KAPAK v4 (yalnız uzun video)
 
