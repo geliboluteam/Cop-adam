@@ -7,8 +7,9 @@ Konu kilidi: **7 Şubat MS 457, Konstantinopolis — I. Leo'nun ilan günü.**
 görselleri (20+5=25). Tur A s01-s10 = 10 ses + ana görseller ve
 s02b/s06b; Tur B s11-s20 = 10 ses + ana görseller ve s13b/s15b;
 Tur C = s19b + kapak.
-DURUM: 🟢 HAZIRLIK (araştırma + plan); sıradaki adım: s01 test
-üretimi → kullanıcı onayı → Tur A.
+DURUM: 🟡 S01 TESTİ ÜRETİLDİ: ses 41,62 sn; görsel ikinci adayda
+QA PASS (tek Meraklı, sancaklar yerde, tribunal/boş taht açık).
+Sıradaki adım: kullanıcı onayı → Tur A (s02-s10 + s02b/s06b).
 
 Kaynak özeti: `arastirma/022-uzun-leo-tac-giyme.md`.
 Açı: Meraklı, gerçek *silentiarii* düzen görevlilerinin arkasında
@@ -274,7 +275,7 @@ OLMAYI UNUTMAYIN!" standardıyla Tur C'de kilitlenecek.
 
 ## Tur DURUMU
 
-- [ ] TEST: s01 ses+görsel (kullanıcı onayı için sunulacak)
+- [x] TEST: s01 ses+görsel üretildi; kullanıcı onayı bekleniyor
 - [ ] Tur A: s01-s10 sesler + ana görseller ve s02b/s06b
 - [ ] Tur B: s11-s20 sesler + ana görseller ve s13b/s15b
 - [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN

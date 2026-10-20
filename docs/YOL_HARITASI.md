@@ -45,7 +45,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 19 | 43 | MÖ 423, Atina | Tiyatro sahne arkası: khoros, maskeler, makine | ✅ UZUN: `bolumler/019-atina-tiyatrosu/uzun/merakli-019-uzun-atina-tiyatrosu.mp4` (10:24, 20 sahne, 81,5 MB) + kapak v4 ("BULUT OLDUM!" / MÖ 423) |
 | 20 | 56 | MÖ 48, İskenderiye | Kütüphane yangını: hangi tomarı kurtarırım? | ✅ UZUN: `bolumler/020-iskenderiye-kutuphanesi/uzun/merakli-020-uzun-iskenderiye-kutuphanesi.mp4` (10:24, 20 sahne/25 görsel, 80,1 MB) + kapak v4 ("KÜTÜPHANE YANIYOR!" / MÖ 48) |
 | 21 | 51 | MÖ 334-323 | Büyük İskender'in ordusunda haritacı | ✅ UZUN: `bolumler/021-iskender-haritaci/uzun/merakli-021-uzun-iskender-haritaci.mp4` (10:44, 20 sahne/25 görsel, 85,6 MB) + kapak v4 ("HARİTANIN UCU!" / MÖ 334) |
-| 22 | 30 | MS 457, Konstantinopolis | Taç giyme töreninde saray görevlisi | 🟢 HAZIRLIK: I. Leo'nun Hebdomon ilanından Ayasofya'ya taç günü; Meraklı *silentiarii* arkasında rütbe listesi taşıyor; sıradaki s01 testi |
+| 22 | 30 | MS 457, Konstantinopolis | Taç giyme töreninde saray görevlisi | 🟢 HAZIRLIK: I. Leo'nun Hebdomon ilanından Ayasofya'ya taç günü; Meraklı *silentiarii* arkasında rütbe listesi taşıyor; s01 testi üretildi (ses 41,62 sn), kullanıcı onayı bekleniyor |
 | 23 | 6 | Troya | Truva Atı şehre girerken sokaktayım | ⬜ |
 
 ## Seri D — ORTA ÇAĞ
