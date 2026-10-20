@@ -7,12 +7,11 @@ Konu kilidi: **7 Şubat MS 457, Konstantinopolis — I. Leo'nun ilan günü.**
 görselleri (20+5=25). Tur A s01-s10 = 10 ses + ana görseller ve
 s02b/s06b; Tur B s11-s20 = 10 ses + ana görseller ve s13b/s15b;
 Tur C = s19b + kapak.
-DURUM: 🟡 Tur A KISMİ: s01-s10 seslerinin tamamı hazır
-(s01-s10 ham toplam 368,66 sn). Görseller: s01 (3 kol
-düzeltmeli), s02, s03, s04, s06, s07 QA PASS ve mühürlü.
-s05 ilk denemelerde elendi (saçlı Leo / asada rulo); görsel
-üretim kotası ( Tur başına 10 ) dolduğundan düzeltmesi sonraki
-tura kaldı. Sıradaki: s05 düzeltme + s08-s10 + s02b/s06b.
+DURUM: 🟢 Tur A TAMAM: 10 ses (ham 368,66 sn) + 12 görsel
+(s01-s10 ana + s02b + s06b) QA PASS ve mühürlü. s05/s08/s10/
+s06b aday-yama süreciyle düzeltildi. Tur B metinleri (s11-s20)
+aşağıda kilitli. Sıradaki: Tur B sesleri → Tur B görselleri
+(10 ana + s13b/s15b) → Tur C (s19b + kapak + derleme).
 
 Kaynak özeti: `arastirma/022-uzun-leo-tac-giyme.md`.
 Açı: Meraklı, gerçek *silentiarii* düzen görevlilerinin arkasında
@@ -276,10 +275,133 @@ yoksa bütün sırayı mı imparator yapar? Yorumlara yaz."
 Kapanış kartı: "HANGİ GÖREVİ SEÇERDİN? / KANALIMA ABONE
 OLMAYI UNUTMAYIN!" standardıyla Tur C'de kilitlenecek.
 
+
+## Tur B METİNLERİ (s11-s20, KİLİTLİ)
+
+### s11 — HELENİANAİ'DA MOLA
+"Alay, Helenianai sarayında kısa bir mola verdi. Leo burada
+imparator giysilerini tamamladı: mor chlamysin tokası yeniden
+düzeltildi, diadem yerine oturtuldu ve tören arabası hazırlandı.
+Benim işim, koşturan vestitorların arasında nefeslik bir yol
+açmaktı; kim kumaşı taşıyor, kim atları tutuyor, listemde hepsi
+işaretli. Az önce askerî alanda ilan edilen adam, şimdi şehrin
+gözü için hazırlanıyordu. Çünkü Konstantinopolis onu bir subay
+gibi değil, Augustus gibi karşılamalıydı. Kapılar açılırken
+araba tekerlekleri ilk kez döndü; sıra bu kez sokaktaydı."
+
+### s12 — ALTIN KAPI'DAN MESE'YE
+"Alay, şehrin anıtsal batı kapısından girip Mese denen büyük
+caddeye yöneldi. Leo arabadaydı; yanında en önde gelen
+patrikios oturuyordu. Bu kişinin büyük olasılıkla Aspar
+olduğunu düşünüyoruz; kimliği kesin gerçek gibi söylemiyorum,
+bu bir tarihçi çıkarımı. Cadde kenarındaki kalabalığın arasında
+görevliler koridoru açık tutuyordu. Sabah Aspar'ın desteğiyle
+seçilen adam, öğlen onun yanında şehre giriyordu. Bu yan
+yanalık da bir mesajdı: Güç dengesi herkesin görebileceği yere
+yazılıyordu. Ben arabanın birkaç adım gerisinde, tekerlek
+gıcırtısı ve tezahürat arasında listemi koruyordum."
+
+### s13 — KONSTANTİN FORUMU'NDA ALTIN TAÇ [ÇİFT: s13b]
+"Konstantin Forumu'nda alay durdu. Önde gelen bir senatör,
+yine büyük olasılıkla Aspar, Leo'ya altın bir taç sundu. Bu,
+başındaki diademden ayrı bir şeydi: şehri temsil edenlerin
+armağanı, bir kabul gösterisi. Anlatılar bazen bütün taçları
+tek taç sanır; oysa bugün zincir, diadem ve bu altın armağan
+üç ayrı sahnede, üç ayrı elden geldi. Sunu sırasında
+kalabalığın sesi yükselince decuriolar işaret verdi, ben de
+sancaktarların hattını düzelttim. İmparatorluk şehrin
+ortasında bir kez daha onaylanıyordu; bu kez altın bir
+hediyenin sessiz diliyle."
+
+### s14 — 457'NİN AYASOFYA'SI
+"Ayasofya'ya vardık. Ama durun: 457'deki Ayasofya, bugün
+gördüğünüz dev kubbeli yapı değildi. O kubbe seksen yıl sonra,
+Justinianos zamanında yükselecekti. Leo'nun girdiği kilise,
+415'te adanmış ikinci Ayasofya'ydı; sütunlu, uzun bir bazilika.
+Kapıda görevim koridoru açık tutmak oldu. Leo içeri girip
+tacını sunağa bıraktı. Bu hareketin anlamını herkes bilirdi:
+Güç, Tanrı'nın önünde eğiliyordu. Sabah askerler zinciri onun
+başına koymuştu; şimdi o, tacı kendi eliyle sunağın üstüne
+bırakıyordu. Baş boş kalınca insan küçülüveriyor; belki de
+törenin en sessiz anı buydu."
+
+### s15 — TAÇ GERİ KONURKEN [ÇİFT: s15b]
+"Leo kiliseden çıkarken Patrik Anatolios tacı onun başına geri
+koydu. Tarihin en çok karıştırılan anı burası. Popüler anlatı,
+Leo'yu ilk kez patriğin taçlandırdığını söyler; oysa ilk ilan
+sabah Hebdomon'da asker zinciriyle olmuştu. Burada olan,
+sunağa bırakılan tacın patrik eliyle geri verilmesi. Patriğin
+Hebdomon'da ayrıca bir taçlandırma yapıp yapmadığı kaynaklar
+arasında tartışmalı. Yine de sahnenin gücü açık: Bundan sonra
+hiçbir Bizans imparatoru, kilisenin görünür onayı olmadan
+tamamlanmış sayılmayacaktı. Kapıda sessizliği korurken, tacın
+Leo'nun başına ikinci kez, bambaşka bir anlamla dönüşünü
+izledim."
+
+### s16 — SARAYDA İLK AKŞAM
+"Büyük Saray'a döndüğümüzde gün bitmemişti; görünmez iş şimdi
+başlıyordu. Yazıcılar donativum hesaplarına koyuldu: Kaç
+asker, kaç altın, kaç libre gümüş? Mühürler ısıtıldı, ilk
+emirler hazırlanmaya başlandı. Muhafızlar kalkanlarını
+indirip ilk kez nefeslendi. Ben listemi son kez gözden
+geçirip decurioya teslim ettim. Dışarıdan taç töreni tek
+parlak an gibi görünür; ama akşam olunca anlıyorsunuz:
+İmparatorluk, sandıkların, tartıların ve uykusuz yazıcıların
+arasında çalışır. Taç parlar; devlet, o ışığın arkasındaki
+ellerle yürür."
+
+### s17 — SAHNEDE OLMAYANLAR
+"Bir de sahnede olmayanları düşünüyorum: su taşıyan
+hizmetliler, atları tımar edenler, cadde kenarında çocuğunu
+omzuna alıp imparatoru bir anlığına görmeye çalışanlar.
+Protokol onların adını yazmaz. Leo'nun karısı Verina artık
+Augusta olacaktı; sarayın düzeni herkes için değişiyordu ama
+kayıtlar bunu kenarda bırakır. Tezahürat cümleleri 'halk
+istiyor' der; oysa halkın çoğu o gün ekmeğinin ve suyunun
+peşindeydi. Tarih bize sahnedekileri anlatır. Liste taşırken
+öğrendim: Asıl şehir, alkışların arkasında çalışmaya devam
+eder."
+
+### s18 — TAÇ KİME GÜÇ VERDİ?
+"Son bir soru koridorda peşimi bırakmadı: Bugün güç kimin
+eline geçti? Leo'yu Aspar desteklemişti; birçokları gerçek
+iplerin generalde kalacağını sanıyordu. Ama taç tuhaf bir
+şey: İnsana, onu verenlere bile mesafe koydurur. Leo sonraki
+yıllarda kendi adamlarını yükseltecek, Aspar'la arası
+açılacaktı; bu ortaklık on dört yıl sonra sarayda sert bir
+hesaplaşmayla bitti. O sabah bunların hiçbiri bilinmiyordu.
+Bilinen tek şey şuydu: Zinciri başına koyan askerler, artık
+emirleri ondan alacaktı. Taç, Leo'ya yalnız unvan değil,
+pazarlık gücü de vermişti."
+
+### s19 — DÜRÜST TARİH NOTU [ÇİFT: s19b Tur C'de]
+"Şimdi dürüst tarih notumuz. Bugünü, 6. yüzyıl görevlisi
+Petrus'a atfedilen ve 10. yüzyılda Törenler Kitabı'na giren
+protokolden biliyoruz; elimde 457'nin ses kaydı yok. Kesin
+çekirdek şu: Leo, Marcianus'un ardından Aspar'ın desteği ve
+Senato onayıyla seçildi; Hebdomon'da asker zinciri ve
+sancaklarla ilan edildi. Tartışmalı olanlar: patriğin ilk
+adımdaki rolü ve altın tacı sunanın kimliği. Olmayanları da
+söyleyelim: Leo kalkan üzerinde kaldırılmadı, kutsal yağla
+mesh edilmedi; Ayasofya bugünkü kubbeli yapı değildi. Benim
+yardımcılığım kurgu; sessizlik görevlileri ve törenin
+katmanları gerçek."
+
+### s20 — SEÇİM SENİN
+"Liste kapandı, sancaklar toplandı. Şimdi seçim senin: O
+sabah hangi görevde olurdun? Sessizliği koruyup sırayı
+çağırmak mı, sancakları kaldırmak mı, diademi taşımak mı,
+kalabalığın sesini duyurmak mı, yoksa protokolü yazıp
+geleceğe bırakmak mı? Ve asıl soru: Leo'yu imparator yapan,
+başına konan asker zinciri miydi, mor pelerin mi, yoksa o gün
+arka arkaya onay veren herkesin kurduğu sıra mı? Cevabını
+yorumlara yaz. Ben Meraklı; bir sonraki bölümde görüşmek
+üzere. Kanalıma abone olmayı unutmayın!"
+
 ## Tur DURUMU
 
 - [x] TEST: s01 ses+görsel üretildi; 3 kol düzeltmesiyle onaylandı
-- [~] Tur A: sesler tamam; görseller s01-s04+s06-s07 tamam; s05 düzeltme + s08-s10 + s02b/s06b kaldı
+- [x] Tur A: s01-s10 sesler + ana görseller ve s02b/s06b (12 görsel)
 - [ ] Tur B: s11-s20 sesler + ana görseller ve s13b/s15b
 - [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
 
