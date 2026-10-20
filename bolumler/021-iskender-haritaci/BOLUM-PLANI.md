@@ -6,8 +6,8 @@ Süre: 5-12 dk (hedef ~10:20) | Ses: voice-03 | Altyazı: yok
 görselleri (20+5=25). Tur A s01-s10 = 10 ses + 13 görsel
 (s01-s10, s02b, s06b, s07b); Tur B s11-s20 = 10 ses + 11 görsel
 (s11-s20, s13b); Tur C = s19b + kapak.
-DURUM: 🟢 HAZIRLIK (araştırma + plan); sıradaki adım: s01 test
-üretimi → kullanıcı onayı → Tur A.
+DURUM: 🟡 s01 TESTİ üretildi ve denetlendi (ses 43,1 sn; görsel
+1376×768, PASS); toplu üretim için kullanıcı onayı bekleniyor.
 
 Kaynak özeti: `arastirma/021-uzun-iskender-haritaci.md`.
 Açı: Meraklı, gerçek bematistler Diognetos ve Baiton'un yanında
@@ -275,7 +275,7 @@ arkada denizden karlı dağlara uzanan soyut rota şeridi ve uzak
 konvoy; solda başlık için temiz alan. Okunaklı yazı yok.
 Başlık: **"HARİTANIN\nUCU!"** · vurgu satırı: **"MÖ 334"**.
 
-## YAYIN/SFX (Tur C'de kilitle)
+## YAYIN/SFX (Tur tle)
 
 Başlık adayı: "EĞER BÜYÜK İSKENDER'İN HARİTACISI OLSAYDIM? |
 MÖ 334 Adım Adım Asya".
@@ -283,3 +283,4 @@ SFX: ayak sesi/tozlu yol, deniz, nehir, gece kampı, taş taşıma,
 yağmur, çöl rüzgârı ve arşiv tomarları — yalnız mevcut lisanslı
 kayıtlar, Tur C'de envanter ve süre kontrolünden sonra plan.json'a
 işlenecek. Müzik: standart The_Hellespont.ogg −21 dB.
+��21 dB.
