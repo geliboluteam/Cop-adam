@@ -12,12 +12,10 @@ DURUM: 🟡 Tur A TAMAM: s01-s10 sesleri (407,16 sn) + 12 görsel
 (s01-s10 ana + s04b/s08b) QA PASS mühürlü. s04b: kulak çizgisi
 ve yüzsüz Sinon adayları reddedildi; üçüncü aday geçti.
 Sıradaki: Tur B (s11-s20 tam metinler+sesler+görseller).
-TUR B İLERLEME: s11-s20 metinleri TAM METNE genişletildi
-ve 10 ses üretildi; görseller s11, s12, s13, s14 QA PASS.
-s12b adayı (kapağı erken açık) reddedildi — kapalı
-kapağın yalnızca ek çizgisi görünecek şekilde yenilenecek.
-Kalan görseller: s12b, s15, s16, s17, s17b, s18, s19, s20
-(s19b ve kapak bazı Tur C'de).
+TUR B TAMAM: s11-s20 sesleri + görsellerin tamamı
+(24/25; s19b Tur C'de) QA PASS mühürlü. s12b kapalı kapak
+adayıyla geçti. Ham ses toplamı 837,89 sn → hedef ~700 sn
+(11:40) / x1,20. Sıradaki: Tur C (s19b + kapak + derleme).
 
 Kaynak özeti: `arastirma/023-uzun-truva-ati.md`.
 Açı: Meraklı, kapı yakınında su ve halat taşıyan hayalî genç
@@ -405,7 +403,7 @@ gece baskını gölgeler ve uzaktan dumanla anlatılır.
 
 - [x] TEST: s01 ses+görsel onaylandı (kısmi: ateş/kül düzeltmesi)
 - [x] Tur A: s01-s10 sesler + ana görseller ve s04b/s08b (407,16 sn; 12 görsel)
-- [ ] Tur B: s11-s20 sesler + ana görseller ve s12b/s17b
+- [x] Tur B: s11-s20 sesler + ana görseller ve s12b/s17b
 - [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
 
 ## KAPAK v4 (yalnız uzun video)
