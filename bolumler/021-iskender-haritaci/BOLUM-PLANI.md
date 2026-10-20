@@ -4,13 +4,14 @@
 Süre: 5-12 dk (hedef ~10:20) | Ses: voice-03 | Altyazı: yok
 📐 **25 GÖRSEL KURALI:** 20 sahne + **s02, s06, s07, s13, s19** ikinci
 görselleri (20+5=25). Tur A s01-s10 = 10 ses + 13 görsel
-(s01-s10, s02b, s06b, s07b); Tur B s11-s20 = 10 ses + 11 görsel
-(s11-s20, s13b); Tur C = s19b + kapak.
-DURUM: ✅ Tur A TAMAM — s01-s10 sesleri (10 adet, toplam
-403,58 sn) ve Tur A görselleri tamamlandı (13 adet: s01-s10 +
-s02b/s06b/s07b; hepsi 1376×768). s07b, ilk sürümündeki
-kıyafet/uzuv kusuru düzeltilmiş adayla değiştirildi. Sıradaki
-adım: Tur B (s11-s20).
+(s01-s10, s02b, s06b, s07b); Tur B s11-s20 = 10 ses + 10 ana
+görsel; Tur C açılışı = s13b + s19b + kapak.
+DURUM: 🟡 Tur B ANA ÜRETİM TAMAM — s11-s20 metinleri
+kilitlendi; 20/20 ses tamam (toplam 793,13 sn). 20 ana
+görselin tamamı ve s02b/s06b/s07b ile 23/25 görsel hazır
+(hepsi 1376×768). Tur başına 10 yeni görsel sınırı nedeniyle
+s13b, Tur C'deki s19b ile birlikte sıradaki ilk iştir.
+Örnek denetim: s11, s13, s14, s17 PASS.
 
 Kaynak özeti: `arastirma/021-uzun-iskender-haritaci.md`.
 Açı: Meraklı, gerçek bematistler Diognetos ve Baiton'un yanında
@@ -202,70 +203,186 @@ kayıplarının sayısı kesin sunulmaz.
   yerel atlı kılavuz önde, Meraklı kesesine çakıl koyarken uyumsuz
   eski rota çizgisine bakıyor (soyut, okunaklı harita yok).
 
-### s11 — KARIN BOZDUĞU ADIM (MÖ 330-329, Tur B özet)
-Paropamisos/Hindukuş karında adım kısalır, sayaç şaşar, yerel
-geçit bilgisi hayat kurtarır. Görsel: karlı geçit, iple bağlı küçük
-ölçüm ekibi ve katırlar; herkes kalın yerel pelerinlerde.
+### s11 — KARIN BOZDUĞU ADIM (MÖ 330-329)
+- Tarih bandı: "MÖ 329 · HİNDUKUŞ".
+- Metin: "Doğuda dağlar büyüdü, adımlarım küçüldü. Yunanların
+  Paropamisos, bizim bugün Hindukuş dediğimiz silsilede kar dize
+  çıkıyordu. Düz yolda bin adım sayan bacak, yokuşta ve tipide
+  aynı mesafeyi gitmiyordu. Deftere yalnız sayıyı değil, karın
+  derinliğini, rüzgârı ve katırların kaydığı yerleri yazdık.
+  Yerel kılavuz bize geçitleri ve hangi vadide yakacak bulunduğunu
+  anlattı. Bazıları bu dağlara Hint Kafkası diyordu; eski harita
+  şablonu yeni araziye uymuyordu. O gün şunu öğrendim: Mesafe,
+  havayı ve eğimi yazmazsan yarı yarıya eksiktir."
+- Görsel: karlı Hindukuş geçidi; iple birbirine yakın yürüyen
+  küçük ölçüm ekibi ve katırlar. Meraklı kalın pelerinin altında
+  kesesine çakıl koyuyor, yerel kılavuz vadideki dumanı işaret
+  ediyor. Herkes kalın ve kapalı sefer kıyafetleri içinde.
 
-### s12 — SEYHUN'DA SINIR SANDIĞIMIZ YER (MÖ 329-327, Tur B özet)
-Baktria-Sogdiana, İskenderiye Eschate, uzun direniş ve Seyhun'un
-Tanais sanılması. Zafer yürüyüşü anlatısı kırılır. Görsel: nehir
-kıyısında yeni şehir kazıkları, Sogdian kayalıkları uzakta.
+### s12 — SEYHUN'DA SINIR SANDIĞIMIZ YER (MÖ 329-327)
+- Tarih bandı: "MÖ 329-327 · SEYHUN".
+- Metin: "Baktria ve Sogdiana'da sefer düz bir yürüyüş olmaktan
+  çıktı. Seyhun kıyısında İskenderiye Eskhate için kazıklar
+  çakıldı; bazı Yunanlar bu nehri Tanais sanıp Asya'nın sınırına
+  vardığımızı düşündü. Oysa nehir çizgisi egemenlik demek değildi.
+  Spitamenes çevresindeki direniş, kaleler, vadiler ve ikmal
+  yolları ordunun yıllarını yedi. Biz aynı durakları birden çok
+  kez saydık; ileri, geri, yine ileri. Haritada tek çizgi görünen
+  yol, yaşayanlar için bekleyiş ve bedeldi. Sınır sandığımız yer,
+  bilmediğimiz yeni bir dünyanın kapısıydı."
+- Görsel: Seyhun kıyısında yeni şehir için ip ve kazıklarla
+  işaretlenen alan; arkada Sogdiana kayalıkları ve uzak bir kale.
+  Meraklı tabletteki soyut düz çizgiyle kıvrımlı araziye bakıyor;
+  yerel görevliler ve yük hayvanları geride.
 
-### s13 — İNDUS MİLİ? (MÖ 327-326) [ÇİFT: s13b, Tur B özet]
-Timsah ve bitki benzerliği İndus=Nile yanılgısını doğurur; güneye
-akış ve yeni gözlemler hatayı düzeltir. Görsel: geniş İndus,
-nehir tekneleri; s13b'de kıyı bitkileri ve uzakta timsah silueti,
-Meraklı eski rota çizgisini silip yenisini çiziyor (soyut).
+### s13 — İNDUS NİL Mİ? (MÖ 327-326) [ÇİFT: s13b]
+- Tarih bandı: "MÖ 326 · İNDUS".
+- Metin: "Hindistan'a inerken İndus bizi yanılttı. Nehirde
+  timsahlar, kıyıda Mısır'dakilere benzetilen bitkiler görünce
+  bazıları İndus'un Nil'in yukarı kısmı olabileceğini sandı.
+  Antik anlatılara göre İskender bile önce bu bağlantıyı düşündü,
+  sonra nehrin güneye ve denize aktığını öğrenince bıraktı.
+  Bizim defterde yanlış çizgi balmumu üzerinde silindi; yerine
+  akıntının yönü, kolların birleştiği yerler ve yerel
+  kayıkçıların anlattıkları girdi. İşte haritacılığın en dürüst
+  anı budur: Görmediğine benzetmeyi bırakır, gördüğünü yeniden
+  yazarsın."
+- Görsel: geniş İndus vadisi ve yerel nehir tekneleri. Meraklı
+  kıyıda akıntıya bırakılan dalları izleyip akış yönünü tablete
+  soyut çizgilerle işliyor; Hint kayıkçılar rolüne uygun,
+  saygılı ve kapalı kıyafetlerle bilgi veriyor.
+- s13b: sazlık kıyıda lotus benzeri bitkiler ve çok uzakta
+  zararsız bir timsah silueti. Meraklı balmumu tablette eski
+  soyut çizgiyi düzleştirip yenisini çiziyor; okunaklı yazı yok.
 
-### s14 — HYDASPES YAĞMURU (MÖ 326, Tur B özet)
-Muson yağmuru, şişmiş nehir, tekneler ve gece geçişi lojistiği.
-Poros/filler uzakta, savaş yakın planı yok. Görsel: yağmur ve
-fenerlerle nehir kıyısında ölçüm, ıslak balmumu tablet sorunu.
+### s14 — HYDASPES YAĞMURU (MÖ 326)
+- Tarih bandı: "MÖ 326 · HYDASPES".
+- Metin: "Hidaspes, bugünkü Celum, muson yağmuruyla şişmişti.
+  Suda adım sayamazsın; kıyıdan kıyıya ip gerersin, tekne
+  seferlerini ve akıntının sürüklenmesini not edersin. Gece
+  geçişinde yağmur sesi kürekleri sakladı, der kaynaklar; bizim
+  işimiz savaşmak değil, ıslak tableti yağmurdan korumaktı.
+  Karşı kıyıda Poros'un filleri uzakta birer tepe gibi
+  görünüyordu. Sonuç bize haberle geldi; defterde ise su
+  seviyesi ve kaybolan saatler kaldı. Bir nehir, yağmurdan sonra
+  artık dün ölçtüğün nehir değildir."
+- Görsel: yağmurlu tan vakti şişmiş nehir, fenerli tekneler ve
+  kıyı işaretleri. Meraklı tableti pelerinin altında korumaya
+  çalışıyor; karşı kıyıda filler yalnız uzak siluet. Yakın
+  savaş, yaralı ve silah eylemi yok.
 
-### s15 — HYPHASİS: DUR! (MÖ 326, Tur B özet)
-Yorgun ordu ilerlemeyi reddeder. Kaynak konuşmaları farklıdır.
-Haritanın kenarı ile insanın sınırı çatışır. Görsel: nehir kıyısında
-oturan sessiz askerler, Meraklı boş durak çizgisinin başında.
+### s15 — HYPHASİS: DUR! (MÖ 326)
+- Tarih bandı: "MÖ 326 · HYPHASIS".
+- Metin: "Hyphasis, bugünkü Beas kıyısında ordu durdu. Yağmur,
+  yıpranmış giysiler, yorgun hayvanlar ve evden ayrı geçen
+  sekiz yıl askerlerin dilindeydi. Kaynaklar konuşmaları farklı
+  kurar; hiçbiri kelimesi kelimesine kayıt değildir. Ama
+  çekirdek aynıdır: İleri gidilmedi. Ben boş bir durak satırına
+  baktım. Bir sonraki nehri sayabilirdim, fakat sayıyı
+  taşıyacak insanların adımı bitmişti. Haritanın ucu bazen
+  dağdan ya da denizden önce gelir; insanın 'yeter' dediği
+  yerde başlar. O gün deftere mesafe değil sınır yazıldı."
+- Görsel: yağmur sonrası nehir kıyısında sessizce oturan
+  pelerinli askerler, yere bırakılmış yükler ve boş bir durak
+  kazığı. Meraklı açık tabletle kazığın yanında duruyor; isyan
+  kalabalığı ve tehdit sahnesi yok.
 
-### s16 — NEHİRDEN DENİZE, NEARKHOS (MÖ 326-325, Tur B özet)
-Hydaspes-İndus filosu; kara ölçümcüsü ilk kez durakların suda
-nasıl tutulduğunu izler. Görsel: kürekli nehir tekneleri, kıyıda
-eşlik eden katır konvoyu ve işaretçi direkleri.
+### s16 — NEHİRDEN DENİZE, NEARKHOS (MÖ 326-325)
+- Tarih bandı: "MÖ 326-325 · İNDUS".
+- Metin: "Dönüşte yol suya taşındı. Hidaspes'te kurulan filo
+  nehirlerden İndus'a indi; karadaki birlikler kıyılardan
+  erzak ve işaret noktalarıyla eşlik etti. Ben ilk kez adım
+  yerine kürek saati, sığlık, akıntı ve demirleme yeri yazdım.
+  Nearkhos filoyu denize hazırlarken yerel kılavuzlar
+  kanalları ve değişen kum setlerini anlattı. Kara defteri
+  durak durak ilerlerdi; nehir defteri her sabah değişen
+  kıyılarla başlıyordu. Harita artık yalnız ayağımın altında
+  değil, teknenin altında akıyordu. Ölçümcü değişmezse su
+  onu eskitir."
+- Görsel: geniş nehirde kürekli nakliye tekneleri; kıyıda
+  eşlik eden katır konvoyu ve işaret direkleri. Meraklı bir
+  teknenin kıçında tablet tutarken kıyı ekibine işaret ediyor;
+  yerel dümenciler ve mürettebat aynı çöp adam sisteminde.
 
-### s17 — GEDROSİA: SAYILARIN SUSTUĞU ÇÖL (MÖ 325, Tur B özet)
-Su/adım hesapları çölde bozulur, ağır kayıplar olur; oranlar
-kesin verilmez. Görsel: kavurucu düzlük, boş testiler, yavaş konvoy;
-yakın acı sahnesi yok.
+### s17 — GEDROSİA: SAYILARIN SUSTUĞU ÇÖL (MÖ 325)
+- Tarih bandı: "MÖ 325 · GEDROSIA".
+- Metin: "Denize varınca güçler bölündü; ben karadan
+  Gedrosia'ya yürüyenlerle kaldım. Bugünkü Makran'ın kavurucu
+  düzlüklerinde kuyular seyrekleşti, su hesapları bozuldu,
+  yük hayvanları ve ordunun ardındaki kalabalık ağır bedel
+  ödedi. Kaynaklar kayıp için kesin ve güvenilir bir toplam
+  vermez; Arrianus sayı söylemez, sonraki oranlar tartışmalıdır.
+  Defterde duraklar arasındaki boşluk büyüdükçe yazım kısaldı:
+  su yok, gölge yok, bekle. Bazen bir sayının arkasındaki
+  insanları yazamazsın. Bu eksikliği saklamak değil, adıyla
+  söylemek dürüstlüktür."
+- Görsel: kavurucu Gedrosia düzlüğünde kuru bir kuyu, boş su
+  testileri ve yavaş ilerleyen uzak konvoy. Meraklı tablete
+  yalnız birkaç soyut çentik atıyor; acı çeken insan yakın
+  planı, ceset ve dramatik çöküş sahnesi yok.
 
-### s18 — Babil'DE BİTMEYEN HARİTA (MÖ 325-323, Tur B özet)
-Filo-kara buluşması, Babil'e dönüş, Arabistan/Hazar keşif planları
-ve İskender'in ölümü. Görsel: Babil'de tomar/tablet arşivi, yarım
-kalan rota çizgileri; ölüm sahnesi gösterilmez.
+### s18 — Babil'DE BİTMEYEN HARİTA (MÖ 325-323)
+- Tarih bandı: "MÖ 323 · Babil".
+- Metin: "Filo ile buluşunca iki eksik defter yan yana geldi:
+  kıyının rüzgârları, sığlıkları ve limanlarıyla karanın
+  durakları. Babil'e dönüldüğünde masa hâlâ sorularla doluydu.
+  Antik anlatılar Arabistan çevresine sefer ve Hazar'ın dış
+  denize açılıp açılmadığını araştırma planlarından söz eder.
+  İskender MÖ 323'te Babil'de ölünce bu çizgiler yarım kaldı.
+  Ölüm anını değil, kapanmayan dosyaları düşünüyorum. Bir
+  imparatorluk bölünebilir; ölçüm kayıtları korunursa yolculuk
+  başka zihinlerde sürer. Haritamız bitmedi ama kaybolmasına
+  izin veremezdik."
+- Görsel: Babil'de arşiv avlusu; kil tabletler, tomarlar ve
+  balmumu tabletler düzenli yığınlar hâlinde. Meraklı ve
+  yazıcılar yarım soyut rota çizgilerine bakıyor, kapıdan
+  ziggurat görünüyor. Ölüm sahnesi ve okunaklı yazı yok.
 
-### s19 — DÜRÜST TARİH NOTU [ÇİFT: s19b, Tur C özet]
-Bematistlerin adları ve parçaları gerçektir; eserler kayıptır.
-Birim/aktarım belirsizliği ölçümleri tartışmalı yapar; hodometre
-iddiası kanıt değildir. Arrianus geç ve seçicidir, yerel kaynak
-dengesi eksiktir; Gordion, Persepolis, Hyphasis konuşmaları ve
-Gedrosia sayıları tartışmalıdır. s19 görseli: parçalı tablet ve
-tomarlardan rota çıkaran yazıcılar. s19b: yüzyıllar sonra bir
-coğrafyacı masasında uzaklık listelerini inceliyor (okunaklı yazı
-yok), Eratosthenes'e uzanan aktarım ima edilir.
+### s19 — DÜRÜST TARİH NOTU [ÇİFT: s19b Tur C'de]
+- Metin: "Şimdi dürüst tarih notu. Baiton, Diognetos, Amyntas
+  ve Philonides gibi bematistler ve durak kayıtları
+  gerçektir; kendimi aralarına genç çırak olarak yerleştirmem
+  kurgu, çakıl ve düğüm düzenim temsilîdir. Eserleri kayıptır;
+  parçalar Plinius'la ve Eratosthenes üzerinden Strabon'la
+  gelir. Stadion ve parasang her yerde aynı uzunluk değildir;
+  mekanik hodometre iddiası doğrudan kanıt değildir. Arrianus
+  seferden yüzyıllar sonra, katılımcılara dayanarak ama
+  seçerek yazar. Yerel halkların dengeli arşivi elimizde
+  yoktur. Ölçüm bazen doğruya yaklaşır; hikâyenin tamamı
+  için bu yetmez."
+- Görsel: kütüphane/çalışma masasında parçalı tabletler,
+  tomar parçaları ve aralarındaki boşluklar. Meraklı ve iki
+  yazıcı soyut rota çizgilerini birleştirirken eksik parçayı
+  boş bırakıyor; okunaklı yazı yok.
+- s19b (Tur C): yüzyıllar sonra Helenistik bir coğrafyacı,
+  elindeki uzaklık listelerini soyut çizgilerle inceliyor;
+  Eratosthenes'e uzanan aktarım ima edilir, okunaklı yazı yok.
 
-### s20 — SEÇİM SENİN (kapanış, Tur B özet)
-"Harita seni dünyanın ucuna çağırsa hangisini yapardın: kralın
-yanında bilinmeyene yürümek, yorgun askerlerle eve dönmek,
-Nearkhos'un filosuyla kıyıyı ölçmek, durak defterini koruyup
-geleceğe bırakmak? Yorumlara yaz." Kapanış kartı: "TEŞEKKÜRLER!
-DİYECEKTİM, SAKLADIM 😏 / KANALIMA ABONE OLMAYI UNUTMAYIN!"
+### s20 — SEÇİM SENİN (kapanış)
+- Metin: "Şimdi seçim senin. MÖ 326'da Hyphasis kıyısındasın;
+  kesende çakıllar, elinde yarım bir durak defteri var. Kralın
+  yanında bilinmeyene yürümek mi? Yorgun askerlerle eve
+  dönmek mi? Nearkhos'un filosuna katılıp kıyıyı gün gün
+  ölçmek mi? Yoksa defteri koruyup hiç görmediğin
+  coğrafyacılara bırakmak mı? Ben dünyanın ucunu bir çizgide
+  bulamadım; onu su bitince, kar adımı bozunca ve insanlar
+  durunca gördüm. Sen hangi yolu yazardın? Yorumlara bırak.
+  Ben Meraklı; başka bir zamanda görüşürüz."
+- Görsel: şafak rengi bir yol ayrımı; doğuda karlı dağlar,
+  batıda eve dönen uzun yol, yanda filonun ilerlediği nehir
+  ve geride arşiv binası. Meraklı ortada tablet ve çakıl
+  kesesiyle izleyiciye dönük; birkaç yoldaş küçük ve geride.
+- Kapanış kartı: "TEŞEKKÜRLER! DİYECEKTİM, SAKLADIM 😏 /
+  KANALIMA ABONE OLMAYI UNUTMAYIN!"
 
 ## Tur DURUMU
 
 - [x] TEST: s01 ses+görsel üretildi, denetlendi ve kullanıcı onayladı
 - [x] Tur A: s01-s10 sesler + 13 görsel (s07b düzeltmesi dahil) tamam
-- [ ] Tur B: s11-s20 sesler + görseller (s13b dahil)
-- [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
+- [x] Tur B ana üretim: s11-s20 sesler + 10 ana görsel tamam
+  (s13b, Tur C açılışına taşındı)
+- [ ] Tur C: s13b + s19b + kapak + plan.json + SADECE_MIX +
+  derleme + YAYIN
 
 ## KAPAK v4 (yalnız uzun video)
 
