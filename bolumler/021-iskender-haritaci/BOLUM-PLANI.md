@@ -193,10 +193,8 @@ kayıplarının sayısı kesin sunulmaz.
   önümüzde çatlamaya başladı. Hazar kapılarından, İran yaylasından
   ve adı yeni duyulan ülkelerinden geçecektik. Eski Yunan
   coğrafyası bize dağların ve nehirlerin hazır adlarını veriyordu;
-  yürüdükçe o adlar araziye uymamaya başladı. Ustam tableti
-  kaldırıp 'Bundan sonrası yalnız ölçüm değil, hata düzeltme'
-  demişti. O sözü ben şimdi size aktarabilmek için uydurmadım;
-  seferin öğrettiği özetimdir. Doğu bizi bekliyordu." 
+  yürüdükçe o adlar araziye uymamaya başladı. O günden sonra işimiz
+  yalnız ölçüm değil, hata düzeltme oldu. Doğu bizi bekliyordu."
 - Görsel: yüksek yaylada doğuya uzanan konvoy; ufukta karlı dağlar,
   yerel atlı kılavuz önde, Meraklı kesesine çakıl koyarken uyumsuz
   eski rota çizgisine bakıyor (soyut, okunaklı harita yok).
@@ -261,8 +259,9 @@ DİYECEKTİM, SAKLADIM 😏 / KANALIMA ABONE OLMAYI UNUTMAYIN!"
 
 ## Tur DURUMU
 
-- [ ] TEST: s01 ses+görsel (kullanıcı onayı için sunulacak)
-- [ ] Tur A: s02-s10 sesler + s02b/s06b/s07b dahil görseller
+- [x] TEST: s01 ses+görsel üretildi, denetlendi ve kullanıcı onayladı
+- [ ] Tur A (kısmen tamam): s02-s10 sesler tamam; görsellerden
+  s02-s07, s02b, s06b, s09, s10 tamam — sıradaki ilk iş: s07b + s08
 - [ ] Tur B: s11-s20 sesler + görseller (s13b dahil)
 - [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
 
@@ -283,4 +282,3 @@ SFX: ayak sesi/tozlu yol, deniz, nehir, gece kampı, taş taşıma,
 yağmur, çöl rüzgârı ve arşiv tomarları — yalnız mevcut lisanslı
 kayıtlar, Tur C'de envanter ve süre kontrolünden sonra plan.json'a
 işlenecek. Müzik: standart The_Hellespont.ogg −21 dB.
-��21 dB.
