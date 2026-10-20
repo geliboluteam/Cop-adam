@@ -7,9 +7,12 @@ Konu kilidi: **7 Şubat MS 457, Konstantinopolis — I. Leo'nun ilan günü.**
 görselleri (20+5=25). Tur A s01-s10 = 10 ses + ana görseller ve
 s02b/s06b; Tur B s11-s20 = 10 ses + ana görseller ve s13b/s15b;
 Tur C = s19b + kapak.
-DURUM: 🟢 S01 TESTİ ONAYLANDI: ses 41,62 sn. Kullanıcı geri
-bildirimiyle görseldeki 3 kol hatası düzeltildi (tam 2 kol;
-tablet bel çantasında). Tur A sürüyor: s02-s10 + s02b/s06b.
+DURUM: 🟡 Tur A KISMİ: s01-s10 seslerinin tamamı hazır
+(s01-s10 ham toplam 368,66 sn). Görseller: s01 (3 kol
+düzeltmeli), s02, s03, s04, s06, s07 QA PASS ve mühürlü.
+s05 ilk denemelerde elendi (saçlı Leo / asada rulo); görsel
+üretim kotası ( Tur başına 10 ) dolduğundan düzeltmesi sonraki
+tura kaldı. Sıradaki: s05 düzeltme + s08-s10 + s02b/s06b.
 
 Kaynak özeti: `arastirma/022-uzun-leo-tac-giyme.md`.
 Açı: Meraklı, gerçek *silentiarii* düzen görevlilerinin arkasında
@@ -276,7 +279,7 @@ OLMAYI UNUTMAYIN!" standardıyla Tur C'de kilitlenecek.
 ## Tur DURUMU
 
 - [x] TEST: s01 ses+görsel üretildi; 3 kol düzeltmesiyle onaylandı
-- [ ] Tur A: s01-s10 sesler + ana görseller ve s02b/s06b
+- [~] Tur A: sesler tamam; görseller s01-s04+s06-s07 tamam; s05 düzeltme + s08-s10 + s02b/s06b kaldı
 - [ ] Tur B: s11-s20 sesler + ana görseller ve s13b/s15b
 - [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
 
