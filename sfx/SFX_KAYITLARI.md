@@ -552,3 +552,25 @@ künyesini ve genel arşiv envanterini tutar.
   seferin sert sahneleri rüzgâr, su, ayak ve kamp ambiyansıyla
   kuruldu. Bütün efektler modern ve türdeş gerçek kayıtlardır.
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA) — −21 dB
+
+## BÖLÜM 022 UZUN — TACI KİM VERDİ? (MS 457, 99 efekt)
+
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA) — −21 dB, standart.
+- Açık alan/rüzgâr (Hebdomon şafağı, yol, veda): 0ad `day_temperate_11`,
+  `wind_11`, `windgust_11` (CC-BY-SA) — süre sınırıyla/döngüyle.
+- Adım/tahta tablet/asa: Owlish `hard-footstep1-4` (CC0),
+  rubberduck `item_wood_01` (Free-SFX, CC0).
+- Kalabalık/tezahürat uğultusu: Owlish `clamour1/2/3` (CC0) —
+  MODERN ANALOJİ; 5. yy'dan özgün ses kaydı yoktur (beyan).
+- Asker zinciri (maniakion)/koşum: rubberduck `chain_01/02/03`
+  (Free-SFX, CC0); kalkan perdesi ve diadem temasında rubberduck
+  `bfh1_metal_hit_03` (Free-SFX, CC0) düşük kazançla.
+- Donativum hesabı: rubberduck `item_coins_02` (Free-SFX, CC0) —
+  para dağıtımı değil, sandık/hesap temsili.
+- Kapılar (kilise/saray): bonebrah `stone_door`, rubberduck
+  `door_open` (Free-SFX, CC0).
+- Rulo/kâğıt/arşiv: Owlish `paper-sketchbook-page-flips-1/2` (CC0).
+- Nefes (sessizlik anları): Owlish `breath-male` (CC0), kısa kırpık.
+- NOT: çan, kutsal yağ, silah/çığlık sesi kullanılmadı; tören
+  rüzgâr, kumaş düzeninin adımları, zincir ve kâğıt sesleriyle
+  kuruldu. Bütün efektler modern ve türdeş gerçek kayıtlardır.

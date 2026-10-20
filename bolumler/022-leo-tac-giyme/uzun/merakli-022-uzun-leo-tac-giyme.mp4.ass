@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:35.35,TarihBandi,,0,0,0,,MS 457 · HEBDOMON: SANCAKLAR YERDE
+Dialogue: 1,0:00:35.15,0:01:06.08,TarihBandi,,0,0,0,,SILENTIARII: SESSİZLİĞİN LİSTESİ
+Dialogue: 1,0:01:05.88,0:01:37.14,TarihBandi,,0,0,0,,OCAK 457: TAHT BOŞ, Aspar SAHNEDE
+Dialogue: 1,0:01:36.94,0:02:09.23,TarihBandi,,0,0,0,,CAMPUS MARTIUS: KOMUTA KİMDE?
+Dialogue: 1,0:02:09.03,0:02:40.10,TarihBandi,,0,0,0,,ÇAĞRI: DEVLET, SENATO, ORDU, HALK
+Dialogue: 1,0:02:39.90,0:03:09.53,TarihBandi,,0,0,0,,MANİAKİON: ASKER ZİNCİRİ BAŞINDA
+Dialogue: 1,0:03:09.33,0:03:37.88,TarihBandi,,0,0,0,,CANDIDATI: KALKANLARDAN PERDE
+Dialogue: 1,0:03:37.68,0:04:07.35,TarihBandi,,0,0,0,,PROSKYNESIS: KİM ÖNCE EĞİLECEK?
+Dialogue: 1,0:04:07.15,0:04:38.42,TarihBandi,,0,0,0,,DONATIVUM: 5 ALTIN, 1 LİBRE GÜMÜŞ
+Dialogue: 1,0:04:38.22,0:05:07.08,TarihBandi,,0,0,0,,ALAY YOLA ÇIKIYOR
+Dialogue: 1,0:05:06.88,0:05:39.30,TarihBandi,,0,0,0,,HELENIANAI: ARABA HAZIRLANIYOR
+Dialogue: 1,0:05:39.10,0:06:10.83,TarihBandi,,0,0,0,,MESE: ŞEHRE GİRİŞ
+Dialogue: 1,0:06:10.63,0:06:42.72,TarihBandi,,0,0,0,,KONSTANTİN FORUMU: ALTIN ARMAĞAN
+Dialogue: 1,0:06:42.52,0:07:18.97,TarihBandi,,0,0,0,,457'NİN AYASOFYA'SI: TAÇ SUNAKTA
+Dialogue: 1,0:07:18.77,0:07:53.35,TarihBandi,,0,0,0,,PATRİK ANATOLIOS: TAÇ GERİ KONUR
+Dialogue: 1,0:07:53.15,0:08:23.95,TarihBandi,,0,0,0,,BÜYÜK SARAY: İLK AKŞAM
+Dialogue: 1,0:08:23.75,0:08:55.41,TarihBandi,,0,0,0,,SAHNEDE OLMAYANLAR
+Dialogue: 1,0:08:55.21,0:09:27.20,TarihBandi,,0,0,0,,TAÇ KİME GÜÇ VERDİ?
+Dialogue: 1,0:09:27.00,0:10:01.93,TarihBandi,,0,0,0,,DÜRÜST TARİH NOTU
+Dialogue: 1,0:10:01.73,0:10:33.57,TarihBandi,,0,0,0,,SEÇİM SENİN
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER MS 457'DE OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: SARAY GÖREVLİSİ
+Dialogue: 4,0:10:31.87,0:10:34.17,Kapanis,,0,0,0,,{\an5\pos(960,399)}HANGİ GÖREVİ SEÇERDİN?
+Dialogue: 4,0:10:32.17,0:10:34.17,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}SESSİZLİK · SANCAK · DİADEM · PROTOKOL — YORUMLARA YAZ
+Dialogue: 4,0:10:32.47,0:10:34.17,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!
