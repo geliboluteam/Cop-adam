@@ -64,7 +64,7 @@ gece baskını gölgeler ve uzaktan dumanla anlatılır.
 - Metin: "Kalabalıkla sahile indik. At yakından daha garipti:
   Kalaslar üst üste çakılmış, ek yerleri katranla
   karartılmış, ayaklarının altında tekerlekli bir kızak
-  vardı. Kimileri yaptı usta Epeios'un adını fısıldadı;
+  vardı. Kimileri, atı yapan usta Epeios'un adını fısıldadı;
   geleneğe göre fikrin sahibi Odysseus'tu. Tahtaya elimi
   koydum; serin ve pürüzlüydü. Birileri üstünde Athena için
   bırakıldığını söyleyen işaretler olduğunu söyledi ama
@@ -132,9 +132,10 @@ gece baskını gölgeler ve uzaktan dumanla anlatılır.
 
 ### s06 — Laocoon'UN UYARISI
 - Metin: "Tam o sırada rahip Laocoon yukarı şehirden koşarak
-  indi. Kalabalığa bağırdı: Bu atın içinde silahlı adamlar
+  indi. Kalabalığa bağırdı: Bu atın içinde birileri
   gizleniyor olabilir; Yunanlardan, hediye getirseler bile
-  korkarım. Sonra mızrağını atın karnına fırlattı. Tahta,
+  korkarım. Sonra elindeki uzun mızrağı atın karnına
+  doğru fırlattı; ucu tahtaya saplanıp kaldı. Tahta,
   boş bir fıçı gibi tok bir ses verdi; ses, kalabalığın
   uğultusunun altından geçip kulağıma oturdu. Bir an herkes
   sustu. Sonra biri gülmeye başladı, öteki alkışladı. Uyarı
@@ -183,8 +184,8 @@ gece baskını gölgeler ve uzaktan dumanla anlatılır.
 
 ### s09 — EŞİKTE DÖRT KEZ
 - Metin: "Vergilius'un anlattığına göre at kapı eşiğinde tam
-  dört kez durdu; her duruşta karnından silah şangırtısına
-  benzeyen sesler geldi. Ben dördüncü duruşta halatta
+  dört kez durdu; her duruşta karnından metal şangırtısına benzeyen
+  sesler geldi. Ben dördüncü duruşta halatta
   değildim; su dağıtıyordum. Sesi duyan tek kişi ben
   değildim, ama duyan herkes birbirine baktı ve sonra
   şarkıya katıldı. Kızlar çiçekler serpiyor, oğlanlar
