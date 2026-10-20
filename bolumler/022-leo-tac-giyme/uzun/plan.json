@@ -1,0 +1,726 @@
+{
+ "format": "16:9",
+ "encode_preset": "veryfast",
+ "crf": 25,
+ "maxrate": "1250k",
+ "baslik_karti": {
+  "yazi1": "EĞER MS 457'DE OLSAYDIM",
+  "yazi2": "MERAKLI: SARAY GÖREVLİSİ"
+ },
+ "kapanis_karti": {
+  "yazi": "HANGİ GÖREVİ SEÇERDİN?",
+  "alt": "SESSİZLİK · SANCAK · DİADEM · PROTOKOL — YORUMLARA YAZ"
+ },
+ "muzik": {
+  "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+  "kazanc_db": -21
+ },
+ "hedef_sure": 640,
+ "hiz_max": 1.26,
+ "altyazi": false,
+ "sahneler": [
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s01.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s01.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "MS 457 · HEBDOMON: SANCAKLAR YERDE",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 30
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 4,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 9,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 15,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 25,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s02.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s02.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SILENTIARII: SESSİZLİĞİN LİSTESİ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 3,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus",
+     "t": 9,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 14,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 21,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/022-leo-tac-giyme/uzun/gorseller/s02b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s03.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s03.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "OCAK 457: TAHT BOŞ, Aspar SAHNEDE",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep4.opus",
+     "t": 2,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 9,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 17,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-2.opus",
+     "t": 24,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 30,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s04.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s04.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "CAMPUS MARTIUS: KOMUTA KİMDE?",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 30
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 5,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 11,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/BreakingFalling/bfh1_metal_hit_03.opus",
+     "t": 18,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 27,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s05.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s05.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ÇAĞRI: DEVLET, SENATO, ORDU, HALK",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 1,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 8,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 13,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 20,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 28,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s06.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s06.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "MANİAKİON: ASKER ZİNCİRİ BAŞINDA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/chain_01.opus",
+     "t": 5,
+     "kazanc_db": -22
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/BreakingFalling/bfh1_metal_hit_03.opus",
+     "t": 6,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 9,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/chain_02.opus",
+     "t": 16,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus",
+     "t": 24,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/022-leo-tac-giyme/uzun/gorseller/s06b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s07.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s07.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "CANDIDATI: KALKANLARDAN PERDE",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/rubberduck/BreakingFalling/bfh1_metal_hit_03.opus",
+     "t": 2,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/BreakingFalling/bfh1_metal_hit_03.opus",
+     "t": 5,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/BreakingFalling/bfh1_metal_hit_03.opus",
+     "t": 8,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 16,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 23,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s08.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s08.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "PROSKYNESIS: KİM ÖNCE EĞİLECEK?",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 3,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 8,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 13,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 20,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 4
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 28,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s09.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s09.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DONATIVUM: 5 ALTIN, 1 LİBRE GÜMÜŞ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 2,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 9,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_coins_02.opus",
+     "t": 15,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 21,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 28,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s10.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s10.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ALAY YOLA ÇIKIYOR",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 3,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 10,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/chain_03.opus",
+     "t": 16,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 24,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s11.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s11.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HELENIANAI: ARABA HAZIRLANIYOR",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 3,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus",
+     "t": 8,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/chain_02.opus",
+     "t": 14,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/BreakingFalling/bfh1_metal_hit_03.opus",
+     "t": 20,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep4.opus",
+     "t": 27,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s12.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s12.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "MESE: ŞEHRE GİRİŞ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 1,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 8,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 14,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 21,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 29,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s13.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s13.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KONSTANTİN FORUMU: ALTIN ARMAĞAN",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 3,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/BreakingFalling/bfh1_metal_hit_03.opus",
+     "t": 11,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 17,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 24,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 30,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/022-leo-tac-giyme/uzun/gorseller/s13b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s14.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s14.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "457'NİN AYASOFYA'SI: TAÇ SUNAKTA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/bonebrah/stone_door.opus",
+     "t": 1,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 7,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 15,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 4
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/BreakingFalling/bfh1_metal_hit_03.opus",
+     "t": 23,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s15.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s15.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "PATRİK ANATOLIOS: TAÇ GERİ KONUR",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/BreakingFalling/bfh1_metal_hit_03.opus",
+     "t": 13,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus",
+     "t": 19,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 26,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 32,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/022-leo-tac-giyme/uzun/gorseller/s15b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s16.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s16.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "BÜYÜK SARAY: İLK AKŞAM",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-2.opus",
+     "t": 2,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_coins_02.opus",
+     "t": 8,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 14,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 20,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep4.opus",
+     "t": 27,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s17.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s17.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SAHNEDE OLMAYANLAR",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 5,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 11,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/chain_03.opus",
+     "t": 17,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 25,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s18.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s18.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "TAÇ KİME GÜÇ VERDİ?",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 2,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/SFX100/door_open.opus",
+     "t": 7,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus",
+     "t": 12,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 19,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 4
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 26,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s19.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s19.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DÜRÜST TARİH NOTU",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 2,
+     "kazanc_db": -24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-2.opus",
+     "t": 9,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 14,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 20,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 27,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/022-leo-tac-giyme/uzun/gorseller/s19b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/022-leo-tac-giyme/uzun/gorseller/s20.png",
+   "anlatim": "bolumler/022-leo-tac-giyme/uzun/sesler/s20.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SEÇİM SENİN",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 5,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 12,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 20,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 27,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  }
+ ]
+}
