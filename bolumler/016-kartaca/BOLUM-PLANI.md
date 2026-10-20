@@ -101,10 +101,11 @@ s19 DÜRÜST TARİH: TUZ VAR MIYDI? · s20 SEÇİM SENİN
 ## TURLAR
 - **Hazırlık (2026-10-20):** bu plan + `arastirma/016-uzun-kartaca.md` +
   YOL_HARITASI güncellemesi; commit → push → uzak doğrulama.
-- **Tur A (başladı):** s01 ses+görsel testi PASS (2026-10-20):
-  krem Pön halatçı çırağı tuniği, belde halat, zincir yok;
-  görsel 1376×768, ses 35,8 sn. Kullanıcı onayı ile s02-s10 ses
-  ve ana görselleri üretilir, commit → push.
+- **Tur A ✅ (2026-10-20):** s01 testi sonrası kullanıcı onayı ile
+  s02-s10 ses ve ana görselleri üretildi: **10/10 ses toplam
+  374,8 sn, 10/10 görsel 1376×768.** Gözle kontrol: s01 giriş,
+  s02 cothon ve liman zinciri, s06 silah konvoyu, s09 saçtan halat
+  atölyesi PASS. Tur B'de s11-s20 üretilecek.
 - **Tur B:** s11-s20 metinleri kilitlenir; sesler ve görseller
   (mümkünse ilk çift görseller) üretilir, commit → push.
 - **Tur C:** kalan çift görseller + kapak + plan.json + SADECE_MIX +
