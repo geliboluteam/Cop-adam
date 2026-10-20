@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:30.55,TarihBandi,,0,0,0,,İSKENDERİYE · MÖ 48: KİTAPLARIN ŞEHRİ
+Dialogue: 1,0:00:30.35,0:01:01.09,TarihBandi,,0,0,0,,ŞAFAK: KÜTÜPHANE UYANIYOR
+Dialogue: 1,0:01:00.89,0:01:33.05,TarihBandi,,0,0,0,,TOMAR NEDİR?
+Dialogue: 1,0:01:32.85,0:02:05.79,TarihBandi,,0,0,0,,GEMİDEN GELEN KİTAPLAR (RİVAYET)
+Dialogue: 1,0:02:05.59,0:02:39.22,TarihBandi,,0,0,0,,KOPYACI ATÖLYESİ
+Dialogue: 1,0:02:39.02,0:03:11.88,TarihBandi,,0,0,0,,KATALOG: PİNAKES
+Dialogue: 1,0:03:11.68,0:03:42.08,TarihBandi,,0,0,0,,BİLGİNLERİN MASASI
+Dialogue: 1,0:03:41.88,0:04:14.14,TarihBandi,,0,0,0,,DÜNYANIN ÇEVRESİ (ERATOSTHENES)
+Dialogue: 1,0:04:13.94,0:04:42.16,TarihBandi,,0,0,0,,LİMANDA GERİLİM
+Dialogue: 1,0:04:41.96,0:05:14.00,TarihBandi,,0,0,0,,ÖĞLE: SON SAKİN SAATLER
+Dialogue: 1,0:05:13.80,0:05:40.86,TarihBandi,,0,0,0,,Duman!
+Dialogue: 1,0:05:40.66,0:06:09.56,TarihBandi,,0,0,0,,ALEVLER RIHTIMDA
+Dialogue: 1,0:06:09.36,0:06:37.25,TarihBandi,,0,0,0,,KURTARMA ZİNCİRİ
+Dialogue: 1,0:06:37.05,0:07:09.55,TarihBandi,,0,0,0,,BİR KUCAK TOMAR: SEÇİM ANI
+Dialogue: 1,0:07:09.35,0:07:38.51,TarihBandi,,0,0,0,,DUMANIN İÇİNDEN
+Dialogue: 1,0:07:38.31,0:08:09.57,TarihBandi,,0,0,0,,SESSİZLİK
+Dialogue: 1,0:08:09.37,0:08:41.13,TarihBandi,,0,0,0,,KURTULANLAR VE BİLMEDİKLERİMİZ
+Dialogue: 1,0:08:40.93,0:09:12.04,TarihBandi,,0,0,0,,AKŞAM: KUCAĞIMDAKİ TOMAR
+Dialogue: 1,0:09:11.84,0:09:52.81,TarihBandi,,0,0,0,,DÜRÜST TARİH
+Dialogue: 1,0:09:52.61,0:10:23.58,TarihBandi,,0,0,0,,SEÇİM SENİN
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER MÖ 48'DE OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: KÜTÜPHANE ÇIRAĞI
+Dialogue: 4,0:10:21.88,0:10:24.18,Kapanis,,0,0,0,,{\an5\pos(960,375)}HANGİ TOMARI KURTARIRDIN?
+Dialogue: 4,0:10:22.18,0:10:24.18,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}ARİSTARKHOS · PİNAKES · SOPHOKLES · SIRADAN BİR MEKTUP — YORUMLARA\NYAZ
+Dialogue: 4,0:10:22.48,0:10:24.18,Abone,,0,0,0,,{\an5\pos(960,635)}KANALIMA ABONE OLMAYI UNUTMAYIN!

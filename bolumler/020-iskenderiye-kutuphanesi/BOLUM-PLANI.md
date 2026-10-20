@@ -73,9 +73,10 @@ s18 AKŞAM: KUCAĞIMDAKİ TOMAR · s19 DÜRÜST TARİH · s20 SEÇİM SENİN
 ## 25 GÖRSEL KURALI (2026-10-20, kullanıcı talimatı)
 - B020'den itibaren bölüm başına **25 görsel**: 20 sahne aynen kalır,
   **5 kilit sahne `gorsel2`** (sahne içi ikinci görsel) taşır.
-  `araclar/video_yap.py` tek klip içinde xfade ile geçiş yapar;
-  süre/senkron değişmez. Dosya adı: `sXXb.png`, plan.json'da
-  `gorsel2` + `gorsel2_oran` (~0.5).
+  `araclar/video_yap.py` çift sahneyi iki alt klibe böler
+  (`d1+d2-XF=d`); süre/senkron değişmez. Uzun xfade zinciri bellek
+  güvenliği için 5'li chunklarla birleştirilir. Dosya adı:
+  `sXXb.png`, plan.json'da `gorsel2` + `gorsel2_oran` (~0.5).
 - B020 çift sahneler: s04b (Atina nüshaları mühürlü sandık), s08b
   (Syene kuyusu + İskenderiye gölgesi), s11b (uzaktan yanan liman),
   s14b (seçim: katalog cildi/mektup sandığı yakın planı), s19b
@@ -121,10 +122,16 @@ s18 AKŞAM: KUCAĞIMDAKİ TOMAR · s19 DÜRÜST TARİH · s20 SEÇİM SENİN
   toplam süre ve ses senkronu korunur. 2 sahnelik `gorsel2` testi
   ✅: 68,7 sn derleme tamamlandı; 5. sn s01, 25. sn s14b karesi
   aynı sahne içinde doğrulandı.
-- **Tur C:** kalan 5 ana/ek görsel (s20 + s04b + s08b + s11b +
-  s19b) + kapak bazı ve `bolum-020.png` + plan.json (crf25,
-  `gorsel2` yolları dahil yol doğrulaması) + SADECE_MIX + tam
-  derleme + YAYIN.md + SFX künyesi "B020 UZUN" + mühür.
+- **Tur C ✅ MÜHÜR (2026-10-20):** s20 + `s04b/s08b/s11b/s19b`
+  (6 üretim + s08b/s20 düzeltmesi) → kapak v4 ("KÜTÜPHANE
+  YANIYOR!" / "MÖ 48") → `plan.json` **20 sahne · 25 benzersiz
+  görsel · 104 efekt** → SADECE_MIX + tam derleme: **623,6 sn ≈
+  10:24 · x1.102 · 1920×1080 · 80,1 MB** (crf25/maxrate1250k).
+  ⚠️ Teknik not: ilk final denemesi 25 girişli tek xfade
+  zincirinde bellek/CFR sorunuyla öldü; `video_yap.py` gerçek
+  klip süreleri + `fps/settb` normalizasyonu + **5'li chunk
+  birleştirme** ile düzeltildi (kalıcı). SFX künyesi işlendi;
+  YAYIN.md yazıldı. Giriş / 6:55 s14b / kapanış kareleri PASS.
 - Kural: her tur commit → anında push → uzak doğrulama.
 - Seri kararı (2026-10-20): B020 tamamlanır; Seri C bitmeden B016
   Kartaca da üretilir, ardından B021-B023 tamamlanır. Seri C

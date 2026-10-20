@@ -459,3 +459,29 @@ künyesini ve genel arşiv envanterini tutar.
 - NOT: aulos (çift kamış) için özgün dönem kaydı yoktur; bölümde aulos
   sesi modern analojiyle de taklit edilmemiştir — YAYIN beyanı.
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA) — −21 dB
+
+## BÖLÜM 020 UZUN — İSKENDERİYE KÜTÜPHANESİ: HANGİ TOMARI KURTARIRDIN? (uzun video; Seri C Konu 56)
+
+- Kütüphane/liman/pazar kalabalığı ve yangın günü telaşı: Owlish
+  `clamour1/2/3/4/6` (CC0) — MODERN ANALOJİ; MÖ 48'den özgün ses
+  kaydı yoktur (beyan)
+- Kalem cızırtısı/papirüs/raflar/kutu kapakları: Owlish `scrape1/2/3`
+  (CC0) — temsili
+- Capsa/sandık/tahta kutu taşımaları: rubberduck `stones_01-04`
+  (Free-SFX, CC0) — temsili ahşap/tahta sürtme niyetine
+- Adımlar/koşu: Owlish `hard-footstep1/2/3/4` (CC0) (planda
+  `grass_footsteps` yedekte tutuldu, karışıma girmedi)
+- Büyük kapı: bonebrah `stone_door` (Free-SFX, CC0) — temsili;
+  küçük kapılar için rubberduck `door_close_01/02` yedekte
+- Liman yangını: PagDev `fire_loop` (CC0) — uzaktan ve düşük
+  kazançla, söndürme kovaları: rubberduck `splash_01` (Free-SFX, CC0)
+- Depozito/fibula/metal: rubberduck `item_coins_01` (Free-SFX, CC0),
+  OpenHV `klink` (CC0)
+- Nefes/hayret/yorgunluk: Owlish `breath-male`, `gasp1` (CC0)
+- Ortam: 0ad `day_temperate_11`, `wind_11`, `windgust_11`,
+  `water/wave_21` (CC-BY-SA)
+- Akşam: Owlish `night-crickets` (CC0)
+- Geçiş: qubodup `swosh-01` (CC0)
+- NOT: savaş davulu/alarm analojisi kullanılmadı; gerilim müzik ve
+  ambiyansla kuruldu. MÖ 1. yy'dan özgün dönem sesi yoktur.
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA) — −21 dB

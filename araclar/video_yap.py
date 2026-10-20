@@ -382,32 +382,58 @@ def main():
                    "-filter_complex", filtre, "-map", "[v]",
                    "-t", f"{dparca:.3f}", "-r", "30", "-c:v", "libx264", "-preset", PRESET,
                    "-crf", "18", "-pix_fmt", "yuv420p", klip])
+            # xfade offsetleri nominal degil gercek klip suresiyle hesaplanir;
+            # kare yuvarlamasi birikimi gecislerde EOF hatasi yaratiyor.
+            klip_yollari[-1] = (klip, sure_al(klip))
 
     # --- xfade + vinyet + altyazi ---
-    girisler = []
-    for klip, _ in klip_yollari:
-        girisler += ["-i", klip]
-    video_filtre = []
-    onceki = "[0:v]"
-    offset = 0.0
-    for i in range(1, len(klip_yollari)):
-        offset += klip_yollari[i-1][1] - XF
-        etiket = f"[vx{i}]"
-        video_filtre.append(f"{onceki}[{i}:v]xfade=transition=fade:duration={XF}:offset={offset:.3f}{etiket}")
-        onceki = etiket
-    ass_gorunur = ass_yolu.replace("\\", "/").replace(":", "\\:")
-    video_filtre.append(
-        f"{onceki}vignette=PI/4.5,noise=alls=4:allf=t+u,"
-        f"subtitles=filename='{ass_gorunur}':fontsdir='{FONTS}',format=yuv420p[vf]"
-    )
+    def xfade_birlestir(parcalar, hedef, son_asama=False):
+        girisler = []
+        for yol, _ in parcalar:
+            girisler += ["-i", yol]
+        video_filtre = []
+        # xfade zinciri sabit kare hizi + ortak zaman tabani ister; uzun
+        # zincirlerde (25 gorsel) normalizasyon olmadan 1/0 fps hatasi veriyor.
+        for i in range(len(parcalar)):
+            video_filtre.append(f"[{i}:v]fps=30,settb=AVTB,format=yuv420p[vin{i}]")
+        onceki = "[vin0]"
+        offset = 0.0
+        for i in range(1, len(parcalar)):
+            offset += parcalar[i-1][1] - XF
+            etiket = f"[vx{i}]"
+            video_filtre.append(f"{onceki}[vin{i}]xfade=transition=fade:duration={XF}:offset={offset:.3f}{etiket}")
+            onceki = etiket
+        if son_asama:
+            ass_gorunur = ass_yolu.replace("\\", "/").replace(":", "\\:")
+            video_filtre.append(
+                f"{onceki}vignette=PI/4.5,noise=alls=4:allf=t+u,"
+                f"subtitles=filename='{ass_gorunur}':fontsdir='{FONTS}',format=yuv420p[vf]"
+            )
+            crf_degeri = str(CRF)
+        else:
+            video_filtre.append(f"{onceki}format=yuv420p[vf]")
+            crf_degeri = "18"
+        args = [FFMPEG, "-y", *girisler, "-filter_complex", ";".join(video_filtre),
+                "-map", "[vf]", "-r", "30", "-c:v", "libx264", "-preset", PRESET,
+                "-crf", crf_degeri, "-pix_fmt", "yuv420p"]
+        if son_asama and MAXRATE:
+            args += ["-maxrate", MAXRATE, "-bufsize", str(int(MAXRATE[:-1])*2) + MAXRATE[-1]]
+        args.append(hedef)
+        calis(args)
+
+    # Cok sayida girdiyi tek xfade zincirine vermek (25 gorsel) ffmpeg'in
+    # bellegini sisirip sureci oldurebiliyor; 5'li ara parcalarla birlestir.
+    islenecek = klip_yollari
+    chunk_yollari = []
+    if len(klip_yollari) > 6:
+        for j in range(0, len(klip_yollari), 5):
+            grup = klip_yollari[j:j+5]
+            chunk = f"{cikti}.chunk{len(chunk_yollari)}.mp4"
+            xfade_birlestir(grup, chunk, son_asama=False)
+            chunk_yollari.append((chunk, sure_al(chunk)))
+        islenecek = chunk_yollari
     gecici = cikti + ".video.mp4"
-    final_args = [FFMPEG, "-y", *girisler, "-filter_complex", ";".join(video_filtre),
-                  "-map", "[vf]", "-r", "30", "-c:v", "libx264", "-preset", PRESET,
-                  "-crf", str(CRF), "-pix_fmt", "yuv420p"]
-    if MAXRATE:
-        final_args += ["-maxrate", MAXRATE, "-bufsize", str(int(MAXRATE[:-1])*2) + MAXRATE[-1]]
-    final_args.append(gecici)
-    calis(final_args)
+    xfade_birlestir(islenecek, gecici, son_asama=True)
 
     # --- birlestir ---
     calis([FFMPEG, "-y", "-i", gecici, "-i", ses_cikti,
@@ -416,6 +442,8 @@ def main():
 
     for klip, _ in klip_yollari:
         os.remove(klip)
+    for chunk, _ in chunk_yollari:
+        os.remove(chunk)
     os.remove(gecici); os.remove(ses_cikti)
     print(f"BITTI: {cikti}  ({os.path.getsize(cikti)/1e6:.1f} MB)")
 
