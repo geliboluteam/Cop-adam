@@ -125,9 +125,15 @@ s19 DÜRÜST TARİH: TUZ VAR MIYDI? · s20 SEÇİM SENİN
   üretimde hata verdi ve turun 10 görsel sınırı dolduğu için
   Tur C'nin ilk işine bırakıldı. Gözle kontrol: s12 mendirek,
   s13b gizli filo çıkışı, s17 zeytin dalları PASS.
-- **Tur C:** önce s14 + s20 ana görselleri ve kalan çift görseller
-  (`s02b/s07b/s09b/s19b`) → kapak + plan.json + SADECE_MIX +
-  tam derleme + kare kontrolleri + SFX künyesi + YAYIN.md + mühür.
+- **Tur C ✅ MÜHÜR (2026-10-20):** s14 + s20 ve kalan çift
+  görseller (`s02b/s07b/s09b/s19b`) tamamlandı (**25/25 görsel,
+  1376×768**) → kapak v4 ("Kartaca YIKILMALI!" / "MÖ 149") →
+  `plan.json` **20 sahne · 25 benzersiz görsel · 106 efekt** →
+  SADECE_MIX + tam derleme: **641,3 sn ≈ 10:41 · x1.120 ·
+  1920×1080 · 95,3 MB** (crf25/maxrate1250k). Malzemeler
+  derleme öncesi `83f888a` ile pushlandı. SFX künyesi ve YAYIN.md
+  yazıldı. Giriş / 6:45 s13b / kapanış kareleri PASS. Final:
+  `uzun/merakli-016-uzun-kartaca.mp4`.
 - Kural: her tur commit → anında push → uzak doğrulama.
 - Seri sırası: B016 tamamlanır; ardından B021-B023 ile Seri C
   bitirilir. Seri C bitince Seri D bekletilip Seri E Keşif &

@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:33.07,TarihBandi,,0,0,0,,Kartaca · MÖ 149: DENİZİN ŞEHRİ
+Dialogue: 1,0:00:32.87,0:01:03.81,TarihBandi,,0,0,0,,COTHÖN: YUVARLAK LİMAN
+Dialogue: 1,0:01:03.61,0:01:38.40,TarihBandi,,0,0,0,,BYRSA VE SURLAR
+Dialogue: 1,0:01:38.20,0:02:12.88,TarihBandi,,0,0,0,,ROMA'NIN ŞARTLARI
+Dialogue: 1,0:02:12.68,0:02:44.48,TarihBandi,,0,0,0,,300 REHİNE
+Dialogue: 1,0:02:44.28,0:03:15.09,TarihBandi,,0,0,0,,SİLAHLARIMIZI VERDİK
+Dialogue: 1,0:03:14.89,0:03:45.47,TarihBandi,,0,0,0,,SON TALEP: ŞEHRİ BIRAKIN
+Dialogue: 1,0:03:45.27,0:04:15.35,TarihBandi,,0,0,0,,Kartaca ATÖLYE OLUYOR
+Dialogue: 1,0:04:15.15,0:04:45.88,TarihBandi,,0,0,0,,SAÇTAN HALATLAR
+Dialogue: 1,0:04:45.68,0:05:18.97,TarihBandi,,0,0,0,,KUŞATMA GÜNLERİ: ERZAK
+Dialogue: 1,0:05:18.77,0:05:53.15,TarihBandi,,0,0,0,,MÖ 147: SCIPIO'NUN HALKASI
+Dialogue: 1,0:05:52.95,0:06:22.30,TarihBandi,,0,0,0,,LİMANA DUVAR
+Dialogue: 1,0:06:22.10,0:06:53.86,TarihBandi,,0,0,0,,GİZLİ KANAL, GİZLİ GEMİLER
+Dialogue: 1,0:06:53.66,0:07:24.17,TarihBandi,,0,0,0,,SON TAHIL KÜPÜ
+Dialogue: 1,0:07:23.97,0:07:53.17,TarihBandi,,0,0,0,,MÖ 146: HÜCUM GÜNÜ
+Dialogue: 1,0:07:52.97,0:08:26.25,TarihBandi,,0,0,0,,BYRSA'YA ÇEKİLİŞ
+Dialogue: 1,0:08:26.05,0:08:59.82,TarihBandi,,0,0,0,,ZEYTİN DALLARI
+Dialogue: 1,0:08:59.62,0:09:32.92,TarihBandi,,0,0,0,,SCIPIO'NUN GÖZYAŞLARI
+Dialogue: 1,0:09:32.72,0:10:06.73,TarihBandi,,0,0,0,,DÜRÜST TARİH: TUZ VAR MIYDI?
+Dialogue: 1,0:10:06.53,0:10:41.26,TarihBandi,,0,0,0,,SEÇİM SENİN
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER MÖ 149'DA OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: LİMAN HALATÇISI
+Dialogue: 4,0:10:39.56,0:10:41.86,Kapanis,,0,0,0,,{\an5\pos(960,399)}SEN OLSAN NEYİ KORURDUN?
+Dialogue: 4,0:10:39.86,0:10:41.86,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}LİMAN · EVİN · TAHIL KÜPÜ · KOMŞUN — YORUMLARA YAZ
+Dialogue: 4,0:10:40.16,0:10:41.86,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!

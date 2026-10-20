@@ -39,7 +39,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 13 | 13 | 80 MS, Roma | Gladyatör: ilk kez arenaya çıkıyorum | ✅ |
 | 14 | 14 | ~MÖ 2560, Giza | Piramit işçisinin bir günü (ücret, bira, rampa) | ✅ |
 | 15 | 24 | MÖ 776, Olimpia | İlk Olimpiyat koşucusu (çıplak, zeytin yağı) | ✅ |
-| 16 | 35 | MÖ 149-146, Kartaca | Kartaca kuşatmasında sivil | 🟥 ÜRETİMDE: Tur B büyük ölçüde tamam; 20/20 ses (754,5 sn), 19/25 görsel; Tur C'de s14/s20 + çift görseller ve final |
+| 16 | 35 | MÖ 149-146, Kartaca | Kartaca kuşatmasında sivil | ✅ UZUN: `bolumler/016-kartaca/uzun/merakli-016-uzun-kartaca.mp4` (10:41, 20 sahne/25 görsel, 95,3 MB) + kapak v4 ("Kartaca YIKILMALI!" / MÖ 149) |
 | 17 | 36 | MS 2. yy, limes | Roma lejyoneri sınır karakolunda sıradan gün | ✅ UZUN (kilitli yeniden üretim): `bolumler/017-roma-lejyoneri/uzun/merakli-017-uzun-roma-lejyoneri.mp4` (10:24, 20 sahne) + kapak v4 |
 | 18 | 34 | MÖ 399, Atina | Sokrates'in yargılanması: mahkeme salonunda | ✅ UZUN: `bolumler/018-sokrates-davasi/uzun/merakli-018-uzun-sokrates-davasi.mp4` (10:24, 20 sahne) + kapak v4 |
 | 19 | 43 | MÖ 423, Atina | Tiyatro sahne arkası: khoros, maskeler, makine | ✅ UZUN: `bolumler/019-atina-tiyatrosu/uzun/merakli-019-uzun-atina-tiyatrosu.mp4` (10:24, 20 sahne, 81,5 MB) + kapak v4 ("BULUT OLDUM!" / MÖ 423) |

@@ -485,3 +485,35 @@ künyesini ve genel arşiv envanterini tutar.
 - NOT: savaş davulu/alarm analojisi kullanılmadı; gerilim müzik ve
   ambiyansla kuruldu. MÖ 1. yy'dan özgün dönem sesi yoktur.
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA) — −21 dB
+
+## BÖLÜM 016 UZUN — Kartaca: ŞEHRİ BIRAKIR MIYDIN? (uzun video; Seri C Konu 35)
+
+- Liman/şehir kalabalığı, meclis ve atölye uğultusu: Owlish
+  `clamour1/2/3/4/5/6` (CC0) — MODERN ANALOJİ; MÖ 2. yy'dan özgün
+  ses kaydı yoktur (beyan)
+- Liman zinciri: rubberduck `chain_01/02/03` (Free-SFX, CC0) —
+  temsili; halat/tezgâh sürtmesi: Owlish `scrape1/2/3` (CC0)
+- Ahşap gemi/atölye/kapı vurguları: rubberduck `item_wood_01/02`,
+  `wood_01/02/03` (Free-SFX, CC0); büyük şehir kapısı: bonebrah
+  `stone_door` (Free-SFX, CC0)
+- Silah teslimi ve atölye metal darbeleri: rubberduck
+  `bfh1_metal_hit_01-04`, `metal_01/02` (Free-SFX, CC0), OpenHV
+  `klink` (CC0) — silahlar yalnız taşınırken/üretilirken duyulur;
+  yakın dövüş sesi kullanılmadı
+- Taş, mendirek ve sur işleri: rubberduck `stones_01-04`
+  (Free-SFX, CC0)
+- Adımlar/koşu/çekiliş: Owlish `hard-footstep1/2/3/4`,
+  `grass_footsteps` (CC0)
+- Nefes/hayret/yorgunluk: Owlish `breath-male`, `gasp1` (CC0);
+  nefes kayıtları kısa kırpılarak kullanıldı
+- Uzak liman yangını: PagDev `fire_loop` (CC0) — yalnız uzaktan,
+  düşük kazançla ve süre sınırıyla
+- Ortam: 0ad `day_temperate_11`, `wind_11`, `windgust_11`,
+  `water/wave_21`, `water/wavecrash_21` (CC-BY-SA); uzun rüzgâr
+  kayıtları süre sınırıyla
+- Gece: Owlish `night-crickets` (CC0), süre sınırıyla
+- Geçiş: qubodup `swosh-01` (CC0)
+- NOT: savaş davulu, çığlık ve yakın silah sesi kullanılmadı;
+  kuşatma gerilimi müzik, rüzgâr/dalga, zincir, çekiç ve ayak
+  sesleriyle kuruldu.
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA) — −21 dB
