@@ -12,6 +12,12 @@ DURUM: 🟡 Tur A TAMAM: s01-s10 sesleri (407,16 sn) + 12 görsel
 (s01-s10 ana + s04b/s08b) QA PASS mühürlü. s04b: kulak çizgisi
 ve yüzsüz Sinon adayları reddedildi; üçüncü aday geçti.
 Sıradaki: Tur B (s11-s20 tam metinler+sesler+görseller).
+TUR B İLERLEME: s11-s20 metinleri TAM METNE genişletildi
+ve 10 ses üretildi; görseller s11, s12, s13, s14 QA PASS.
+s12b adayı (kapağı erken açık) reddedildi — kapalı
+kapağın yalnızca ek çizgisi görünecek şekilde yenilenecek.
+Kalan görseller: s12b, s15, s16, s17, s17b, s18, s19, s20
+(s19b ve kapak bazı Tur C'de).
 
 Kaynak özeti: `arastirma/023-uzun-truva-ati.md`.
 Açı: Meraklı, kapı yakınında su ve halat taşıyan hayalî genç
@@ -227,7 +233,7 @@ gece baskını gölgeler ve uzaktan dumanla anlatılır.
   neden içimi kemirdiğini hâlâ bilmiyordum."
 - Görsel: ay ışığında meydanda dev at silueti; uyuklayan
   nöbetçi köşede; Meraklı ambar basamağında oturuyor,
-  testisi yanında yerde, başı elllerinin arasında değil
+  testisi yanında yerde, başı ellerinin arasında değil
   ata bakıyor (iki kol: biri dizinde, biri basamakta).
 
 ### s12 — Helen'İN SESLERİ [ÇİFT: s12b]
@@ -276,11 +282,11 @@ gece baskını gölgeler ve uzaktan dumanla anlatılır.
   sayamadım. Ambarın arkasındaki amforaların arasına
   büzüldüm, elimdeki testinin ağzını avucumla kapattım.
   Gölgeler şehre yabancı adımlarla, hiç konuşmadan
-  dağıldı. Laocoon'un tok sesi, eşikteki o ürkütücü
+  dağıldı. Laokoön'ün tok sesi, eşikteki o ürkütücü
   duraksamalar, hepsi bir anda yerli yerine oturdu.
   Hediye dediğimiz şey, meğer bekleyen bir kapıymış;
   anahtarı da bizim elimize kendimiz vermişiz."
-- Görsel: atın karnundan sarkan halat ve inen 3-4 koyu
+- Görsel: atın karnından sarkan halat ve inen 3-4 koyu
   siluet (ayrıntı yok, silah belirgin değil); Meraklı
   amforaların arkasında büzülmüş, iki eli testinin
   ağzında (iki kol ikisi de testide), gözleri açık.
@@ -326,7 +332,7 @@ gece baskını gölgeler ve uzaktan dumanla anlatılır.
   gerçekti; Sinon'a su verişimiz yanlış değildi ama
   sorgulamadan, kapıları da araladık. İşaretleri arzumuza
   göre okuduk: dileyen söze değil, hoşumuza gidene kulak
-  verdik. Kassandra da Laocoon da konuştu; biz duymak
+  verdik. Kassandra da Laokoön de konuştu; biz duymak
   istediğimizi duyduk. Ders acıdır ama basittir: Bir
   hediye tam da en çok istediğin şeyi söylüyorsa, bir
   adım geri çekil. Merhamet et ama sor. Sevin ama dinle.
@@ -363,14 +369,14 @@ gece baskını gölgeler ve uzaktan dumanla anlatılır.
   savaşın sonunu anlatmaz; tahta at orada yoktur. Atı
   ilk anan, Odysseia'dır: ozan sarayda atın şarkısını
   söyler, Odysseus sessizce ağlar. Sinon'un yalanı,
-  Laocoon'un uyarısı ve gece baskınının ayrıntısı
+  Laokoön'ün uyarısı ve gece baskınının ayrıntısı
   asırlar sonra Vergilius'un Aeneis destanında parlar.
   Aradaki kayıp destanların, yalnız özetleri kaldı. Atın
   en eski resimlerinden biri, milattan önce yaklaşık
   675'e tarihlenen Mikonos vazosundadır: tahtadan at
   ve küçük gizli pencereler, kabartmayla işlenmiş.
-  Modern yorumcular atı; koçbaşına, depremle anılan
-  Poseidon'a ya da 'at' lakaplı bir gemiye benzetir;
+  Modern yorumcular atı; bir kuşatma aletine,
+  depremle anılan Poseidon'a ya da at lakaplı bir gemiye benzetir;
   hepsi hipotezdir, kanıt değil. Hikâye katman
   katmandır; katmanı söylemek, büyüyü bozmaz."
 - Görsel: ateş başında ozan ve dinleyen küçük halka;
@@ -382,9 +388,8 @@ gece baskını gölgeler ve uzaktan dumanla anlatılır.
 
 ### s20 — SEÇİM SENİN (kapanış)
 - Metin: "Şimdi sıra sende. O sabah kapıda, halat
-  omzunda, testi elinde sen olsaydın ne yapardın?
-  Laocoon'u dinleyip atı sahilde mi bırakırdın? Baltayla
-  karnını açıp içine mi bakardın? Sinon'a bir soru daha
+  omzunda, testi elinde, sen olsaydın ne yapardın?
+  Laokoön'ü dinleyip atı sahilde mi bırakırdın? Karnını açıp içine mi bakardın? Sinon'a bir soru daha
   mı sorardın, yoksa surları hiç mi söktürmezdin? Belki
   de atı içeri alıp çevresine nöbetçi dikerdin. Bir
   hediye sana tam istediğini söylüyorsa, içini önce
