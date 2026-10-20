@@ -517,3 +517,38 @@ künyesini ve genel arşiv envanterini tutar.
   kuşatma gerilimi müzik, rüzgâr/dalga, zincir, çekiç ve ayak
   sesleriyle kuruldu.
 - Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA) — −21 dB
+
+## BÖLÜM 021 UZUN — BÜYÜK İSKENDER'İN ORDUSUNDA HARİTACI (uzun video; Seri C Konu 51)
+
+- Gün/deniz/kıyı ortamı: 0ad `day_temperate_11`, `water/wave_21`,
+  `water/wavecrash_21`, `water/waverocky_21` (CC-BY-SA); kayalık
+  dalga ve uzun ortam kayıtları süre sınırıyla
+- Rüzgâr/dağ/çöl: 0ad `wind_11`, `windgust_11` (CC-BY-SA) — süre
+  sınırıyla; kar adımı için Owlish `grass_footsteps` (CC0) temsili
+  çıtırtı olarak
+- Yağmur/gök gürültüsü/nehir: 0ad `rain_11`, `rain_12` (CC-BY-SA),
+  rubberduck `sfx100v2_thunder_01`, `water_flowing`,
+  `loop_water_01/02`, `splash_01` (Free-SFX, CC0)
+- Adım/ıslak zemin/yük dengesi: Owlish `hard-footstep1-4`,
+  `grass_footsteps`, `stumble` (CC0); rubberduck
+  `sfx100v2_footstep_wet_01` (Free-SFX, CC0)
+- Kamp uğultusu: Owlish `clamour2/4` (CC0) — MODERN ANALOJİ;
+  MÖ 4. yy'dan özgün ses kaydı yoktur (beyan)
+- Tablet/ip/ölçüm işleri: Owlish `scrape1/2/3` (CC0), rubberduck
+  `chain_01/02`, `item_wood_01/02`, `stones_01-04` (Free-SFX, CC0)
+  — çakıl, kazık, halat ve tekne ahşabı için temsili
+- Sur mendireği ve şehir kurma işleri: rubberduck `stones_01-04`,
+  `item_wood_01/02`, `splash_01` (Free-SFX, CC0)
+- Kamp ateşi ve Persepolis dumanı: PagDev `fire_loop` (CC0) —
+  yalnız düşük kazanç ve süre sınırıyla; yakın yangın sahnesi yok
+- Gece kampı/kumaş: Owlish `night-crickets` ve
+  `blanket-movement-2` (CC0)
+- Nefes/hayret/yorgunluk: Owlish `breath-male`, `gasp1` (CC0);
+  nefes kısa kırpılarak
+- Arşiv/tomar: Owlish `pageturn1`, rubberduck `paper_01/02`
+  (CC0)
+- Geçiş: qubodup `swosh-01` (CC0)
+- NOT: yakın savaş, silah, çığlık, fil ve acı sesi kullanılmadı;
+  seferin sert sahneleri rüzgâr, su, ayak ve kamp ambiyansıyla
+  kuruldu. Bütün efektler modern ve türdeş gerçek kayıtlardır.
+- Müzik: 0ad `The_Hellespont.ogg` (CC-BY-SA) — −21 dB

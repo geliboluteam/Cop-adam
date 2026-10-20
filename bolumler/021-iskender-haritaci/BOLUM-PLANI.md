@@ -6,12 +6,11 @@ Süre: 5-12 dk (hedef ~10:20) | Ses: voice-03 | Altyazı: yok
 görselleri (20+5=25). Tur A s01-s10 = 10 ses + 13 görsel
 (s01-s10, s02b, s06b, s07b); Tur B s11-s20 = 10 ses + 10 ana
 görsel; Tur C açılışı = s13b + s19b + kapak.
-DURUM: 🟡 Tur C MALZEMELERİ HAZIR — s13b, s19b ve kapak
-bazı PASS; 25/25 görsel tamam. Kapak v4 üretildi
-("HARİTANIN UCU!" / "MÖ 334"). plan.json 20 sahne, 25 görsel
-ve 105 lisanslı efekt içeriyor. SADECE_MIX PASS: ham 793,13
-sn, sıkıştırılmış 746,3 sn, hız x1.169, toplam/miks 643,6 sn
-(10:44). Sıradaki adım: tam derleme ve yayın paketi.
+DURUM: ✅ FİNAL — `uzun/merakli-021-uzun-iskender-haritaci.mp4`
+(643,62 sn ≈ 10:44, 85.635.379 bayt, x1.169, 1920×1080);
+20 sahne / 25 görsel / 105 efekt. Kapak v4 ("HARİTANIN
+UCU!" / "MÖ 334"), YAYIN.md ve SFX künyesi tamam. Giriş,
+s13b ve kapanış/abone kareleri PASS.
 
 Kaynak özeti: `arastirma/021-uzun-iskender-haritaci.md`.
 Açı: Meraklı, gerçek bematistler Diognetos ve Baiton'un yanında
@@ -381,8 +380,8 @@ kayıplarının sayısı kesin sunulmaz.
 - [x] Tur A: s01-s10 sesler + 13 görsel (s07b düzeltmesi dahil) tamam
 - [x] Tur B ana üretim: s11-s20 sesler + 10 ana görsel tamam
   (s13b, Tur C açılışına taşındı)
-- [ ] Tur C (derleme öncesi malzemeler tamam): s13b + s19b +
-  kapak + plan.json + SADECE_MIX tamam; derleme + YAYIN kaldı
+- [x] Tur C: s13b + s19b + kapak + plan.json + SADECE_MIX +
+  tam derleme + YAYIN tamam
 
 ## KAPAK v4 (yalnız uzun video)
 
