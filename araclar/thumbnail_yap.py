@@ -55,6 +55,7 @@ BOLUMLER = {
     "013": dict(buyuk="ÖLÜM\nKALIM!", vurgu="MS 80"),
     "014": dict(buyuk="KÖLE\nDEĞİLDİK!", vurgu="MÖ 2560"),
     "015": dict(buyuk="ÇIPLAK\nDEĞİLDİK!", vurgu="MÖ 776"),
+    "016": dict(buyuk="Kartaca\nYIKILMALI!", vurgu="MÖ 149"),
     "017": dict(buyuk="80 MİL\nDUVAR!", vurgu="MS 122"),
     "018": dict(buyuk="FİLOZOFA\nÖLÜM!", vurgu="MÖ 399"),
     "019": dict(buyuk="BULUT\nOLDUM!", vurgu="MÖ 423"),
