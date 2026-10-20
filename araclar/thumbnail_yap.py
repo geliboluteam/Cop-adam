@@ -62,6 +62,7 @@ BOLUMLER = {
     "020": dict(buyuk="KÜTÜPHANE\nYANIYOR!", vurgu="MÖ 48"),
     "021": dict(buyuk="HARİTANIN\nUCU!", vurgu="MÖ 334"),
     "022": dict(buyuk="TACI KİM\nVERDİ?", vurgu="MS 457"),
+    "023": dict(buyuk="ATIN İÇİNDE\nNE VAR?", vurgu="MÖ 1180"),
 }
 
 
