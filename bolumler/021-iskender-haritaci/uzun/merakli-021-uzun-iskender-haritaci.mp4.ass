@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:36.37,TarihBandi,,0,0,0,,MÖ 334 · HELLESPONT: ADIM SAYAR
+Dialogue: 1,0:00:36.17,0:01:08.91,TarihBandi,,0,0,0,,ANADOLU YOLU: BİN ADIM, BİR ÇAKIL
+Dialogue: 1,0:01:08.71,0:01:42.07,TarihBandi,,0,0,0,,GRANİKOS'TAN SONRA
+Dialogue: 1,0:01:41.87,0:02:12.05,TarihBandi,,0,0,0,,GORDİON DÜĞÜMÜ (RİVAYET)
+Dialogue: 1,0:02:11.85,0:02:46.93,TarihBandi,,0,0,0,,İSSOS: DENİZLE DAĞ ARASI
+Dialogue: 1,0:02:46.73,0:03:21.00,TarihBandi,,0,0,0,,Sur'A TAŞTAN YOL
+Dialogue: 1,0:03:20.80,0:03:52.57,TarihBandi,,0,0,0,,MÖ 331 · İSKENDERİYE KURULUYOR
+Dialogue: 1,0:03:52.37,0:04:25.05,TarihBandi,,0,0,0,,TUTULMUŞ AY, UZUN OVA
+Dialogue: 1,0:04:24.85,0:05:00.57,TarihBandi,,0,0,0,,Kral Yolları VE Persepolis
+Dialogue: 1,0:05:00.37,0:05:28.95,TarihBandi,,0,0,0,,DARİUS'UN ARDINDAN DOĞUYA
+Dialogue: 1,0:05:28.75,0:06:01.16,TarihBandi,,0,0,0,,MÖ 329 · HİNDUKUŞ
+Dialogue: 1,0:06:00.96,0:06:32.67,TarihBandi,,0,0,0,,SEYHUN: Sınır SANDIĞIMIZ YER
+Dialogue: 1,0:06:32.47,0:07:02.71,TarihBandi,,0,0,0,,İNDUS NİL Mİ?
+Dialogue: 1,0:07:02.51,0:07:32.22,TarihBandi,,0,0,0,,HYDASPES YAĞMURU
+Dialogue: 1,0:07:32.02,0:08:03.10,TarihBandi,,0,0,0,,HYPHASİS: DUR!
+Dialogue: 1,0:08:02.90,0:08:33.87,TarihBandi,,0,0,0,,NEHİRDEN DENİZE
+Dialogue: 1,0:08:33.67,0:09:05.49,TarihBandi,,0,0,0,,GEDROSİA: SAYILARIN SUSTUĞU ÇÖL
+Dialogue: 1,0:09:05.29,0:09:36.99,TarihBandi,,0,0,0,,Babil'DE BİTMEYEN HARİTA
+Dialogue: 1,0:09:36.79,0:10:10.73,TarihBandi,,0,0,0,,DÜRÜST TARİH
+Dialogue: 1,0:10:10.53,0:10:43.58,TarihBandi,,0,0,0,,SEÇİM SENİN
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER MÖ 334'TE OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: ADIM SAYAR
+Dialogue: 4,0:10:41.88,0:10:44.18,Kapanis,,0,0,0,,{\an5\pos(960,399)}HANGİ YOLU YAZARDIN?
+Dialogue: 4,0:10:42.18,0:10:44.18,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}BİLİNMEYEN · EVE DÖNÜŞ · FİLO · DEFTERİ KORUMAK — YORUMLARA YAZ
+Dialogue: 4,0:10:42.48,0:10:44.18,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!

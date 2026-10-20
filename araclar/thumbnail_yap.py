@@ -60,6 +60,7 @@ BOLUMLER = {
     "018": dict(buyuk="FİLOZOFA\nÖLÜM!", vurgu="MÖ 399"),
     "019": dict(buyuk="BULUT\nOLDUM!", vurgu="MÖ 423"),
     "020": dict(buyuk="KÜTÜPHANE\nYANIYOR!", vurgu="MÖ 48"),
+    "021": dict(buyuk="HARİTANIN\nUCU!", vurgu="MÖ 334"),
 }
 
 
