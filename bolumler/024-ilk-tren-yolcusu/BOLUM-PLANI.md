@@ -8,9 +8,9 @@ Konu kilidi: **Liverpool-Manchester Demiryolu açılışı,
 ikinci görselleri (20+5=25). Tur A s01-s10 = 10 ses + ana
 görseller ve s04b/s08b; Tur B s11-s20 = 10 ses + ana
 görseller ve s12b/s17b; Tur C = s19b + kapak.
-DURUM: 🟡 HAZIRLIK: araştırma ve plan yazıldı; s01 testi
-(ses+görsel) üretilip kullanıcıya sunulacak.
-Sıradaki adım: kullanıcı onayı → Tur A.
+DURUM: 🟡 S01 TESTİ ÜRETİLDİ: ses 46.73 sn; görsel QA PASS
+(yarma istasyonu, 1830 kıyafetleri; lokomotif TEMSİLÎ).
+Kullanıcı onayı bekleniyor → onaylanırsa Tur A (s02-s10).
 
 Kaynak özeti: `arastirma/024-uzun-ilk-tren-yolcusu.md`.
 Açı: Meraklı, Edge Hill istasyonunda paket taşıyan ve
@@ -269,7 +269,7 @@ Yorumlara yaz." Kapanış kartı standardı Tur C'de.
 
 ## Tur DURUMU
 
-- [ ] TEST: s01 ses+görsel üretilecek; kullanıcı onayı bekleniyor
+- [x] TEST: s01 ses+görsel üretildi; kullanıcı onayı bekleniyor
 - [ ] Tur A: s01-s10 sesler + ana görseller ve s04b/s08b
 - [ ] Tur B: s11-s20 sesler + ana görseller ve s12b/s17b
 - [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
