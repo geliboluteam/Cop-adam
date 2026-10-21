@@ -43,7 +43,7 @@
 ## Sahneler (seslendirilecek tam metin)
 
 ### s01 — Kanca: sokakta atsız araba [ATMOSFER]
-Merhaba! Ben Meraklı. Bugün bin sekiz yüz seksen altıda, Mannheim kasabasındayım ve bir atölyede çırağım. Bu sabah sokağa bir araba çıktı ama önünde at yok! Herkes pencerelere yığıldı. Bazıları meraklı, bazıları kızgın, atlarsa ürkmüş görünüyor. Araba tıslıyor, sarsılıyor, yine de ilerliyor. Peki bir at kadar bile gücü olmayan bir makine insan taşıyabilir mi, sokak onu kabul eder mi? Hadi, motorun ilk sesini birlikte dinleyelim.
+Merhaba! Ben Meraklı. Bugün bin sekiz yüz seksen altıda, Mannheim kasabasındayım ve bir atölyede çırağım. Bu sabah sokağa bir araba çıktı ama önünde at yok! Herkes pencerelere yığıldı. Bazıları meraklı, bazıları kızgın, atlarsa ürkmüş görünüyor. Araba tıslıyor, sarsılıyor, yine de ilerliyor. Kaldırımdaki bir arabacı dizginlerini sıkı sıkıya tutuyor; önce bu iş olmaz diyor, sonra eğilip makineye bakıyor: Bu, kaç beygir gücünde? Peki bir at kadar bile gücü olmayan bir makine insan taşıyabilir mi, sokak onu kabul eder mi? Hadi, motorun ilk sesini birlikte dinleyelim.
 
 ### s02 — Neden atsız araba? [GERÇEK]
 Şehirde her iş atla yapılıyordu: arabalar, yükler, araba çekmek, tarla sürmek. Atlar güçlüydü ama dinlenmek, yem ve ahır isterlerdi; sokaklar da onların izleriyle doluydu. Tren şehirleri birbiriyle bağlıyordu ama evin kapısına gelmiyordu. Mühendisler sormaya başladı: Ray olmadan, at yorulmadan yürüyen küçük bir araba yapılabilir mi? Bu soru, bizim atölyenin kapısını da çaldı. Herr Benz yıllarca küçük bir benzin motoru üzerinde çalıştı ve sonunda bunu bir arabayla birleştirdi.
