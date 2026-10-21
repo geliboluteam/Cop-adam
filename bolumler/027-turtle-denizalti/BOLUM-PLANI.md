@@ -1,7 +1,7 @@
 # B027 — TURTLE: TEK KİŞİLİK DENİZALTI (1776)
 
 > Seri E 4. bölüm. YOL 42 / Konu 49.
-> DURUM: Tur A kısmi; s01 onaylı. s01–s10 sesler TAMAM (341.09 sn); görseller 9/25 PASS. Metinler 20/20 hazır; ikinci yarı sesleri bekliyor.
+> DURUM: 25/25 görsel QA PASS, 20/20 voice-03 ses hazır (673.39 sn ham). s09 ses–görsel senkron düzeltmesi tamam. Kapak/miks/video hazırlanıyor.
 > Araştırma: `arastirma/027-uzun-turtle-denizalti.md`.
 
 ## Bölüm kilidi
@@ -162,3 +162,13 @@ Bugün gördüğün çizim veya müze aracı, bin yedi yüz yetmiş altıdan kal
 - Görsel QA PASS **17/25**: s01, s02, s03, s04, s04b, s05, s06, s07, s08, s08b, s09, s10, s11, s12, s12b, s14, s15. Eksikler: s13, s15b, s16, s17, s18, s19, s19b, s20.
 - Geçerli anlatım metinleri **20/20**. Geçerli voice-03 ses **10/20**, toplam **338.95 sn** (s01–s08, s10, s11). Tarihsel olarak 11 ses üretilmişti; s09 senkron nedeniyle kullanım dışı. Bekleyen: s09 düzeltmesi ve s12–s20.
 - SONRAKİ TUR: önce tek s09 ses yoklaması; başarılıysa mevcut metinlerden s12–s20 (toplam en çok 10 çağrı). Önce tek s13 görsel yoklaması, sonra kalan yedi görsel. Kapak/SFX/YAYIN/plan.json/miks/video henüz YOK.
+
+## Devam paketi — 25/25 görsel ve 20/20 ses TAMAM
+- s09 yeni voice-03 sesi başarılı: “Ellerimi dizlerime...” metni güncel görselle eşleşiyor. Eski tutamak sesi kullanılmıyor.
+- s12–s20 sesler sıralı üretildi; bu tur s09 ile toplam 10/10 çağrı başarılı.
+- s13 yenilemesi PASS: alt gövde opak su altında; hatalı çoklu kürekler yok.
+- s15b/s16/s18/s19 PASS: temsili model, dönüş, dönem ayrımı ve müze modeli; figür yok. s18 solda Drebbel'den esinli, ortada Turtle, sağda Holland'dan esinli modeller; aynı dönemde aynı suda değiller, kesin ölçekli özgün mühendislik modeli iddiası yok.
+- s17 ve s19b ilk denemesinde model “brass crown” ifadesini gerçek kraliyet tacı gibi çizdi. İkisi de reddedildi, düz kapaklı pirinç silindirle yenilendi ve PASS. s17 pozu düzenlemede değişti: bir el çenede, diğer el aşağıda; tam 2 kol/2 ayrı el/2 bacak/2 ayak korunuyor.
+- s20 PASS: Meraklı tek figür, bir avuç dışarı açık, diğer el aşağıda; tam 2 kol/2 el/2 bacak/2 ayak.
+- Bu tur toplam 10 görsel çağrısı (8 eksik sahne + 2 düzeltme). 25 nihai dosya mevcut, reddedilenler final klasöründe yok.
+- Ham anlatım toplamı: **673.39 sn**. Final süre henüz ölçülmedi; miks/derleme sonrası kaydedilecek.
