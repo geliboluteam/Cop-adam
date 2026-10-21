@@ -34,7 +34,7 @@ Derleme sonrası `.ass` dosyasının TarihBandi başlangıçlarından üretilece
 
 ## Paket durumu
 - 20/20 anlatım metni, 20/20 ses (voice-03); ham toplam 675,62 sn.
-- 24/25 sahne görseli onaylı; s20 yenilenecek. Final süre ve video bekleniyor.
+- 25/25 sahne görseli onaylı. Tam video derlemesi ve final kontroller bekleniyor.
 - Kapak v4: `kapaklar/thumbnail/bolum-026.png` — İLK UÇUŞ / DÜMEN YOK! · 1783; karakter hayalî çırak rolündedir, tarihî uçuşun üçüncü yolcusu değildir.
 
 ## Ses künyesi
@@ -65,5 +65,5 @@ Derleme sonrası `.ass` dosyasının TarihBandi başlangıçlarından üretilece
 
 ## Miks ön kontrolü (final video değil)
 - `SADECE_MIX=1` başarılı; miks 613,50 sn, zaman çizelgesi hedefi 613,48 sn; anlatım ×1,039.
-- 20 sahne, beş ikinci görsel yuvası, 101 efekt. s20 eksik olduğundan video derlenmedi.
+- 20 sahne, beş ikinci görsel yuvası, 101 efekt. s20 tamamlandı; tam derleme ve final QA bekleniyor.
 - Zaman damgaları ve final dosya boyutu TAM derleme sonrası doğrulanacak.

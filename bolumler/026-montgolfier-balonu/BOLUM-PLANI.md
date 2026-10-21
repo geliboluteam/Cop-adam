@@ -1,7 +1,7 @@
 # B026 — MONTGOLFIER BALONU (1783)
 
 > Seri E, üçüncü bölüm. YOL 41 / Konu 50b. Yalnız uzun video: 5–12 dakika.
-> DURUM: Tur A — araştırma ve plan hazır; s01 kullanıcı onaylı; sesler 20/20 (675.62 sn), görseller 24/25 QA PASS + kapak-baz hazır; yalnız s20 yenilemesi bekliyor.
+> DURUM: Tur A — araştırma ve plan hazır; s01 kullanıcı onaylı; sesler 20/20 (675.62 sn), görseller 25/25 QA PASS + kapak v4 hazır; tam video derlemesi aşamasında.
 > Araştırma: `arastirma/026-uzun-montgolfier-balonu.md`.
 
 ## Bölüm kilidi
@@ -193,3 +193,7 @@ SFX planı: modern rüzgâr, ateş, kumaş, halat/ahşap, ayak sesi ve kâğıt 
 - SADECE_MIX başarılı: miks 613,50 sn (hedef 613,48); anlatım ×1,039. SFX dosya/kaynak/lisans künyesi global kayıt ve YAYIN taslağında.
 - `.ass` ön zaman çizelgesi üretildi; 20 TarihBandi, giriş/kapanış/abone kartları var, konuşma altyazısı yok. Video henüz DERLENMEDİ.
 - SONRAKİ: önce tek yoklama ile sade s20 (Meraklı iki açık elle, arka planda yalnız katlanmış kumaş/halat, uçan balon ve ek sepet YOK) → QA → 25/25 mühür → tam derleme → kare QA ve final YAYIN/YOL mührü.
+
+## s20 son yenileme / derleme başlangıcı
+- s20 PASS: tek figür, iki açık el/iki kol/iki bacak; doğru kıyafet; arka planda yalnız katlanmış kumaş, bank ve halat. Ek sepet/galeri yok.
+- Sahne görselleri 25/25; kapak-baz ayrı. Tüm plan girdileri mevcut. Tam derleme başlatılıyor; henüz final değil.
