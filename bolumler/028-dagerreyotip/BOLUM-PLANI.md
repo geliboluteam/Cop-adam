@@ -1,7 +1,7 @@
 # B028 — 1839 PARİS: FOTOĞRAF ÇIRAĞI / DAGUERREOTİP
 
 > Seri E 5. bölüm; YOL43 / Konu54.
-> DURUM: 20/20 tam metin, 1/25 görsel QA PASS, 1/20 voice-03 ses (37.37 sn). s01 görsel/kostüm kullanıcı onayı bekleniyor. Onaydan önce toplu sahne görseli YOK.
+> DURUM: s01/kostüm kullanıcı “Devam” ile ONAYLI. 20/20 tam metin, 9/25 QA PASS görsel, 11/20 voice-03 ses (329.38 sn ham). Görseller s01–s08 + s04b; sesler s01–s11. Final video henüz yok.
 > Araştırma: `arastirma/028-uzun-dagerreyotip.md`.
 
 ## Kalıcı format
@@ -116,8 +116,8 @@ Bu bölümde gördüğün atölye ve metal görüntüler, özgün bin sekiz yüz
 ## Üretim durumu
 - [x] Kaynak omurgası ve belirsizlikler kayıtlı.
 - [x] 20/20 tam anlatım metni; 20 sahne/25 görsel planı.
-- [ ] s01 görsel/ses QA ve kullanıcı kostüm onayı.
-- [ ] Kalan 24 görsel ve 19 ses; hepsinde ayrı el/kol kontrolü.
+- [x] s01 görsel/ses QA ve kullanıcı kostüm onayı (“Devam”).
+- [ ] Kısmi üretim: görseller 9/25, sesler 11/20. s08b/s09–s20/s12b/s15b/s19b görselleri ve s12–s20 sesler bekliyor; her figürde ayrı el/kol kontrolü.
 - [ ] Kapak v4 / plan.json / kaynak-lisanslı SFX / miks / uzun video / kare QA / YAYIN / final mühür.
 
 ## s01 pilot üretim ve QA
@@ -126,4 +126,37 @@ Bu bölümde gördüğün atölye ve metal görüntüler, özgün bin sekiz yüz
 - Sürgülü iki sert ahşap kutu makine, pirinç mercek/kapalı mercek kapağı, ahşap üçayak. Körük/film/flaş/ekran yok.
 - Cam korumalı temsili gri mimari görüntü arkadaki masada; özgün fotoğraf iddiası yok. Kimyasal kap/ısıtma/buhar/aktif işlem yok. Eğitim makinesi boş.
 - Görsel 1376×768; voice-03 ses **37.37 sn**. Pilot dosyaları `uzun/gorseller/s01.png`, `uzun/sesler/s01.mp3`.
-- İç QA PASS, kullanıcı kostüm/sahne onayı henüz BEKLENİYOR; s02–s20 görsel veya ses üretimine geçilmedi.
+- Pilot kaydı: iç QA PASS idi, o aşamada kullanıcı onayı bekleniyordu. Sonraki “Devam” ile kostüm/sahne ONAYLANDI; aşağıdaki üretim paketine geçildi.
+
+## Kullanıcı onayı sonrası üretim — Tur A
+- Çalışma alanı eski başlangıç commit'ine dönmüş olarak açıldı; eski izlenmeyen kalıntılar `/tmp/cop-adam-yedek-reset7/` altına korunup blobless/sparse çekimle son uzak mühür `ae2bdb1` geri yüklendi. Aynı aktif dalda çalışıldı, kaydedilmiş B028 içeriği korundu. Araştırma tekrar edilmedi.
+- Kullanıcı “Devam” dedi: s01 sahne/kostüm onayı alındı. Yeni görseller onaylı s01 ve kanonik karakter referansıyla üretildi.
+- s02 PASS: iki giyinik beyaz çöp adam; Meraklı 2 kol/2 ayrı el/2 bacak/2 ayak, ziyaretçi 2 kol/2 ayrı el/2 bacak/2 ayak; kırmızı fular yalnız Meraklı'da. Fotoğraf masada cam koruma altında.
+- s03 PASS: figürsüz temsili iki farklı malzeme/model görüntüsü, özgün arşiv nesnesi iddiası yok. Niépce'nin 1839'da yaşayan usta gibi çizilmesi yok.
+- s04/s04b PASS: kamera obscura optiği için figürsüz TEMSİLÎ KESİT; ters gri mimari görüntü, lens ve mat cam. s04 de yan paneli kaldırılmış çıktı; tarih bandında her iki görsel TEMSİLÎ KESİT olarak açıkça belirtilecek. Fiziksel açık kutuyla gerçek pozlama yapıldığı iddia edilmez.
+- s05 ilk FAIL: arka plandaki kamera körüklü çizildi. Arka kamera/tripod tamamen kaldırılarak düzeltildi; nihai s05 PASS: bir el yalnız cam korumalı boş eğitim levhasının dış çerçevesinde, diğer el aşağıda; tam 2 kol/2 el/2 bacak/2 ayak, görüntü yüzeyine dokunma yok.
+- s06 PASS: kapalı sandıktan uzak, iki el boş ve ayrı; tam uzuv sayısı. Kimyasal şişe/açma/ısıtma/buhar/uygulama yok.
+- s07 ilk FAIL: üç bölümlü/açık çerçeveli kamera. İki sert kapalı ahşap sürgülü kutuya düzeltildi. Nihai s07 PASS: bir el dış ahşap gövdede, diğer el aşağıda; tam 2 kol/2 ayrı el/2 bacak/2 ayak. Körük yok.
+- s08 PASS: kurgu bekleme alıştırması, iki ayrı el kendi dizlerinde, tam 2 kol/2 el/2 bacak/2 ayak. Gerçek levha pozlama iddiası yok; nesneler ve cep saati temsili.
+- Reddedilen s05/s07 eski görüntüler final klasöründen çıkarıldı; `/tmp/b028-reddedilen/` tanı kopyalarıdır, finalde kullanılmayacak.
+- Bu tur 10 görsel çağrısı: 8 yeni görsel + 2 düzeltme. 10 ses çağrısı s02–s11 sıralı başarılı; kota/hız hatası yok. Daha fazla çağrı denenmedi.
+- Güncel QA PASS görseller **9/25**: s01, s02, s03, s04, s04b, s05, s06, s07, s08.
+- Güncel voice-03 sesler **11/20**: s01–s11; ham toplam **329.38 sn**.
+
+### Ses süreleri (ham)
+- s01: 37.37 sn.
+- s02: 33.62 sn.
+- s03: 25.85 sn.
+- s04: 30.29 sn.
+- s05: 29.06 sn.
+- s06: 29.26 sn.
+- s07: 28.78 sn.
+- s08: 28.06 sn.
+- s09: 30.98 sn.
+- s10: 30.38 sn.
+- s11: 25.73 sn.
+
+### Sıradaki paket
+1. Tek ses yoklaması s12 → başarılıysa s13–s20 (en çok 9 çağrı); yeni sesler hazır tam metinlerden, aynı voice-03.
+2. Tek görsel yoklaması s08b → s09/s10/s11/s12/s12b/s13/s14/s15/s15b; büyük çaplı yeni karakter onayı gerekmiyor, kıyafet onaylı.
+3. Sonraki görsel paketi s16/s17/s18/s19/s19b/s20; sonra kapak v4, plan.json, kaynak/lisanslı modern SFX, miks, 5–12 dk uzun video, kare QA, YAYIN ve final mühür.
