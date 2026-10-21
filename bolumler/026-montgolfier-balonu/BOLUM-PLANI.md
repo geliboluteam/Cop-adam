@@ -1,7 +1,7 @@
 # B026 — MONTGOLFIER BALONU (1783)
 
 > Seri E, üçüncü bölüm. YOL 41 / Konu 50b. Yalnız uzun video: 5–12 dakika.
-> DURUM: Tur A — araştırma ve plan hazır; s01 kullanıcı onaylı; sesler 20/20 (675.62 sn), görseller 10/25 QA PASS; görsel üretimi sürüyor.
+> DURUM: Tur A — araştırma ve plan hazır; s01 kullanıcı onaylı; sesler 20/20 (675.62 sn), görseller 16/25 QA PASS; kalan 9 sahne görseli + kapak-baz.
 > Araştırma: `arastirma/026-uzun-montgolfier-balonu.md`.
 
 ## Bölüm kilidi
@@ -45,8 +45,8 @@
 ## Tur durumu
 - [x] Araştırma + gerçek/kurgu kilidi + 20 sahne/25 görsel planı.
 - [x] s01 görsel + ses testi ONAYLANDI: iç QA PASS (3 figür, ikişer kol/el); voice-03, 40.70 sn. Kullanıcı “Devam” onayı alındı.
-- [ ] Tur A kısmi: s02–s10 tam metinler ve sesler TAMAM; görseller s02/s04/s04b/s05/s06/s07/s08/s08b PASS; s03 yenilenecek, s09/s10 bekliyor.
-- [ ] Tur B: s11–s20 tam metinleri, sesler, kalan görseller.
+- [x] Tur A TAMAM: s01–s10 sesler; s01–s10 ana görseller + s04b/s08b PASS (12 görsel).
+- [ ] Tur B kısmi: s11–s20 metin ve sesler TAMAM; s11/s12/s13/s15 PASS. Kalan s12b, s14, s15b, s16–s20 ve s19b (9 görsel).
 - [ ] Tur C: kapak v4, kartlar/tarih bantları, miks, derleme, QA, YAYIN, SFX künyesi, final mühür.
 
 ## s02 — Tam anlatım metni
@@ -141,3 +141,42 @@ Peki biz bu hikâyeye nereden bakıyoruz? Tarihî anlatımlar, çizimler ve müz
 - s18: 33.70 sn.
 - s19: 32.38 sn.
 - s20: 36.58 sn.
+
+## Bu tur görsel QA mührü
+- s03, s09, s10, s11, s12 (yenileme), s13, s15 PASS. Toplam 16/25.
+- s12 ilk deneme FAIL: uçucular galerinin dışında/yerde; yenileme iki uçucuyu aynı havadaki galerinin içine aldı, PASS.
+- s12b FAIL: ateş sepeti galeriden kopuk/askısı belirsiz, mekanik bağlantı yenilenmeli.
+- s14 FAIL: arka planda Eyfel Kulesi benzeri yapı; 1783 sahnesinde anakronizm. Yenilemede arka plan yalnız nehir, ağaç ve alçak çatılar; kule/kilise sivri tepesi dahi yok.
+- Reddedilenler final klasöründen çıkarıldı, tanı kopyaları `/tmp/b026-reddedilen/`. Bu tur 10/10 görsel çağrısı kullanıldı. Sonraki tur önce tek yoklama.
+- Uçuş sahnelerinin hepsinde Meraklı ve kırmızı fular YOK; iki gerçek uçucu temsili çiziliyor.
+
+## Tur C girdileri (hazır, henüz derleme yok)
+Giriş: EĞER 1783'TE OLSAYDIM / MERAKLI: BALON ATÖLYESİ ÇIRAĞI
+Kapanış soru: BU BALONA BİNER MİYDİN?
+Kapanış alt: HALATLI DENEME · SERBEST UÇUŞ · YERDE KALMAK — YORUMLARA YAZ
+Abone çağrısı ayrı satır: KANALIMA ABONE OLMAYI UNUTMAYIN!
+
+| Sahne | Tarih bandı |
+|---|---|
+| s01 | 1783 · FRANSA: GÖĞE İLK ADIM |
+| s02 | KÂĞITÇI KARDEŞLERİN SORUSU |
+| s03 | DUMAN DEĞİL, ISINAN HAVA |
+| s04 | 4 HAZİRAN 1783 · ANNONAY |
+| s05 | HABER PARİS'E ULAŞIYOR |
+| s06 | HAFİF AMA SAĞLAM |
+| s07 | 19 EYLÜL 1783 · VERSAILLES |
+| s08 | KOYUN · ÖRDEK · HOROZ |
+| s09 | EKİM 1783 · HALATLI DENEMELER |
+| s10 | MERAKLI'NIN DENEMESİ — KURGU |
+| s11 | İKİ GERÇEK UÇUCU |
+| s12 | 21 KASIM 1783 · SERBEST UÇUŞ |
+| s13 | PARİS'E YUKARIDAN BAKMAK |
+| s14 | DÜMEN YOK: RÜZGÂRLA YOLCULUK |
+| s15 | ATEŞ: ISI VE DİKKAT |
+| s16 | YAKLAŞIK 25 DAKİKA SONRA |
+| s17 | YERDE KALAN ÇIRAK — KURGU |
+| s18 | İLK NEYİN İLKİ? |
+| s19 | GERÇEK OLAY · TEMSİLÎ GÖRÜNTÜ |
+| s20 | SEN BİNER MİYDİN? |
+
+SFX planı: modern rüzgâr, ateş, kumaş, halat/ahşap, ayak sesi ve kâğıt kayıtları. 1783 ses kaydı yok. Motor veya propan brülörü sesi kullanılmayacak. Kaynak/lisans ve dosya yolları plan.json hazırlanırken mevcut SFX envanterinden doğrulanacak. Altyazı yok, yalnız tarih bantları ve kartlar; `anlatim_metin:""`.
