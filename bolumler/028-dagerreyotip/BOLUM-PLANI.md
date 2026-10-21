@@ -1,7 +1,7 @@
 # B028 — 1839 PARİS: FOTOĞRAF ÇIRAĞI / DAGUERREOTİP
 
 > Seri E 5. bölüm; YOL43 / Konu54.
-> DURUM: **25/25 görsel QA PASS, 20/20 voice-03 ses (595.18 sn ham), 20/20 tam metin**. Kapak sahnesi hazır; kapak yazıları, plan/SFX/miks/video hazırlanıyor. Final MP4 henüz yok.
+> DURUM: **FİNAL TAMAM — 9:35 uzun video; 20 metin / 20 voice-03 ses / 25 görsel / 61 efekt + müzik.** Kapak v4, YAYIN, SFX künyesi ve teknik/örnek kare QA PASS.
 > Araştırma: `arastirma/028-uzun-dagerreyotip.md`.
 
 ## Kalıcı format
@@ -119,7 +119,7 @@ Bu bölümde gördüğün atölye ve metal görüntüler, özgün bin sekiz yüz
 - [x] s01 görsel/ses QA ve kullanıcı kostüm onayı (“Devam”).
 - [x] Sesler 20/20 voice-03 tamam; güncel anlatım metinleriyle eşleşiyor.
 - [x] Görseller 25/25 QA PASS; her figürde ayrı kol/el kontrolü, son sekiz sahne tamam.
-- [ ] Kapak v4 / plan.json / kaynak-lisanslı SFX / miks / uzun video / kare QA / YAYIN / final mühür.
+- [x] Kapak v4 / plan.json / kaynak-lisanslı SFX / miks / uzun video / tam decode / sekiz örnek kare QA / YAYIN tamam.
 
 ## s01 pilot üretim ve QA
 - Görsel: tek Meraklı; büyük beyaz yuvarlak kafa/sade göz/kaş/ağız; krem gömlek/koyu kahverengi yelek/açık arduvaz gri önlük/kırmızı fular. İki kol / iki net ayrı el / iki bacak / iki küçük beyaz ayak. Ek el/kol, kulak/saç/siyah bot yok.
@@ -204,3 +204,11 @@ Bu bölümde gördüğün atölye ve metal görüntüler, özgün bin sekiz yüz
 - s20 PASS: Meraklı tek figür, bir boş avuç açık, öteki el yanında; tam 2 kol/2 ayrı el/2 bacak/2 beyaz ayak. Kapanış metinleri için boş alan var.
 - Kapak metinsiz sahnesi PASS: kahverengi yelek/gri önlük/kırmızı fular; büyük sade beyaz kafa, şaşkın ifade; bir el açık/öteki bel yanında, 2 kol/2 ayrı el. İki kapalı sert sürgülü ahşap kutu kamera, körük yok. `kapaklar/thumbnail/sahne/bolum-028.jpg`.
 - Bu tur 8 sahne + 1 kapak sahnesi üretildi; düzeltme gerektiren FAIL yok. Sesler tekrar üretilmedi.
+
+## Final paket — QA PASS
+- Uzun video **575.03 sn (9:35)**, **55,257,114 bayt**; 1920×1080 30 fps H.264/AAC 48 kHz stereo, faststart.
+- 20 sahne / 25 görsel / 61 efekt / 10 benzersiz SFX+müzik dosyası; altyazı yok, ses voice-03.
+- Ham 595,18 sn; anlatım ×1,000, miks 575,00 sn. Kapanış abone satırı yaklaşık 5.60 sn görünür.
+- Tam dosya çözme testi exit 0, hata yok; sekiz kritik kare PASS. Ayrıntı `TEKNIK-QA.md`.
+- Video `uzun/merakli-028-uzun-dagerreyotip.mp4`, kapak `kapaklar/thumbnail/bolum-028.png`; YAYIN final zaman damgaları ve kaynak/lisanslarla hazır.
+- B028 tamamlandı; sıradaki YOL44/Konu17: 1903 Kitty Hawk, Wright kardeşlerin uçuşu.

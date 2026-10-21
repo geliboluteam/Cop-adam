@@ -1,6 +1,6 @@
 # YAYIN — B028: 1839 PARİS / FOTOĞRAF ÇIRAĞI
 
-**DERLEME HAZIRLIĞI — final MP4 ve teknik QA henüz tamamlanmadı.**
+**FİNAL — video derlendi; baştan sona dosya çözme testi ve sekiz kritik örnek kare QA PASS.**
 
 ## Başlık
 Kıpırdama! Tek Kare İçin Bekler Miydin? | Meraklı ile 1839 Paris
@@ -33,7 +33,28 @@ Sen neyi saklamak isterdin: portre, manzara, yoksa makinenin arkasına geçip ı
 - Ayrıntılı araştırma, okuma durumu ve belirsizlikler: `arastirma/028-uzun-dagerreyotip.md`.
 
 ## Bölümler
-Final zaman damgaları derleme sonrası `.ass` dosyasının TarihBandi başlangıçlarından eklenecek.
+00:00 Bu kutu fotoğraf mı çekiyor?
+00:35 Paris’te yeni görüntünün haberi
+01:06 Niépce ve Daguerre
+01:31 Görüntü oluşması / kalıcı görüntü
+02:00 Kâğıt değil, metal levha
+02:28 Kimya var; uygulama yok
+02:56 İç içe ahşap kutular
+03:23 Dakikalarca beklemek
+03:50 Hareket eden sokak
+04:20 7 Ocak ve 19 Ağustos 1839
+04:49 Pozlama / görüntünün ortaya çıkması
+05:13 Açı değişince görüntü
+05:44 Sağ ve sol meselesi
+06:13 Tekil nesne, kopya meselesi
+06:40 Talbot: ayrı yol
+07:06 Erken portrelerin zorluğu
+07:33 Hassas görüntüyü saklamak
+07:59 Fotoğraf neyi söylemez?
+08:30 Temsili görüntü / gerçek kanıt
+08:57 Sen neyi saklardın?
+
+Zaman damgaları final `.ass` dosyasındaki **TarihBandi** başlangıçlarından (0,3 sn bant gecikmesi çıkarılarak) türetildi.
 
 ## Etiketler
 #Meraklı #EğerOradaOlsaydım #Fotoğraf #Daguerreotip #Daguerre #1839 #Paris
@@ -43,7 +64,10 @@ Final zaman damgaları derleme sonrası `.ass` dosyasının TarihBandi başlang�
 - 25/25 QA PASS görsel, beş çift sahne 04/08/12/15/19. Altyazı yok.
 - Kapak v4: `kapaklar/thumbnail/bolum-028.png` — KIPIRDAMA! / TEK KARE · 1839 · FOTOĞRAF.
 - Kapanışın soru/seçenek/ayrı abone satırlarını okumak için s20 ek süre 5,0 sn; boş sürelerle video uzatılmadı.
-- Miks / MP4 / tam decode / final örnek kare QA: **BEKLİYOR**.
+- Final: **575.03 sn (9:35)**, **55,257,114 bayt**; 1920×1080, 30 fps, H.264/AAC, 48 kHz stereo; MP4 faststart.
+- Video: `uzun/merakli-028-uzun-dagerreyotip.mp4`.
+- Miks 575,00 sn, zaman çizelgesi 574,93 sn. Anlatım ×1,000; ham 595,18 sn.
+- Tam video/ses decode exit 0; sekiz kritik örnek kare PASS. Ayrıntı: `TEKNIK-QA.md`.
 
 ## Ses künyesi
 
