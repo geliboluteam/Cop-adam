@@ -8,18 +8,10 @@ Konu kilidi: **Liverpool-Manchester Demiryolu açılışı,
 ikinci görselleri (20+5=25). Tur A s01-s10 = 10 ses + ana
 görseller ve s04b/s08b; Tur B s11-s20 = 10 ses + ana
 görseller ve s12b/s17b; Tur C = s19b + kapak.
-DURUM: 🟡 Tur A TAMAM: s01-s10 sesleri (376,18 sn) +
-12 görsel (s01-s10 ana + s04b/s08b) QA PASS mühürlü.
-Not: s08'de kıkırdayan hanımda hafif pembe yanak var
-(gülme ifadesi diye kabul edildi). s11-s20 metinleri
-TAM METNE genişletildi. Tur B: s11-s19 sesleri üretildi
-(bölüm toplamı s20 hariç 747,77 sn). Görseller:
-s11/s12/s12b/s13/s15/s16/s17b QA PASS. Reddedilenler
-(görsel kotası dolduğu için gelecek tur yenilenecek):
-s14 (kırmızı elbiseli figür başsız) ve s17 (anakronik
-semafor + telgraf direkleri; 1830'da el işareti vardı).
-Kalan: s20 sesi + s12 ses düzeltmesi ("o gece"),
-s14/s17/s18/s19/s20 görselleri + Tur C.
+DURUM: 🟡 GÖRSELLER 25/25 + kapak bazı TAMAM; sesler 20/20
+(s12 de yenilendi). s14 (başsız figür → gri saçlı figür)
+üçüncü adayda, s17 (semafor) ikinci adayda geçti.
+Sıradaki: Tur C (kapak + plan.json + MIX + derleme).
 
 Kaynak özeti: `arastirma/024-uzun-ilk-tren-yolcusu.md`.
 Açı: Meraklı, Edge Hill istasyonunda paket taşıyan ve
@@ -403,7 +395,7 @@ vagon ayrıntıları TEMSİLÎdir.
 
 - [x] TEST: s01 ses+görsel üretildi; kullanıcı onayı bekleniyor
 - [x] Tur A: s01-s10 sesler + ana görseller ve s04b/s08b (376,18 sn; 12 görsel)
-- [ ] Tur B: s11-s20 sesler + ana görseller ve s12b/s17b
+- [x] Tur B: s11-s20 sesler + ana görseller ve s12b/s17b
 - [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
 
 ## KAPAK v4 (yalnız uzun video)
