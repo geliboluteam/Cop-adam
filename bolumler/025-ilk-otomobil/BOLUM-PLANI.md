@@ -136,5 +136,5 @@ Atölyede son işim, arabayı yarına hazırlamak: Yağı tamam, yakıtı tamam,
 - [ ] Tur A (neredeyse tamam): sesler s01-s10 TAMAM (e972eac, toplam 333,56 sn);
 görseller QA PASS 10/12: s01,s02,s03,s04,s04b,s05,s06,s08,s08b,s09;
 Tur A TAMAM: s07 (Bertha arabada) + s10 (tam 5 yüzlü figür) yenilemeleri QA PASS
-- [ ] Tur B (kısmi): sesler 20/20 TAMAM; görseller s11–s14 + s12b QA PASS; kalan: s15–s20 + s17b/s19b + kapak-baz
+- [x] Tur B TAMAM: sesler 20/20 (678,7 sn); görseller 25/25 + kapak-baz QA PASS
 - [ ] Tur C: s18-s20 + s19b + kapak baz; thumbnail; plan.json; MIX; derleme; YAYIN.md; SFX künyesi; mühür
