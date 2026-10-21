@@ -8,10 +8,11 @@ Konu kilidi: **Liverpool-Manchester Demiryolu açılışı,
 ikinci görselleri (20+5=25). Tur A s01-s10 = 10 ses + ana
 görseller ve s04b/s08b; Tur B s11-s20 = 10 ses + ana
 görseller ve s12b/s17b; Tur C = s19b + kapak.
-DURUM: 🟡 GÖRSELLER 25/25 + kapak bazı TAMAM; sesler 20/20
-(s12 de yenilendi). s14 (başsız figür → gri saçlı figür)
-üçüncü adayda, s17 (semafor) ikinci adayda geçti.
-Sıradaki: Tur C (kapak + plan.json + MIX + derleme).
+DURUM: ✅ FİNAL — `merakli-024-uzun-ilk-tren-yolcusu.mp4`
+693,62 sn (11:34), 91.988.130 bayt (x1.077, 25 görsel,
+116 efekt, 20 sahne). Kapak v4 `bolum-024.png`
+(İLK TREN / 48 KM KORKUSU / 1830). YAYIN.md yazıldı;
+SFX künyesi işlendi; GitHub mühürlenecek.
 
 Kaynak özeti: `arastirma/024-uzun-ilk-tren-yolcusu.md`.
 Açı: Meraklı, Edge Hill istasyonunda paket taşıyan ve
@@ -396,7 +397,7 @@ vagon ayrıntıları TEMSİLÎdir.
 - [x] TEST: s01 ses+görsel üretildi; kullanıcı onayı bekleniyor
 - [x] Tur A: s01-s10 sesler + ana görseller ve s04b/s08b (376,18 sn; 12 görsel)
 - [x] Tur B: s11-s20 sesler + ana görseller ve s12b/s17b
-- [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
+- [x] Tur C TAMAM (final derleme + YAYIN + SFX)
 
 ## KAPAK v4 (yalnız uzun video)
 

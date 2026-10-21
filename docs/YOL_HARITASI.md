@@ -72,7 +72,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 
 | Bölüm | Konu | Yıl | Kanca | Durum |
 |---|---|---|---|---|
-| 39 | 19 | 1830, Liverpool | İlk tren yolcusu: 48 km/s hız korkusu | 🟢 HAZIRLIK (B024): Meraklı Edge Hill istasyon yardımcısı; araştırma + 20 sahne planı yazılı, s01 testi üretilecek |
+| 39 | 19 | 1830, Liverpool | İlk tren yolcusu: 48 km/s hız korkusu | ✅ TAMAMLANDI (B024): 11:34 uzun video + kapak v4 + YAYIN.md; Seri E açıldı |
 | 40 | 20 | 1886-1900 | İlk otomobiller sokakta: halk tepkisi | ⬜ |
 | 41 | 50b | 1783, Paris | İlk balon uçuşunda sepettedir (Montgolfier) | ⬜ |
 | 42 | 49 | 1776/1860'lar | İlk denizaltıda mürettebat (Turtle/Holland) | ⬜ |

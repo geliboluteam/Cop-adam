@@ -603,3 +603,13 @@ künyesini ve genel arşiv envanterini tutar.
 - NOT: silah, çığlık ve yakın şiddet sesi kullanılmadı; gece
   baskını yalnız kapak, halat, sürgü ve uzak uğultuyla kuruldu.
   Bütün efektler modern ve türdeş gerçek kayıtlardır.
+
+### B024 — İlk tren yolcusu (1830)
+| Ses | Dosya | Kaynak / lisans | Kullanım |
+|---|---|---|---|
+| Buhar/ritim/hareket yanılsamaları (MODERN ANALOJİ) | windgust_11 (0 A.D., CC-BY-SA), djembe1/2/3, metal_hit, chain_01/02/03, item_wood/wood, wind_11 (0 A.D., CC-BY-SA) | yukaridaki satirlar | 1830 kaydi yoktur; buhar solugu, vagon ritmi ve baglanti takirdisi hissi |
+| İstasyon/kalabalık/rüzgâr | day_temperate_11 (0 A.D., CC-BY-SA), clamour1/2/3, laugh1, solo-clap, bell_01/02/03, hard-footstep/running-shoes | yukaridaki satirlar | peron, kalabalık, kalkış-duruş |
+| Su/ateş | splash_01/02, fire c_11 (0 A.D., CC-BY-SA) | yukaridaki satirlar, SFX100 | su alma, ocak ateşi |
+| Bilet/zaman | paper flips/crumples, item_coins_02, loopable-ticking-clock, blanket-movement-1 | Owlish/Rubberduck CC0 | bilet destesi, bakır para, saat tiksesi (analoji), bayrak kumaşı |
+| Düdük (sonraki icat olarak) | attention-whistle | Owlish CC0 | s17: düdüğün sonradan gelişinin tek vurgusu |
+| Müzik | The_Hellespont.ogg | 0 A.D. CC-BY-SA | kanal standart müziği (−21 dB) |

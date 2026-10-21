@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:43.27,TarihBandi,,0,0,0,,15 Eylül 1830 · Liverpool: AÇILIŞ GÜNÜ
+Dialogue: 1,0:00:43.07,0:01:16.74,TarihBandi,,0,0,0,,NEDEN DEMİRYOLU?
+Dialogue: 1,0:01:16.54,0:01:50.16,TarihBandi,,0,0,0,,RAINHILL DENEMELERİ (1829)
+Dialogue: 1,0:01:49.96,0:02:24.86,TarihBandi,,0,0,0,,BUHAR ATI
+Dialogue: 1,0:02:24.66,0:02:57.37,TarihBandi,,0,0,0,,HATTIN MUCİZELERİ
+Dialogue: 1,0:02:57.17,0:03:29.62,TarihBandi,,0,0,0,,48 KM KORKUSU
+Dialogue: 1,0:03:29.42,0:03:59.33,TarihBandi,,0,0,0,,SEKİZ TREN
+Dialogue: 1,0:03:59.13,0:04:31.63,TarihBandi,,0,0,0,,İLK HAREKET
+Dialogue: 1,0:04:31.43,0:05:00.53,TarihBandi,,0,0,0,,KUŞTAN HIZLI
+Dialogue: 1,0:05:00.33,0:05:32.19,TarihBandi,,0,0,0,,PARKSIDE MOLASI
+Dialogue: 1,0:05:31.99,0:06:12.72,TarihBandi,,0,0,0,,HÜZÜNLÜ HABER
+Dialogue: 1,0:06:12.52,0:06:46.62,TarihBandi,,0,0,0,,AÇILIŞ YİNE DE BİTİYOR
+Dialogue: 1,0:06:46.42,0:07:19.47,TarihBandi,,0,0,0,,ERTESİ GÜN TARİFE
+Dialogue: 1,0:07:19.27,0:07:53.40,TarihBandi,,0,0,0,,AÇIK VAGONDA BEN
+Dialogue: 1,0:07:53.20,0:08:27.39,TarihBandi,,0,0,0,,TARİFE VE ZAMAN
+Dialogue: 1,0:08:27.19,0:09:00.11,TarihBandi,,0,0,0,,KORKUDAN ALIŞKANLIĞA
+Dialogue: 1,0:08:59.91,0:09:37.36,TarihBandi,,0,0,0,,GÜVENLİK ÖĞRENİLİR
+Dialogue: 1,0:09:37.16,0:10:15.56,TarihBandi,,0,0,0,,GERÇEK KAYITLAR
+Dialogue: 1,0:10:15.36,0:10:54.81,TarihBandi,,0,0,0,,DÜRÜST TARİH NOTU
+Dialogue: 1,0:10:54.61,0:11:33.57,TarihBandi,,0,0,0,,SEÇİM SENİN
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER 1830'DA OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: İSTASYON YARDIMCISI
+Dialogue: 4,0:11:31.87,0:11:34.17,Kapanis,,0,0,0,,{\an5\pos(960,399)}İLK TRENE BİNER MİYDİN?
+Dialogue: 4,0:11:32.17,0:11:34.17,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}AÇIK VAGON · KAPALI VAGON · ÖNCE BEKLEMEK — YORUMLARA YAZ
+Dialogue: 4,0:11:32.47,0:11:34.17,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!
