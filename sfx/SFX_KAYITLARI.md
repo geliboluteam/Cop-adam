@@ -613,3 +613,16 @@ künyesini ve genel arşiv envanterini tutar.
 | Bilet/zaman | paper flips/crumples, item_coins_02, loopable-ticking-clock, blanket-movement-1 | Owlish/Rubberduck CC0 | bilet destesi, bakır para, saat tiksesi (analoji), bayrak kumaşı |
 | Düdük (sonraki icat olarak) | attention-whistle | Owlish CC0 | s17: düdüğün sonradan gelişinin tek vurgusu |
 | Müzik | The_Hellespont.ogg | 0 A.D. CC-BY-SA | kanal standart müziği (−21 dB) |
+
+### B025 — İlk otomobil sokakta (1886–1900)
+| Ses | Dosya | Kaynak / lisans | Kullanım |
+|---|---|---|---|
+| Motor tıkırtısı/ritmi (MODERN ANALOJİ) | djembe1/2/3, bfh1_metal_hit_03, windgust_11 (0 A.D., CC-BY-SA), wind_11 (0 A.D., CC-BY-SA) | yukaridaki satirlar | 1886 kaydı yoktur; tek silindir ritmi ve rüzgâr hissi |
+| Zincir/kavrama | chain_01/02/03 | Rubberduck CC0 | tahrik zinciri, sökme-takma (s05, s08b, s14) |
+| Atölye/demirci | hammer_01/02/03/04 (WoodMetal), saw (Loops) | Rubberduck CC0 | atölye, demirci örsü, zincir onarımı |
+| At adımları (analoji) | hard-footstep1/2/3/4, running-shoes-1 | Owlish CC0 | nal adımı hissi; koşan çocuklar |
+| Sokak/kalabalık | day_temperate_11 (0 A.D., CC-BY-SA), clamour1/2/3, laugh1, solo-clap, bell_01/02/03 | yukaridaki satirlar | açılış sokağı, tepkiler, eczane kapı zili (analoji) |
+| Ligroin/bakım | splash_01/02, item_wood/wood_03, item_coins_02 | SFX100/Rubberduck CC0 | eczaneden hafif benzin doldurma (analoji), yağlama, sipariş parası |
+| Telgraf/belge/bayrak | paper flips/crumples, blanket-movement-1 | Owlish CC0 | patent kağıdı, telgraf kâğıdı, başlangıç bayrağı kumaşı |
+| Müze | heel-reverb2/4, breath-male | Owlish CC0 | salon yankısı, nefes |
+| Müzik | The_Hellespont.ogg | 0 A.D. CC-BY-SA | kanal standart müziği (−21 dB) |
