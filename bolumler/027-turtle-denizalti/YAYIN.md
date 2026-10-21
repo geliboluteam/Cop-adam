@@ -1,6 +1,6 @@
 # YAYIN — B027 TURTLE: TEK KİŞİLİK DENİZALTI (1776)
 
-**DERLEME HAZIRLIĞI — final video teknik QA henüz tamamlanmadı.**
+**FİNAL — video derlendi; tam dosya çözme testi ve altı kritik örnek kare QA PASS.**
 
 ## Başlık
 Tek Kişi, Hava Sınırlı! Turtle'a Girer Miydin? | Meraklı ile 1776
@@ -31,7 +31,28 @@ Sen hangisini seçerdin: karada kapağı açıkken denemek, suya inmeye gönüll
 - Ayrıntı ve belirsizlikler: `arastirma/027-uzun-turtle-denizalti.md`.
 
 ## Bölümler
-Final zaman damgaları derleme sonrası `.ass` dosyasındaki TarihBandi başlangıçlarından eklenecek.
+00:00 Bu ahşap kabuğa mı gireceğim?
+00:37 Neden suyun altı?
+01:09 Bushnell’in atölyesi
+01:40 İki kabuk, tek kişi
+02:08 Motor sensin
+02:37 Su ve denge
+03:07 Geri çıkmak da iş
+03:37 Hava sınırlı
+04:10 Meraklı’nın oturma testi — KURGU
+04:39 Göreve kim gidiyor?
+05:09 Eylül gecesinde New York
+05:37 Tek operatörün yükü
+06:08 Akıntıyla pazarlık olmaz
+06:37 Eagle’a yaklaşma anlatımı
+07:08 Neden başaramadı?
+07:38 Geri dönmek
+08:09 Bir deneme ne öğretir?
+08:37 İlk neyin ilki?
+09:08 Çizim ve replika kanıt değildir
+09:41 Sen neyi seçerdin?
+
+Zaman damgaları final `.ass` dosyasındaki **TarihBandi** başlangıçlarından (0,3 sn bant gecikmesi çıkarılarak) türetildi.
 
 ## Etiketler
 #Meraklı #EğerOradaOlsaydım #Turtle #1776 #Denizaltı #DenizcilikTarihi
@@ -41,7 +62,11 @@ Final zaman damgaları derleme sonrası `.ass` dosyasındaki TarihBandi başlang
 - 25/25 QA PASS görsel; beş çift görsel sahnesi: 04/08/12/15/19.
 - Altyazı yok; giriş/tarih/kapanış/ayrı abone satırları var.
 - Kapak v4: `kapaklar/thumbnail/bolum-027.png`; metinsiz sahne onaylı s09'dan aynalanıp yakınlaştırıldı. Meraklı'nın testi karada ve kurgudur.
-- Video/miks/final süre ve teknik QA: **BEKLİYOR**.
+- Final video: **613.77 sn (10:14)**, **57,729,087 bayt**; 1920×1080, H.264/AAC, 48 kHz stereo.
+- Video: `uzun/merakli-027-uzun-turtle-denizalti.mp4`.
+- Tam video/ses decode testi hatasız. Giriş, s09 açık kapaklı tek kişilik kurgu testi, s12 yalnız Lee, s17 kıyı, s20 soru ve kapanış/abone örnek kareleri PASS.
+- Miks 613,60 sn; zaman çizelgesi 613,57 sn. Anlatım ×1,050; ham 673,392 sn.
+- Ayrıntılı ölçümler: `TEKNIK-QA.md`.
 
 ## Ses künyesi
 

@@ -1,7 +1,7 @@
 # B027 — TURTLE: TEK KİŞİLİK DENİZALTI (1776)
 
 > Seri E 4. bölüm. YOL 42 / Konu 49.
-> DURUM: 25/25 görsel QA PASS, 20/20 voice-03 ses hazır (673.39 sn ham). s09 ses–görsel senkron düzeltmesi tamam. Kapak/miks/video hazırlanıyor.
+> DURUM: **FİNAL TAMAM** — 10:14 uzun video; 20 metin / 20 voice-03 ses / 25 görsel / 66 efekt + müzik. Kapak v4, YAYIN ve SFX künyesi hazır; teknik ve örnek kare QA PASS.
 > Araştırma: `arastirma/027-uzun-turtle-denizalti.md`.
 
 ## Bölüm kilidi
@@ -48,9 +48,9 @@
 ## Tur durumu
 - [x] Araştırma + dürüstlük kilidi + 20 sahne/25 görsel planı.
 - [x] s01 görsel ve ses testi ONAYLANDI: iç QA PASS; iki figür, ikişer kol/el, kapak açık, araç karada. voice-03 ses 40.90 sn. Kullanıcı “Devam” onayı alındı.
-- [ ] Tur A: s01–s10 görselleri + s04b/s08b hazır; s09 sesinde “ellerimi dizlerime” düzeltmesi yeniden üretilecek. Diğer ilk on ses hazır.
-- [ ] Tur B kısmi: s11 sesi hazır; s12–s20 sesler bekliyor. s11/s12/s12b/s14/s15 görselleri hazır; s13 yenilenecek; s15b–s20/s19b bekliyor.
-- [ ] Tur C: kapak v4, plan.json, SFX künyesi, miks, video, kare QA, YAYIN ve final mühür.
+- [x] Tur A: s01–s10 ses/görseller tamam; s09 yeni “ellerimi dizlerime” sesiyle senkron düzeltildi.
+- [x] Tur B: s11–s20 sesler ve kalan sahneler tamam; toplam 25 QA PASS görsel.
+- [x] Tur C: kapak v4, plan.json, SFX künyesi, miks, video, tam decode, altı örnek kare QA ve YAYIN tamam.
 
 ## s01 QA / üretim kaydı
 - Bölüm kostümü: krem gömlek + lacivert yelek + kahverengi bez önlük; kırmızı fular yalnız Meraklı’da. İki figürde sade yüz ve beyaz uzuv sistemi korundu.
@@ -172,3 +172,11 @@ Bugün gördüğün çizim veya müze aracı, bin yedi yüz yetmiş altıdan kal
 - s20 PASS: Meraklı tek figür, bir avuç dışarı açık, diğer el aşağıda; tam 2 kol/2 el/2 bacak/2 ayak.
 - Bu tur toplam 10 görsel çağrısı (8 eksik sahne + 2 düzeltme). 25 nihai dosya mevcut, reddedilenler final klasöründe yok.
 - Ham anlatım toplamı: **673.39 sn**. Final süre henüz ölçülmedi; miks/derleme sonrası kaydedilecek.
+
+## Final paket — QA PASS
+- Uzun video **613.77 sn (10:14)**, **57,729,087 bayt**; 1920×1080 H.264/AAC 48 kHz stereo.
+- Ham 673,392 sn; anlatım ×1,050; miks 613,60 sn.
+- 20 sahne / 25 görsel / 66 efekt / 12 benzersiz SFX+müzik dosyası; altyazı yok.
+- Tam decode exit 0; altı kritik kare (giriş/s09/s12/s17/s20/kapanış) PASS. Teknik künye `TEKNIK-QA.md`.
+- Kapak v4 `kapaklar/thumbnail/bolum-027.png`; YAYIN kaynak ve final zaman damgalarıyla hazır.
+- Sonraki bölüm: YOL43, 1839 Paris / fotoğraf-daguerreotip çırağı. B027 tamamlanmadan ona geçilmedi.

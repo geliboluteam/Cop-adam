@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:38.15,TarihBandi,,0,0,0,,1776 · CONNECTICUT · MERAKLI: KURGU ÇIRAK
+Dialogue: 1,0:00:37.95,0:01:09.61,TarihBandi,,0,0,0,,1776 · SAVAŞ VE LİMAN · TEMSİLÎ
+Dialogue: 1,0:01:09.41,0:01:40.62,TarihBandi,,0,0,0,,BUSHNELL ATÖLYESİ · TEMSİLÎ CANLANDIRMA
+Dialogue: 1,0:01:40.42,0:02:08.91,TarihBandi,,0,0,0,,TEK KİŞİLİK KABUK · ÖZGÜN ÇİZİM DEĞİL
+Dialogue: 1,0:02:08.71,0:02:38.36,TarihBandi,,0,0,0,,İNSAN GÜCÜ · TEMSİLÎ REKONSTRÜKSİYON
+Dialogue: 1,0:02:38.16,0:03:08.40,TarihBandi,,0,0,0,,SU VE DENGE · TEMSİLÎ
+Dialogue: 1,0:03:08.20,0:03:37.95,TarihBandi,,0,0,0,,POMPA VE DİKKAT · KARADA GÖSTERİM
+Dialogue: 1,0:03:37.75,0:04:10.92,TarihBandi,,0,0,0,,HAVA SINIRLI · SABİT GÜVENLİ SÜRE YOK
+Dialogue: 1,0:04:10.72,0:04:39.86,TarihBandi,,0,0,0,,KURGU · KARADA, KAPAK AÇIK · TEK KİŞİ
+Dialogue: 1,0:04:39.66,0:05:10.00,TarihBandi,,0,0,0,,EZRA BUSHNELL ≠ EZRA LEE
+Dialogue: 1,0:05:09.80,0:05:38.24,TarihBandi,,0,0,0,,EYLÜL 1776 · NEW YORK · TEMSİLÎ GECE
+Dialogue: 1,0:05:38.04,0:06:08.71,TarihBandi,,0,0,0,,GÖREVDE YALNIZ EZRA LEE · TEMSİLÎ
+Dialogue: 1,0:06:08.51,0:06:37.89,TarihBandi,,0,0,0,,AKINTI VE KONUM · TEMSİLÎ
+Dialogue: 1,0:06:37.69,0:07:09.04,TarihBandi,,0,0,0,,LEE'NİN SONRADAN AKTARIMI · TEMSİLÎ
+Dialogue: 1,0:07:08.84,0:07:39.29,TarihBandi,,0,0,0,,NEDEN BELİRSİZ · BAKIR KESİN CEVAP DEĞİL
+Dialogue: 1,0:07:39.09,0:08:09.62,TarihBandi,,0,0,0,,GİRİŞİM BIRAKILIYOR · DÖNÜŞ TEMSİLÎ
+Dialogue: 1,0:08:09.42,0:08:38.17,TarihBandi,,0,0,0,,MERAKLI KIYIDA · YORUMU KURGU
+Dialogue: 1,0:08:37.97,0:09:08.76,TarihBandi,,0,0,0,,DREBBEL / TURTLE / HOLLAND · TEMSİLÎ MODELLER
+Dialogue: 1,0:09:08.56,0:09:41.57,TarihBandi,,0,0,0,,SONRAKİ ÇİZİMLER VE MODELLER · ÖZGÜN ARAÇ DEĞİL
+Dialogue: 1,0:09:41.37,0:10:13.57,TarihBandi,,0,0,0,,SEN NEYİ SEÇERDİN? · MERAKLI: KURGU
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER 1776'DA OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: DENİZALTI ATÖLYESİ ÇIRAĞI
+Dialogue: 4,0:10:11.87,0:10:14.17,Kapanis,,0,0,0,,{\an5\pos(960,399)}BU ARACA GİRER MİYDİN?
+Dialogue: 4,0:10:12.17,0:10:14.17,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}KARADA DENERİM · SUYA İNERİM · KIYIDA KALIRIM — YORUMLARA YAZ
+Dialogue: 4,0:10:12.47,0:10:14.17,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!
