@@ -1,7 +1,7 @@
 # B028 — 1839 PARİS: FOTOĞRAF ÇIRAĞI / DAGUERREOTİP
 
 > Seri E 5. bölüm; YOL43 / Konu54.
-> DURUM: s01/kostüm kullanıcı “Devam” ile ONAYLI. 20/20 tam metin, 9/25 QA PASS görsel, 11/20 voice-03 ses (329.38 sn ham). Görseller s01–s08 + s04b; sesler s01–s11. Final video henüz yok.
+> DURUM: s01/kostüm kullanıcı onaylı. 20/20 tam metin, **20/20 voice-03 ses (595.18 sn ham)**, **17/25 QA PASS görsel**. Görseller s01–s14 + s04b/s08b/s12b; kalan sekiz görsel bekliyor. Final video henüz yok.
 > Araştırma: `arastirma/028-uzun-dagerreyotip.md`.
 
 ## Kalıcı format
@@ -117,7 +117,8 @@ Bu bölümde gördüğün atölye ve metal görüntüler, özgün bin sekiz yüz
 - [x] Kaynak omurgası ve belirsizlikler kayıtlı.
 - [x] 20/20 tam anlatım metni; 20 sahne/25 görsel planı.
 - [x] s01 görsel/ses QA ve kullanıcı kostüm onayı (“Devam”).
-- [ ] Kısmi üretim: görseller 9/25, sesler 11/20. s08b/s09–s20/s12b/s15b/s19b görselleri ve s12–s20 sesler bekliyor; her figürde ayrı el/kol kontrolü.
+- [x] Sesler 20/20 voice-03 tamam; güncel anlatım metinleriyle eşleşiyor.
+- [ ] Görseller 17/25 QA PASS. Kalanlar: s15/s15b/s16/s17/s18/s19/s19b/s20; her figürde ayrı el/kol kontrolü.
 - [ ] Kapak v4 / plan.json / kaynak-lisanslı SFX / miks / uzun video / kare QA / YAYIN / final mühür.
 
 ## s01 pilot üretim ve QA
@@ -156,7 +157,40 @@ Bu bölümde gördüğün atölye ve metal görüntüler, özgün bin sekiz yüz
 - s10: 30.38 sn.
 - s11: 25.73 sn.
 
-### Sıradaki paket
+### Tur A sonunda belirlenen paket (tarihsel kayıt)
 1. Tek ses yoklaması s12 → başarılıysa s13–s20 (en çok 9 çağrı); yeni sesler hazır tam metinlerden, aynı voice-03.
 2. Tek görsel yoklaması s08b → s09/s10/s11/s12/s12b/s13/s14/s15/s15b; büyük çaplı yeni karakter onayı gerekmiyor, kıyafet onaylı.
 3. Sonraki görsel paketi s16/s17/s18/s19/s19b/s20; sonra kapak v4, plan.json, kaynak/lisanslı modern SFX, miks, 5–12 dk uzun video, kare QA, YAYIN ve final mühür.
+
+## Devam paketi — bütün sesler tamam, 17/25 görsel
+- s12 tek ses yoklaması başarılı; s13–s20 sıralı üretildi. Bu tur 9/9 voice-03 çağrısı başarılı; hız/kota hatası yok. Anlatıcı veya metin değiştirilmedi.
+- s08b PASS: figürsüz durağan vazo/kumaş ve pencere ışığı, bekleme duygusu. Pozlamanın sabit süresi iddiası yok.
+- s09 PASS: pencereden temsili erken Paris sokağı; hareket/uzun pozlama tartışması, özgün Boulevard du Temple fotoğrafı iddiası yok. Modern araç/metro/Eiffel/elektrik yok. Yol üstündeki yumuşak izler temsili hareket/tekerlek izidir; bir tramvay hattı diye sunulmaz.
+- s10 ilk FAIL: klasik binanın saçaklarında uydurma harfler. Bütün harf şeritleri düz taşla değiştirilip PASS. Bina Institut de France'dan esinli TEMSİLÎ mimari, birebir özgün belge değil. Tarih bandı 7 Ocak gösterim / 19 Ağustos açıklama ayrımını koruyacak.
+- s11 PASS: boş eğitim taşıyıcısı ve ondan ayrı cam korumalı hazır temsili metal görüntü; aktif kimya yok.
+- s12 ilk FAIL (senkron): Meraklı elleri aşağıda dururken anlatı çerçeveyi eğdiğini söylüyordu. Görsel düzeltildi: görüntünün solundaki TEK kol dış ahşap çerçeve kenarına uzanıyor/eğiyor, diğer kol aşağıda; tam 2 kol/2 AYRI el/2 bacak/2 ayak. Cam/metal görüntü yüzeyine dokunma yok. Yeni s12 PASS, ses değişikliği gerekmiyor.
+- s12b PASS: figürsüz cam altında silvery-gri metal görüntü, açı/yansıma gösterimi; kâğıt fotoğraf baskısı değil.
+- s13 PASS: gerçek oda kurgusunda pencere solda/sandalye sağda; çerçevedeki temsili metal görüntüde sandalye solda/pencere sağda. Sağ-sol terslik gerçekten çizilmiş; yalnız yön anlatımı, bütün daguerreotipler mutlak ters diye genellenmez.
+- s14 PASS: tek cam korumalı metal görüntü ve ondan ayrı kâğıda çizilmiş yorum/kalem. Aynı negatiften çoğalmış baskılar gibi sunulmaz.
+- Bu tur 10 görsel çağrısı: 8 yeni sahne + s10/s12 düzeltmeleri. Reddedilenler `/tmp/b028-reddedilen/` tanı kopyalarında, final klasöründe yok.
+- Güncel QA PASS **17/25**: s01, s02, s03, s04, s04b, s05, s06, s07, s08, s08b, s09, s10, s11, s12, s12b, s13, s14.
+- Güncel ses **20/20**, toplam **595.18 sn ham** (final süre ölçülmedi).
+
+### s12–s20 ham ses süreleri
+- s12: 32.78 sn.
+- s13: 29.90 sn.
+- s14: 28.10 sn.
+- s15: 25.85 sn.
+- s16: 28.85 sn.
+- s17: 27.46 sn.
+- s18: 32.30 sn.
+- s19: 28.06 sn.
+- s20: 32.50 sn.
+
+### Sıradaki üretim (güncel)
+1. Artık ses üretimi GEREKMİYOR. 20 dosya hazır; yalnız sonradan gerçek senkron düzeltmesi gerekirse ilgili sesi yenile.
+2. Görsel tek yoklama s15; başarılıysa s15b/s16/s17/s18/s19/s19b/s20 (toplam sekiz eksik). Karakter kıyafeti onaylı; her figür 2 kol/2 ayrı el/2 bacak/2 ayak. Kamera gerekmedikçe sahneye koyma; gerekiyorsa iki kapalı SERT sürgülü kutu, körük yok.
+3. Kapak v4: mümkünse ayrı metinsiz tek sahne (kalan kota uygunsa); Meraklı dönem kıyafetiyle büyük, sabır/şaşkınlık ifadesi; büyük başlık “KIPIRDAMA! / TEK KARE”, yıl 1839. Yalnız uzun video.
+4. Bütün 25 görsel QA sonrası plan.json; 5 orta nokta bölmesi 04/08/12/15/19. `anlatim_metin:""`, altyazı false. Kamera örtüsü/ahşap/kumaş/kağıt/adım modern kayıtlarından SFX; filmli kamera deklanşörü, flaş, aktif kimya/ısıtma/buhar sesi yok. Her kayda kaynak/lisans/modern analoji.
+5. Miks, 5–12 dk uzun video, tam decode ve örnek kare QA, YAYIN/final zaman damgaları, GitHub commit→push→uzak ve final dosya blob doğrulaması.
+- Henüz plan.json / kapak / SFX künyesi / YAYIN / MP4 yok. B028 tamamlanmadan YOL44 Wright'a geçme.
