@@ -51,3 +51,11 @@
 > 100% identical to the reference, including nose and mouth. SCENE:
 > [SAHNE/TANIM] ... vertical 9:16, no text, no watermark."
 > (referans: `karakter/merakli-referans.png`)
+
+## Kullanıcı düzeltmesi — yan karakter yoğunluğu (22 Ekim 2026)
+
+- Sahneyi sürekli tek Meraklı ile boş bırakma; konuya uygun yan karakterler daha fazla ve görünür olsun.
+- B029 Kitty Hawk / Wright kardeşler: anlatı görsellerinde en az **3 karakter: Meraklı + Wilbur + Orville**. Motor atölyesinde Taylor da görünür: **4 karakter**. Kardeşlerden birini eksik bırakma.
+- Tüm yan figürler Meraklı ile aynı beyaz yuvarlak kafalı, ince beyaz çubuk uzuvlu, giyinik çöp adam stili; gerçekçi insan yok. Kırmızı fular yalnız Meraklı.
+- Kalabalık artırılırken anatomi bozulmaz: her figürde 2 kol/2 ayrı görünür el/2 bacak/2 ayak, kişiler arasında açık boşluk, üst üste/kenetli el yok.
+- Temsilî birlikte görünme, Meraklı tarihsel bir tanıkmış gibi sunulmaz.

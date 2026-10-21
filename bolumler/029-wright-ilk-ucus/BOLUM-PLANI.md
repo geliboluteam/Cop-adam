@@ -1,7 +1,7 @@
 # B029 — 1903: WRIGHT KARDEŞLERİN İLK UÇUŞLARI
 
 > Seri E 6. bölüm · YOL44 / Konu17.
-> DURUM: **Kostüm/karakter kullanıcı tarafından “Devam” ile onaylandı.** Ara üretim: 9 görsel dosyası (5 kontrolü geçti / 4 düzeltme bekliyor), ilk 10 voice-03 Türkçe ses hazır (368,184 sn ham). Video henüz üretilmedi. Ayrıntı: `URETIM-DURUMU.json`.
+> DURUM: **Kostüm/karakter kullanıcı tarafından “Devam” ile onaylandı.** Ara üretim: 9 görsel dosyası (karakter sayısı: 8 sahnede 3, motor sahnesinde 4; genel görsel QA: 4 geçti / 5 düzeltme bekliyor), ilk 10 voice-03 Türkçe ses hazır (368,184 sn ham). Video henüz üretilmedi. Ayrıntı: `URETIM-DURUMU.json`.
 > Kaynak: `arastirma/029-uzun-wright-ilk-ucus.md`.
 
 ## Format ve kilitler
@@ -14,6 +14,13 @@
 - Ayrı, okunabilir abone kartı: **KANALIMA ABONE OLMAYI UNUTMAYIN!** Yazılar çakışmaz.
 - Kapak v4, yalnız uzun videoya: büyük konu başlığı taslağı **SADECE 12 SANİYE! / İLK UÇUŞ**; kırmızı 1903 vurgusu; dönem kıyafetli Meraklı odakta. Kapak henüz üretilmedi.
 - Gerçek modern kayıtlı SFX + müzik, kaynak/lisans künyesi ve MODERN ANALOJİ etiketi zorunlu. 1903 özgün ses kaydı yok. Jet motoru/flaş/elektronik uyarı kullanılmaz.
+
+## Yeni kullanıcı düzeltmesi — yan karakter yoğunluğu (22 Ekim 2026)
+- “Wright kardeşler diyor tek kişi çıkıyor; en az 3 karakter” düzeltmesi uygulandı. Anlatı görsellerinde **Meraklı + Wilbur + Orville** birlikte ve ayrı okunur; s07 motor sahnesinde Taylor ile **4 karakter**.
+- Yeni üretilecek kalan 16 görsel de bu minimumu koruyacak. Teknik yakın ayrıntıda nesne önde olsa bile kardeşler ve Meraklı güvenli arka planda bulunacak.
+- Kardeşler küçük fakat fark edilir, boş siluetli: Wilbur koyu kömür yelek/kahverengi diz pantolonu, Orville arduvaz yelek/gri diz pantolonu. İkisi de krem gömlekli, beyaz kafa/uzuv/el/ayaklı çöp adam. Kırmızı fular yalnız Meraklı.
+- Yan yana eller birleşmez; en az omuz genişliğinde açık aralık. Her figürde 2 kol/2 ayrı el/2 bacak/2 ayak denetimi.
+- Bu kompozisyon tarihsel tanık listesi değildir; Meraklı kurgu katmanda.
 
 ## Karakter / görsel QA
 - Kanon `karakter/merakli-referans.png`: çok büyük saf beyaz yuvarlak kafa, sade küçük oval gözler, ince kaş, küçük burun/ağız; ince beyaz çubuk uzuvlar, küçük beyaz eller/ayaklar. Kırmızı uzun fular her zaman, yalnız Meraklı'da.
@@ -120,6 +127,12 @@ Günün sonunda benim defterimde yalnız on iki saniye yazmıyor. Ölçmek, yeni
 - s01 karakter/kostüm kullanıcı “Devam” yanıtıyla onaylandı. Karakter kimliği değişmez; uçaktaki pervane pala sayısı düzeltilecek.
 - Bu üretim turu: 10 başarılı görsel üretim/düzenleme çağrısı; 9 toplam görsel dosyası. s02/s04/s05/s06/s08 görsel kontrolü geçti. s04'teki motor benzeri parça kaldırıldı; s05 yan figürün ayakları beyaz olarak düzeltildi.
 - Düzeltme bekleyenler: s01 ve s04b pervaneler iki palalı olmalı; s03 tam boy kadraj/yan figür altları; s07 Taylor'ın gizli ikinci eli ayrı görünmeli ve motor alçak yatay dört silindir biçiminde olmalı. Bunlar **final PASS değildir**.
-- s01–s10 voice-03/tr: 10 MP3 dosyası, başlık okuma doğrulaması geçti; toplam 368,184 sn. Dinleme ve final tam decode henüz yapılmadı.
+- s01–s10 voice-03/tr: 10 MP3 dosyası, başlık okuma doğrulaması geçti; toplam 368,184 sn. On MP3 baştan sona FFmpeg decode kontrolünü geçti; dinleme/final miks QA henüz yapılmadı.
 - Araç bu tur 10 görsel sınırına ulaştı; s08b ve s07 düzeltme çağrıları limit nedeniyle dosya üretmedi. Yeniden deneme sonraki tur.
 - Kalan 16 görsel, dört mevcut görsel düzeltmesi, s11–s20 sesler, final kapak, render, SFX lisans künyesi ve teknik QA **henüz yapılmadı**. Her dosyanın ayrıntısı `URETIM-DURUMU.json` içinde.
+
+### 22 Ekim 2026 — kullanıcı karakter yoğunluğu düzeltmesi
+- Mevcut dokuz görselin tamamı değiştirildi: s01/s02/s03/s04/s04b/s05/s06/s08 üçer, s07 dört karakter. Karakter sayısı kontrolleri geçti.
+- Dokuz başarılı görsel düzenleme; s05 ek ayrıştırma denemesi servis MAX_TOKENS/no-image hatasıyla sonuçlandı, mevcut üç karakterli sürüm korundu.
+- Güncel genel QA: s01/s02/s04/s08 geçti; s03/s05 kadraj-el aralığı, s04b mekanik netlik, s06 ok yönleri, s07 motor silindir yönelimi düzeltme bekliyor. Sayı onayı genel teknik onay yerine geçmez. Önceki günlük girdileri önceki taslakları anlatır; güncel kaynak URETIM-DURUMU.json.
+- Yeni ses üretilmedi; ilk 10 kayıt değişmedi. Kalan 16 görsel ve 10 ses henüz yok.

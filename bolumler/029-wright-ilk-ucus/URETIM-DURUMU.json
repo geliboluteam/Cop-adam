@@ -6,56 +6,120 @@
     {
       "id": "s01",
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s01.png",
-      "status": "DUZELTME_BEKLIYOR",
-      "notes": "Kostüm kullanıcı onaylı. Uçaktaki pervaneler dört pala gibi: sonraki tur iki palaya düzelt; karakter değişmez."
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "3 karakter: Meraklı + iki kardeş. İki ayrı el her figürde okunuyor; pervaneler iki palalı biçime düzeltildi.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
     },
     {
       "id": "s02",
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s02.png",
       "status": "GORSEL_KONTROL_GECTI",
-      "notes": "Görsel kontrol geçti: 2 kol/2 ayrı el/2 beyaz bacak-ayak; sade deney sahası."
+      "notes": "3 karakter: Meraklı + iki kardeş; açık aralıklar, tüm eller/ayaklar görünür.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
     },
     {
       "id": "s03",
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s03.png",
       "status": "DUZELTME_BEKLIYOR",
-      "notes": "Görünür eller doğru. Meraklı ayakları kadraj dışında, yan figür altları masa arkasında; tam boy kadraj düzeltmesi bekliyor."
+      "notes": "3 karakter; kardeşler artık tam boy, eller ayrı. Meraklı ayakları hâlâ kadraj dışında: tam boy düzeltmesi bekliyor.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
     },
     {
       "id": "s04",
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s04.png",
       "status": "GORSEL_KONTROL_GECTI",
-      "notes": "İlk taslakta motor gibi parça vardı, kaldırıldı; motorsuz planör düzeltmesi kontrol edildi."
+      "notes": "3 karakter; her figürde 2 ayrı el/2 kol/2 bacak/2 beyaz ayak. Motorsuz planör korunmuş.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
     },
     {
       "id": "s04b",
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s04b.png",
       "status": "DUZELTME_BEKLIYOR",
-      "notes": "Kronoloji doğru; pervaneler dört pala gibi: iki palalı biçime düzeltme bekliyor."
+      "notes": "3 karakter ve ayrı görünür eller. Yakın/sağ pervane iki palalı, sol pervane/çapraz destek ayrımı hâlâ belirsiz; mekanik doğruluk tekrar incelenecek.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
     },
     {
       "id": "s05",
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s05.png",
-      "status": "GORSEL_KONTROL_GECTI",
-      "notes": "Arka araştırmacının siyah ayakkabıları beyaz ayaklara düzeltildi; iki ayrı el/kol kontrol edildi."
+      "status": "DUZELTME_BEKLIYOR",
+      "notes": "3 karaktere çıkarıldı; iki kardeş artık birlikte. Araları dar, iç eller kısmen örtüşüyor ve Meraklı ayakları kadraj dışında. Aralık ve tam boy düzeltmesi denemesi görsel servisi MAX_TOKENS/no images hatasıyla çıktı üretmedi; tekrar gerekli.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
     },
     {
       "id": "s06",
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s06.png",
-      "status": "GORSEL_KONTROL_GECTI",
-      "notes": "Açıklayıcı şema; 2 ayrı el/kol/2 beyaz bacak-ayak kontrol edildi. Mühendislik planı değil."
+      "status": "DUZELTME_BEKLIYOR",
+      "notes": "3 karakter, eller/ayaklar ayrı ve görünür. Tahtadaki oklar düzenlemede çoğaldı/karşıt yönler belirdi; yalnız kaldırma yukarı, itki buruna doğru, pitch kavisli olacak biçimde sadeleştirme gerekli.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
     },
     {
       "id": "s07",
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s07.png",
       "status": "DUZELTME_BEKLIYOR",
-      "notes": "FINAL FAIL: Taylor ikinci eli motor arkasında gizli; iki el ayrı görünmeli. Motor dik silindirli görünüyor; düşük yatay dört silindirli tarihsel biçimle değiştirilecek."
+      "notes": "4 karakter: Meraklı + Wilbur + Orville + Taylor. Her figürde iki ayrı görünür el ve beyaz ayak. Eski gizli el sorunu çözüldü. Motor silindirleri hâlâ dik duruyor; yatay dört silindir doğruluğu düzeltilmeli.",
+      "character_count": 4,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright",
+        "Charles Taylor"
+      ]
     },
     {
       "id": "s08",
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s08.png",
       "status": "GORSEL_KONTROL_GECTI",
-      "notes": "İki ayrı pervane, her biri iki palalı; Meraklı 2 ayrı el/kol/2 bacak-ayak. Görsel kontrol geçti."
+      "notes": "3 karakter; iki kardeş ayrı görünür, eller/ayaklar doğru; iki pervane iki palalı. Daha farklı arka-yan açı sonraki ayrıntı s08b ile verilecek.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
     }
   ],
   "audio": [
@@ -152,11 +216,27 @@
   ],
   "audio_total_seconds": 368.184,
   "next": [
-    "s01/s04b pervaneleri iki palaya düzelt",
-    "s03 tam boy ve yan figürlerin ayrı beyaz ayakları",
-    "s07 iki AYRI görünür el + yatay dört silindirli motor",
-    "s08b, s09–s20 ve s12b/s15b/s19b üret",
+    "Mevcut s03/s05 tam boy ve elleri ayır; s04b pervane doğruluğu; s06 okları sadeleştir; s07 yatay motor",
+    "s08b, s09–s20 ve s12b/s15b/s19b üret; en az 3 karakter, s07 dört karakter",
     "s11–s20 voice-03 sesler",
-    "ses süresine göre 5–12 dk final zamanlaması; henüz render yok"
-  ]
+    "final zamanlama 5–12dk, kapak v4, SFX künyesi ve QA"
+  ],
+  "cast_rule": {
+    "user_correction": "Yan karakterler çok az; Wright kardeşler konusu en az 3 karakter olmalı.",
+    "minimum_characters_narrative_scene": 3,
+    "standard_cast": [
+      "Meraklı",
+      "Wilbur Wright",
+      "Orville Wright"
+    ],
+    "engine_scene_cast": [
+      "Meraklı",
+      "Wilbur Wright",
+      "Orville Wright",
+      "Charles Taylor"
+    ],
+    "style": "Bütün figürler beyaz çöp adam, giyinik, kırmızı fular yalnız Meraklı.",
+    "historical_boundary": "Bu birlikte görünme TEMSİLÎ anlatı kompozisyonu; Meraklı belgeli altıncı tanık değil.",
+    "future_images": "Yeni üretilecek 16 görsel de en az 3 karakteri korumalı; ayrıntı sahnesinde ana odak nesnede olsa da kişiler güvenli uzak arka planda."
+  }
 }
