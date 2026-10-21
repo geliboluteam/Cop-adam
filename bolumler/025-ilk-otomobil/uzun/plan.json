@@ -1,0 +1,844 @@
+{
+ "format": "16:9",
+ "encode_preset": "veryfast",
+ "crf": 25,
+ "maxrate": "1250k",
+ "baslik_karti": {
+  "yazi1": "EĞER 1886'DA OLSAYDIM",
+  "yazi2": "MERAKLI: ATÖLYE ÇIRAĞI"
+ },
+ "kapanis_karti": {
+  "yazi": "İLK ARABAYA BİNER MİYDİN?",
+  "alt": "ATSIZ ARABA · AT ARABASI · BEKLEMEK — YORUMLARA YAZ"
+ },
+ "muzik": {
+  "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+  "kazanc_db": -21
+ },
+ "hedef_sure": 620,
+ "hiz_max": 1.26,
+ "altyazi": false,
+ "sahneler": [
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s01.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s01.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "3 Temmuz 1886 · Mannheim: ATSIZ ARABA",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 39
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe1.opus",
+     "t": 6,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 13,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 21,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/BreakingFalling/bfh1_metal_hit_03.opus",
+     "t": 29,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 34,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s02.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s02.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HER İŞ ATLA YAPILIYORDU",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 34
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 5,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus",
+     "t": 11,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 17,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 24,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep4.opus",
+     "t": 29,
+     "kazanc_db": -25
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s03.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s03.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "29 OCAK 1886 · PATENT",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/rubberduck/WoodMetal/hammer_01.opus",
+     "t": 5,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/Loops/saw.opus",
+     "t": 11,
+     "kazanc_db": -29,
+     "dongu": true,
+     "sure": 4
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/BreakingFalling/bfh1_metal_hit_03.opus",
+     "t": 24,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe2.opus",
+     "t": 28,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/WoodMetal/hammer_03.opus",
+     "t": 30,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s04.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s04.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KAÇ BEYGİR GÜCÜ?",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 7,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_02.opus",
+     "t": 15,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 20,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour3.opus",
+     "t": 25,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/025-ilk-otomobil/uzun/gorseller/s04b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s05.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s05.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ÜÇ TEKER, SAATTE 16 KİLOMETRE",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/chain_01.opus",
+     "t": 6,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_03.opus",
+     "t": 11,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/WoodMetal/hammer_02.opus",
+     "t": 17,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe1.opus",
+     "t": 22,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/BreakingFalling/bfh1_metal_hit_03.opus",
+     "t": 27,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/chain_02.opus",
+     "t": 29,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s06.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s06.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SOKAK İKİYE BÖLÜNDÜ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/laugh1.opus",
+     "t": 5,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 12,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/running-shoes-1.opus",
+     "t": 18,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/SFX100/bell_01.opus",
+     "t": 24,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus",
+     "t": 28,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s07.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s07.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "5 AĞUSTOS 1888 · ŞAFAK YOLCULUĞU",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Ambience/night-crickets-ambience-on-rural-property.opus",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 14
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 8,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 15,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 16
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe3.opus",
+     "t": 21,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 27,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 30,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s08.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s08.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "İLK AKARYAKIT DURAĞI: ECZANE",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/rubberduck/SFX100/bell_01.opus",
+     "t": 4,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/SFX100/splash_01.opus",
+     "t": 10,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_coins_02.opus",
+     "t": 15,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/WoodMetal/hammer_04.opus",
+     "t": 20,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/chain_03.opus",
+     "t": 25,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/0ad/attack/fire/c_11.ogg",
+     "t": 28,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/025-ilk-otomobil/uzun/gorseller/s08b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s09.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s09.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "TELGRAF: GELDİK!",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-2.opus",
+     "t": 5,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 16,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/WoodMetal/hammer_01.opus",
+     "t": 22,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_02.opus",
+     "t": 27,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/BreakingFalling/bfh1_metal_hit_03.opus",
+     "t": 31,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s10.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s10.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HABER YAYILIYOR",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/crumples1.opus",
+     "t": 5,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour2.opus",
+     "t": 11,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 17,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_coins_02.opus",
+     "t": 22,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 25,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s11.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s11.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "1894 · OYUNCAKTAN ÜRÜNE",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/rubberduck/WoodMetal/hammer_02.opus",
+     "t": 5,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/Loops/saw.opus",
+     "t": 11,
+     "kazanc_db": -29,
+     "dongu": true,
+     "sure": 4
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_coins_02.opus",
+     "t": 18,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/running-shoes-1.opus",
+     "t": 24,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-2.opus",
+     "t": 28,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/WoodMetal/hammer_03.opus",
+     "t": 33,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s12.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s12.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "PARİS–ROUEN KOŞUSU",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 30
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 6,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe1.opus",
+     "t": 12,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 17,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe2.opus",
+     "t": 22,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 28,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/025-ilk-otomobil/uzun/gorseller/s12b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s13.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s13.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KIRMIZI BAYRAK KALKTI (1896)",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 31
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 6,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 12,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/SFX100/bell_02.opus",
+     "t": 19,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe3.opus",
+     "t": 25,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 29,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s14.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s14.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "BEN DE BİNİYORUM",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/chain_01.opus",
+     "t": 5,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/WoodMetal/hammer_01.opus",
+     "t": 10,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 16,
+     "kazanc_db": -25,
+     "dongu": true,
+     "sure": 15
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe1.opus",
+     "t": 21,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 26,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep4.opus",
+     "t": 29,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s15.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s15.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DEĞİŞEN SOKAK",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 31
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/WoodMetal/hammer_04.opus",
+     "t": 6,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/Loops/saw.opus",
+     "t": 13,
+     "kazanc_db": -29,
+     "dongu": true,
+     "sure": 4
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 19,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 25,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/SFX100/splash_02.opus",
+     "t": 29,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s16.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s16.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "AT NEREYE GİTTİ?",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 33
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 6,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep3.opus",
+     "t": 13,
+     "kazanc_db": -25
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe2.opus",
+     "t": 20,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_02.opus",
+     "t": 26,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 31,
+     "kazanc_db": -26
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s17.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s17.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GÜVENLİK ÖĞRENİLİR",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -27,
+     "dongu": true,
+     "sure": 30
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe1.opus",
+     "t": 7,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/SFX100/bell_01.opus",
+     "t": 13,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 18,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/chain_02.opus",
+     "t": 24,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 29,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/025-ilk-otomobil/uzun/gorseller/s17b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s18.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s18.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GERÇEK KAYITLAR",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/heel-reverb2.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/SFX100/bell_03.opus",
+     "t": 18,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 24,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/heel-reverb4.opus",
+     "t": 29,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 32,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s19.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s19.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DÜRÜST TARİH NOTU",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-2.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/heel-reverb2.opus",
+     "t": 12,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 4,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 28
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_02.opus",
+     "t": 21,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/SFX100/bell_01.opus",
+     "t": 27,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 31,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/025-ilk-otomobil/uzun/gorseller/s19b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/025-ilk-otomobil/uzun/gorseller/s20.png",
+   "anlatim": "bolumler/025-ilk-otomobil/uzun/sesler/s20.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SEÇİM SENİN",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -26,
+     "dongu": true,
+     "sure": 31
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/chain_01.opus",
+     "t": 6,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/djembe1.opus",
+     "t": 12,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep2.opus",
+     "t": 18,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/SFX100/bell_01.opus",
+     "t": 24,
+     "kazanc_db": -26
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 29,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  }
+ ]
+}
