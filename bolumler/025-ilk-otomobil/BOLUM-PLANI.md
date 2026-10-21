@@ -5,7 +5,7 @@
 > Araştırma: `arastirma/025-uzun-ilk-otomobil.md` (Benz patenti, 0,75 bg,
 > 16 km/s; Benz 1888 ~106 km; Wiesloch eczanesi; Watt'ın beygir gücü ölçüsü).
 > DURUM: Tur A kısmi — sesler s01-s07 tamam (s08-s10 kota sonrası tur);
-> görseller s01+s04 QA PASS (kalan 9 görsel kota sonrası tur). s01-s10 tam metin (Tur A);
+> görseller s01+s04 QA PASS (kalan 9 görsel kota sonrası tur). s01-s20 tam metin (Tur A ses s08-s10 ve 9 görsel kota bekliyor; Tur B metinleri hazır);
 > s11-s20 başlık + özet (tam metin Tur B başında yazılır).
 
 ## Bölüm kilidi
@@ -73,8 +73,38 @@ Akşam Pforzheim'a vardıklarında Herr Benz'e bir telgraf gönderdiler: Geldik!
 ### s10 — Haber yayılıyor [GERÇEK]
 Bu yolculuktan sonra gazeteler ve meraklılar atölyeye akın etti. Artık soru şu değildi: Atsız araba yürür mü? Soru şuydu: Kaça mal olur, ne kadar dayanır, kim kullanabilir? Başka mühendisler de kendi motorlu arabaları üzerinde çalışıyordu; yani yarış yalnız hız değil, fikir yarışıydı. Biz çıraklar sipariş defterini ilk kez görür gibi baktık: Bir kasabanın sokağında başlayan tıkırtı, koca bir sanayinin kapısını aralıyordu.
 
+### s11 — Zengin oyuncağından ürüne [GERÇEK]
+Yıllar geçti; atölye büyüdü. Bin sekiz yüz doksan dörtte Benz Velo çıktı: küçük, daha hesaplı ve art arda üretilebilen bir araba. Tarihçiler onu ilk seri üretim otomobillerden sayar. Yine de her araba hâlâ epey pahalıydı; alıcıların çoğu zengin meraklılardı. Sokakta bir araba görünce çocuklar yine arkasından koşuyordu. Ama değişen bir şey vardı: Artık bu makine tek bir mucidin deneyi değil, satılan, onarılan, kataloglara giren bir üründü. Biz çıraklar da artık yalnız yağlama yapmıyor, sıraya girmiş arabalara yetişmeye çalışıyorduk.
+
+### s12 — İlk büyük koşu: Paris-Rouen [GERÇEK] (çift görsel s12/s12b)
+Aynı yıl Fransa'da bir gazete büyük bir sınav düzenledi: Paris'ten Rouen'a, yüz kilometreden uzun bir yol. Buharlılar ve benzinliler yan yana dizildi. Amaç yalnız hızlı gitmek değildi; güvenilir olmak, yolda kalmadan bitirmekti. Ödülü benzinli arabalar paylaştı ve herkes anladı: Atsız araba artık uzun yolları konuşuyordu. Biz haberi gazeteden okuduk; atölyede hararetli bir tartışma başladı: Gelecek buharın mı, benzinin mi olacaktı? Bu soruyu sorabilmek bile tek başına bir devrimdi.
+
+### s13 — Kurallar doğuyor [GERÇEK]
+Yeni araba, yeni sorular getirdi: Kim, nerede, hangi hızla sürebilir? İngiltere'de eskiden yol makinelerinin önünde kırmızı bayrakla birinin yürümesini isteyen kural vardı; bin sekiz yüz doksan altıda bu kural kalktı ve sürücüler bunu bir özgürlük koşusuyla kutladı. Başka yerlerde izin belgeleri ve hız sınırları konuşulmaya başladı. Atölyede şunu öğrendim: Bir icat yalnız tekerlekten ibaret değildir; sokak, kurallarıyla birlikte yeniden yazılır. Kurallar bazen yavaşlatır ama herkesin aynı yolu paylaşmasını sağlar.
+
+### s14 — Ben de biniyorum [KURGU çerçeve + GERÇEK bakım düzeni]
+Sonunda ustabaşı bana da küçük bir tur için izin verdi! Önce zincire baktım, eklemlere yağ sürdüm, yakıtı yokladım. O günlerde sürücü, arabadan indikten sonra aynı zamanda tamircisiydi: Bujiyi temizler, kayışı gerer, tekerleği sarsıp sesini dinlerdi. Dümen kolunu tutup kasaba kenarına çıktık; rüzgâr yüzüme vururken saatte on altı kilometre bana şimşek gibi geldi. Yolda bir at arabası yanımızdan geçti; arabacı şapkasını çıkarıp selam verdi. İşte o selam, sokağın yavaş yavaş barışmasıydı.
+
+### s15 — Sokak değişiyor [GERÇEK + GÖRGÜ]
+Arabalar çoğaldıkça sokak da değişti. Taş yolda giden katı tekerlekler toz kaldırıyordu; şişme lastikler sarsıntıyı azalttı ama patlamak yeni bir dertti: Sürücü yanında yama ve pompa taşırdı. Nalbantların yanına yavaş yavaş tamirciler, yağ ve yakıt satıcıları eklendi. At arabası gövdesi yapan ustaların bazıları, yeni arabaların gövdelerinde çalışmaya başladı. Değişim bir günde olmadı; sokak, eskiyle yeninin omuz omuza yürüdüğü bir yerdi. Ben de bu değişimin tam ortasında, elimde yağ ibriğiyle büyüdüm.
+
+### s16 — At nereye gitti? [GERÇEK]
+Peki atlar hemen kayboldu mu? Hayır. Yıllarca at arabaları ve atsız arabalar aynı sokakları paylaştı. Çiftlikte, yükte, kısa yolda at hâlâ pek çok evin gücüydü; değişiklik sayılarda yavaş yavaş büyüdü. Ve ne şaka ki at, dilden hiç gitmedi: Bugün bile motorların gücünü beygir gücüyle konuşuyoruz. Watt'ın yüzyıllar önceki karşılaştırması, atın adını her arabada yaşatıyor. Belki de her yeni icat, eskinin adını bir süre yanında taşır. Sokaktan eksilen nal sesi, dilimizde yaşamaya devam ediyor.
+
+### s17 — Güvenlik öğrenilir [GERÇEK] (çift görsel s17/s17b)
+Sokak kalabalıklaşınca güvenlik de ders oldu. İyi bir fren, yalnız durmak demek değildir; önüne aniden çıkan bir araba ya da çocuğa alan bırakmaktır. Geceleri yolda görünmek için gaz lambaları takıldı. Sürücüler dönerken el işareti yapmayı, dar yerde yavaşlamayı ve motoru sakin durdurmayı öğrendi. Her yeni kural bir deneyimden çıktı: Bazen bir arızadan, bazen yaşlı bir sürücünün nasihatinden. Güvenlik, hızla birlikte düşünülürse yol daha emin olur; sokak bu dersi hep birlikte öğrendi.
+
+### s18 — Gerçek kayıtlar [GERÇEK]
+Bugün o günlerin izlerini takip edebiliriz. Patent başvurusu ve gazete haberleri arşivlerde duruyor. benz'in uğradığı eczane Wiesloch'da hâlâ yerinde; Bertha Benz'in güzergâhı bugün işaretlenmiş bir anma yolu. Atölye fotoğrafları ve eski arabaların kendisi müzelerde saklanıyor. Bir müzede üç tekerlekli küçük arabaya bakarken şunu düşünürüm: Bu küçük makine, koca bir dünyanın eşiğinde durdu. Nesneler konuşmaz; ama belgesi, fotoğrafı ve yolu yan yana gelince geçmiş, sokak sokak yeniden yürünebilir.
+
+### s19 — Dürüst tarih notu [DÜRÜST TARİH NOTU] (çift görsel s19/s19b)
+Şimdi dürüst bir not: İlk otomobil sözü, tanımlara göre kayar. Benzinli ve satışa çıkan pratik araba denince Benz öne çıkar; ama kendiliğinden giden buharlı arabalar ondan çok önce denenmişti ve aynı yıllarda başka mühendisler de çalışıyordu. Arabanın gücü için de kaynaklar birin altında, birbirine yakın değerler verir. Benz gezi ayrıntıları, iğne ve zincir gibi sahneler, çokça aile anlatılarında yaşar; belgeyle gelenler kadar sağlam sayılmazlar. Tarihi dürüst anlatmak, kahramanlığı azaltmaz; hikâyeyi daha güvenilir yapar.
+
+### s20 — Seçim senin [KURGU kapanış]
+Atölyede son işim, arabayı yarına hazırlamak: Yağı tamam, yakıtı tamam, zinciri sakin. Sokakta artık at nalları ile motor tıkırtısı yan yana duyuluyor. Şimdi soru sana: Bin sekiz yüz seksen sekizde yaşasaydın ne yapardın? Hemen atsız arabaya binip rüzgârı mı denerdin, güvenilir at arabandan mı vazgeçmezdin, yoksa önce başkalarının yolculuğunu mu beklerdin? Seçimini yorumlara yaz. Kanalıma abone olmayı unutma; bir sonraki macerada yine başka bir kapı, başka bir sokak bizi bekliyor.
+
 ## Üretim durumu
-- [ ] Test: s01 ses + görsel (kullanıcı onayı)
-- [ ] Tur A: s02-s10 sesler + ana görseller ve s04b/s08b
-- [ ] Tur B: s11-s20 tam metinler + sesler + ana görseller ve s12b/s17b
+- [x] Test: s01 ses + görsel (kullanıcı onayı, 85678a3)
+- [ ] Tur A (kısmi): sesler s01-s07 tamam (8dc01a0); s08-s10 ses + s02,s03,s04b,s05,s06,s07,s08,s08b,s09,s10 görselleri üretim kotası bekliyor; s01+s04 görsel QA PASS
+- [ ] Tur B: s11-s20 tam metinler YAZILDI (bu planda); sesler + ana görseller ve s12b/s17b üretilecek
 - [ ] Tur C: s18-s20 + s19b + kapak baz; thumbnail; plan.json; MIX; derleme; YAYIN.md; SFX künyesi; mühür
