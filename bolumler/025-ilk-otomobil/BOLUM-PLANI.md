@@ -4,7 +4,8 @@
 > ilk otomobiller sokakta, halk tepkisi, "kaç beygir gücü?" tartışması.
 > Araştırma: `arastirma/025-uzun-ilk-otomobil.md` (Benz patenti, 0,75 bg,
 > 16 km/s; Benz 1888 ~106 km; Wiesloch eczanesi; Watt'ın beygir gücü ölçüsü).
-> DURUM: Tur A BAŞLADI — s01 testi üretilecek. s01-s10 tam metin (Tur A);
+> DURUM: Tur A kısmi — sesler s01-s07 tamam (s08-s10 kota sonrası tur);
+> görseller s01+s04 QA PASS (kalan 9 görsel kota sonrası tur). s01-s10 tam metin (Tur A);
 > s11-s20 başlık + özet (tam metin Tur B başında yazılır).
 
 ## Bölüm kilidi
