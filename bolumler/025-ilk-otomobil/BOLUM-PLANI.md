@@ -117,6 +117,10 @@ Atölyede son işim, arabayı yarına hazırlamak: Yağı tamam, yakıtı tamam,
 
 ## Üretim durumu
 - [x] Test: s01 ses + görsel (kullanıcı onayı, 85678a3)
-- [ ] Tur A (kısmi): sesler s01-s07 tamam (8dc01a0); s08-s10 ses + s02,s03,s04b,s05,s06,s07,s08,s08b,s09,s10 görselleri üretim kotası bekliyor; s01+s04 görsel QA PASS
+- [ ] Tur A (neredeyse tamam): sesler s01-s10 TAMAM (e972eac, toplam 333,56 sn);
+görseller QA PASS 10/12: s01,s02,s03,s04,s04b,s05,s06,s08,s08b,s09;
+FAIL yenlenecek: s07 (Bertha arabada olmalıydı; vedalaşma gibi duruyor),
+s10 (arka planda yüzsüz beyaz kafalar). FAIL dersleri: Bertha'yı arabanın ÜSTÜNDE çiz;
+arka plan figürlerinde de yüz şartını tekrarla
 - [ ] Tur B: s11-s20 tam metinler YAZILDI (bu planda); sesler + ana görseller ve s12b/s17b üretilecek
 - [ ] Tur C: s18-s20 + s19b + kapak baz; thumbnail; plan.json; MIX; derleme; YAYIN.md; SFX künyesi; mühür
