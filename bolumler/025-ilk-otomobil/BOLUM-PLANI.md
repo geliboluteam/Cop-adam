@@ -122,5 +122,5 @@ görseller QA PASS 10/12: s01,s02,s03,s04,s04b,s05,s06,s08,s08b,s09;
 FAIL yenlenecek: s07 (Bertha arabada olmalıydı; vedalaşma gibi duruyor),
 s10 (arka planda yüzsüz beyaz kafalar). FAIL dersleri: Bertha'yı arabanın ÜSTÜNDE çiz;
 arka plan figürlerinde de yüz şartını tekrarla
-- [ ] Tur B: s11-s20 tam metinler YAZILDI (bu planda); sesler + ana görseller ve s12b/s17b üretilecek
+- [ ] Tur B (kısmi): tam metinler yazıldı; sesler s11-s17 üretildi; s18-s20 ses + ana görseller ve s12b/s17b bekliyor
 - [ ] Tur C: s18-s20 + s19b + kapak baz; thumbnail; plan.json; MIX; derleme; YAYIN.md; SFX künyesi; mühür
