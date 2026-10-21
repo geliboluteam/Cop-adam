@@ -76,7 +76,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 40 | 20 | 1886-1900 | İlk otomobiller sokakta: halk tepkisi | ✅ TAMAMLANDI (B025): 10:14 uzun video + kapak v4 + YAYIN.md; Seri E 2. bölüm |
 | 41 | 50b | 1783, Paris | İlk balon uçuşunda sepettedir (Montgolfier) | ✅ TAMAMLANDI (B026): 10:14 uzun video, 25 görsel, kapak v4, YAYIN ve SFX künyesi; Seri E 3. bölüm |
 | 42 | 49 | 1776, Connecticut / New York | Tek kişilik Turtle: hava, akıntı ve insan gücü | ✅ TAMAMLANDI (B027): 10:14 uzun video, 20 sahne/25 görsel, kapak v4, YAYIN ve SFX künyesi. Seri E 4. bölüm; tarihî görevde yalnız Ezra Lee |
-| 43 | 54 | 1839, Paris | İlk fotoğraf çırağı: daguerreotip süreci | ⬜ |
+| 43 | 54 | 1839, Paris | Fotoğraf çırağı: daguerreotip, ışık ve beklemek | 🟡 HAZIRLIK (B028): araştırma ve 20 tam metin hazır; 20 sahne/25 görsel. s01 kostüm onayı bekleniyor. Niépce daha erken, 1839 duyuru; kimyasal uygulama yok |
 | 44 | 17 | 1903, Kitty Hawk | Wright kardeşlerin ilk uçuşu: kum tepeciğinde | ⬜ |
 | 45 | 18 | 1969, Houston | Apollo 11 görev kontrol odasında (NASA ses arşivi = gerçek kayıt!) | ⬜ |
 | 46 | 16 | 1912, Kuzey Atlantik | Titanic'in çarptığı gece güvertede | ⬜ |
