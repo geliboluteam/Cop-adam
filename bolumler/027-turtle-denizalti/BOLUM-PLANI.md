@@ -146,3 +146,8 @@ Bugün gördüğün çizim veya müze aracı, bin yedi yüz yetmiş altıdan kal
 - Yeni kontrol: Meraklı 2 kol / 2 el; pompa kolunu tutan yardımcı 2 kol / 2 el. Görselde toplam 4 el, fazladan beyaz el parçası yok. Sahne ve kıyafet korundu.
 - Düzeltilmiş görüntü `uzun/gorseller/s07.png` olarak eskisinin yerine alındı; kullanıcıya yeniden sunuldu. Sahne sayısı değişmedi: 9/25.
 - Sonraki QA'larda el sayısı kol sayısından ayrı kontrol edilecek; üst üste/kenetli el yerine açıkça ayrılmış eller tercih edilecek.
+
+## Devam paketi: s11 sesi ve ilk görseller
+- s11 voice-03 sesi üretildi: 31.37 sn. Sesler 11/20, toplam 372.46 sn. s12–s20 çağrıları geçici hız sınırı nedeniyle başarısız; dosya üretilmedi ve tekrar denenmedi.
+- Görsel PASS: s08b, s10, s11, s12. Toplam 13/25. s12 içinde yalnız Lee ve iki ayrı el var; kırmızı fular yok.
+- s09 FAIL: model ayrıca kenarlara el yakın planı panelleri ekledi, toplam el sayısı bozuldu. Finalden çıkarıldı; tek sahne/no inset şartıyla yenilenecek.
