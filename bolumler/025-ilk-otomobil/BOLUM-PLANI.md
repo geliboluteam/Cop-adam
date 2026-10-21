@@ -4,8 +4,11 @@
 > ilk otomobiller sokakta, halk tepkisi, "kaç beygir gücü?" tartışması.
 > Araştırma: `arastirma/025-uzun-ilk-otomobil.md` (Benz patenti, 0,75 bg,
 > 16 km/s; Benz 1888 ~106 km; Wiesloch eczanesi; Watt'ın beygir gücü ölçüsü).
-> DURUM: Tur A kısmi — sesler s01-s07 tamam (s08-s10 kota sonrası tur);
-> görseller s01+s04 QA PASS (kalan 9 görsel kota sonrası tur). s01-s20 tam metin (Tur A ses s08-s10 ve 9 görsel kota bekliyor; Tur B metinleri hazır);
+DURUM: ✅ FİNAL — `merakli-025-uzun-ilk-otomobil.mp4`
+613,62 sn (10:14), 86.695.593 bayt (x1.058, 25 görsel,
+119 efekt, 20 sahne). Kapak v4 `bolum-025.png`
+(ATSIZ ARABA / 1 BEYGİRDEN AZ! / 1886). YAYIN.md ve
+SFX künyesi tamam; GitHub mühürlenecek.
 > s11-s20 başlık + özet (tam metin Tur B başında yazılır).
 
 ## Bölüm kilidi
@@ -137,4 +140,4 @@ Atölyede son işim, arabayı yarına hazırlamak: Yağı tamam, yakıtı tamam,
 görseller QA PASS 10/12: s01,s02,s03,s04,s04b,s05,s06,s08,s08b,s09;
 Tur A TAMAM: s07 (Bertha arabada) + s10 (tam 5 yüzlü figür) yenilemeleri QA PASS
 - [x] Tur B TAMAM: sesler 20/20 (678,7 sn); görseller 25/25 + kapak-baz QA PASS
-- [ ] Tur C: s18-s20 + s19b + kapak baz; thumbnail; plan.json; MIX; derleme; YAYIN.md; SFX künyesi; mühür
+- [x] Tur C: s18-s20 + s19b + kapak baz; thumbnail; plan.json; MIX; derleme; YAYIN.md; SFX künyesi; mühür

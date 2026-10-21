@@ -73,7 +73,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | Bölüm | Konu | Yıl | Kanca | Durum |
 |---|---|---|---|---|
 | 39 | 19 | 1830, Liverpool | İlk tren yolcusu: 48 km/s hız korkusu | ✅ TAMAMLANDI (B024): 11:34 uzun video + kapak v4 + YAYIN.md; Seri E açıldı |
-| 40 | 20 | 1886-1900 | İlk otomobiller sokakta: halk tepkisi | 🟢 HAZIRLIK (B025): Meraklı Mannheim atölye çırağı; araştırma + 20 sahne planı yazılı, s01 testi üretilecek |
+| 40 | 20 | 1886-1900 | İlk otomobiller sokakta: halk tepkisi | ✅ TAMAMLANDI (B025): 10:14 uzun video + kapak v4 + YAYIN.md; Seri E 2. bölüm |
 | 41 | 50b | 1783, Paris | İlk balon uçuşunda sepettedir (Montgolfier) | ⬜ |
 | 42 | 49 | 1776/1860'lar | İlk denizaltıda mürettebat (Turtle/Holland) | ⬜ |
 | 43 | 54 | 1839, Paris | İlk fotoğraf çırağı: daguerreotip süreci | ⬜ |
