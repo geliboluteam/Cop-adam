@@ -103,6 +103,18 @@ Bugün o günlerin izlerini takip edebiliriz. Patent başvurusu ve gazete haberl
 ### s20 — Seçim senin [KURGU kapanış]
 Atölyede son işim, arabayı yarına hazırlamak: Yağı tamam, yakıtı tamam, zinciri sakin. Sokakta artık at nalları ile motor tıkırtısı yan yana duyuluyor. Şimdi soru sana: Bin sekiz yüz seksen sekizde yaşasaydın ne yapardın? Hemen atsız arabaya binip rüzgârı mı denerdin, güvenilir at arabandan mı vazgeçmezdin, yoksa önce başkalarının yolculuğunu mu beklerdin? Seçimini yorumlara yaz. Kanalıma abone olmayı unutma; bir sonraki macerada yine başka bir kapı, başka bir sokak bizi bekliyor.
 
+## SFX planı (Tur C taslağı — envanterde gerçek motor/nal kaydı yok, hepsi etiketli analoji)
+- Motor tıkırtısı/ritmi (MODERN ANALOJİ): Owlish Impacts djembe1-3 yavaş ritim (dongu) + rubberduck bfh1_metal_hit_03 (B024 kalıbı)
+- Kavrama/zincir: rubberduck RPG chain_01/02/03 (s05, s08b, s14)
+- At adımları (analoji): Owlish Footsteps hard-footstep1-4 düşük kazanç (s01, s02, s06, s16)
+- Atölye/demirci: WoodMetal hammer_01-04 (s03, s08b, s14), Loops saw (s03 arka plan, kısa)
+- Kalabalık tepkisi: Owlish clamour1-3 (s01, s06, s10), laughter/clap (B024 dosyaları)
+- Eczane kapısı/yakıt (analoji): SFX100 bell_01 (s08 giriş), splash_01/02 kısa (s08 ligroin doldurma)
+- Telgraf/kâğıt (analoji): Owlish Paper flips/crumples + pencil-scratch (s03 patent, s09 telgraf, s19)
+- Para/sipariş: RPG item_coins_02 (s10/s11)
+- Sokak/rüzgâr/müze: 0ad wind_11, day_temperate_11; müze topuk yankısı heel-reverb2/4 (s18/s19b; B024 kalıbı)
+- Müzik: sfx/0ad/music/The_Hellespont.ogg (CC-BY-SA, −21 dB, kanal standardı)
+
 ## Üretim durumu
 - [x] Test: s01 ses + görsel (kullanıcı onayı, 85678a3)
 - [ ] Tur A (kısmi): sesler s01-s07 tamam (8dc01a0); s08-s10 ses + s02,s03,s04b,s05,s06,s07,s08,s08b,s09,s10 görselleri üretim kotası bekliyor; s01+s04 görsel QA PASS
