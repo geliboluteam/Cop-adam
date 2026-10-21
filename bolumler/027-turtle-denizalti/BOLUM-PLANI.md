@@ -1,7 +1,7 @@
 # B027 — TURTLE: TEK KİŞİLİK DENİZALTI (1776)
 
 > Seri E 4. bölüm. YOL 42 / Konu 49.
-> DURUM: Tur A kısmi; s01 onaylı. s01–s10 sesler TAMAM (341.09 sn); görseller 5/25 PASS.
+> DURUM: Tur A kısmi; s01 onaylı. s01–s10 sesler TAMAM (341.09 sn); görseller 9/25 PASS. Metinler 20/20 hazır; ikinci yarı sesleri bekliyor.
 > Araştırma: `arastirma/027-uzun-turtle-denizalti.md`.
 
 ## Bölüm kilidi
@@ -48,8 +48,8 @@
 ## Tur durumu
 - [x] Araştırma + dürüstlük kilidi + 20 sahne/25 görsel planı.
 - [x] s01 görsel ve ses testi ONAYLANDI: iç QA PASS; iki figür, ikişer kol/el, kapak açık, araç karada. voice-03 ses 40.90 sn. Kullanıcı “Devam” onayı alındı.
-- [ ] Tur A: s02–s10 tam metin/ses/görseller.
-- [ ] Tur B: s11–s20 tam metin/ses/görseller.
+- [ ] Tur A kısmi: s01–s10 sesler TAMAM (341,09 sn); görseller s01–s08 + s04b PASS. s08b/s09/s10 bekliyor.
+- [ ] Tur B: s11–s20 tam metinler HAZIR; sesler ve görseller bekliyor.
 - [ ] Tur C: kapak v4, plan.json, SFX künyesi, miks, video, kare QA, YAYIN ve final mühür.
 
 ## s01 QA / üretim kaydı
@@ -100,3 +100,42 @@ Sıra benim denememde. Bir kez daha söyleyeyim: Bu sahne kurgu. Araç karada, k
 - s08 ses: 35.74 sn.
 - s09 ses: 33.50 sn.
 - s10 ses: 33.14 sn.
+
+## s11 — Tam anlatım metni
+Şimdi Connecticut'taki atölyeden New York limanına geçiyoruz. Eylül bin yedi yüz yetmiş altı. Küçük araçla büyük bir gemiye yaklaşılması planlanıyor. Gecenin ayrıntılarını anlatan kaynakların tarihlemeleri bile her yerde aynı değil; bu yüzden ekrandaki geceyi kesin saatiyle yeniden kurulmuş bir kayıt sanmayalım. Benim hayalî çırağım kıyıda kaldı. Buradan sonra görevdeki operatör Ezra Lee. Suya yukarıdan bakmak başka, aynı suyun içinde yönünü bulmaya çalışmak bambaşka.
+
+## s12 — Tam anlatım metni
+Lee'nin yerinde bir anlığına durduğumuzu hayal edelim; ama Meraklı'yı onun yanına koymayalım. İçeride tek kişi var. Hem hareketi sağlıyor hem yönünü ve aracın durumunu takip ediyor. Dışarıdaki gemiyle karşılaştırınca Turtle küçücük görünüyor. İçeriden bakınca da her şey operatöre çok yakın. Bu iç mekân bir rekonstrüksiyon; kaynaklarda geçen görev yükünü görünür kılmaya çalışıyoruz. Tek kişilik olmak yalnız küçük olmak değil. Bir iş aksadığında onu devralacak ikinci bir çift elin bulunmaması demek.
+
+## s13 — Tam anlatım metni
+Akıntıya emir veremiyorsun. Kıyıda sabit sandığın bir noktaya yaklaşırken su seni başka yere taşıyabiliyor. İnsan gücüyle ilerleyen küçük bir araç için bu, yalnız hız sorunu değil; yönü ve konumu koruma sorunu. Bir kumandaya ayırdığın dikkat, öteki işten eksiliyor. Lee'nin girişimine ilişkin anlatımlarda bu güçlükler önemli yer tutuyor. Bizim görüntümüz de bu duygunun temsili. Aynı hareketin durgun bir denemede işe yaraması, limanın değişken suyunda da aynı sonucu vereceğini göstermiyor.
+
+## s14 — Tam anlatım metni
+Lee'nin sonradan anlattığına göre, hedef gemiye yaklaşıp altına girmeye çalışıyor. Burada aktarılanla kesin bildiğimizi ayıralım. Onun betimlemelerini bugünün kamerasıyla çekilmiş görüntüler gibi izleyemeyiz. Ama görevin sonucu açık: Amaçlanan bağlantı kurulamıyor ve Eagle bu girişimde batırılmıyor. Ekrandaki gemi gölgesi ve küçük araç temsili. Biz operasyonun nasıl yapılacağını öğretmiyoruz; tek operatörlü bir denemenin karanlık, su ve belirsizlik içinde neden zorlaştığını anlamaya çalışıyoruz.
+
+## s15 — Tam anlatım metni
+Neden başaramadı? Popüler anlatılarda tek bir parlak cevap bulabilirsin: Bakır kaplama engel oldu! Fakat kaynaklar bu açıklamada birleşmiyor. Metal bir engele rastlamış olma ihtimali de anlatılıyor; konumu koruyamamak da hikâyenin parçası. Tam olarak neye temas edildiğini kesinmiş gibi resmetmeyeceğiz. Bir başarısızlığı tek malzemeye bağlamak kolay; insan, araç ve akıntının aynı anda yarattığı yükü anlatmak daha zor. Tarih bazen bize cevabın kendisinden çok, cevabın sınırlarını bırakıyor.
+
+## s16 — Tam anlatım metni
+Girişim bırakılıyor ve operatör geri dönmeye çalışıyor. Bu hikâyeyi büyük bir patlama gösterisiyle bitirmeyeceğiz. Kaynaklarda görevden ayrılma ve taşınan düzeneğin bırakılması hakkında anlatımlar var; biz bunları bir zafer sahnesine çevirmiyoruz. Asıl bakacağımız şey, insanın denediği işi sürdürmekle geri dönmek arasında seçim yapmak zorunda kalması. Bir araç tasarlarken yalnız başlangıcı düşünemezsin. Yolculuğu bırakabilmek ve geri gelebilmek de tasarımın, tecrübenin ve karar vermenin bir parçası.
+
+## s17 — Tam anlatım metni
+Kıyıdaki hayalî çırağıma geri dönelim. Ben ahşap kabuğa bu kez başka türlü bakıyorum. Az önce bir icat görüyordum; şimdi bir insanın bütün işlerini içine sığdırması gereken dar bir çalışma yeri görüyorum. Bu yorumum kurgu, Bushnell'in ya da Lee'nin ağzına konmuş bir söz değil. Denemenin amacı gerçekleşmedi diye içindeki her fikir yok olmadı. Ama sonuç alınamadığını da gizleyemeyiz. Yenilikleri anlamak için hem yaratıcı fikri hem de gerçek koşullarda yaşanan zorluğu birlikte görmek gerekiyor.
+
+## s18 — Tam anlatım metni
+Peki ilk denizaltı bu mu? Bu kadar kısa cevap vermeyelim. Drebbel'in on yedinci yüzyıldaki sualtı denemeleri daha erken. Turtle, Amerikan denizaltı tarihinin ve deniz savaşındaki erken girişimlerin önemli bir örneği. Bin sekiz yüz altmış dörtteki Hunley olayı başka bir araçla ilgili; bin dokuz yüz yılında hizmete giren Holland da başka bir dönemin hikâyesi. Bunları aynı gövdeye ve aynı tarihe sıkıştırmıyoruz. İlk sözcüğü ancak neyin ilkini kastettiğimizi söylediğimizde gerçekten bilgi veriyor.
+
+## s19 — Tam anlatım metni
+Bugün gördüğün çizim veya müze aracı, bin yedi yüz yetmiş altıdan kalmış özgün Turtle olmak zorunda değil. Sonraki resimler yazılı betimlemelerin yorumları; müzelerde modeller ve replikalar var. Smithsonian kaydındaki örnek de yirminci yüzyılda yapılmış bir model. Bizim görüntülerimiz yapay zekâ destekli temsili canlandırmalar. Meraklı'nın çıraklığı ve karadaki oturma testi kurgu. Duyduğun su, ahşap ve mekanik sesler de o gecenin kayıtları değil, modern kayıtlarla kurulmuş ses tasarımı. Kanıtla canlandırmayı ayırıyoruz.
+
+## s20 — Tam anlatım metni
+Şimdi sen karar ver. Önünde ahşap bir kabuk, küçük bir kapak ve yalnız bir kişinin çalışabileceği bir yer var. Karada kapağı açıkken denemeyi mi seçerdin, suya inmeye gönüllü mü olurdun, yoksa kıyıda kalıp yardım mı ederdin? Ben bugün bir icada bakarken içindeki insanın yerini de düşünmeyi öğrendim. Seçimini yorumlara yaz. Meraklı'yla tarihin başka köşelerine gitmek için kanalıma abone olmayı unutmayın! Bir sonraki hikâyede yine aynı soruyu soracağız: Eğer orada olsaydım, ne yapardım?
+
+## Tur A yenileme paketi
+- s04 yeni PASS: iki kol/iki el, eller bel önünde birleştirilmiş, üçüncü kol/eldeki halat kaldırıldı.
+- s04b yeni PASS: dik oval ahşap kabuk ve tek oturaklı dar temsili kesit; yatay fıçı sapması giderildi.
+- s07 PASS: karada temsili pompa gösterimi, iki figürün ikişer kol/eli kontrol edildi.
+- s08 PASS: boş ve alevsiz temsili iç mekân; modern ekran/oksijen tüpü yok.
+- Toplam sahne görselleri **9/25**: s01/s02/s03/s04/s04b/s05/s06/s07/s08. Bu tur 10 görsel çağrısı kullanıldı; daha fazla yoklama yapılmadı.
+- Metinler **20/20** hazır. Sesler **10/20**, voice-03, ham toplam **341,09 sn**.
+- SONRAKİ: önce tek yoklama → s08b/s09/s10 görselleri → s11–s20 sesler/görseller → QA ve mühür. Meraklı'nın s09 testi karada, kapak açık ve içeride yalnız kendisi; görev içi sahnelerde yalnız Lee, kırmızı fular YOK.
