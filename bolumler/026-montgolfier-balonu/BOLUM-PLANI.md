@@ -1,7 +1,7 @@
 # B026 — MONTGOLFIER BALONU (1783)
 
 > Seri E, üçüncü bölüm. YOL 41 / Konu 50b. Yalnız uzun video: 5–12 dakika.
-> DURUM: Tur A — araştırma ve plan hazır; s01 kullanıcı onaylı; sesler 10/20 (347.40 sn), görseller 9/25 QA PASS; Tur A kısmi.
+> DURUM: Tur A — araştırma ve plan hazır; s01 kullanıcı onaylı; sesler 20/20 (675.62 sn), görseller 10/25 QA PASS; görsel üretimi sürüyor.
 > Araştırma: `arastirma/026-uzun-montgolfier-balonu.md`.
 
 ## Bölüm kilidi
@@ -97,3 +97,47 @@ Sepet yükseliyor; koyun, ördek ve horoz artık seyircilerin başının üstün
 | s10 | 34.42 |
 
 Toplam s01–s10: **347.40 sn**. Konuşma metinleri yukarıdaki kayıtla eşleştirilmiştir.
+
+## s11 — Tam anlatım metni
+Benim hayalî denemem bitti. Şimdi tarihte gerçekten uçacak iki kişiye yer açıyoruz: Pilâtre de Rozier ve d'Arlandes. Yirmi bir Kasım bin yedi yüz seksen üçte, Paris yakınındaki La Muette bahçesinde hazırlık yapılıyor. Bu balonun altında bugünkü gezi balonlarının sepeti yok. Açık ağzın çevresinde halka biçimli bir yolcu galerisi, ortada da havayı sıcak tutacak ateş var. İki uçucu bu dar çalışma alanını paylaşacak. Ben yerde kalıyorum. Bu uçuşun yolcu listesine üçüncü bir isim yazamayız.
+
+## s12 — Tam anlatım metni
+Halatlar artık balonu yerde tutmayacak. Yirmi bir Kasım günü, iki uçucu yerden ayrılıyor. Burada ilk sözcüğünün yanına önemli bir açıklama koyuyoruz: İnsan taşıyan, yere bağlı olmayan serbest bir sıcak hava balonu uçuşu. Daha önceki insansız gösteriyi, hayvanların yolculuğunu ve halatlı yükselişleri unutmuş değiliz. Onlar bu anın basamaklarıydı. Ben aşağıdan bakarken kendime soruyorum: Elimizde tuttuğumuz bir şeyi bırakmak mı daha zor, yoksa onunla birlikte göğe çıkmak mı?
+
+## s13 — Tam anlatım metni
+Artık bakışımızı temsili olarak uçucuların yanına taşıyoruz. Aşağıda Paris'in çatıları, sokakları ve nehir görünüyor. Bugün tanıdığımız her yapı o manzarada yok; burası bin yedi yüz seksen üçün şehri. Pencereden bakmıyorlar, kapalı bir kabinde değiller. Açık galeride, havanın içinde duruyorlar. Her çatı biraz daha küçük görünürken dünya haritaya benzemeye başlıyor. Ama bu görüntü bir kamera kaydı değil. Tarihî uçuşu anlamak için kurduğumuz bir canlandırma.
+
+## s14 — Tam anlatım metni
+Peki dümen nerede? Balonun burnunu çevirip şu sokağa sapamıyorsun. Hava kütlesi nereye gidiyorsa sen de büyük ölçüde onunla sürükleniyorsun. Isıyı yönetmek, yükselmek ve alçalmak başka; istediğin yöne gitmek başka. Daha sonraki balonculukta farklı yüksekliklerdeki rüzgârlardan yararlanmak önem kazanacak. Fakat bu ilk uçuşu bugünün tecrübesiyle donatmayalım. Uçucuların işi göğü fethetmekten çok, yeni bir aracın sınırlarını havadayken öğrenmek.
+
+## s15 — Tam anlatım metni
+Ateş havayı sıcak tutuyor. Ama aynı ateş, kumaşın yakınında dikkat isteyen bir tehlike. Yakıtı beslemek kadar kıvılcımları izlemek de gerekiyor. Uçuş anlatılarında örtüye zarar veren közlerle uğraşıldığı aktarılıyor. Burada göstereceğimiz yakın planlar temsili; hangi anda hangi elin nereye uzandığını kesin olarak bilmiyoruz. Bildiğimiz sorun açık: Yükselmeyi sağlayan ısı ile balonu koruma ihtiyacı aynı dar alanda buluşuyor. Göğe çıkmak, aşağıdaki işleri geride bırakmak demek değil.
+
+## s16 — Tam anlatım metni
+Yaklaşık yirmi beş dakika sonra uçuş sona eriyor. Balon, Paris'in o günkü dış kesimlerinde, Butte-aux-Cailles çevresine iniyor. Mesafe için kaynaklarda farklı rakamlar var; kesin bir kilometre söylemeden de başarının büyüklüğünü anlayabiliriz. İki insan yerden ayrıldı, şehir üzerinden sürüklendi ve yeniden yere döndü. Havada kalmak kadar iniş yapabilmek de hikâyenin parçası. Artık gökyüzü yalnız kuşların bulunduğu bir yer değil; insanların gidip dönebildiği bir yol ihtimali.
+
+## s17 — Tam anlatım metni
+Benim hayalî çırağıma geri dönelim. Yerdeyim; halatları topluyor, kumaşa bakıyor ve az önce olan şeyi anlamaya çalışıyorum. Benim sevincim kurgu, gerçek kişilerin ağzına yerleştirilmiş bir söz değil. Atölyedeki kâğıt ve dikişler şimdi başka görünüyor. Birkaç ay içinde deneme, gösteri, canlı yolcu ve serbest uçuş birbirini izledi. Her adımda aynı soru yeniden soruldu: Bir sonraki yükü de taşıyabilir miyiz? Büyük bir yenilik bazen tek bir sıçrama değil, birbirine eklenen küçük sınamalardır.
+
+## s18 — Tam anlatım metni
+Bir dakika, ilk uçuş hangisiydi? Sorunun cevabı neyi saydığına bağlı. Annonay'da insansız halka açık gösteri var. Versailles'da hayvan yolcular var. Sonra insanlı ama yere halatla bağlı yükselişler geliyor. Kasımda ise iki insanın serbest sıcak hava balonu uçuşu var. Bunları tek bir tarihe sıkıştırınca hikâye kolaylaşıyor ama anlamı eksiliyor. Daha eski küçük sıcak hava denemelerini de yok saymıyoruz. Buradaki dönüm noktası, insanların bu araçla serbestçe havalanıp yere dönebilmesi.
+
+## s19 — Tam anlatım metni
+Peki biz bu hikâyeye nereden bakıyoruz? Tarihî anlatımlar, çizimler ve müzelerdeki modeller bize yol gösteriyor. Bir gravür fotoğraf değil; sanatçının seçtiği açıları ve ayrıntıları da taşıyor. Bu videodaki sahneler de yapay zekâ destekli temsili canlandırmalar. Meraklı'nın çıraklığı ve küçük denemesi kurgu. Duyduğun rüzgâr, ateş ve halat sesleri de bin yedi yüz seksen üçten kalma kayıtlar değil, modern kayıtlarla kurulmuş bir ses tasarımı. Olayla onu anlatma biçimini birbirinden ayırıyoruz.
+
+## s20 — Tam anlatım metni
+Şimdi sıra sende. Önünde koca bir kumaş balon var. Motor yok, bildiğimiz anlamda dümen yok; aşağıda tanıdığın sokaklar, yukarıda henüz alışmadığın bir dünya. Önce halata bağlı bir denemeyi mi seçerdin, serbest uçuş için gönüllü mü olurdun, yoksa yerde kalıp izler miydin? Ben bugün göğe bakarken dikişleri de düşünmeyi öğrendim. Seçimini yorumlara yaz. Meraklı'yla yeni yolculuklara devam etmek için kanalıma abone olmayı unutmayın! Bir sonraki hikâyede yine, eğer orada olsaydım, diye soracağız.
+
+## Tur B ses mührü / s03 yenileme
+- s11–s20 tam metinler ve voice-03 sesleri tamam. Tüm bölüm ham ses toplamı: 675.62 sn.
+- s03 yeni üretim PASS: açık alt ağızlı torba, dönem gömlek/yelek/önlük, iki kol/el. Bölüm referansları kullanılarak kıyafet sapması giderildi. Toplam görsel 10/25.
+- s11: 32.81 sn.
+- s12: 34.06 sn.
+- s13: 31.85 sn.
+- s14: 29.81 sn.
+- s15: 31.66 sn.
+- s16: 31.42 sn.
+- s17: 33.98 sn.
+- s18: 33.70 sn.
+- s19: 32.38 sn.
+- s20: 36.58 sn.
