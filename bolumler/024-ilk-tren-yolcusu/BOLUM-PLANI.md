@@ -8,9 +8,13 @@ Konu kilidi: **Liverpool-Manchester Demiryolu açılışı,
 ikinci görselleri (20+5=25). Tur A s01-s10 = 10 ses + ana
 görseller ve s04b/s08b; Tur B s11-s20 = 10 ses + ana
 görseller ve s12b/s17b; Tur C = s19b + kapak.
-DURUM: 🟡 S01 TESTİ ÜRETİLDİ: ses 46.73 sn; görsel QA PASS
-(yarma istasyonu, 1830 kıyafetleri; lokomotif TEMSİLÎ).
-Kullanıcı onayı bekleniyor → onaylanırsa Tur A (s02-s10).
+DURUM: 🟡 Tur A KISMİ (görsel kotası): s01-s10 sesleri
+hazır (ham toplam 376,18 sn). Görseller: s01-s10 ana
+görseller + s04b QA PASS mühürlü; **s08b gelecek Tur**
+üretilecek. Not: s08'de kıkırdayan hanım figüründe hafif
+pembe yanak var (gülme ifadesi; kawaii sistemi değil,
+kabul edildi — istenirse yenilenir). Sıradaki: s08b +
+Tur B (s11-s20 tam metinler+sesler+görseller).
 
 Kaynak özeti: `arastirma/024-uzun-ilk-tren-yolcusu.md`.
 Açı: Meraklı, Edge Hill istasyonunda paket taşıyan ve
@@ -270,7 +274,7 @@ Yorumlara yaz." Kapanış kartı standardı Tur C'de.
 ## Tur DURUMU
 
 - [x] TEST: s01 ses+görsel üretildi; kullanıcı onayı bekleniyor
-- [ ] Tur A: s01-s10 sesler + ana görseller ve s04b/s08b
+- [x] Tur A: s01-s10 sesler + ana görseller ve s04b (s08b gelecek tur)
 - [ ] Tur B: s11-s20 sesler + ana görseller ve s12b/s17b
 - [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
 
