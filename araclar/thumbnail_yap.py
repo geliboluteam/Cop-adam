@@ -65,6 +65,7 @@ BOLUMLER = {
     "023": dict(buyuk="ATIN İÇİNDE\nNE VAR?", vurgu="MÖ 1180"),
     "024": dict(buyuk="İLK TREN\n48 KM KORKUSU", vurgu="1830"),
     "025": dict(buyuk="ATSIZ ARABA\n1 BEYGİRDEN AZ!", vurgu="1886"),
+    "026": dict(buyuk="İLK UÇUŞ\nDÜMEN YOK!", vurgu="1783"),
 }
 
 

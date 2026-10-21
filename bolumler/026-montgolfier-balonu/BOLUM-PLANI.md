@@ -1,7 +1,7 @@
 # B026 — MONTGOLFIER BALONU (1783)
 
 > Seri E, üçüncü bölüm. YOL 41 / Konu 50b. Yalnız uzun video: 5–12 dakika.
-> DURUM: Tur A — araştırma ve plan hazır; s01 kullanıcı onaylı; sesler 20/20 (675.62 sn), görseller 16/25 QA PASS; kalan 9 sahne görseli + kapak-baz.
+> DURUM: Tur A — araştırma ve plan hazır; s01 kullanıcı onaylı; sesler 20/20 (675.62 sn), görseller 24/25 QA PASS + kapak-baz hazır; yalnız s20 yenilemesi bekliyor.
 > Araştırma: `arastirma/026-uzun-montgolfier-balonu.md`.
 
 ## Bölüm kilidi
@@ -180,3 +180,9 @@ Abone çağrısı ayrı satır: KANALIMA ABONE OLMAYI UNUTMAYIN!
 | s20 | SEN BİNER MİYDİN? |
 
 SFX planı: modern rüzgâr, ateş, kumaş, halat/ahşap, ayak sesi ve kâğıt kayıtları. 1783 ses kaydı yok. Motor veya propan brülörü sesi kullanılmayacak. Kaynak/lisans ve dosya yolları plan.json hazırlanırken mevcut SFX envanterinden doğrulanacak. Altyazı yok, yalnız tarih bantları ve kartlar; `anlatim_metin:""`.
+
+## Son görsel paketi / kapak hazırlığı
+- PASS: s12b (ateş sepeti bağlı), s14 (modern kule yok), s15b, s16, s17, s18, s19, s19b ve kapak-baz.
+- Kontrol: figürlerde iki kol/el; sahnelerde dönem/anlatı uyumu. Müze maketleri ve gravürler tarihî nesnelerin birebir kopyaları değil, temsili sergileme. s19b'de ek giyinik yardımcı bulunması kanon ihlali değil.
+- s20 FAIL: balonda ek sepet + yerde bağımsız galeri. Final klasöründen çıkarıldı. Sonraki tur tek yoklama ile yeniden üretilecek. Düzeltme: arka planda balon SEPET/GALERİ çizme; yerde katlanmış kumaş + halat yeterli, yalnız Meraklı'nın iki açık eli ve kapanış sorusu.
+- Toplam 24/25; bu tur 10 görsel çağrısı kullanıldı. Kapak v4 kaydı ve baz kopyası hazır.

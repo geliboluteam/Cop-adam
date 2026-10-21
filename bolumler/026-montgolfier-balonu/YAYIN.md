@@ -34,5 +34,5 @@ Derleme sonrası `.ass` dosyasının TarihBandi başlangıçlarından üretilece
 
 ## Paket durumu
 - 20/20 anlatım metni, 20/20 ses (voice-03); ham toplam 675,62 sn.
-- 16/25 sahne görseli onaylı. Final süre, kapak ve video bekleniyor.
+- 24/25 sahne görseli onaylı; s20 yenilenecek. Final süre ve video bekleniyor.
 - Kapak v4 metni: İLK UÇUŞ / DÜMEN YOK! · 1783 (taslak).
