@@ -1,0 +1,568 @@
+{
+ "format": "16:9",
+ "encode_preset": "veryfast",
+ "crf": 25,
+ "maxrate": "1250k",
+ "baslik_karti": {
+  "yazi1": "EĞER 1776'DA OLSAYDIM",
+  "yazi2": "MERAKLI: DENİZALTI ATÖLYESİ ÇIRAĞI"
+ },
+ "kapanis_karti": {
+  "yazi": "BU ARACA GİRER MİYDİN?",
+  "alt": "KARADA DENERİM · SUYA İNERİM · KIYIDA KALIRIM — YORUMLARA YAZ",
+  "abone": "KANALIMA ABONE OLMAYI UNUTMAYIN!"
+ },
+ "muzik": {
+  "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+  "kazanc_db": -21
+ },
+ "hedef_sure": 620,
+ "hiz_max": 1.26,
+ "altyazi": false,
+ "sahneler": [
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s01.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s01.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "1776 · CONNECTICUT · MERAKLI: KURGU ÇIRAK",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0,
+     "kazanc_db": -31,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 5,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 13,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 22,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s02.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s02.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "1776 · SAVAŞ VE LİMAN · TEMSİLÎ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0,
+     "kazanc_db": -31,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 5,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 13,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 22,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s03.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s03.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "BUSHNELL ATÖLYESİ · TEMSİLÎ CANLANDIRMA",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 5,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 13,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 22,
+     "kazanc_db": -30
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s04.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s04.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "TEK KİŞİLİK KABUK · ÖZGÜN ÇİZİM DEĞİL",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 5,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 13,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 22,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/027-turtle-denizalti/uzun/gorseller/s04b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s05.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s05.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "İNSAN GÜCÜ · TEMSİLÎ REKONSTRÜKSİYON",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 5,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/clamour1.opus",
+     "t": 13,
+     "kazanc_db": -30
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 22,
+     "kazanc_db": -30
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s06.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s06.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SU VE DENGE · TEMSİLÎ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Water/tap-water-1.opus",
+     "t": 5,
+     "kazanc_db": -30
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 13,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 22,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s07.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s07.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "POMPA VE DİKKAT · KARADA GÖSTERİM",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 5,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Water/tap-water-1.opus",
+     "t": 13,
+     "kazanc_db": -30
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 22,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s08.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s08.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HAVA SINIRLI · SABİT GÜVENLİ SÜRE YOK",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0,
+     "kazanc_db": -36,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 5,
+     "kazanc_db": -30
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 13,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/027-turtle-denizalti/uzun/gorseller/s08b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s09.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s09.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KURGU · KARADA, KAPAK AÇIK · TEK KİŞİ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 5,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 13,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 22,
+     "kazanc_db": -30
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s10.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s10.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "EZRA BUSHNELL ≠ EZRA LEE",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0,
+     "kazanc_db": -31,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 5,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 13,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 22,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s11.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s11.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "EYLÜL 1776 · NEW YORK · TEMSİLÎ GECE",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0,
+     "kazanc_db": -31,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/0ad/ambient/water/waverocky_21.ogg",
+     "t": 5,
+     "kazanc_db": -30
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 13,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s12.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s12.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GÖREVDE YALNIZ EZRA LEE · TEMSİLÎ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0,
+     "kazanc_db": -36,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 5,
+     "kazanc_db": -30
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 13,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 22,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/027-turtle-denizalti/uzun/gorseller/s12b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s13.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s13.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "AKINTI VE KONUM · TEMSİLÎ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0,
+     "kazanc_db": -31,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 5,
+     "kazanc_db": -30
+    },
+    {
+     "dosya": "sfx/0ad/ambient/water/waverocky_21.ogg",
+     "t": 13,
+     "kazanc_db": -30
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s14.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s14.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "LEE'NİN SONRADAN AKTARIMI · TEMSİLÎ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0,
+     "kazanc_db": -31,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/0ad/ambient/water/waverocky_21.ogg",
+     "t": 5,
+     "kazanc_db": -30
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 13,
+     "kazanc_db": -30
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s15.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s15.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "NEDEN BELİRSİZ · BAKIR KESİN CEVAP DEĞİL",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0,
+     "kazanc_db": -36,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 5,
+     "kazanc_db": -30
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 13,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 22,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/027-turtle-denizalti/uzun/gorseller/s15b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s16.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s16.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GİRİŞİM BIRAKILIYOR · DÖNÜŞ TEMSİLÎ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0,
+     "kazanc_db": -31,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/0ad/ambient/water/waverocky_21.ogg",
+     "t": 5,
+     "kazanc_db": -30
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 13,
+     "kazanc_db": -30
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s17.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s17.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "MERAKLI KIYIDA · YORUMU KURGU",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0,
+     "kazanc_db": -31,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 5,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 13,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 22,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s18.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s18.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DREBBEL / TURTLE / HOLLAND · TEMSİLÎ MODELLER",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 5,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 13,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 22,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s19.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s19.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SONRAKİ ÇİZİMLER VE MODELLER · ÖZGÜN ARAÇ DEĞİL",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 5,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 13,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 22,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/027-turtle-denizalti/uzun/gorseller/s19b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/027-turtle-denizalti/uzun/gorseller/s20.png",
+   "anlatim": "bolumler/027-turtle-denizalti/uzun/sesler/s20.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SEN NEYİ SEÇERDİN? · MERAKLI: KURGU",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+     "t": 0,
+     "kazanc_db": -31,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 5,
+     "kazanc_db": -28
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 13,
+     "kazanc_db": -28
+    }
+   ],
+   "ek_sure": 0.6
+  }
+ ]
+}
