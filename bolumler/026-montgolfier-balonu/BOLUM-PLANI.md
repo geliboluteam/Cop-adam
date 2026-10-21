@@ -186,3 +186,10 @@ SFX planı: modern rüzgâr, ateş, kumaş, halat/ahşap, ayak sesi ve kâğıt 
 - Kontrol: figürlerde iki kol/el; sahnelerde dönem/anlatı uyumu. Müze maketleri ve gravürler tarihî nesnelerin birebir kopyaları değil, temsili sergileme. s19b'de ek giyinik yardımcı bulunması kanon ihlali değil.
 - s20 FAIL: balonda ek sepet + yerde bağımsız galeri. Final klasöründen çıkarıldı. Sonraki tur tek yoklama ile yeniden üretilecek. Düzeltme: arka planda balon SEPET/GALERİ çizme; yerde katlanmış kumaş + halat yeterli, yalnız Meraklı'nın iki açık eli ve kapanış sorusu.
 - Toplam 24/25; bu tur 10 görsel çağrısı kullanıldı. Kapak v4 kaydı ve baz kopyası hazır.
+
+## Tur C ön kontrol mührü
+- Kapak v4 üretildi, metin/karakter yerleşimi QA PASS: `kapaklar/thumbnail/bolum-026.png`.
+- `uzun/plan.json` hazır: 20 sahne, çiftler s04/s08/s12/s15/s19, 101 efekt, tüm ses/SFX yolları mevcut. Yalnız `gorseller/s20.png` eksik.
+- SADECE_MIX başarılı: miks 613,50 sn (hedef 613,48); anlatım ×1,039. SFX dosya/kaynak/lisans künyesi global kayıt ve YAYIN taslağında.
+- `.ass` ön zaman çizelgesi üretildi; 20 TarihBandi, giriş/kapanış/abone kartları var, konuşma altyazısı yok. Video henüz DERLENMEDİ.
+- SONRAKİ: önce tek yoklama ile sade s20 (Meraklı iki açık elle, arka planda yalnız katlanmış kumaş/halat, uçan balon ve ek sepet YOK) → QA → 25/25 mühür → tam derleme → kare QA ve final YAYIN/YOL mührü.

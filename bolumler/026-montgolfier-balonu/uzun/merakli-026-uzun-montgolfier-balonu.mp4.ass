@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:37.29,TarihBandi,,0,0,0,,1783 · FRANSA: GÖĞE İLK ADIM
+Dialogue: 1,0:00:37.09,0:01:09.05,TarihBandi,,0,0,0,,KÂĞITÇI KARDEŞLERİN SORUSU
+Dialogue: 1,0:01:08.85,0:01:39.89,TarihBandi,,0,0,0,,DUMAN DEĞİL, ISINAN HAVA
+Dialogue: 1,0:01:39.69,0:02:10.26,TarihBandi,,0,0,0,,4 HAZİRAN 1783 · ANNONAY
+Dialogue: 1,0:02:10.06,0:02:40.73,TarihBandi,,0,0,0,,HABER PARİS'E ULAŞIYOR
+Dialogue: 1,0:02:40.53,0:03:11.14,TarihBandi,,0,0,0,,HAFİF AMA SAĞLAM
+Dialogue: 1,0:03:10.94,0:03:40.33,TarihBandi,,0,0,0,,19 EYLÜL 1783 · VERSAILLES
+Dialogue: 1,0:03:40.13,0:04:10.81,TarihBandi,,0,0,0,,KOYUN · ÖRDEK · HOROZ
+Dialogue: 1,0:04:10.61,0:04:41.77,TarihBandi,,0,0,0,,EKİM 1783 · HALATLI DENEMELER
+Dialogue: 1,0:04:41.57,0:05:13.02,TarihBandi,,0,0,0,,MERAKLI'NIN DENEMESİ — KURGU
+Dialogue: 1,0:05:12.82,0:05:42.79,TarihBandi,,0,0,0,,İKİ GERÇEK UÇUCU
+Dialogue: 1,0:05:42.59,0:06:13.86,TarihBandi,,0,0,0,,21 KASIM 1783 · SERBEST UÇUŞ
+Dialogue: 1,0:06:13.66,0:06:42.60,TarihBandi,,0,0,0,,PARİS'E YUKARIDAN BAKMAK
+Dialogue: 1,0:06:42.40,0:07:09.82,TarihBandi,,0,0,0,,DÜMEN YOK: RÜZGÂRLA YOLCULUK
+Dialogue: 1,0:07:09.62,0:07:38.55,TarihBandi,,0,0,0,,ATEŞ: ISI VE DİKKAT
+Dialogue: 1,0:07:38.35,0:08:07.63,TarihBandi,,0,0,0,,YAKLAŞIK 25 DAKİKA SONRA
+Dialogue: 1,0:08:07.43,0:08:38.20,TarihBandi,,0,0,0,,YERDE KALAN ÇIRAK — KURGU
+Dialogue: 1,0:08:38.00,0:09:08.67,TarihBandi,,0,0,0,,İLK NEYİN İLKİ?
+Dialogue: 1,0:09:08.47,0:09:38.29,TarihBandi,,0,0,0,,GERÇEK OLAY · TEMSİLÎ GÖRÜNTÜ
+Dialogue: 1,0:09:38.09,0:10:13.48,TarihBandi,,0,0,0,,SEN BİNER MİYDİN?
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER 1783'TE OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: BALON ATÖLYESİ ÇIRAĞI
+Dialogue: 4,0:10:11.78,0:10:14.08,Kapanis,,0,0,0,,{\an5\pos(960,399)}BU BALONA BİNER MİYDİN?
+Dialogue: 4,0:10:12.08,0:10:14.08,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}HALATLI DENEME · SERBEST UÇUŞ · YERDE KALMAK — YORUMLARA YAZ
+Dialogue: 4,0:10:12.38,0:10:14.08,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!

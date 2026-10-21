@@ -1,0 +1,759 @@
+{
+ "format": "16:9",
+ "encode_preset": "veryfast",
+ "crf": 25,
+ "maxrate": "1250k",
+ "baslik_karti": {
+  "yazi1": "EĞER 1783'TE OLSAYDIM",
+  "yazi2": "MERAKLI: BALON ATÖLYESİ ÇIRAĞI"
+ },
+ "kapanis_karti": {
+  "yazi": "BU BALONA BİNER MİYDİN?",
+  "alt": "HALATLI DENEME · SERBEST UÇUŞ · YERDE KALMAK — YORUMLARA YAZ",
+  "abone": "KANALIMA ABONE OLMAYI UNUTMAYIN!"
+ },
+ "muzik": {
+  "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+  "kazanc_db": -21
+ },
+ "hedef_sure": 620,
+ "hiz_max": 1.26,
+ "altyazi": false,
+ "sahneler": [
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s01.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s01.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "1783 · FRANSA: GÖĞE İLK ADIM",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 25,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s02.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s02.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KÂĞITÇI KARDEŞLERİN SORUSU",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-2.opus",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 25,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s03.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s03.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DUMAN DEĞİL, ISINAN HAVA",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/attack/fire/c_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 18,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 25,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s04.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s04.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "4 HAZİRAN 1783 · ANNONAY",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 25,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/026-montgolfier-balonu/uzun/gorseller/s04b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s05.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s05.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HABER PARİS'E ULAŞIYOR",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-2.opus",
+     "t": 25,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s06.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s06.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HAFİF AMA SAĞLAM",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 25,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s07.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s07.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "19 EYLÜL 1783 · VERSAILLES",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 25,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s08.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s08.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KOYUN · ÖRDEK · HOROZ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus",
+     "t": 25,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/026-montgolfier-balonu/uzun/gorseller/s08b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s09.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s09.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "EKİM 1783 · HALATLI DENEMELER",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 25,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s10.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s10.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "MERAKLI'NIN DENEMESİ — KURGU",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 18,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_02.opus",
+     "t": 25,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s11.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s11.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "İKİ GERÇEK UÇUCU",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/BreakingFalling/bfh1_metal_hit_03.opus",
+     "t": 18,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 25,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s12.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s12.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "21 KASIM 1783 · SERBEST UÇUŞ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 25,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/026-montgolfier-balonu/uzun/gorseller/s12b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s13.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s13.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "PARİS'E YUKARIDAN BAKMAK",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 25,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s14.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s14.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "DÜMEN YOK: RÜZGÂRLA YOLCULUK",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 25,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s15.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s15.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ATEŞ: ISI VE DİKKAT",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/attack/fire/c_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/BreakingFalling/bfh1_metal_hit_03.opus",
+     "t": 18,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 25,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/SFX100/splash_01.opus",
+     "t": 22,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/026-montgolfier-balonu/uzun/gorseller/s15b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s16.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s16.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "YAKLAŞIK 25 DAKİKA SONRA",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_02.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 25,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s17.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s17.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "YERDE KALAN ÇIRAK — KURGU",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 25,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s18.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s18.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "İLK NEYİN İLKİ?",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -30,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/heel-reverb2.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/heel-reverb2.opus",
+     "t": 25,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s19.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s19.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "GERÇEK OLAY · TEMSİLÎ GÖRÜNTÜ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -30,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-2.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/heel-reverb2.opus",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 25,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/026-montgolfier-balonu/uzun/gorseller/s19b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/026-montgolfier-balonu/uzun/gorseller/s20.png",
+   "anlatim": "bolumler/026-montgolfier-balonu/uzun/sesler/s20.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SEN BİNER MİYDİN?",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -28,
+     "dongu": true,
+     "sure": 27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 5,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus",
+     "t": 11,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/rubberduck/RPG/item_wood_01.opus",
+     "t": 18,
+     "kazanc_db": -27
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus",
+     "t": 25,
+     "kazanc_db": -27
+    }
+   ],
+   "ek_sure": 0.6
+  }
+ ]
+}

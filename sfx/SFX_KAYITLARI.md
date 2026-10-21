@@ -626,3 +626,28 @@ künyesini ve genel arşiv envanterini tutar.
 | Telgraf/belge/bayrak | paper flips/crumples, blanket-movement-1 | Owlish CC0 | patent kağıdı, telgraf kâğıdı, başlangıç bayrağı kumaşı |
 | Müze | heel-reverb2/4, breath-male | Owlish CC0 | salon yankısı, nefes |
 | Müzik | The_Hellespont.ogg | 0 A.D. CC-BY-SA | kanal standart müziği (−21 dB) |
+
+### B026 — Montgolfier balonu (1783)
+- 101 efekt yerleşimi + müzik; aşağıda tüm benzersiz dosyalar listelenmiştir.
+- Özgün 1783 ses kaydı YOK. Rüzgâr/ateş/kuş ortamı türdeş modern kayıt; kumaş hareketi halat/örtü, ahşap foley galeri, metal vuruş ızgara ve su sesi kova için MODERN ANALOJİDİR. Propan brülörü/motor sesi kullanılmadı. Hayvan sesi uydurulmadı.
+- Müzik: The Hellespont, 0 A.D. müzik ekibi; −21 dB. Efektler −27…−30 dB, miks loudnorm hedefi −14 LUFS.
+- İşleme: yerleştirme, kazanç değişimi, ortam döngüsü, miks; CC-BY-SA bileşenlerin ses uyarlamalarında aynı lisans koşulu korunur.
+| Dosya | Sanatçı/kaynak | Lisans | Kaynak URL |
+|---|---|---|---|
+| `sfx/0ad/ambient/dayscape/day_temperate_11.ogg` | Wildfire Games / 0 A.D. | CC-BY-SA 3.0 | https://github.com/0ad/0ad |
+| `sfx/0ad/ambient/weather/wind_11.ogg` | Wildfire Games / 0 A.D. | CC-BY-SA 3.0 | https://github.com/0ad/0ad |
+| `sfx/0ad/ambient/weather/windgust_11.ogg` | Wildfire Games / 0 A.D. | CC-BY-SA 3.0 | https://github.com/0ad/0ad |
+| `sfx/0ad/attack/fire/c_11.ogg` | Wildfire Games / 0 A.D. | CC-BY-SA 3.0 | https://github.com/0ad/0ad |
+| `sfx/0ad/music/The_Hellespont.ogg` | Wildfire Games / 0 A.D. müzik ekibi (Omri Lahav) | CC-BY-SA 3.0 | https://github.com/0ad/0ad |
+| `sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
+| `sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/grass_footsteps.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
+| `sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
+| `sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/heel-reverb2.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
+| `sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
+| `sfx/free-sfx/Owlish/Sound Effects Pack/Human/solo-clap.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
+| `sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
+| `sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-2.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
+| `sfx/free-sfx/rubberduck/BreakingFalling/bfh1_metal_hit_03.opus` | rubberduck / Free-SFX | CC0 | https://github.com/EternityForest/Free-SFX |
+| `sfx/free-sfx/rubberduck/RPG/item_wood_01.opus` | rubberduck / Free-SFX | CC0 | https://github.com/EternityForest/Free-SFX |
+| `sfx/free-sfx/rubberduck/RPG/item_wood_02.opus` | rubberduck / Free-SFX | CC0 | https://github.com/EternityForest/Free-SFX |
+| `sfx/free-sfx/rubberduck/SFX100/splash_01.opus` | rubberduck / Free-SFX | CC0 | https://github.com/EternityForest/Free-SFX |
