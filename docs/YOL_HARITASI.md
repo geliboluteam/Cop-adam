@@ -74,7 +74,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 |---|---|---|---|---|
 | 39 | 19 | 1830, Liverpool | İlk tren yolcusu: 48 km/s hız korkusu | ✅ TAMAMLANDI (B024): 11:34 uzun video + kapak v4 + YAYIN.md; Seri E açıldı |
 | 40 | 20 | 1886-1900 | İlk otomobiller sokakta: halk tepkisi | ✅ TAMAMLANDI (B025): 10:14 uzun video + kapak v4 + YAYIN.md; Seri E 2. bölüm |
-| 41 | 50b | 1783, Paris | İlk balon uçuşunda sepettedir (Montgolfier) | 🟢 HAZIRLIK (B026): balon atölyesi çırağı; hayalî halatlı test, tarihî serbest uçuşta yalnız iki gerçek uçucu; s01 onayı bekleniyor |
+| 41 | 50b | 1783, Paris | İlk balon uçuşunda sepettedir (Montgolfier) | ✅ TAMAMLANDI (B026): 10:14 uzun video, 25 görsel, kapak v4, YAYIN ve SFX künyesi; Seri E 3. bölüm |
 | 42 | 49 | 1776/1860'lar | İlk denizaltıda mürettebat (Turtle/Holland) | ⬜ |
 | 43 | 54 | 1839, Paris | İlk fotoğraf çırağı: daguerreotip süreci | ⬜ |
 | 44 | 17 | 1903, Kitty Hawk | Wright kardeşlerin ilk uçuşu: kum tepeciğinde | ⬜ |

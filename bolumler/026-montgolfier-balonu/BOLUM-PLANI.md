@@ -1,7 +1,7 @@
 # B026 — MONTGOLFIER BALONU (1783)
 
 > Seri E, üçüncü bölüm. YOL 41 / Konu 50b. Yalnız uzun video: 5–12 dakika.
-> DURUM: Tur A — araştırma ve plan hazır; s01 kullanıcı onaylı; sesler 20/20 (675.62 sn), görseller 25/25 QA PASS + kapak v4 hazır; tam video derlemesi aşamasında.
+> DURUM: ✅ FİNAL — 613,63 sn (10:14), 76.636.281 bayt; 20 sahne / 25 görsel / 101 efekt. Kapak v4, YAYIN, SFX künyesi ve QA tamam.
 > Araştırma: `arastirma/026-uzun-montgolfier-balonu.md`.
 
 ## Bölüm kilidi
@@ -11,7 +11,7 @@
 - Hedef yaklaşık 10 dakika. Anlatıcı mevcut voice-03; altyazı yok.
 - Tüm insanlar giyinik kanonik çöp adam. Tam iki kol/iki el/iki bacak; tüm yüzler çizili. Fazla/eksik kol FAIL.
 - Modern propan tüpü, brülör, fermuar, elektrik hattı, Eyfel Kulesi YOK. Kasım balonu: halka galeri ve merkez ateşi; modern sepet YOK.
-- Kapak v4 taslağı: "İLK UÇUŞ / DÜMEN YOK!" · 1783. Meraklı konu kıyafetiyle odakta.
+- Kapak v4: "İLK UÇUŞ / DÜMEN YOK!" · 1783. Meraklı konu kıyafetiyle odakta.
 - Giriş: "EĞER 1783'TE OLSAYDIM / MERAKLI: BALON ATÖLYESİ ÇIRAĞI".
 - Kapanış: "BU BALONA BİNER MİYDİN?"; ayrı satır "KANALIMA ABONE OLMAYI UNUTMAYIN!".
 - Gerçek kayıt SFX + kaynak/lisans; rüzgâr/ateş/halat/kumaş analogları açık etiketli. Tarihî ses kaydı iddiası yok.
@@ -46,8 +46,8 @@
 - [x] Araştırma + gerçek/kurgu kilidi + 20 sahne/25 görsel planı.
 - [x] s01 görsel + ses testi ONAYLANDI: iç QA PASS (3 figür, ikişer kol/el); voice-03, 40.70 sn. Kullanıcı “Devam” onayı alındı.
 - [x] Tur A TAMAM: s01–s10 sesler; s01–s10 ana görseller + s04b/s08b PASS (12 görsel).
-- [ ] Tur B kısmi: s11–s20 metin ve sesler TAMAM; s11/s12/s13/s15 PASS. Kalan s12b, s14, s15b, s16–s20 ve s19b (9 görsel).
-- [ ] Tur C: kapak v4, kartlar/tarih bantları, miks, derleme, QA, YAYIN, SFX künyesi, final mühür.
+- [x] Tur B TAMAM: s11–s20 tam metin ve sesler; tüm ana/ikinci görseller QA PASS.
+- [x] Tur C TAMAM: kapak v4, kartlar/tarih bantları, miks, tam derleme, QA, YAYIN, SFX künyesi; final GitHub mühür paketi.
 
 ## s02 — Tam anlatım metni
 Bu işin başında iki kâğıtçı kardeş var: Joseph ve Étienne Montgolfier. Uçak fabrikasından değil, kâğıt ve kumaş dünyasından geliyorlar. Hafif bir örtünün içine hava doldurup onu yükseltmek, kulağa basit gelebilir. Ama örtü ağır olursa kalkmaz, zayıf olursa yırtılır, hava kaçırırsa söner. Bizim atölyede ben kâğıtları taşırken aynı soruyu düşünüyorum: Bir şeyi göğe kaldırmak için önce ne kadar hafif yapmalıyız? Benim çıraklığım kurgu; kardeşlerin denemeleri ise bu hikâyenin gerçek omurgası.
@@ -76,7 +76,9 @@ Sepet yükseliyor; koyun, ördek ve horoz artık seyircilerin başının üstün
 ## s10 — Tam anlatım metni
 Şimdi benim küçük denemem geliyor. Açık söyleyeyim: Bu sahne kurgu. Tarihî ilk uçucuların arasına kendimi eklemiyorum. Balon yere bağlı, ben halka biçimli platformda, yalnız birkaç metre yükseldiğimi hayal ediyorum. Ellerim korkulukta; aşağıdaki yardımcı bana bakıyor. Dün başımın üstündeki çatıya bakıyordum, şimdi çatının üstünü görmeyi düşünüyorum. İnsanı asıl şaşırtan yükseklik değil, alıştığı dünyanın açısının değişmesi olabilir. Ama halatlar çözülmeyecek. Benim yolculuğum bugün burada bitecek.
 
-## Bu tur üretim / QA kaydı
+## Üretim geçmişi (aşağıdaki ara durumlar tarihsel kayıttır)
+
+### İlk paket üretim / QA kaydı
 - s01 kullanıcı “Devam” onayı; s02 tek görsel yoklaması başarılı. Toplam 10 görsel çağrısı kullanıldı; daha fazla deneme yapılmadı.
 - PASS: s02, s04, s04b, s05, s06, s07, s08, s08b. s01 ile toplam 9/25. Figür sayısı, yüzler, iki kol/el ve anlatı uyumu kontrol edildi.
 - s03 FAIL: fizik deneyindeki açık ağızlı torba yerine kapalı mektup zarfı. Düzeltme FAIL: doğru torba ancak zincir zırh/bot ile 1783 kıyafet ihlali. İkisi de final klasöründen çıkarıldı; geçici tanı kopyaları `/tmp/b026-reddedilen/`. Yenilemede yalnız bölüm s01/s02 kostüm referansını kullan; zincir zırhı açıkça yasakla.
@@ -197,3 +199,12 @@ SFX planı: modern rüzgâr, ateş, kumaş, halat/ahşap, ayak sesi ve kâğıt 
 ## s20 son yenileme / derleme başlangıcı
 - s20 PASS: tek figür, iki açık el/iki kol/iki bacak; doğru kıyafet; arka planda yalnız katlanmış kumaş, bank ve halat. Ek sepet/galeri yok.
 - Sahne görselleri 25/25; kapak-baz ayrı. Tüm plan girdileri mevcut. Tam derleme başlatılıyor; henüz final değil.
+
+## FİNAL doğrulama
+- Video: `uzun/merakli-026-uzun-montgolfier-balonu.mp4` — 613,63 sn (10:14), 76.636.281 bayt, 1920×1080 H.264/AAC.
+- Ham anlatım 675,62 sn; işleme hızı ×1,039. 20 sahne / 25 görsel / 101 efekt; voice-03 korunuyor, konuşma altyazısı yok.
+- Tam video/ses decode testi PASS; giriş, halatlı KURGU, iki uçuculu serbest uçuş ve kapanış kartı örnekleri 4/4 PASS.
+- Final `.ass`: 20 TarihBandi; giriş/kapanış/ayrı abone satırı. YAYIN zaman damgaları final bant başlangıçlarından üretildi.
+- Kapak v4: `kapaklar/thumbnail/bolum-026.png` — İLK UÇUŞ / DÜMEN YOK! · 1783.
+- YAYIN ve global SFX kaydında benzersiz 17 ses dosyasının kaynak/lisansı mevcut (müzik dahil); 1783 ses kaydı iddiası yok.
+- Seri E üçüncü bölüm tamamlandı; YOL 41 / Konu 50b kapatıldı. GitHub final paketinin uzak SHA/boyutu ayrıca doğrulanacak.

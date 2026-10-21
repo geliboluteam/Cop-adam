@@ -1,6 +1,6 @@
 # YAYIN — B026 MONTGOLFIER BALONU (1783)
 
-**TASLAK — video henüz derlenmedi, zaman damgaları ve teknik final bilgileri eklenecek.**
+**FİNAL — video derlendi; teknik kontrol ve dört örnek kare QA PASS.**
 
 ## Başlık
 İlk Balona Biner Miydin? Dümen Yok! | Meraklı ile 1783
@@ -27,14 +27,35 @@ Sen hangisini seçerdin: halata bağlı deneme, serbest uçuş, yoksa yerde kal�
 - Araştırma ve belirsizlik notları: `arastirma/026-uzun-montgolfier-balonu.md`.
 
 ## Bölümler
-Derleme sonrası `.ass` dosyasının TarihBandi başlangıçlarından üretilecek.
+00:00 Göğe ilk adım
+00:37 Kâğıtçı kardeşlerin sorusu
+01:08 Duman değil, ısınan hava
+01:39 4 Haziran: Annonay
+02:10 Haber Paris’e ulaşıyor
+02:40 Hafif ama sağlam
+03:10 Versailles’a hazırlık
+03:40 Koyun, ördek ve horoz
+04:10 Halatlı denemeler
+04:41 Meraklı’nın denemesi — KURGU
+05:12 İki gerçek uçucu
+05:42 21 Kasım: serbest uçuş
+06:13 Paris’e yukarıdan bakmak
+06:42 Dümen yok: rüzgârla yolculuk
+07:09 Ateş: ısı ve dikkat
+07:38 Yaklaşık 25 dakika sonra
+08:07 Yerde kalan çırak — KURGU
+08:38 İlk neyin ilki?
+09:08 Gerçek olay, temsili görüntü
+09:38 Sen biner miydin?
+
+Zaman damgaları final `.ass` dosyasındaki **TarihBandi** başlangıçlarından türetildi.
 
 ## Etiketler
 #Meraklı #EğerOradaOlsaydım #Montgolfier #Balon #1783 #HavacılıkTarihi
 
 ## Paket durumu
 - 20/20 anlatım metni, 20/20 ses (voice-03); ham toplam 675,62 sn.
-- 25/25 sahne görseli onaylı. Tam video derlemesi ve final kontroller bekleniyor.
+- 25/25 sahne görseli onaylı; tam video derlemesi, dosya çözme testi ve dört örnek kare QA tamam.
 - Kapak v4: `kapaklar/thumbnail/bolum-026.png` — İLK UÇUŞ / DÜMEN YOK! · 1783; karakter hayalî çırak rolündedir, tarihî uçuşun üçüncü yolcusu değildir.
 
 ## Ses künyesi
@@ -63,7 +84,11 @@ Derleme sonrası `.ass` dosyasının TarihBandi başlangıçlarından üretilece
 | `sfx/free-sfx/rubberduck/RPG/item_wood_02.opus` | rubberduck / Free-SFX | CC0 | https://github.com/EternityForest/Free-SFX |
 | `sfx/free-sfx/rubberduck/SFX100/splash_01.opus` | rubberduck / Free-SFX | CC0 | https://github.com/EternityForest/Free-SFX |
 
-## Miks ön kontrolü (final video değil)
+## Miks ve final teknik bilgi
 - `SADECE_MIX=1` başarılı; miks 613,50 sn, zaman çizelgesi hedefi 613,48 sn; anlatım ×1,039.
-- 20 sahne, beş ikinci görsel yuvası, 101 efekt. s20 tamamlandı; tam derleme ve final QA bekleniyor.
-- Zaman damgaları ve final dosya boyutu TAM derleme sonrası doğrulanacak.
+- 20 sahne, beş ikinci görsel yuvası, 101 efekt. s20 yenilemesi PASS; tam derleme ve final QA tamamlandı.
+- Final: **613,63 sn (10:14)**, **76,636,281 bayt** (76,6 MB), 1920×1080, H.264/AAC, 48 kHz stereo.
+- Video: `uzun/merakli-026-uzun-montgolfier-balonu.mp4`; kapak: `kapaklar/thumbnail/bolum-026.png`.
+- 20 sahne / 25 görsel / 101 efekt; anlatım voice-03, altyazı yok.
+- Tam video/ses decode testi hatasız tamamlandı. Giriş, KURGU halatlı test, iki uçuculu serbest uçuş ve kapanış/abone kartı örnek kareleri PASS.
+- Gerçek/kurgu etiketleri korunur; hayalî Meraklı tarihî iki kişilik uçuşa eklenmez.
