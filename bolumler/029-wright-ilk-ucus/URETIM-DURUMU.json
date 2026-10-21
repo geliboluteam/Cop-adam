@@ -1,0 +1,162 @@
+{
+  "episode": 29,
+  "stage": "ARA_URETIM_FINAL_DEGIL",
+  "costume_approved_by_user": true,
+  "images": [
+    {
+      "id": "s01",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s01.png",
+      "status": "DUZELTME_BEKLIYOR",
+      "notes": "Kostüm kullanıcı onaylı. Uçaktaki pervaneler dört pala gibi: sonraki tur iki palaya düzelt; karakter değişmez."
+    },
+    {
+      "id": "s02",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s02.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Görsel kontrol geçti: 2 kol/2 ayrı el/2 beyaz bacak-ayak; sade deney sahası."
+    },
+    {
+      "id": "s03",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s03.png",
+      "status": "DUZELTME_BEKLIYOR",
+      "notes": "Görünür eller doğru. Meraklı ayakları kadraj dışında, yan figür altları masa arkasında; tam boy kadraj düzeltmesi bekliyor."
+    },
+    {
+      "id": "s04",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s04.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "İlk taslakta motor gibi parça vardı, kaldırıldı; motorsuz planör düzeltmesi kontrol edildi."
+    },
+    {
+      "id": "s04b",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s04b.png",
+      "status": "DUZELTME_BEKLIYOR",
+      "notes": "Kronoloji doğru; pervaneler dört pala gibi: iki palalı biçime düzeltme bekliyor."
+    },
+    {
+      "id": "s05",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s05.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Arka araştırmacının siyah ayakkabıları beyaz ayaklara düzeltildi; iki ayrı el/kol kontrol edildi."
+    },
+    {
+      "id": "s06",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s06.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Açıklayıcı şema; 2 ayrı el/kol/2 beyaz bacak-ayak kontrol edildi. Mühendislik planı değil."
+    },
+    {
+      "id": "s07",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s07.png",
+      "status": "DUZELTME_BEKLIYOR",
+      "notes": "FINAL FAIL: Taylor ikinci eli motor arkasında gizli; iki el ayrı görünmeli. Motor dik silindirli görünüyor; düşük yatay dört silindirli tarihsel biçimle değiştirilecek."
+    },
+    {
+      "id": "s08",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s08.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "İki ayrı pervane, her biri iki palalı; Meraklı 2 ayrı el/kol/2 bacak-ayak. Görsel kontrol geçti."
+    }
+  ],
+  "audio": [
+    {
+      "id": "s01",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s01.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 35.784,
+      "text": "On iki saniye. Bir kapıyı açıp dışarı çıkarken bile geçebilecek kadar kısa. Peki insanlık için kocaman bir adım bu kadar kısa sürebilir mi? Ben Meraklı. Bu kez yıl bin dokuz yüz üç; Kuzey Carolina kıyısında, Kitty Hawk yakınlarındaki Kill Devil Hills kumlarındayım. Buradaki varlığım kurgu; Wright kardeşlerin belgelenmiş yardımcısı ya da gerçek tanıklarından biri değilim. Uçağa dokunmayacak, güvenli uzaktan izleyeceğim. Önümüzdeki soru yalnızca havalanmak değil: Havaya çıktıktan sonra makineyi kim, nasıl kontrol edecek?",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s02",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s02.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 37.128,
+      "text": "Bu hikâyeyi çoğu zaman Kitty Hawk adıyla duyarız. Ama on yedi Aralık uçuşlarının yapıldığı yer, yakınındaki Kill Devil Hills bölgesidir. Bugün gördüğümüz pistleri, terminal binalarını ve kalabalık tribünleri aklından çıkar. Kum, rüzgâr, birkaç ahşap yapı ve sınırlı bir çalışma alanı var. Kardeşler burayı tesadüfen seçmedi. Geniş açık alan, rüzgâr ve yumuşak kum, önceki planör deneyleri için önemliydi. Yine de kumun yumuşak olması, düşmenin zararsız olduğu anlamına gelmiyordu. Bu kıyı, hazır bir havaalanı değil, zor bir deney sahasıydı.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s03",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s03.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 34.848,
+      "text": "Wilbur ve Orville Wright, Ohio'nun Dayton kentindeki bisiklet işleriyle de tanınıyordu. Bu yüzden hikâyeyi iki bisikletçinin birden uçak yapması diye özetlemek kolay. Ama o kısa özet, yıllarca süren okumayı ve denemeyi saklıyor. Öncekilerin çalışmalarını araştırdılar, bilgi istediler, küçük uçurtmalarla kontrol fikirlerini sınadılar. Havacılık geçmişini boş bir sayfa sanmadılar. Ben hayalî defterime bir soru yazıyorum: Başkasının verdiği bilgiyi kullanmakla, onu deneyerek sınamak arasındaki fark ne? Bu hikâyede ikisine de ihtiyaç var.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s04",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s04.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 38.016,
+      "text": "Şimdi bugünden bir adım geri çekilelim. Burada gördüğümüz planör, motorlu uçuşun kendisi değil; daha önceki öğrenme sürecinin temsili. Kardeşler bin dokuz yüz, bin dokuz yüz bir ve bin dokuz yüz iki yıllarında planörler denedi. Havada dengeyi korumak, makinenin tepkisini anlamak ve inişi yönetmek, yalnız masa başında çözülemiyordu. Motor eklemek bu becerileri gereksiz kılmadı. Görüntü yeniden bin dokuz yüz üçe döndüğünde artık farkı biliyoruz: Bugünkü makinenin arkasında, yüzlerce planör denemesinden biriken deneyim var.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s05",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s05.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 36.528,
+      "text": "İlk planörler bekledikleri kadar kaldırma üretmediğinde, yalnızca daha güçlü rüzgâr beklemekle yetinmediler. Hesaplarda kullandıkları bilgileri de sorguladılar. Dayton'da küçük bir rüzgâr tüneli kurup farklı kanat biçimlerini sınadılar. Buradaki küçük modeller, oyuncak diye kenara atılacak nesneler değildi; büyük makine hakkında soru sormanın araçlarıydı. Her başarısızlık kendiliğinden ders olmaz. Ne ölçtüğünü, hangi koşulun değiştiğini ve sonucu nasıl karşılaştırdığını bilmen gerekir. Meraklı'nın payına düşen de bir mucize beklemek değil, ölçümün neden önemli olduğunu anlamak.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s06",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s06.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 38.856,
+      "text": "Bir makineyi havada tutmak ile onu istediğin gibi yönetmek aynı şey değil. Kanatlar kaldırma üretir; motorun çevirdiği pervaneler ilerlemeye yardım eder. Ama makine yana yatarsa, burnu beklenmedik biçimde yükselirse ya da yönü değişirse pilotun karşılık verebilmesi gerekir. Bunlar birbirinden kopuk üç kutu değil; uçuşta aynı anda çalışan bir sistemin parçaları. Birinin iyi olması, diğerinin eksikliğini sihirli biçimde kapatmaz. Benim bu sahnedeki çizimim de yalnız açıklayıcı bir temsil. Buradan bir uçak yapma ya da deneme talimatı çıkarmıyoruz.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s07",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s07.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 38.088,
+      "text": "Uygun hafif motoru hazır satın almak kolay değildi. Bu noktada bisiklet atölyesinin yetenekli makinisti Charles Taylor, yani Charlie Taylor'ın katkısını unutmamak gerekir. Kardeşlerle birlikte yürüyen çalışma, uçabilecek kadar hafif ve yeterince güçlü bir motor ortaya çıkardı. Bütün başarıyı tek bir kahramanın cebine koyarsak, hikâyenin önemli bir parçasını kaybederiz. Tasarım kadar imalatın, düşünce kadar düzgün çalışan parçanın da payı var. Ben motoru çalıştırmıyor, yakıtına dokunmuyor ve yakınına girmiyorum. Burada anlattığımız şey yapım tarifi değil, emeğin görünmeyen kısmı.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s08",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s08.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 36.744,
+      "text": "Uçağın arkasındaki iki ahşap pervaneye dikkat et. Bunlar bir gemi pervanesinin düşünmeden havaya taşınmış kopyaları değil. Kardeşler pervaneleri, dönerken hava içinde çalışan kanatlar gibi ele aldı. Motordan gelen hareket zincirlerle bu iki pervaneye aktarılıyordu; pervaneler zıt yönlerde dönüyordu. Yakın ayrıntıdaki çizim, düzeni anlamak için yapılmış temsili bir görünüm. Ellerimizi yaklaştırmıyor, çalışan makineye bir nesne uzatmıyoruz. Bugünün pürüzsüz jet gövdesini ararsan yanılırsın: Bu makinenin itişi, açıkta görünen mekanik bir sistemden geliyor.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s09",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s09.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 35.664,
+      "text": "Şu ince çizgi bir tren hattı değil, kalkış için kullanılan tek ray. Kum üzerinde alışılmış tekerleklerle hızlanmak zor olduğu için Flyer, ray üzerinde hareket eden küçük bir taşıyıcıdan yararlanıyordu. Uçağın kendi iniş düzeni ise kızaklardı. Yani yerdeki taşıyıcının tekerleğiyle uçağın iniş takımını birbirine karıştırmayalım. Ray, makineyi kendi kendine fırlatan bir motor da değildi. Sonraki yıllardaki katapult düzeneklerini bu güne taşımıyoruz. On yedi Aralık sahnesinde gördüğümüz, motoru ve pervaneleriyle hızlanan bir uçağa kalkış yolu sağlayan düzen.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s10",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s10.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 36.528,
+      "text": "Pilot bugünkü yolcu uçağındaki gibi bir koltukta dik oturmuyor; alt kanatta yüzükoyun yatıyor. Öndeki yatay yüzey, burnun yukarı ve aşağı hareketini yönetmeye yardım ediyor. Yana yatışta kanatların burulması kullanılıyor; arkadaki dikey dümen de yön kontrolüne katılıyor. Bunları ayrı ayrı anlatmak kolay, havada birlikte yönetmek çok daha zor. Kanat burmayı, bugünün kanadına takılmış ayrı hareketli parçalarla aynı çizmemeliyiz. Ben kumun üzerinde güvenli uzakta dururken bile sorunun büyüklüğü anlaşılıyor: Makinenin havaya çıkması, kendi kendine dengede kalacağı anlamına gelmiyor.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    }
+  ],
+  "audio_total_seconds": 368.184,
+  "next": [
+    "s01/s04b pervaneleri iki palaya düzelt",
+    "s03 tam boy ve yan figürlerin ayrı beyaz ayakları",
+    "s07 iki AYRI görünür el + yatay dört silindirli motor",
+    "s08b, s09–s20 ve s12b/s15b/s19b üret",
+    "s11–s20 voice-03 sesler",
+    "ses süresine göre 5–12 dk final zamanlaması; henüz render yok"
+  ]
+}

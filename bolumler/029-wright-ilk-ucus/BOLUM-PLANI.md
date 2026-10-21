@@ -1,13 +1,13 @@
 # B029 — 1903: WRIGHT KARDEŞLERİN İLK UÇUŞLARI
 
 > Seri E 6. bölüm · YOL44 / Konu17.
-> DURUM: Araştırma ve 20 tam anlatım taslağı hazır; s01 görseli üretildi/inceleme tamam. **Kostüm ve karakter için kullanıcı onayı bekleniyor.** Video henüz üretilmedi.
+> DURUM: **Kostüm/karakter kullanıcı tarafından “Devam” ile onaylandı.** Ara üretim: 9 görsel dosyası (5 kontrolü geçti / 4 düzeltme bekliyor), ilk 10 voice-03 Türkçe ses hazır (368,184 sn ham). Video henüz üretilmedi. Ayrıntı: `URETIM-DURUMU.json`.
 > Kaynak: `arastirma/029-uzun-wright-ilk-ucus.md`.
 
 ## Format ve kilitler
 - Yalnız uzun video, 5–12 dakika; hedef yaklaşık 10 dakika. Shorts YOK.
 - 20 sahne / 25 görsel. Çiftler **04/08/12/15/19**; sahne ortasında ikinci görsel, süre ve anlatım senkronu değişmez.
-- Aynı Türkçe anlatıcı **voice-03**. Henüz ses üretilmedi; anlatım zamanlaması seslerden sonra ölçülecek. Altyazı YOK.
+- Aynı Türkçe anlatıcı **voice-03**. s01–s10 üretildi; 368,184 sn ham toplam. s11–s20 sonraki tur. Nihai zamanlama bütün seslerden sonra ölçülecek; 12 dakika üst sınırı korunacak. Altyazı YOK.
 - Giriş: EĞER 1903'TE OLSAYDIM / MERAKLI: İLK UÇUŞUN KIYISINDA.
 - Tarih/yer kartı: 17 ARALIK 1903 · KILL DEVIL HILLS / KITTY HAWK YAKINLARI.
 - Kapanış: SEN HANGİSİNİ SEÇERDİN? / UÇMAK · ÖLÇMEK · FOTOĞRAFLAMAK — YORUMLARA YAZ.
@@ -32,7 +32,7 @@
 - Yerdeki rüzgâr hasarı patlama/ölümlü uçuş kazası değil. Sesler modern analoji.
 
 ## 20 sahne / 25 görsel akışı
-1. On iki saniye yeter mi? — s01, kullanıcı onayı bekliyor.
+1. On iki saniye yeter mi? — s01 kostüm onaylı; pervane iki-pala doğruluk düzeltmesi bekliyor.
 2. Kitty Hawk mı, Kill Devil Hills mi?
 3. Bisiklet atölyesinden gelen soru
 4. Uçmak önce öğrenilir — s04 + s04b (planör geçmişi / motorlu gün ayrımı)
@@ -117,5 +117,9 @@ Günün sonunda benim defterimde yalnız on iki saniye yazmıyor. Ölçmek, yeni
 
 ## Üretim günlüğü
 - 21 Ekim 2026: kurumsal araştırma; 20 sahne tam metin taslağı, 25 görsel dağılımı ve s01 kostüm örneği hazırlandı.
-- s01 iç görsel kontrolü: iki ayrı el/iki kol/iki bacak/iki beyaz ayak; kanonik baş ve kırmızı fular; motor kapalı ve güvenli uzaklık. Kullanıcı onayı henüz alınmadı.
-- s02–s20 / ikinci görseller, sesler, final kapak, render, SFX lisans künyesi ve teknik QA **henüz yapılmadı**.
+- s01 karakter/kostüm kullanıcı “Devam” yanıtıyla onaylandı. Karakter kimliği değişmez; uçaktaki pervane pala sayısı düzeltilecek.
+- Bu üretim turu: 10 başarılı görsel üretim/düzenleme çağrısı; 9 toplam görsel dosyası. s02/s04/s05/s06/s08 görsel kontrolü geçti. s04'teki motor benzeri parça kaldırıldı; s05 yan figürün ayakları beyaz olarak düzeltildi.
+- Düzeltme bekleyenler: s01 ve s04b pervaneler iki palalı olmalı; s03 tam boy kadraj/yan figür altları; s07 Taylor'ın gizli ikinci eli ayrı görünmeli ve motor alçak yatay dört silindir biçiminde olmalı. Bunlar **final PASS değildir**.
+- s01–s10 voice-03/tr: 10 MP3 dosyası, başlık okuma doğrulaması geçti; toplam 368,184 sn. Dinleme ve final tam decode henüz yapılmadı.
+- Araç bu tur 10 görsel sınırına ulaştı; s08b ve s07 düzeltme çağrıları limit nedeniyle dosya üretmedi. Yeniden deneme sonraki tur.
+- Kalan 16 görsel, dört mevcut görsel düzeltmesi, s11–s20 sesler, final kapak, render, SFX lisans künyesi ve teknik QA **henüz yapılmadı**. Her dosyanın ayrıntısı `URETIM-DURUMU.json` içinde.

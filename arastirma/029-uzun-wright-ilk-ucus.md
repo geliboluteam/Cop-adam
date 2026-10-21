@@ -37,4 +37,4 @@ Araştırma: 21 Ekim 2026. Seri E 6. bölüm; YOL44 / Konu17.
 ## İlk sahne / onay kontrolü
 - `bolumler/029-wright-ilk-ucus/uzun/gorseller/s01.png`: görsel incelendi; Meraklı'da 2 kol, birbirinden ayrı 2 beyaz el, 2 beyaz bacak/ayak. Açık gömlek, koyu zeytin-kahverengi yelek, antrasit diz altı pantolon, kırmızı uzun fular. Baş kimliği referansla uyumlu.
 - Motor kapalı, uçak yerde ve karakterden uzakta. Çift kanat, ön yatay yüzey, çift itici pervane, kızak ve tek ray okunuyor. Bu çizim mühendislik ölçülü plan değil.
-- **Kullanıcı kostüm/karakter onayı BEKLENİYOR; s02+ toplu görsel üretimi yapılmadı.**
+- **Kullanıcı kostüm/karakteri “Devam” ile ONAYLADI; ilk üretim grubu başladı.** s01'deki uçak pervaneleri dört palalı gibi göründüğünden iki palalı doğruluk düzeltmesi bekliyor; karakter onayı bundan ayrı. s04 motorsuz planör, s05 beyaz ayak düzeltmeleri yapıldı. s07 gizli el ve yatay silindirli motor düzeltmesi bekliyor. Güncel dosya düzeyi durum: `bolumler/029-wright-ilk-ucus/URETIM-DURUMU.json`.
