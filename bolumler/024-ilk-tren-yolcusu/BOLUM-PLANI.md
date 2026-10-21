@@ -12,7 +12,10 @@ DURUM: 🟡 Tur A TAMAM: s01-s10 sesleri (376,18 sn) +
 12 görsel (s01-s10 ana + s04b/s08b) QA PASS mühürlü.
 Not: s08'de kıkırdayan hanımda hafif pembe yanak var
 (gülme ifadesi diye kabul edildi). s11-s20 metinleri
-TAM METNE genişletildi; sıradaki: Tur B ses+görseller.
+TAM METNE genişletildi. Tur B: s11-s19 sesleri üretildi;
+**s20 sesi gelecek Tur** (ses kotası) + **s12 sesi
+"o gece" düzeltmesiyle yenilenecek**. Sıradaki: Tur B
+görselleri.
 
 Kaynak özeti: `arastirma/024-uzun-ilk-tren-yolcusu.md`.
 Açı: Meraklı, Edge Hill istasyonunda paket taşıyan ve
@@ -253,8 +256,8 @@ vagon ayrıntıları TEMSİLÎdir.
 ### s13 — ERTESİ GÜN TARİFE
 - Metin: "Ertesi gün, 16 Eylül'de her şey tarifeye
   bağlandı. İlk tarifeli tren yüz otuz yolcuyla kalktı;
-  çoğu, Manchester'daki toplantılarına giden Quaker
-  cemaati üyeleriydi. Bilet yedi şilin: bir işçinin
+  çoğu, Manchester'daki toplantılarına giden cemaat
+  üyeleriydi. Bilet yedi şilin: bir işçinin
   günlerce çalışması demek; yani tren önce parası
   olanların hızı oldu. Yine de kuyruk uzadı durdu. İlk
   haftanın sonunda tam altı bin yüz dört kişi bu hatla
