@@ -67,6 +67,7 @@ BOLUMLER = {
     "025": dict(buyuk="ATSIZ ARABA\n1 BEYGİRDEN AZ!", vurgu="1886"),
     "026": dict(buyuk="İLK UÇUŞ\nDÜMEN YOK!", vurgu="1783"),
     "027": dict(buyuk="TEK KİŞİ\nHAVA SINIRLI!", vurgu="1776 · TURTLE"),
+    "028": dict(buyuk="KIPIRDAMA!\nTEK KARE", vurgu="1839 · FOTOĞRAF"),
 }
 
 

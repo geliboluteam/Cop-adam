@@ -1,0 +1,549 @@
+{
+ "format": "16:9",
+ "encode_preset": "veryfast",
+ "crf": 25,
+ "maxrate": "1250k",
+ "baslik_karti": {
+  "yazi1": "EĞER 1839'DA OLSAYDIM",
+  "yazi2": "MERAKLI: FOTOĞRAF ÇIRAĞI"
+ },
+ "kapanis_karti": {
+  "yazi": "SEN NEYİ SAKLARDIN?",
+  "alt": "PORTRE · MANZARA · MAKİNENİN ARKASI — YORUMLARA YAZ",
+  "abone": "KANALIMA ABONE OLMAYI UNUTMAYIN!"
+ },
+ "muzik": {
+  "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+  "kazanc_db": -23
+ },
+ "hedef_sure": 620,
+ "hiz_max": 1.26,
+ "altyazi": false,
+ "sahneler": [
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s01.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s01.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "1839 · PARİS · MERAKLI: KURGU ÇIRAK",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -34,
+     "dongu": true,
+     "sure": 24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 20,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s02.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s02.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "YENİ GÖRÜNTÜNÜN HABERİ · TEMSİLÎ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -34,
+     "dongu": true,
+     "sure": 24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s03.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s03.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "NİÉPCE DAHA ÖNCE · TEK MUCİT DEĞİL",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+     "t": 20,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s04.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s04.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KAMERA OBSCURA · TEMSİLÎ KESİT",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -34,
+     "dongu": true,
+     "sure": 24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/028-dagerreyotip/uzun/gorseller/s04b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s05.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s05.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KÂĞIT DEĞİL METAL · DUYARSIZ EĞİTİM PARÇASI",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -34,
+     "dongu": true,
+     "sure": 24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s06.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s06.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "CIVA BUHARI TEHLİKELİ · UYGULAMA YOK",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s07.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s07.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SÜRGÜLÜ AHŞAP KUTULAR · BOŞ EĞİTİM MAKİNESİ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -34,
+     "dongu": true,
+     "sure": 24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s08.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s08.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "ERKEN POZLAMA: DAKİKALAR · SABİT SÜRE YOK",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -34,
+     "dongu": true,
+     "sure": 24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 4,
+     "kazanc_db": -33
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/028-dagerreyotip/uzun/gorseller/s08b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s09.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s09.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HAREKET VE UZUN POZLAMA · TEMSİLÎ SOKAK",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -34,
+     "dongu": true,
+     "sure": 24
+    },
+    {
+     "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+     "t": 4,
+     "kazanc_db": -31
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s10.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s10.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "1839 · 7 OCAK: GÖSTERİM / 19 AĞUSTOS: AÇIKLAMA",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -34,
+     "dongu": true,
+     "sure": 24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+     "t": 20,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s11.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s11.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "POZLAMA ≠ BİTMİŞ GÖRÜNTÜ · TEMSİLÎ",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s12.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s12.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "METAL, IŞIK VE BAKIŞ AÇISI · TEMSİLÎ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -34,
+     "dongu": true,
+     "sure": 24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/028-dagerreyotip/uzun/gorseller/s12b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s13.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s13.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SAĞ–SOL TERSLİĞİ · TEMSİLÎ KARŞILAŞTIRMA",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -34,
+     "dongu": true,
+     "sure": 24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s14.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s14.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "TEKİL METAL GÖRÜNTÜ ≠ ASLA KOPYALANAMAZ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -34,
+     "dongu": true,
+     "sure": 24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 20,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s15.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s15.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "TALBOT: AYRI KÂĞIT YOLU · KALOTİP: 1841",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+     "t": 20,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/028-dagerreyotip/uzun/gorseller/s15b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s16.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s16.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KURGU: HAREKETSİZ BEKLEME · GERÇEK POZLAMA YOK",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -34,
+     "dongu": true,
+     "sure": 24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+     "t": 4,
+     "kazanc_db": -33
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s17.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s17.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "HASSAS YÜZEY · CAM ALTINDA, DOKUNMADAN",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -34,
+     "dongu": true,
+     "sure": 24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s18.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s18.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "KADRAJ VE BAĞLAM · TEMSİLÎ",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -34,
+     "dongu": true,
+     "sure": 24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s19.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s19.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "AI TEMSİLÎ GÖRÜNTÜ · MODERN KAYIT SES TASARIMI",
+   "efektler": [
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+     "t": 20,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 0.6,
+   "gorsel2": "bolumler/028-dagerreyotip/uzun/gorseller/s19b.png",
+   "gorsel2_oran": 0.5
+  },
+  {
+   "gorsel": "bolumler/028-dagerreyotip/uzun/gorseller/s20.png",
+   "anlatim": "bolumler/028-dagerreyotip/uzun/sesler/s20.mp3",
+   "anlatim_metin": "",
+   "tarih_bandi": "SEN NEYİ SAKLARDIN? · MERAKLI: KURGU",
+   "efektler": [
+    {
+     "dosya": "sfx/0ad/ambient/dayscape/day_temperate_11.ogg",
+     "t": 0,
+     "kazanc_db": -34,
+     "dongu": true,
+     "sure": 24
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+     "t": 4,
+     "kazanc_db": -29
+    },
+    {
+     "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Footsteps/hard-footstep1.opus",
+     "t": 11,
+     "kazanc_db": -29
+    }
+   ],
+   "ek_sure": 5.0
+  }
+ ]
+}
