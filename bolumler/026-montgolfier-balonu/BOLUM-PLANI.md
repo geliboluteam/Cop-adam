@@ -1,7 +1,7 @@
 # B026 — MONTGOLFIER BALONU (1783)
 
 > Seri E, üçüncü bölüm. YOL 41 / Konu 50b. Yalnız uzun video: 5–12 dakika.
-> DURUM: Tur A — araştırma ve plan hazır; s01 karakter/sahne testi kullanıcı onayını bekliyor.
+> DURUM: Tur A — araştırma ve plan hazır; s01 kullanıcı onaylı; sesler 10/20 (347.40 sn), görseller 9/25 QA PASS; Tur A kısmi.
 > Araştırma: `arastirma/026-uzun-montgolfier-balonu.md`.
 
 ## Bölüm kilidi
@@ -44,7 +44,56 @@
 
 ## Tur durumu
 - [x] Araştırma + gerçek/kurgu kilidi + 20 sahne/25 görsel planı.
-- [ ] s01 görsel + ses testi ÜRETİLDİ: iç QA PASS (3 figür, ikişer kol/el); voice-03, 40.70 sn. Kullanıcı onayı bekleniyor; onaysız toplu üretim yok.
-- [ ] Onay sonrası s02–s10 tam metinleri ve üretimi.
+- [x] s01 görsel + ses testi ONAYLANDI: iç QA PASS (3 figür, ikişer kol/el); voice-03, 40.70 sn. Kullanıcı “Devam” onayı alındı.
+- [ ] Tur A kısmi: s02–s10 tam metinler ve sesler TAMAM; görseller s02/s04/s04b/s05/s06/s07/s08/s08b PASS; s03 yenilenecek, s09/s10 bekliyor.
 - [ ] Tur B: s11–s20 tam metinleri, sesler, kalan görseller.
 - [ ] Tur C: kapak v4, kartlar/tarih bantları, miks, derleme, QA, YAYIN, SFX künyesi, final mühür.
+
+## s02 — Tam anlatım metni
+Bu işin başında iki kâğıtçı kardeş var: Joseph ve Étienne Montgolfier. Uçak fabrikasından değil, kâğıt ve kumaş dünyasından geliyorlar. Hafif bir örtünün içine hava doldurup onu yükseltmek, kulağa basit gelebilir. Ama örtü ağır olursa kalkmaz, zayıf olursa yırtılır, hava kaçırırsa söner. Bizim atölyede ben kâğıtları taşırken aynı soruyu düşünüyorum: Bir şeyi göğe kaldırmak için önce ne kadar hafif yapmalıyız? Benim çıraklığım kurgu; kardeşlerin denemeleri ise bu hikâyenin gerçek omurgası.
+
+## s03 — Tam anlatım metni
+Ateşin üstündeki örtü kabarıyor. O günlerde bu yükselişte dumanın özel bir payı olduğunu düşünenler var. Şimdi bugünün bilgisiyle araya girelim: Balonu kaldıran, dumanın rengi değil. İçindeki hava ısındığında yoğunluğu çevredeki havadan daha düşük oluyor. Yeterince büyük bir hacimde bu fark, örtüyü ve yükünü taşıyabiliyor. Benim gözümde hâlâ sihir gibi görünüyor; ama bu bir fizik meselesi. Üstelik sıcak hava soğuyunca üstünlük azalıyor. Göğe çıkmak tek hamlelik bir numara değil.
+
+## s04 — Tam anlatım metni
+Dört Haziran bin yedi yüz seksen üç. Annonay'da insanlar toplanmış, büyük bir balona bakıyor. Bu kez deneme atölyenin içinde kalmayacak. Balon yükseliyor; içinde insan yok. Yaklaşık on dakika boyunca havada kalıyor. Yerden bakan biri için on dakika, göz açıp kapamak kadar kısa da gelebilir, bir ömür kadar uzun da. Yüksekliği için farklı tahminler anlatılıyor; kesin bir rakama tutunmayalım. Önemli olan şu: Bir örtü, ısıtılmış havayla kalabalığın gözleri önünde yerden ayrılıyor.
+
+## s05 — Tam anlatım metni
+Böyle bir gösterinin haberi küçük bir meydanda durur mu? Denemelerin ünü Paris'e ulaşıyor. Merak artık yalnız kâğıtçıların meselesi değil; bilim çevreleri ve saray da bu yeni araca bakıyor. Ama haber büyüdükçe işin yükü de büyüyor. Daha gösterişli bir balon, daha sağlam bağlantılar, daha dikkatli hazırlık gerekiyor. Benim hayalî görevim bu koşuşturmada malzeme taşımak. Kendime soruyorum: İnsanlar göğe çıkan şeyi alkışlıyor; peki yerde saatlerce çalışan elleri kim görüyor?
+
+## s06 — Tam anlatım metni
+Yakından bakınca balon tek parça bir mucize değil. Birleştirilen yüzeyler, dikişler, kâğıt katları ve halatlar var. Her bağlantı hafif olmakla sağlam olmak arasında bir uzlaşma. Bir delik yalnız görüntüyü bozmaz; içeride tutulması gereken havanın da yolunu açar. Bu atölye sahnesi temsili: Her el hareketini tarihî bir kayıttan almıyoruz. Ama üretimin temel derdi gerçek. Ben kumaşı iki elimle tutarken şunu anlıyorum: Gökyüzüne güvenmekten önce dikişe güvenmek gerekiyor.
+
+## s07 — Tam anlatım metni
+Sıradaki büyük gösterinin adresi Versailles. Tarih on dokuz Eylül bin yedi yüz seksen üç. Bu kez balonun altında yolcuları taşıyacak bir sepet var. Fakat içine insanlar binmiyor. Bir koyun, bir ördek ve bir horoz hazırlanıyor. Bugünden bakınca tuhaf bir yolcu listesi! O dönemdeyse havaya yükselmenin canlıları nasıl etkileyeceği merak ediliyor. Sarayın önündeki gösteri yalnız bir eğlence değil; cevabı bilinmeyen bir sorunun denemesi. Ben de yerde, sepetin yanından ayrılıyorum.
+
+## s08 — Tam anlatım metni
+Sepet yükseliyor; koyun, ördek ve horoz artık seyircilerin başının üstünde. Bu uçuş yaklaşık sekiz dakika sürüyor ve hayvanlar sağ olarak yere dönüyor. Görüntüdeki hayvan hareketleri bizim temsili canlandırmamız; onların ne düşündüğünü bilemeyiz. Ama sonucun etkisini anlamak zor değil. Biraz önce herkes yukarı bakıyordu, şimdi bir sonraki soruya bakıyor: Hayvanlar gitti ve döndüyse, insanlar da gidebilir mi? Bu soru cesaret istiyor; cevabıysa yalnız cesaretle verilemiyor.
+
+## s09 — Tam anlatım metni
+Önce balonu yere bağlayan halatlar var. Ekim ayındaki insanlı denemelerde yükselmekle uzaklaşmak birbirinden ayrılıyor. Halat, balonun serbestçe sürüklenmesini sınırlıyor; böylece yüksekte durmanın ve ısıyı yönetmenin tecrübesi kazanılıyor. Yine de bunu risksiz bir oyun sanmayalım. Ateş var, kumaş var, rüzgâr var. Bir insanın yerden yükselmesiyle şehir üzerinden serbestçe uçması aynı başarı değil. Tarihte ilk dediğimiz şeyi doğru anlatmak için, o halatın bağlı olup olmadığını sormamız gerekiyor.
+
+## s10 — Tam anlatım metni
+Şimdi benim küçük denemem geliyor. Açık söyleyeyim: Bu sahne kurgu. Tarihî ilk uçucuların arasına kendimi eklemiyorum. Balon yere bağlı, ben halka biçimli platformda, yalnız birkaç metre yükseldiğimi hayal ediyorum. Ellerim korkulukta; aşağıdaki yardımcı bana bakıyor. Dün başımın üstündeki çatıya bakıyordum, şimdi çatının üstünü görmeyi düşünüyorum. İnsanı asıl şaşırtan yükseklik değil, alıştığı dünyanın açısının değişmesi olabilir. Ama halatlar çözülmeyecek. Benim yolculuğum bugün burada bitecek.
+
+## Bu tur üretim / QA kaydı
+- s01 kullanıcı “Devam” onayı; s02 tek görsel yoklaması başarılı. Toplam 10 görsel çağrısı kullanıldı; daha fazla deneme yapılmadı.
+- PASS: s02, s04, s04b, s05, s06, s07, s08, s08b. s01 ile toplam 9/25. Figür sayısı, yüzler, iki kol/el ve anlatı uyumu kontrol edildi.
+- s03 FAIL: fizik deneyindeki açık ağızlı torba yerine kapalı mektup zarfı. Düzeltme FAIL: doğru torba ancak zincir zırh/bot ile 1783 kıyafet ihlali. İkisi de final klasöründen çıkarıldı; geçici tanı kopyaları `/tmp/b026-reddedilen/`. Yenilemede yalnız bölüm s01/s02 kostüm referansını kullan; zincir zırhı açıkça yasakla.
+- Sonraki paket: önce tek yoklama ile s03 düzeltme; ardından s09/s10 + s11–s20 metin/ses/görselleri.
+
+### Ses süreleri (voice-03, saniye)
+| Sahne | Süre |
+|---|---|
+| s01 | 40.70 |
+| s02 | 34.85 |
+| s03 | 33.94 |
+| s04 | 34.42 |
+| s05 | 33.82 |
+| s06 | 33.94 |
+| s07 | 32.81 |
+| s08 | 34.54 |
+| s09 | 33.98 |
+| s10 | 34.42 |
+
+Toplam s01–s10: **347.40 sn**. Konuşma metinleri yukarıdaki kayıtla eşleştirilmiştir.
