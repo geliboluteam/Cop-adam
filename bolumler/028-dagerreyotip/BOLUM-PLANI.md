@@ -1,7 +1,7 @@
 # B028 — 1839 PARİS: FOTOĞRAF ÇIRAĞI / DAGUERREOTİP
 
 > Seri E 5. bölüm; YOL43 / Konu54.
-> DURUM: s01/kostüm kullanıcı onaylı. 20/20 tam metin, **20/20 voice-03 ses (595.18 sn ham)**, **17/25 QA PASS görsel**. Görseller s01–s14 + s04b/s08b/s12b; kalan sekiz görsel bekliyor. Final video henüz yok.
+> DURUM: **25/25 görsel QA PASS, 20/20 voice-03 ses (595.18 sn ham), 20/20 tam metin**. Kapak sahnesi hazır; kapak yazıları, plan/SFX/miks/video hazırlanıyor. Final MP4 henüz yok.
 > Araştırma: `arastirma/028-uzun-dagerreyotip.md`.
 
 ## Kalıcı format
@@ -118,7 +118,7 @@ Bu bölümde gördüğün atölye ve metal görüntüler, özgün bin sekiz yüz
 - [x] 20/20 tam anlatım metni; 20 sahne/25 görsel planı.
 - [x] s01 görsel/ses QA ve kullanıcı kostüm onayı (“Devam”).
 - [x] Sesler 20/20 voice-03 tamam; güncel anlatım metinleriyle eşleşiyor.
-- [ ] Görseller 17/25 QA PASS. Kalanlar: s15/s15b/s16/s17/s18/s19/s19b/s20; her figürde ayrı el/kol kontrolü.
+- [x] Görseller 25/25 QA PASS; her figürde ayrı kol/el kontrolü, son sekiz sahne tamam.
 - [ ] Kapak v4 / plan.json / kaynak-lisanslı SFX / miks / uzun video / kare QA / YAYIN / final mühür.
 
 ## s01 pilot üretim ve QA
@@ -194,3 +194,13 @@ Bu bölümde gördüğün atölye ve metal görüntüler, özgün bin sekiz yüz
 4. Bütün 25 görsel QA sonrası plan.json; 5 orta nokta bölmesi 04/08/12/15/19. `anlatim_metin:""`, altyazı false. Kamera örtüsü/ahşap/kumaş/kağıt/adım modern kayıtlarından SFX; filmli kamera deklanşörü, flaş, aktif kimya/ısıtma/buhar sesi yok. Her kayda kaynak/lisans/modern analoji.
 5. Miks, 5–12 dk uzun video, tam decode ve örnek kare QA, YAYIN/final zaman damgaları, GitHub commit→push→uzak ve final dosya blob doğrulaması.
 - Henüz plan.json / kapak / SFX künyesi / YAYIN / MP4 yok. B028 tamamlanmadan YOL44 Wright'a geçme.
+
+## Son görsel paketi — 25/25 QA PASS
+- s15/s15b PASS: figürsüz, mat kâğıt negatif ve pozitifin ters tonlu pencere kafesi; arkada ayrı cam korumalı tek metal görüntü. Sonradan kurulmuş TEMSİLÎ karşılaştırma; 1841 kalotipini 1839 odasında hazır ürün diye sunma YOK.
+- s16 PASS: kurgu bekleme, iki ayrı el kendi dizlerinde; tam 2 kol/2 el/2 bacak/2 beyaz ayak; kamera/baş sabitleyici/aktif pozlama yok.
+- s17 PASS: bir açık avuç resimden uzakta, öteki el aşağıda; tam uzuv sayısı. Fotoğraf cam altında, yüzeye dokunma/silme yok.
+- s18 PASS: dar çerçeveli fotoğraftaki çatı kesiti ile pencereden geniş manzara; kadrajın dışındaki sandalye, figürsüz. Özgün tarihî arşiv resmi değil.
+- s19/s19b PASS: kâğıtta/duvarda temsili iki sert kutulu kamera çizimi ve cam altında metal görüntü. Gerçek fotoğraf kanıtı veya özgün kamera şeması iddiası yok, fiilî kimya/aygıt işlemi yok.
+- s20 PASS: Meraklı tek figür, bir boş avuç açık, öteki el yanında; tam 2 kol/2 ayrı el/2 bacak/2 beyaz ayak. Kapanış metinleri için boş alan var.
+- Kapak metinsiz sahnesi PASS: kahverengi yelek/gri önlük/kırmızı fular; büyük sade beyaz kafa, şaşkın ifade; bir el açık/öteki bel yanında, 2 kol/2 ayrı el. İki kapalı sert sürgülü ahşap kutu kamera, körük yok. `kapaklar/thumbnail/sahne/bolum-028.jpg`.
+- Bu tur 8 sahne + 1 kapak sahnesi üretildi; düzeltme gerektiren FAIL yok. Sesler tekrar üretilmedi.
