@@ -8,13 +8,11 @@ Konu kilidi: **Liverpool-Manchester Demiryolu açılışı,
 ikinci görselleri (20+5=25). Tur A s01-s10 = 10 ses + ana
 görseller ve s04b/s08b; Tur B s11-s20 = 10 ses + ana
 görseller ve s12b/s17b; Tur C = s19b + kapak.
-DURUM: 🟡 Tur A KISMİ (görsel kotası): s01-s10 sesleri
-hazır (ham toplam 376,18 sn). Görseller: s01-s10 ana
-görseller + s04b QA PASS mühürlü; **s08b gelecek Tur**
-üretilecek. Not: s08'de kıkırdayan hanım figüründe hafif
-pembe yanak var (gülme ifadesi; kawaii sistemi değil,
-kabul edildi — istenirse yenilenir). Sıradaki: s08b +
-Tur B (s11-s20 tam metinler+sesler+görseller).
+DURUM: 🟡 Tur A TAMAM: s01-s10 sesleri (376,18 sn) +
+12 görsel (s01-s10 ana + s04b/s08b) QA PASS mühürlü.
+Not: s08'de kıkırdayan hanımda hafif pembe yanak var
+(gülme ifadesi diye kabul edildi). s11-s20 metinleri
+TAM METNE genişletildi; sıradaki: Tur B ses+görseller.
 
 Kaynak özeti: `arastirma/024-uzun-ilk-tren-yolcusu.md`.
 Açı: Meraklı, Edge Hill istasyonunda paket taşıyan ve
@@ -212,69 +210,192 @@ vagon ayrıntıları TEMSİLÎdir.
   arasında dolaşan birkaç yolcu; Meraklı vagon basamağında
   sağ açık avcuyla "dur" işareti, sol el kapı kolunda.
 
-### s11 — HÜZÜNLÜ HABER (Tur B özet)
-Huskisson kazası: uzaktan, ayrıntısız ve saygılı; yaralının
-Eccles'a yetiştirilişi (~58 km/s rekor), akşam ölüm haberi.
-Ders: fren yok, düdük yok, kurala uymayan ayaklanma.
-Görsel: yan hatta yaklaşan lokomotif uzakta; Meraklı başı
-önde saygılı duruş (ayrıntı yok).
+### s11 — HÜZÜNLÜ HABER
+- Metin: "O molada çok üzücü bir şey oldu; yakından
+  anlatmayacağım, yalnız dersini söyleyeceğim. Liverpool
+  milletvekili William Huskisson, Dük'ün vagonuna doğru
+  yürümüştü. Yan hattan gelen Rocket'ı geç fark etti.
+  Makinenin freni yoktu; makinist ters vitese aldı ama
+  durana kadar saniyeler geçti. Huskisson ağır yaralandı.
+  Onu Eccles'a yetiştiren tren o telaşla saatte yaklaşık
+  elli sekiz kilometreye çıktı; o günlerin hız rekoruydu
+  bu. Ama akşam, vefat haberi geldi. Açılışın sevinci bir
+  anda sessizliğe gömüldü. Yeni hız bize ilk dersini
+  vermişti: hızlı makine, yavaş alışkanlıklarla yürümez.
+  Rayda durulmaz. Bu cümleyi o gün herkes öğrendi; ne
+  yazık ki bedeli çok ağırdı."
+- Görsel: sakin ve uzak: akşam üstü ışık, yan hatta duran
+  tren uzakta; peronda şapkalarını çıkarmış sessiz birkaç
+  figür; Meraklı önde başı eğik, iki eli önünde biletleri
+  göğsünde tutuyor (iki kol, eller deste üstünde). Kaza
+  anı YOK.
 
-### s12 — AÇILIŞ YİNE DE BİTİYOR [ÇİFT: s12b] (Tur B özet)
-Moraller bozuk; kafile Manchester'a varır, kutlama sadeleşir;
-dönüş Liverpool'a ~6,5 saat gecikir. Görsel: Manchester
-istasyonuna sakin varış. s12b: gece Edge Hill'e dönen son
-tren, fener ışığı; Meraklı peronda bekliyor.
+### s12 — AÇILIŞ YİNE DE BİTİYOR [ÇİFT: s12b]
+- Metin: "Açılış kafilesi yine de yoluna devam etti ama
+  bayram havası kalmamıştı. Manchester'a vardığımızda
+  karşılama sakindi; herkes birbirine alçak sesle
+  konuşuyordu. Dönüş daha da uzun sürdü: trenler
+  birleşti, yol kalabalıklaştı ve Liverpool'a saatler
+  gecikmeyle, gece vardık. Peronda kimsenin kutlama
+  yapacak hâli yoktu. Yine de ertesi sabah gazetelerin
+  yazdığı şey ortadaydı: iki şehir arasındaki yol
+  kısalmıştı ve bu, artık geri alınamazdı. Ben o gece
+  eve yürürken hâlâ pistonların ritmini içimde
+  duyuyordum; hem gurur hem hüzün vardı. Demiryolu
+  çağı, bir kayıpla açılmıştı."
+- Görsel: Manchester istasyonuna sakin varış; yolcular
+  sessizce iniyor; Meraklı kapıda sol eli kapı kolunda,
+  sağ kol yanda; başı hafif eğik.
+- s12b: gece Edge Hill'e dönen son tren; tek fener
+  ışığı peronu aydınlatıyor; Meraklı peronda tek başına
+  bekliyor, sol elinde bilet destesi, sağ kol yanda.
 
-### s13 — ERTESİ GÜN TARİFE (Tur B özet)
-16 Eylül ilk tarifeli tren 130 yolcu; bilet 7 şilin (pahalı);
-ilk hafta 6.104 yolcu. Görsel: sabah peron kuyruğu; Meraklı
-biletleri iki eliyle düzenliyor.
+### s13 — ERTESİ GÜN TARİFE
+- Metin: "Ertesi gün, 16 Eylül'de her şey tarifeye
+  bağlandı. İlk tarifeli tren yüz otuz yolcuyla kalktı;
+  çoğu, Manchester'daki toplantılarına giden Quaker
+  cemaati üyeleriydi. Bilet yedi şilin: bir işçinin
+  günlerce çalışması demek; yani tren önce parası
+  olanların hızı oldu. Yine de kuyruk uzadı durdu. İlk
+  haftanın sonunda tam altı bin yüz dört kişi bu hatla
+  yolculuk etmişti. Biletleri düzenlerken fark ettim:
+  insanlar artık 'şu saatte kalkacak' cümlesine güvenmek
+  istiyordu. Tarife, buharın kendisinden bile büyük bir
+  devrimdi; çünkü söz vermek demekti."
+- Görsel: sabah peron kuyruğu; sade koyu kıyafetli
+  yolcular; Meraklı küçük masada biletleri iki eliyle
+  düzenliyor (iki kol ikisi de masada/destede).
 
-### s14 — AÇIK VAGONDA BEN (Tur B özet)
-İs, rüzgâr, soğuk; 1./2. sınıf farkı; ısıtma/ışık/tuvalet
-yokluğu. Görsel: açık vagonda rüzgâra kapanan yolcular;
-Meraklı fularını yüzüne çekmiş (iki el fular ucunda).
+### s14 — AÇIK VAGONDA BEN
+- Metin: "Bir de yolcu olmayı deneyimledim; sana dürüst
+  olayım: konforlu değildi. Açık vagonda rüzgâr is ve
+  küçük kömür parçalarını üstüne taşıyor; fularımı
+  yüzüme çektim. Birinci sınıf kapalı, fayton gibi
+  vagonlarda giderken biz banklarda oturuyoruz. Isıtma
+  yok, ışık yok, tuvalet hiç yok; kış yolcularına
+  sonraları sıcak su şişeleri verilmiş. Yine de kimse
+  şikâyet ederek inmedi; herkes bir şaşkınlıkla indi:
+  'yol gerçekten kısaldı.' Erken tren, bir otel değil;
+  bir söz gibiydi: daha iyisi yapılacak ama bugünkünün
+  harikası, var olması."
+- Görsel: açık vagon, rüzgâr; yolcular yakalarını
+  kaldırmış; Meraklı iki eliyle fular ucunu ağız/burun
+  önüne çekmiş (iki kol ikisi de fularda), gözler kısık
+  mutlu.
 
-### s15 — TARİFE VE ZAMAN (Tur B özet)
-İlk tam tarifeli hat + posta; saatine uymak yeni kültür;
-"demiryolu zamanı"na giden yol. Görsel: peronda büyük
-cep saati (temsili) tutan görevli; Meraklı saate bakıyor.
+### s15 — TARİFE VE ZAMAN
+- Metin: "Bu hat yalnız hızlı değildi; baştan sona
+  çift hatlı, işaret sistemli ve tam tarifeli ilk
+  hattı. Posta da trenle taşındığı için mektuplar bile
+  yeni hıza ayak uydurdu. Görevlinin cep saati artık
+  bir süs değil, işin kalbi: tren saatinde kalkarsa
+  herkes saatini ona göre ayarlamak istiyor. Liverpool
+  ile Manchester'ın yerel saatleri birbirinden
+  dakikalarca farklıydı; sonraki yıllarda ülkeler ortak
+  bir 'demiryolu zamanı'na geçti. Düşünsene: bir
+  makinenin düzeni, ülkece saatin kaç olduğuna karar
+  veriyor. Hızın asıl gücü, hepimizi aynı dakikada
+  buluşturması."
+- Görsel: peronda görevli büyük cep saatini (temsili)
+  tek eliyle kaldırıyor; Meraklı yanında sol elinde
+  biletler, sağ eliyle saati işaret ediyor; arkada
+  kalkışa hazır tren.
 
-### s16 — KORKUDAN ALIŞKANLIĞA (Tur B özet)
-İki yılda günde ~1.200 yolcu; halk hızı normalleştiriyor.
-Görsel: sıradan bir iş günü kalabalığı, kucağında paketle
-yolcular; Meraklı kapıda gülümseyerek yolcu alıyor.
+### s16 — KORKUDAN ALIŞKANLIĞA
+- Metin: "İki yıl içinde bu hat günde yaklaşık bin iki
+  yüz yolcu taşır hâle geldi. İlk günlerin titreyen
+  elleri gitti; yerini kucağında sepetiyle markete
+  gidenler, iş görüşmesine yetişenler, akraba ziyaretine
+  koşanlar aldı. Korku tamamen yok olmadı ama olağan bir
+  dikkat hâline geldi; tıpkı gemiye ya da at arabasına
+  binerken duyduğumuz gibi. Kapıda yolcu karşılarken
+  şunu görüyorum: insan, hızı bir kez tattı mı eski
+  yavaşlığa sabrı azalıyor. Yeni olan önce korkutur,
+  sonra vazgeçilmez olur; arada kalan şey, alışkanlık
+  kazanmak için gereken birkaç dürüst yolculuk."
+- Görsel: sıradan iş günü: sepetli kadın, paketli
+  tüccar, çocuk; Meraklı vagon kapısında sağ eliyle
+  içeri buyur ediyor, sol elinde bilet destesi.
 
-### s17 — GÜVENLİK ÖĞRENİLİR [ÇİFT: s17b] (Tur B özet)
-L&MR'nin ilk sinyal sistemi; sonraki yıllarda düdük ve
-frenlerin gelişimi; Huskisson dersinin kalıcı etkisi.
-Görsel: hat kenarında el işareti veren görevli. s17b:
-yakın plan; görevlinin el bayrağı ve Meraklı'nın dikkatle
-bakışı (bayrak tek elde, öbür kol yanda).
+### s17 — GÜVENLİK ÖĞRENİLİR [ÇİFT: s17b]
+- Metin: "Bu hat ilk gerçek işaret sistemini de
+  taşıyordu; görevliler el işaretleriyle yolu
+  yönetiyordu. Sonraki yıllarda lokomotiflere düdükler
+  takıldı, frenler güçlendi, peron kuralları sertleşti.
+  Huskisson'ın kaybı, demiryollarının her güvenlik
+  kuralının arkasında sessizce durur: makine hızlandıkça
+  insanın payı yavaşlamak değil, daha dikkatli
+  örgütlenmektir. Biz peronda hâlâ aynı cümleyi
+  söylüyoruz: raylara inmeyin. Fark şu ki artık bu
+  cümleye işaretler, düdükler ve tarifeye uyma kültürü
+  eşlik ediyor. Güvenlik, hızın düşmanı değil; hızın
+  sürmesini sağlayan ortağı."
+- Görsel: hat kenarında görevli el işareti veriyor
+  (tek kol yukarı, öbür kol yanda); uzakta yaklaşan tren;
+  Meraklı peron kenarında görevliye bakıyor, iki kol yanda.
+- s17b: yakın plan; görevlinin el bayrağı tek elde
+  yukarı, öbür kol yanda; Meraklı yanında dikkat kesilmiş,
+  sol eli bilet destesinde, sağ kol yanda.
 
-### s18 — GERÇEK KAYITLAR (Tur B özet)
-Fanny mukaddime mektubu, gazete haberleri; Rocket bugün müzede
-korunuyor (temsili sunum). Görsel: müze salonunda küçük
-lokomotif; Meraklı seyirci gibi iki eli önünde bağlı değil,
-sağ el çenede düşünceli, sol kol yanda.
+### s18 — GERÇEK KAYITLAR
+- Metin: "Peki bütün bunları nereden biliyoruz? O
+  günlerin tanıkları yazdı. Fanny Kemble'ın 26 Ağustos
+  1830 tarihli mektubu, ilk yolculuk hissinin en canlı
+  kaydı: küçük makineyi övmüş, 'gözlerimi kapatınca
+  uçma hissi harikaydı, zerre korkmadım' demiş.
+  Gazeteler açılışı ve kazayı dünyaya duyurdu; birçok
+  insan, ucuz ve hızlı uzak yolun artık mümkün olduğunu
+  ilk kez o haberlerde öğrendi. Rocket'ın kendisi
+  bugün İngiltere'de müzede korunuyor; yanına gitsen,
+  devrimin bir yangın arabasından büyük olmayan küçük
+  bir makineyle başladığını görürsün. Tarih bazen koca
+  anıtlarla değil, küçük ve çalışkan makinelerle yazılır."
+- Görsel: müze salonunda küçük lokomotif (temsili);
+  Meraklı seyirci, sağ eli çenede düşünceli, sol kol
+  yanda; camın ardından ışık.
 
 ### s19 — DÜRÜST TARİH NOTU [ÇİFT: s19b Tur C'de]
-"İlkler" dürüstçe: şehirler arası ilk hat; Huskisson ilk
-kazâ ölümü değil, "geniş duyurulan ilk yolcu ölümü"; hız
-korkuları belgeye dayalı dönem tartışmaları. s19 görseli:
-gravür üsluplu açılış sahnesi. s19b (Tur C): gravür ile
-müzedeki lokomotifin yan yana sunumu (yazı yok).
+- Metin: "Şöyle dürüst bir özet yapayım. Bu hat,
+  dünyanın ilk şehirler arası, yalnızca buharlı,
+  baştan sona çift hatlı ve tam tarifeli demiryoluydu;
+  bu 'ilkler' kayıtlı. Saatte kırk sekiz kilometre,
+  o günlerin rekor hızıydı; bugün şehir içi bir otomobil
+  hızı. Nefessiz kalma korkusu dönemin gerçek
+  tartışmasıydı ama korkulduğu gibi olmadı; asıl
+  tehlikeler fren, düdük ve kural yokluğuydu. William
+  Huskisson da ilk tren kazası kaybı değildir; ondan
+  önce de kazalar olmuştu; o, gazeteler sayesinde
+  'geniş duyurulan ilk yolcu kaybı' oldu. Benim
+  yardımcılığım kurgu; ama perondaki merak, o günlerin
+  mektuplarında gerçekten var."
+- Görsel: gravür üsluplu (soluk, ince çizgili) açılış
+  sahnesi temsili; Meraklı aynı sistemde, gravür
+  karesine kenardan bakıyor; sağ el çerçeveye işaret,
+  sol el biletlerde.
+- s19b (Tur C): gravür kadraj ile müzedeki lokomotifin
+  aynı salonda yan yana sunumu; yazı yok.
 
-### s20 — SEÇİM SENİN (kapanış, Tur B özet)
-"1830'da sen ilk trene biner miydin? Önde açık vagonda mi,
-arkada kapalı vagonda mi, yoksa önce başkaları denesin diye
-bekler miydin? Yeni hızdan korkmak mı akıllıca, binmek mi?
-Yorumlara yaz." Kapanış kartı standardı Tur C'de.
+### s20 — SEÇİM SENİN (kapanış)
+- Metin: "Şimdi sıra sende. 1830'da Edge Hill peronunda
+  sen olsaydın ne yapardın? İlk trene hemen biner miydin?
+  Önde, rüzgârı yüzünde hissettiğin açık vagonda mı
+  otururdun; yoksa kapalı, sakin bir vagonu mu seçerdin?
+  Belki de önce başkalarının gidip gelmesini izler,
+  düdük ve fren icat edildikten sonra binmeyi seçerdin.
+  Yeni bir hız kapına geldiğinde sen hangisisin: ilk
+  binen mi, soru soran mı, bekleyen mi? Seçimini ve
+  nedenini yorumlara yaz. Bir sonraki bölümde Keşif ve
+  Ulaşım serisinde bambaşka bir araca bineceğiz. Meraklı
+  kaçar ama söz sende kalır. Görüşmek üzere; kendine ve
+  sorularına iyi bak."
+- Görsel: sabah ışığında peronda seyirciye dönük
+  Meraklı; iki kol iki yana açık avuçlar yukarı (soru
+  jesti); arkada küçük lokomotif ve açık vagonlar.
 
 ## Tur DURUMU
 
 - [x] TEST: s01 ses+görsel üretildi; kullanıcı onayı bekleniyor
-- [x] Tur A: s01-s10 sesler + ana görseller ve s04b (s08b gelecek tur)
+- [x] Tur A: s01-s10 sesler + ana görseller ve s04b/s08b (376,18 sn; 12 görsel)
 - [ ] Tur B: s11-s20 sesler + ana görseller ve s12b/s17b
 - [ ] Tur C: s19b + kapak + plan.json + SADECE_MIX + derleme + YAYIN
 
