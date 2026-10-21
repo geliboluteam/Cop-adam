@@ -48,8 +48,8 @@
 ## Tur durumu
 - [x] Araştırma + dürüstlük kilidi + 20 sahne/25 görsel planı.
 - [x] s01 görsel ve ses testi ONAYLANDI: iç QA PASS; iki figür, ikişer kol/el, kapak açık, araç karada. voice-03 ses 40.90 sn. Kullanıcı “Devam” onayı alındı.
-- [ ] Tur A kısmi: s01–s10 sesler TAMAM (341,09 sn); görseller s01–s08 + s04b PASS. s08b/s09/s10 bekliyor.
-- [ ] Tur B: s11–s20 tam metinler HAZIR; sesler ve görseller bekliyor.
+- [ ] Tur A: s01–s10 görselleri + s04b/s08b hazır; s09 sesinde “ellerimi dizlerime” düzeltmesi yeniden üretilecek. Diğer ilk on ses hazır.
+- [ ] Tur B kısmi: s11 sesi hazır; s12–s20 sesler bekliyor. s11/s12/s12b/s14/s15 görselleri hazır; s13 yenilenecek; s15b–s20/s19b bekliyor.
 - [ ] Tur C: kapak v4, plan.json, SFX künyesi, miks, video, kare QA, YAYIN ve final mühür.
 
 ## s01 QA / üretim kaydı
@@ -79,7 +79,7 @@ Aşağıya inebilen şeyin yeniden yukarıya çıkabilmesi de gerek. Turtle'ın 
 İçeri girince kıyıdaki havayı yanında taşıyorsun; ama sınırsız değil. Araç tamamen suyun altındayken yüzeyden yeni hava almak aynı biçimde sürmüyor. Kaynaklarda yaklaşık süreler geçiyor; bunları her koşulda güvenli kalış süresi gibi kullanmayacağız. Ne kadar yorulduğun ve içerideki havanın nasıl değiştiği de önemli. Gösterdiğimiz karanlık iç mekân temsili; aydınlatmak için içeri meşale koymuyoruz. Dışarıda koca bir su dünyası varken içeride nefes alabileceğin alan küçücük. Asıl gerilim bazen yalnız beklemektir.
 
 ## s09 — Tam anlatım metni
-Sıra benim denememde. Bir kez daha söyleyeyim: Bu sahne kurgu. Araç karada, kapak açık; içeride yalnız ben varım. İki kişinin sığacağı bir kabinmiş gibi davranmıyoruz. Ellerimi iki ayrı tutamağa koyup oturacak yerimi düşünüyorum. Bakışımı nereye çevirsem bir başka iş karşıma çıkıyor. Daha suya girmeden darlığı hissediyorum. Bu deneme bana kahramanlık değil, bir aracın insan bedenine ne kadar alan bıraktığını düşündürüyor. Tarihî görevin yolcusu ben değilim; şimdi o gerçek kişiye yer açacağız.
+Sıra benim denememde. Bir kez daha söyleyeyim: Bu sahne kurgu. Araç karada, kapak açık; içeride yalnız ben varım. İki kişinin sığacağı bir kabinmiş gibi davranmıyoruz. Ellerimi dizlerime koyup oturacak yerimi düşünüyorum. Bakışımı nereye çevirsem bir başka iş karşıma çıkıyor. Daha suya girmeden darlığı hissediyorum. Bu deneme bana kahramanlık değil, bir aracın insan bedenine ne kadar alan bıraktığını düşündürüyor. Tarihî görevin yolcusu ben değilim; şimdi o gerçek kişiye yer açacağız.
 
 ## s10 — Tam anlatım metni
 İsimler birbirine benziyor, ama iki ayrı kişiden söz ediyoruz. Denemelerde görev alan Ezra Bushnell, tasarımcının kardeşi. New York'taki girişimle anılan operatör ise Ezra Lee. Bu farkı atlayınca hikâyenin insanları birbirine karışıyor. Lee'nin işi yalnız bir yere oturup beklemek değil; çok sayıda kumandayı tek başına kullanabilmek. Ben kıyıda kalıyorum. Şimdi anlatacağımız görevin ayrıntıları da büyük ölçüde sonradan yazılan anlatımlardan geliyor. Birazdan bakışımızı değiştirirken, bildiğimizle aktarılanı birbirinden ayıracağız.
@@ -151,3 +151,14 @@ Bugün gördüğün çizim veya müze aracı, bin yedi yüz yetmiş altıdan kal
 - s11 voice-03 sesi üretildi: 31.37 sn. Sesler 11/20, toplam 372.46 sn. s12–s20 çağrıları geçici hız sınırı nedeniyle başarısız; dosya üretilmedi ve tekrar denenmedi.
 - Görsel PASS: s08b, s10, s11, s12. Toplam 13/25. s12 içinde yalnız Lee ve iki ayrı el var; kırmızı fular yok.
 - s09 FAIL: model ayrıca kenarlara el yakın planı panelleri ekledi, toplam el sayısı bozuldu. Finalden çıkarıldı; tek sahne/no inset şartıyla yenilenecek.
+
+## Güncel QA ve üretim durumu — 17/25 görsel
+- s09 yenileme görsel PASS: tek kesintisiz karada test sahnesi; açık kapak; Meraklı tek kişi, iki kol / iki ayrı el / iki bacak / iki ayak. Eller dizlerde; kenarlarda ek el panelleri yok.
+- SENKRON KİLİDİ: s09 anlatımında “iki ayrı tutamağa” yerine “dizlerime” yazıldı. Eski s09 sesi bu görselle uyumsuz olduğundan final ses klasöründen çıkarıldı; yeniden üretim ZORUNLU. Bu tur düzeltilmiş ses isteği `Speech generation limit of 10 reached for this turn` hatası verdi; yeni dosya YOK. Eski ses yalnız `/tmp/b027-reddedilen/s09-eski-tutamak.mp3` tanı kopyasıdır ve Git geçmişinde bulunur.
+- s12b PASS: büyük gemi altındaki küçük dik oval kabuk; figür yok, temsili rekonstrüksiyon.
+- s14 PASS: hasarsız gemi ve küçük Turtle dış görünümü, figür yok.
+- s15 PASS: görevde yalnız Ezra Lee; gri yelek, fular yok; iki ayrı kol / iki el / iki bacak / iki ayak.
+- s13 FAIL: gövdede fazladan uzun kürekler ve yanıltıcı itki düzeni. Finalden çıkarıldı; `/tmp/b027-reddedilen/s13-fazladan-kurekler.png`. Yenilemede yüzey altındaki gövde/itki parçaları gösterilmeyecek.
+- Görsel QA PASS **17/25**: s01, s02, s03, s04, s04b, s05, s06, s07, s08, s08b, s09, s10, s11, s12, s12b, s14, s15. Eksikler: s13, s15b, s16, s17, s18, s19, s19b, s20.
+- Geçerli anlatım metinleri **20/20**. Geçerli voice-03 ses **10/20**, toplam **338.95 sn** (s01–s08, s10, s11). Tarihsel olarak 11 ses üretilmişti; s09 senkron nedeniyle kullanım dışı. Bekleyen: s09 düzeltmesi ve s12–s20.
+- SONRAKİ TUR: önce tek s09 ses yoklaması; başarılıysa mevcut metinlerden s12–s20 (toplam en çok 10 çağrı). Önce tek s13 görsel yoklaması, sonra kalan yedi görsel. Kapak/SFX/YAYIN/plan.json/miks/video henüz YOK.

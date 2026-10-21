@@ -75,7 +75,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 39 | 19 | 1830, Liverpool | İlk tren yolcusu: 48 km/s hız korkusu | ✅ TAMAMLANDI (B024): 11:34 uzun video + kapak v4 + YAYIN.md; Seri E açıldı |
 | 40 | 20 | 1886-1900 | İlk otomobiller sokakta: halk tepkisi | ✅ TAMAMLANDI (B025): 10:14 uzun video + kapak v4 + YAYIN.md; Seri E 2. bölüm |
 | 41 | 50b | 1783, Paris | İlk balon uçuşunda sepettedir (Montgolfier) | ✅ TAMAMLANDI (B026): 10:14 uzun video, 25 görsel, kapak v4, YAYIN ve SFX künyesi; Seri E 3. bölüm |
-| 42 | 49 | 1776, Connecticut / New York | Tek kişilik Turtle: hava, akıntı ve insan gücü | 🟢 HAZIRLIK (B027): hayalî atölye çırağı; karada açık kapaklı test; tarihî görevde yalnız Ezra Lee. Holland (1900) ile dönem karışıklığı giderildi; s01 onayı bekleniyor |
+| 42 | 49 | 1776, Connecticut / New York | Tek kişilik Turtle: hava, akıntı ve insan gücü | 🟡 ÜRETİM (B027): s01/kostüm kullanıcı onaylı; 20 tam metin, 17/25 QA PASS görsel, 10/20 geçerli voice-03 ses. s09 sesi görselle senkron için yenilenecek; s13 görseli reddedildi. Tarihî görevde yalnız Ezra Lee; final video henüz yok |
 | 43 | 54 | 1839, Paris | İlk fotoğraf çırağı: daguerreotip süreci | ⬜ |
 | 44 | 17 | 1903, Kitty Hawk | Wright kardeşlerin ilk uçuşu: kum tepeciğinde | ⬜ |
 | 45 | 18 | 1969, Houston | Apollo 11 görev kontrol odasında (NASA ses arşivi = gerçek kayıt!) | ⬜ |
