@@ -134,8 +134,15 @@ Bugün gördüğün çizim veya müze aracı, bin yedi yüz yetmiş altıdan kal
 ## Tur A yenileme paketi
 - s04 yeni PASS: iki kol/iki el, eller bel önünde birleştirilmiş, üçüncü kol/eldeki halat kaldırıldı.
 - s04b yeni PASS: dik oval ahşap kabuk ve tek oturaklı dar temsili kesit; yatay fıçı sapması giderildi.
-- s07 PASS: karada temsili pompa gösterimi, iki figürün ikişer kol/eli kontrol edildi.
+- s07 ilk QA kararı kullanıcı kontrolünde geçersizleşti: birleşik el çiziminde üçüncü el görünümü kaçırılmıştı. Aşağıdaki kullanıcı düzeltmesi uygulanmıştır.
 - s08 PASS: boş ve alevsiz temsili iç mekân; modern ekran/oksijen tüpü yok.
 - Toplam sahne görselleri **9/25**: s01/s02/s03/s04/s04b/s05/s06/s07/s08. Bu tur 10 görsel çağrısı kullanıldı; daha fazla yoklama yapılmadı.
 - Metinler **20/20** hazır. Sesler **10/20**, voice-03, ham toplam **341,09 sn**.
 - SONRAKİ: önce tek yoklama → s08b/s09/s10 görselleri → s11–s20 sesler/görseller → QA ve mühür. Meraklı'nın s09 testi karada, kapak açık ve içeride yalnız kendisi; görev içi sahnelerde yalnız Lee, kırmızı fular YOK.
+
+## Kullanıcı düzeltmesi — s07 üç el hatası
+- Kullanıcı sunulan s07'de üç el olduğunu belirtti; önceki iç QA hatayı kaçırmıştı.
+- s07 düzenlendi: Meraklı'nın birleşik elleri kaldırıldı. Bir eli pompaya doğru açık, diğer eli gövdesinin dış yanında aşağıda; iki el birbirinden tamamen ayrı.
+- Yeni kontrol: Meraklı 2 kol / 2 el; pompa kolunu tutan yardımcı 2 kol / 2 el. Görselde toplam 4 el, fazladan beyaz el parçası yok. Sahne ve kıyafet korundu.
+- Düzeltilmiş görüntü `uzun/gorseller/s07.png` olarak eskisinin yerine alındı; kullanıcıya yeniden sunuldu. Sahne sayısı değişmedi: 9/25.
+- Sonraki QA'larda el sayısı kol sayısından ayrı kontrol edilecek; üst üste/kenetli el yerine açıkça ayrılmış eller tercih edilecek.
