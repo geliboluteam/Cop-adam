@@ -12,10 +12,14 @@ DURUM: 🟡 Tur A TAMAM: s01-s10 sesleri (376,18 sn) +
 12 görsel (s01-s10 ana + s04b/s08b) QA PASS mühürlü.
 Not: s08'de kıkırdayan hanımda hafif pembe yanak var
 (gülme ifadesi diye kabul edildi). s11-s20 metinleri
-TAM METNE genişletildi. Tur B: s11-s19 sesleri üretildi;
-**s20 sesi gelecek Tur** (ses kotası) + **s12 sesi
-"o gece" düzeltmesiyle yenilenecek**. Sıradaki: Tur B
-görselleri.
+TAM METNE genişletildi. Tur B: s11-s19 sesleri üretildi
+(bölüm toplamı s20 hariç 747,77 sn). Görseller:
+s11/s12/s12b/s13/s15/s16/s17b QA PASS. Reddedilenler
+(görsel kotası dolduğu için gelecek tur yenilenecek):
+s14 (kırmızı elbiseli figür başsız) ve s17 (anakronik
+semafor + telgraf direkleri; 1830'da el işareti vardı).
+Kalan: s20 sesi + s12 ses düzeltmesi ("o gece"),
+s14/s17/s18/s19/s20 görselleri + Tur C.
 
 Kaynak özeti: `arastirma/024-uzun-ilk-tren-yolcusu.md`.
 Açı: Meraklı, Edge Hill istasyonunda paket taşıyan ve
