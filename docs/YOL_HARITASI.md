@@ -5,9 +5,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 
 ## PAKET DÜZENİ (yeni format)
 
-- Bölüm 05'ten itibaren her konu: **1 uzun video (20 sahne, 5-12 dk) + 2 Shorts
-  (10+10 sahne) + YouTube küçük resmi — YALNIZ uzun videoya; Shorts'a kapak
-  yok (kalıcı kural)** (`kapaklar/thumbnail/`, `araclar/thumbnail_yap.py`).
+- Güncel üretim kuralı: **YALNIZ 1 uzun video (20 sahne, 25 görsel, 5–12 dk) + YouTube küçük resmi v4. Shorts YOK.** Beş kilit sahnede ikinci görsel, sahne süresi/senkronu değişmeden kullanılır. (`kapaklar/thumbnail/`, `araclar/thumbnail_yap.py`). Önceki bölümlerin tabloda listelenen Shorts dosyaları tarihî arşivdir; yeni üretim kapsamı değildir.
 - Bölüm 01-04: eski format (tek Shorts). Bölüm 05 = ilk paket (Malazgirt).
 
 ## Seri A — FETİH & OSMANLI (pilot seri) — UZUN REMAKE TAMAM (4/4) ✅
@@ -77,7 +75,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 41 | 50b | 1783, Paris | İlk balon uçuşunda sepettedir (Montgolfier) | ✅ TAMAMLANDI (B026): 10:14 uzun video, 25 görsel, kapak v4, YAYIN ve SFX künyesi; Seri E 3. bölüm |
 | 42 | 49 | 1776, Connecticut / New York | Tek kişilik Turtle: hava, akıntı ve insan gücü | ✅ TAMAMLANDI (B027): 10:14 uzun video, 20 sahne/25 görsel, kapak v4, YAYIN ve SFX künyesi. Seri E 4. bölüm; tarihî görevde yalnız Ezra Lee |
 | 43 | 54 | 1839, Paris | Fotoğraf çırağı: daguerreotip, ışık ve beklemek | 🟡 HAZIRLIK (B028): araştırma ve 20 tam metin hazır; 20 sahne/25 görsel. s01 kostüm onayı bekleniyor. Niépce daha erken, 1839 duyuru; kimyasal uygulama yok |
-| 44 | 17 | 1903, Kitty Hawk | Wright kardeşlerin ilk uçuşu: kum tepeciğinde | ⬜ |
+| 44 | 17 | 1903, Kitty Hawk yakınları / Kill Devil Hills | Wright kardeşlerin ilk motorlu uçuşları | 🟥 B029 HAZIRLIK: araştırma + 20 tam metin + s01 kostüm örneği; kullanıcı karakter onayı bekleniyor. Yalnız uzun video, 20 sahne/25 görsel |
 | 45 | 18 | 1969, Houston | Apollo 11 görev kontrol odasında (NASA ses arşivi = gerçek kayıt!) | ⬜ |
 | 46 | 16 | 1912, Kuzey Atlantik | Titanic'in çarptığı gece güvertede | ⬜ |
 | 47 | 55 | 1911, kutup | Kızak sürücüsü: köpekler, don, rasyon | ⬜ |
