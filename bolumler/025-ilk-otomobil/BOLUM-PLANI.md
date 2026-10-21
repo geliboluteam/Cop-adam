@@ -115,6 +115,22 @@ Atölyede son işim, arabayı yarına hazırlamak: Yağı tamam, yakıtı tamam,
 - Sokak/rüzgâr/müze: 0ad wind_11, day_temperate_11; müze topuk yankısı heel-reverb2/4 (s18/s19b; B024 kalıbı)
 - Müzik: sfx/0ad/music/The_Hellespont.ogg (CC-BY-SA, −21 dB, kanal standardı)
 
+## Tur C girdileri (hazır — plan.json buradan kurulacak)
+- Giriş kartı: "EĞER 1886'DA OLSAYDIM" / "MERAKLI: ATÖLYE ÇIRAĞI"
+- Kapanış kartı: "İLK ARABAYA BİNER MİYDİN?" / "ATSIZ ARABA · AT ARABASI · BEKLEMEK — YORUMLARA YAZ"
+- Tarih bantları:
+  s01 "3 Temmuz 1886 · Mannheim: ATSIZ ARABA" · s02 "HER İŞ ATLA YAPILIYORDU" ·
+  s03 "29 OCAK 1886 · PATENT" · s04 "KAÇ BEYGİR GÜCÜ?" · s05 "ÜÇ TEKER, SAATTE 16 KİLOMETRE" ·
+  s06 "SOKAK İKİYE BÖLÜNDÜ" · s07 "5 AĞUSTOS 1888 · ŞAFAK YOLCULUĞU" ·
+  s08 "İLK AKARYAKIT DURAĞI: ECZANE" · s09 "TELGRAF: GELDİK!" · s10 "HABER YAYILIYOR" ·
+  s11 "1894 · OYUNCAKTAN ÜRÜNE" · s12 "PARİS–ROUEN KOŞUSU" · s13 "KIRMIZI BAYRAK KALKTI (1896)" ·
+  s14 "BEN DE BİNİYORUM" · s15 "DEĞİŞEN SOKAK" · s16 "AT NEREYE GİTTİ?" ·
+  s17 "GÜVENLİK ÖĞRENİLİR" · s18 "GERÇEK KAYITLAR" · s19 "DÜRÜST TARİH NOTU" · s20 "SEÇİM SENİN"
+- Çift görseller: s04/s04b ✓, s08/s08b ✓, s12/s12b, s17/s17b, s19/s19b (gorsel2_oran 0.5)
+- KOTA NOTU: üretim kotası kullanıcı turundan uzun pencerede sayılıyor ve başarısız
+  denemeler de kota yiyor. Her yeni turda ÖNCE tek (1) yoklama çağrısı yap; başarılıysa
+  toplu üretime geç.
+
 ## Üretim durumu
 - [x] Test: s01 ses + görsel (kullanıcı onayı, 85678a3)
 - [ ] Tur A (neredeyse tamam): sesler s01-s10 TAMAM (e972eac, toplam 333,56 sn);
