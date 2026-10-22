@@ -1,11 +1,11 @@
 # B030 — 1969: APOLLO 11 GÖREV KONTROLÜNDE OLSAYDIM
 
 > Seri E 7. bölüm · YOL45 / Konu18.
-> DURUM: **ÜRETİMDE — kostüm kullanıcı ONAYLI.17PNG/15PASS/2düzeltme(s12bbaş,s14kostüm);20voice-03anlatım TAMAM.** 8yeniPNGeksik; işlenmiş9,613061snNASAkökenli arşiv edinildi, soniçerik/miks/kartlar/finalvideo/kapak bekliyor.
+> DURUM: **TAMAMLANDI — 11:38 uzun video;20sahne/25görselPASS/20voice-03anlatım; kapakv4/YAYIN/SFX/teknik ve16kareQA hazır.** Shorts yok. Sonraki konu kullanıcı seçimi Samuray; docs/SIRADAKI-KONU.md.
 > Kaynak dosyası: `arastirma/030-uzun-apollo11-gorev-kontrol.md`.
 
 ## Format ve teslim kilitleri
-- **Yalnız uzun video, 5–12dk. Shorts YOK.** Hedef10–11dk; gerçek sesler üretildikten sonra süre ölçülecek, tahmin nihai süre diye yayımlanmayacak.
+- **Yalnız uzun video, 5–12dk. Shorts YOK.** Ölçülmüş final11:38; hedef5–12dk karşılandı. Bu süre tahmin değil, finalMP4ölçümüdür.
 - **20 sahne / 25 görsel.** İkinci görseller04/08/12/15/19; ilgili sahnenin yaklaşık ortasında değişir, anlatım/senkron/sahne sayısı değişmez.
 - Aynı Türkçe anlatıcı **voice-03**; s01–s10 üretildi:374,928sn ham /357,57sn sessizlik düzenlemeli1×;10MP3tamdecodePASS. Son10ses henüz yok; finalhız/süre belirlenmedi. Altyazı YOK. Açıklayıcı kısa tarih/yer/kurgu bantları altyazı değildir.
 - Giriş: **EĞER 1969'DA OLSAYDIM / MERAKLI: HOUSTON'DA SON DAKİKALAR**.
@@ -119,12 +119,12 @@ Görevin hedefi, insanları Ay'a ulaştırıp güvenle Dünya'ya geri getirmekti
 ### s20 — Sen hangi masada olurdun?
 Ay'a adım atmadan da bu yolculuğun önemli bir parçası olabilirdin. Bir veriyi kontrol ederek, bir yazılımı sınayarak ya da doğru bilgiyi doğru kişiye ulaştırarak. Ben Meraklı, bu hayalî ziyaretimde bir aracı indirmedim; bir başarıyı tek kişinin hikâyesine sığdırmamayı öğrendim. Sen Houston'daki bu ekipte olsaydın hangi işi seçerdin? Veriyi okumayı mı, haberleşmeyi mi, yoksa sistemi sınamayı mı? Seçimini yorumlara yaz. Tarihin içinde başka soruların peşine düşmek için kanalıma abone olmayı unutmayın!
 
-## Üretim sırası ve kabul kapısı
-1. s01 teknik/görsel kontrolü tamam:4beyazçöpfigür ayrı ayrı incelendi; her kişide2kol/2ayrıel/2bacak/2ayak. Dönem kıyafeti/CRT/baş boşluğu/noNASAlogo PASS. **Kullanıcı kostümü Devam diyerek onayladı; üretim başladı.**
-2. Kostüm kullanıcı onaylı. Güncel17PNG/15PASS/2düzeltme(s12bbaş,s14kostüm);8yeniPNGeksik.20anlatım hazır. Ayrıel/kol/ayak ve yanfigür sayısı her dosyada denetlenir.
-3. İşlenmiş9,613061snNASAkökenli alıntı edinildi/provenans/decodePASS; soniçerik-kesit incelemesi ve miks kaldı. Sahne15Türkçe giriş bittiğinde kaydı normal hızda çal; konuşmalar üst üste binmesin. GERÇEKKAYIT etiketi sadece gerçek ses aralığında.
-4. Bütün kaynaklar ölçüldükten sonra nihai plan, YAYIN, SFXkünyesi, kapakv4 ve render. 5–12dk,faststart,tamAVdecode,loudness,10kritikkareQA. Şu an finalvideo/kapak üretilmiş gibi işaretleme.
-5. Her tur commit→hemenpush→uzakHEAD/blobdoğrulama. B018kullanıcıdosyaları bu bölüme dahil edilmez.
+## Üretim ve kabul kapısı — TAMAMLANDI
+1. Kullanıcı s01 kostümünü “Devam” diyerek onayladı. Onaylı s01 değişmedi. Bütün görseller beyaz çöp adam kimliği / giyinik yan karakter / iki ayrı el ve iki kol kontrolünden geçti.
+2. **25/25 PNG PASS; eksik görsel yok. 20 voice-03 anlatım hazır ve kaynak hashleri doğrulandı.** Beş yerel kompozitin kökeni `uzun/kompozit-kaynaklari/` altında açık.
+3. İşlenmiş NASA/JSC kökenli radyo alıntısı finalde **517,674417–527,224458 sn**, normal 1× hızda. Türkçe anlatı ve modern foley ile çakışmaz. GERÇEK KAYIT etiketi yalnız bu aralıkta. Kaynak zinciri/caption/ALSJ kontrolü bağımsız insan dinlemesi diye sunulmaz.
+4. **11:38 MP4 + kapak v4 + YAYIN + kaynak/lisanslı SFX künyesi + nihai plan tamamlandı.** Faststart, tam AV decode, ses ölçümü, 29 görüntü/kartın kaynakla eşleşmesi ve 16 kritik kare incelemesi PASS. Ayrıntı TEKNIK-QA.md/json.
+5. Commit → hemen push → uzak HEAD/blob doğrulama. B018 kullanıcı dosyaları bu bölüme dahil edilmez. Aşağıdaki gruplar tarihî üretim kaydıdır; eksik listeleri güncel teslim durumu değildir.
 
 ## 22 Ekim 2026 — İlk üretim grubu
 - Kostüm onayı alındı. 10görsel çağrısı:7yeni dosya ve3AIkadraj/örtüşme düzeltmesi. Toplam8PNG/7PASS/1PENDING.
@@ -139,3 +139,10 @@ Ay'a adım atmadan da bu yolculuğun önemli bir parçası olabilirdin. Bir veri
 -17dosya/15PASS/2düzeltme: s12bbaş oranı, s14yanfigür pantolonları.8yeniPNGeksik; başarısızlar PASS sayılmadı.
 - s11–s20üretildi:20voice-03TR tamdecodePASS. Ham734,136sn/trim1×700,18sn; finalvideo süresi değildir.
 - İşlenmiş NASAJSC radyo alıntısı9,613061sn/mirrorcommit veSHA kayıtlı; bağımsızdinleme/ASR ve sonkesit incelemesi yapılmış denmiyor. Miks/render/kapak yok. Ayrıntı `QA-IKINCI-GRUP.md`.
+
+## Nihai teslim /22Ekim2026
+- Önceki grupların aşağıdaki/yukarıdaki eksik listeleri tarihî kayıttır. Güncel25görselPASS/20ses/11:38video/kapakv4/QA tamam.
+- s12bbaş ve s14pantolon düzeltildi. s15b/s17/s19/s19b/s20hatalıAIçıktıları kullanılmadı; doğru anatomili karelerden yenidenkompozit ve kendi şematik çizimlerimiz; betikler/provenans depoda. s20el sallamaz, iki eli açık/aşağıdadır.
+- Yerelrender_b030.py:4ayrıkart, statik tamkadraj(ayaklar kesilmez),0,4snxfade; Türkçeanlatı1,06×, radyo1,0×; arşiv etiketi yalnız alıntıda, s19b24Temmuz ayrı bandı. Altyazı yok.
+- Nihai süre/codec/loudness/SHA ve16kareqa: TEKNIK-QA.md/json. Bağımsız insan dinlemesi iddiası yok; arşiv kaynak zinciri ve ASRsınırlaması SFXkünyesinde.
+- Apollo11tamamlandıktan sonraki seçilmişkonu B031Samuray; kompleSamuraytesliminden sonra Hangi konuya devam edelim? diye sorulacak.

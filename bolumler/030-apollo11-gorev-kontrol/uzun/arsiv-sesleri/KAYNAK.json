@@ -34,7 +34,7 @@
   "source_caption_expected_not_independent_transcript": "TRANQUILITY BASE HERE. THE EAGLE HAS LANDED. — ROGER, TRANQUILITY, WE COPY YOU ON THE GROUND.",
   "caption_source": "https://github.com/seankd3/orbital-mechanics/blob/main/src/game/voice.ts",
   "content_review": "Kaynakcommit/blob/caption ve ALSJiniş konuşması bağlamı karşılaştırıldı. Caption tam kelimekelime transkript sayılmadı. Bağımsız işitsel dinleme yapılmadı. PocketSphinxASR düşük güvenli; doğrulama veya altyazı olarak kullanılmadı. Gerçekkonuşma olarak atıf kaynak zincirine dayanır; dosyaadına tekbaşına dayanmaz.",
-  "mixed": false,
+  "mixed": true,
   "planned_scene": 15,
   "decoded_pcm_seconds": 9.550041666666667,
   "independent_asr": {
@@ -42,5 +42,10 @@
     "status": "DUSUK_GUVEN_KELIME_DOGRULAMASI_ICIN_KULLANILMADI",
     "result": "the quality of the new vehicle of limited i get really high quality would not be on the ground in the with that about the blue with glee that again like the law",
     "limitation": "Radyo kaydında isim/ifadeler hatalı tanındı; otomatikmetin yayınlanmaz. Whispermodelindirme ağkısıtı nedeniyle başarısız; Whisperçalıştı denmez."
-  }
+  },
+  "used_decoded_pcm_seconds": 9.550041666666667,
+  "mix_start_seconds": 517.6744166666666,
+  "mix_end_seconds": 527.2244583333332,
+  "playback_speed": 1.0,
+  "archive_label_only_on_this_interval": true
 }

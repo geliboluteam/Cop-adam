@@ -1,0 +1,681 @@
+{
+  "fps": 30,
+  "transition_frames": 12,
+  "narration_speed": 1.06,
+  "archive_speed": 1.0,
+  "total_seconds": 697.9333333333333,
+  "scene_count": 20,
+  "scene_image_count": 25,
+  "separate_card_count": 4,
+  "scene_timing": [
+    {
+      "id": "s01",
+      "start": 5.2,
+      "narration_start": 5.7,
+      "narration_end": 40.1343125,
+      "end": 40.766666666666666,
+      "second_image_midpoint": null,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 34.4343125,
+      "narration_source_sha256": "e8cb8311de77496195dff00235c33b11cae3b177f4c3527de8c632d2b2b370af"
+    },
+    {
+      "id": "s02",
+      "start": 40.36666666666667,
+      "narration_start": 40.86666666666667,
+      "narration_end": 74.664875,
+      "end": 75.26666666666667,
+      "second_image_midpoint": null,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 33.798208333333335,
+      "narration_source_sha256": "0ebe3c9421e91d08c6e6db905445e6e782b05acc304832ae3e43aaa9cc021696"
+    },
+    {
+      "id": "s03",
+      "start": 74.86666666666666,
+      "narration_start": 75.36666666666666,
+      "narration_end": 107.82189583333333,
+      "end": 108.43333333333334,
+      "second_image_midpoint": null,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 32.45522916666667,
+      "narration_source_sha256": "c63cbb1431ed9b0b153092b9f47967c4c0ad708051c625c1f53f7fb14d58ce01"
+    },
+    {
+      "id": "s04",
+      "start": 108.03333333333333,
+      "narration_start": 108.53333333333333,
+      "narration_end": 142.09383333333332,
+      "end": 142.7,
+      "second_image_midpoint": 125.16666666666667,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 33.5605,
+      "narration_source_sha256": "b931a6c748059bfd029774b50b522a9141bdcc966809f86caa2e6ce04d57ab5c"
+    },
+    {
+      "id": "s05",
+      "start": 142.3,
+      "narration_start": 142.8,
+      "narration_end": 177.13708333333335,
+      "end": 177.76666666666668,
+      "second_image_midpoint": null,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 34.33708333333333,
+      "narration_source_sha256": "e24cadbb1e997375537bb9eb95a70b8f966595ad3e2081c123135e4a9d3a5038"
+    },
+    {
+      "id": "s06",
+      "start": 177.36666666666667,
+      "narration_start": 177.86666666666667,
+      "narration_end": 213.01639583333335,
+      "end": 213.63333333333333,
+      "second_image_midpoint": null,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 35.14972916666667,
+      "narration_source_sha256": "1882f789a08f7461d66018c9fc9aa2f0d420a83b74e8d05639ff2a94cfca2da1"
+    },
+    {
+      "id": "s07",
+      "start": 213.23333333333332,
+      "narration_start": 213.73333333333332,
+      "narration_end": 245.6308958333333,
+      "end": 246.23333333333332,
+      "second_image_midpoint": null,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 31.8975625,
+      "narration_source_sha256": "1cd52f745fa758ca82e8bc1fec918835955769f05fecb19bdb4c51bead0fe294"
+    },
+    {
+      "id": "s08",
+      "start": 245.83333333333334,
+      "narration_start": 246.33333333333334,
+      "narration_end": 279.41200000000003,
+      "end": 280.03333333333336,
+      "second_image_midpoint": 262.73333333333335,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 33.07866666666666,
+      "narration_source_sha256": "ba89caf862cdb457b0b2486f301aeb18fe01a45ec8f4d09dbdbe39cb49faaba3"
+    },
+    {
+      "id": "s09",
+      "start": 279.6333333333333,
+      "narration_start": 280.1333333333333,
+      "narration_end": 314.6129583333333,
+      "end": 315.23333333333335,
+      "second_image_midpoint": null,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 34.479625,
+      "narration_source_sha256": "d06a1de5b1d6cea0a40b055c28ca9914701c9d8a78da0be92a8da0cd49aa0179"
+    },
+    {
+      "id": "s10",
+      "start": 314.8333333333333,
+      "narration_start": 315.3333333333333,
+      "narration_end": 349.57325,
+      "end": 350.2,
+      "second_image_midpoint": null,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 34.239916666666666,
+      "narration_source_sha256": "1aee936a5ce566f09143d92486ec903a314331726533ef2b578a30927d2652fb"
+    },
+    {
+      "id": "s11",
+      "start": 349.8,
+      "narration_start": 350.3,
+      "narration_end": 382.17214583333333,
+      "end": 382.8,
+      "second_image_midpoint": null,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 31.872145833333335,
+      "narration_source_sha256": "bf7e5176f9ccbcd4eec9cbf725d3cf9cfefe4be948d60f22f51438e1632aee0b"
+    },
+    {
+      "id": "s12",
+      "start": 382.4,
+      "narration_start": 382.9,
+      "narration_end": 416.40216666666663,
+      "end": 417.03333333333336,
+      "second_image_midpoint": 399.5333333333333,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 33.50216666666667,
+      "narration_source_sha256": "815fb7b54c6498ff01038ce3f6fcd03bd53512a250f4cba0057dc591bd96606c"
+    },
+    {
+      "id": "s13",
+      "start": 416.6333333333333,
+      "narration_start": 417.1333333333333,
+      "narration_end": 449.42647916666664,
+      "end": 450.03333333333336,
+      "second_image_midpoint": null,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 32.293145833333334,
+      "narration_source_sha256": "c036163936b6e537a46cfc52759306c1a0efaa1cd7af619953fa6ae1f0f67aa8"
+    },
+    {
+      "id": "s14",
+      "start": 449.6333333333333,
+      "narration_start": 450.1333333333333,
+      "narration_end": 484.36654166666665,
+      "end": 484.96666666666664,
+      "second_image_midpoint": null,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 34.23320833333333,
+      "narration_source_sha256": "69f09ce4fcf9bf786f79ce773eb488546e2909353fd22e136883365b2f38cb97"
+    },
+    {
+      "id": "s15",
+      "start": 484.56666666666666,
+      "narration_start": 485.06666666666666,
+      "narration_end": 517.1744166666666,
+      "end": 528.3333333333334,
+      "second_image_midpoint": 506.23333333333335,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 32.10775,
+      "narration_source_sha256": "ee3815dce4feb1e821f3a789a7fc9016fcf74d42704d51b74a69c32e6fe78f6a",
+      "archive": {
+        "start": 517.6744166666666,
+        "end": 527.2244583333332,
+        "duration": 9.550041666666667,
+        "speed": 1.0,
+        "source_sha256": "ba45c8de4e9f22ccc0e05b818642eec0775175081413da622a1b82e252d064d3",
+        "scene": "s15"
+      }
+    },
+    {
+      "id": "s16",
+      "start": 527.9333333333333,
+      "narration_start": 528.4333333333333,
+      "narration_end": 563.9022708333333,
+      "end": 564.5333333333333,
+      "second_image_midpoint": null,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 35.4689375,
+      "narration_source_sha256": "39fab2598b74c6e6bf52d1f62053cb7f77367cf822516e1fb20f2e00c255357f"
+    },
+    {
+      "id": "s17",
+      "start": 564.1333333333333,
+      "narration_start": 564.6333333333333,
+      "narration_end": 594.8977708333333,
+      "end": 595.5,
+      "second_image_midpoint": null,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 30.2644375,
+      "narration_source_sha256": "0843636beb0461953e5b75a11b6e2f9de144c8cdc182b5b9d157ce9b4faf43d2"
+    },
+    {
+      "id": "s18",
+      "start": 595.1,
+      "narration_start": 595.6,
+      "narration_end": 627.4924166666667,
+      "end": 628.1,
+      "second_image_midpoint": null,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 31.892416666666666,
+      "narration_source_sha256": "1955f35ea09aeffd7479b9e6f8b947243ce7fd1031f96fbe5edccec31f46db77"
+    },
+    {
+      "id": "s19",
+      "start": 627.7,
+      "narration_start": 628.2,
+      "narration_end": 659.509125,
+      "end": 660.1333333333333,
+      "second_image_midpoint": 643.7,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 31.309125,
+      "narration_source_sha256": "fec5aef073623721d6a43023ac754b9771a35b557ddd895d2b1b618aad8dd643"
+    },
+    {
+      "id": "s20",
+      "start": 659.7333333333333,
+      "narration_start": 660.2333333333333,
+      "narration_end": 690.6025208333333,
+      "end": 691.2333333333333,
+      "second_image_midpoint": null,
+      "narration_speed": 1.06,
+      "narration_pcm_seconds": 30.3691875,
+      "narration_source_sha256": "dd94fcac085ef7861e89afcfc2f496b8249c40792d8a93c1cccb66621fb8dfa9"
+    }
+  ],
+  "clips": [
+    {
+      "id": "giris",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/kartlar/giris.png",
+      "frames": 105,
+      "start_frame": 0,
+      "end_frame": 105
+    },
+    {
+      "id": "tarih",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/kartlar/tarih.png",
+      "frames": 75,
+      "start_frame": 93,
+      "end_frame": 168
+    },
+    {
+      "id": "s01",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s01.png",
+      "frames": 1067,
+      "start_frame": 156,
+      "end_frame": 1223
+    },
+    {
+      "id": "s02",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s02.png",
+      "frames": 1047,
+      "start_frame": 1211,
+      "end_frame": 2258
+    },
+    {
+      "id": "s03",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s03.png",
+      "frames": 1007,
+      "start_frame": 2246,
+      "end_frame": 3253
+    },
+    {
+      "id": "s04",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s04.png",
+      "frames": 520,
+      "start_frame": 3241,
+      "end_frame": 3761
+    },
+    {
+      "id": "s04b",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s04b.png",
+      "frames": 532,
+      "start_frame": 3749,
+      "end_frame": 4281
+    },
+    {
+      "id": "s05",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s05.png",
+      "frames": 1064,
+      "start_frame": 4269,
+      "end_frame": 5333
+    },
+    {
+      "id": "s06",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s06.png",
+      "frames": 1088,
+      "start_frame": 5321,
+      "end_frame": 6409
+    },
+    {
+      "id": "s07",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s07.png",
+      "frames": 990,
+      "start_frame": 6397,
+      "end_frame": 7387
+    },
+    {
+      "id": "s08",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s08.png",
+      "frames": 513,
+      "start_frame": 7375,
+      "end_frame": 7888
+    },
+    {
+      "id": "s08b",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s08b.png",
+      "frames": 525,
+      "start_frame": 7876,
+      "end_frame": 8401
+    },
+    {
+      "id": "s09",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s09.png",
+      "frames": 1068,
+      "start_frame": 8389,
+      "end_frame": 9457
+    },
+    {
+      "id": "s10",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s10.png",
+      "frames": 1061,
+      "start_frame": 9445,
+      "end_frame": 10506
+    },
+    {
+      "id": "s11",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s11.png",
+      "frames": 990,
+      "start_frame": 10494,
+      "end_frame": 11484
+    },
+    {
+      "id": "s12",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s12.png",
+      "frames": 520,
+      "start_frame": 11472,
+      "end_frame": 11992
+    },
+    {
+      "id": "s12b",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s12b.png",
+      "frames": 531,
+      "start_frame": 11980,
+      "end_frame": 12511
+    },
+    {
+      "id": "s13",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s13.png",
+      "frames": 1002,
+      "start_frame": 12499,
+      "end_frame": 13501
+    },
+    {
+      "id": "s14",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s14.png",
+      "frames": 1060,
+      "start_frame": 13489,
+      "end_frame": 14549
+    },
+    {
+      "id": "s15",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15.png",
+      "frames": 656,
+      "start_frame": 14537,
+      "end_frame": 15193
+    },
+    {
+      "id": "s15b",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15b.png",
+      "frames": 669,
+      "start_frame": 15181,
+      "end_frame": 15850
+    },
+    {
+      "id": "s16",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s16.png",
+      "frames": 1098,
+      "start_frame": 15838,
+      "end_frame": 16936
+    },
+    {
+      "id": "s17",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s17.png",
+      "frames": 941,
+      "start_frame": 16924,
+      "end_frame": 17865
+    },
+    {
+      "id": "s18",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s18.png",
+      "frames": 990,
+      "start_frame": 17853,
+      "end_frame": 18843
+    },
+    {
+      "id": "s19",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s19.png",
+      "frames": 486,
+      "start_frame": 18831,
+      "end_frame": 19317
+    },
+    {
+      "id": "s19b",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s19b.png",
+      "frames": 499,
+      "start_frame": 19305,
+      "end_frame": 19804
+    },
+    {
+      "id": "s20",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s20.png",
+      "frames": 945,
+      "start_frame": 19792,
+      "end_frame": 20737
+    },
+    {
+      "id": "kapanis",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/kartlar/kapanis.png",
+      "frames": 105,
+      "start_frame": 20725,
+      "end_frame": 20830
+    },
+    {
+      "id": "abone",
+      "image": "bolumler/030-apollo11-gorev-kontrol/uzun/kartlar/abone.png",
+      "frames": 120,
+      "start_frame": 20818,
+      "end_frame": 20938
+    }
+  ],
+  "archive": {
+    "start": 517.6744166666666,
+    "end": 527.2244583333332,
+    "duration": 9.550041666666667,
+    "speed": 1.0,
+    "source_sha256": "ba45c8de4e9f22ccc0e05b818642eec0775175081413da622a1b82e252d064d3",
+    "scene": "s15"
+  },
+  "tracks": [
+    {
+      "t": 5.7,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s01",
+      "duration": 34.4343125
+    },
+    {
+      "t": 40.86666666666667,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s02",
+      "duration": 33.798208333333335
+    },
+    {
+      "t": 75.36666666666666,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s03",
+      "duration": 32.45522916666667
+    },
+    {
+      "t": 108.53333333333333,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s04",
+      "duration": 33.5605
+    },
+    {
+      "t": 142.8,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s05",
+      "duration": 34.33708333333333
+    },
+    {
+      "t": 177.86666666666667,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s06",
+      "duration": 35.14972916666667
+    },
+    {
+      "t": 213.73333333333332,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s07",
+      "duration": 31.8975625
+    },
+    {
+      "t": 246.33333333333334,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s08",
+      "duration": 33.07866666666666
+    },
+    {
+      "t": 280.1333333333333,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s09",
+      "duration": 34.479625
+    },
+    {
+      "t": 315.3333333333333,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s10",
+      "duration": 34.239916666666666
+    },
+    {
+      "t": 350.3,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s11",
+      "duration": 31.872145833333335
+    },
+    {
+      "t": 382.9,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s12",
+      "duration": 33.50216666666667
+    },
+    {
+      "t": 417.1333333333333,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s13",
+      "duration": 32.293145833333334
+    },
+    {
+      "t": 450.1333333333333,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s14",
+      "duration": 34.23320833333333
+    },
+    {
+      "t": 485.06666666666666,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s15",
+      "duration": 32.10775
+    },
+    {
+      "t": 517.6744166666666,
+      "gain_db": 3,
+      "type": "archive",
+      "scene": "s15",
+      "duration": 9.550041666666667
+    },
+    {
+      "t": 528.4333333333333,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s16",
+      "duration": 35.4689375
+    },
+    {
+      "t": 564.6333333333333,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s17",
+      "duration": 30.2644375
+    },
+    {
+      "t": 595.6,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s18",
+      "duration": 31.892416666666666
+    },
+    {
+      "t": 628.2,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s19",
+      "duration": 31.309125
+    },
+    {
+      "t": 660.2333333333333,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s20",
+      "duration": 30.3691875
+    },
+    {
+      "t": 6.7,
+      "gain_db": -27,
+      "type": "modern_analogy",
+      "scene": "s01",
+      "duration": 1.4,
+      "source": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+      "source_sha256": "5441b35c16747c251cff9d416824ca02bbc4d8fd013a00c3af683d3e8b0b95d3",
+      "license": "CC0 / OwlishMedia",
+      "source_url": "https://opengameart.org/content/sound-effects-pack"
+    },
+    {
+      "t": 84.86666666666666,
+      "gain_db": -27,
+      "type": "modern_analogy",
+      "scene": "s03",
+      "duration": 0.6,
+      "source": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+      "source_sha256": "d446ae605a58f97dae8a62e41f7b58a5b3e792940e7cd818bfa5c32bf49a0425",
+      "license": "CC0 / OwlishMedia",
+      "source_url": "https://opengameart.org/content/sound-effects-pack"
+    },
+    {
+      "t": 150.3,
+      "gain_db": -27,
+      "type": "modern_analogy",
+      "scene": "s05",
+      "duration": 0.6,
+      "source": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+      "source_sha256": "d446ae605a58f97dae8a62e41f7b58a5b3e792940e7cd818bfa5c32bf49a0425",
+      "license": "CC0 / OwlishMedia",
+      "source_url": "https://opengameart.org/content/sound-effects-pack"
+    },
+    {
+      "t": 225.23333333333332,
+      "gain_db": -27,
+      "type": "modern_analogy",
+      "scene": "s07",
+      "duration": 1.5,
+      "source": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+      "source_sha256": "74be72d83853e195d45df0c43a708884778fbccc0b372c585018b933d915872d",
+      "license": "CC0 / OwlishMedia",
+      "source_url": "https://opengameart.org/content/sound-effects-pack"
+    },
+    {
+      "t": 332.8333333333333,
+      "gain_db": -27,
+      "type": "modern_analogy",
+      "scene": "s10",
+      "duration": 0.6,
+      "source": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+      "source_sha256": "d446ae605a58f97dae8a62e41f7b58a5b3e792940e7cd818bfa5c32bf49a0425",
+      "license": "CC0 / OwlishMedia",
+      "source_url": "https://opengameart.org/content/sound-effects-pack"
+    },
+    {
+      "t": 573.1333333333333,
+      "gain_db": -27,
+      "type": "modern_analogy",
+      "scene": "s17",
+      "duration": 0.6,
+      "source": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+      "source_sha256": "d446ae605a58f97dae8a62e41f7b58a5b3e792940e7cd818bfa5c32bf49a0425",
+      "license": "CC0 / OwlishMedia",
+      "source_url": "https://opengameart.org/content/sound-effects-pack"
+    },
+    {
+      "t": 661.7333333333333,
+      "gain_db": -27,
+      "type": "modern_analogy",
+      "scene": "s20",
+      "duration": 1.2,
+      "source": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+      "source_sha256": "5441b35c16747c251cff9d416824ca02bbc4d8fd013a00c3af683d3e8b0b95d3",
+      "license": "CC0 / OwlishMedia",
+      "source_url": "https://opengameart.org/content/sound-effects-pack"
+    }
+  ],
+  "music_used": false,
+  "subtitles": false
+}

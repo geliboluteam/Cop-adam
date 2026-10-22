@@ -1,0 +1,20 @@
+[
+  {
+    "file": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+    "duration": 0.6,
+    "sha256": "d446ae605a58f97dae8a62e41f7b58a5b3e792940e7cd818bfa5c32bf49a0425",
+    "full_decode": "PASS"
+  },
+  {
+    "file": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+    "duration": 30.42,
+    "sha256": "74be72d83853e195d45df0c43a708884778fbccc0b372c585018b933d915872d",
+    "full_decode": "PASS"
+  },
+  {
+    "file": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+    "duration": 9.95,
+    "sha256": "5441b35c16747c251cff9d416824ca02bbc4d8fd013a00c3af683d3e8b0b95d3",
+    "full_decode": "PASS"
+  }
+]

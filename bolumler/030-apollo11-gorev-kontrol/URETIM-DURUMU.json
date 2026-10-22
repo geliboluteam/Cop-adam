@@ -3,7 +3,7 @@
   "roadmap": 45,
   "topic": 18,
   "series": "E",
-  "stage": "25GORSEL_PASS_20SES_RENDER_QA",
+  "stage": "TESLIM_TAMAM_25GORSEL_20SES_UZUN_VIDEO_KAPAK_QA",
   "updated": "2026-10-22",
   "long_only": true,
   "shorts": false,
@@ -22,7 +22,7 @@
   "narration_count": 20,
   "narration_word_count": 1464,
   "narration_character_count": 11141,
-  "narration_seconds": null,
+  "narration_seconds": 660.743354,
   "user_costume_approved": true,
   "image_generation_calls_this_turn": 10,
   "images": [
@@ -329,27 +329,50 @@
   ],
   "remaining_images": [],
   "archive_audio": {
-    "status": "EDINILDI_PROVENANS_DECODE_PASS_ICERIK_SON_KONTROL_VE_MIKS_BEKLIYOR",
+    "status": "MIKSTE_NORMAL_HIZ_KAYNAK_ZINCIRI_TEKNIK_QA_PASS",
     "downloaded": true,
-    "mixed": false,
+    "mixed": true,
     "planned_scene": 15,
     "file": "bolumler/030-apollo11-gorev-kontrol/uzun/arsiv-sesleri/eagle-has-landed-islenmis.mp3",
     "duration_seconds": 9.613061,
     "sha256": "ba45c8de4e9f22ccc0e05b818642eec0775175081413da622a1b82e252d064d3",
     "processed_excerpt": true,
-    "independent_listening_done": false
+    "independent_listening_done": false,
+    "source_container_duration_seconds": 9.613061,
+    "used_decoded_pcm_seconds": 9.550041666666667,
+    "start": 517.6744166666666,
+    "end": 527.2244583333332,
+    "speed": 1.0,
+    "independent_asr_verbatim_verified": false
   },
-  "final_video": null,
+  "final_video": {
+    "file": "bolumler/030-apollo11-gorev-kontrol/uzun/merakli-030-uzun-apollo11-gorev-kontrol.mp4",
+    "duration_seconds": 698.0,
+    "display_duration": "11:38",
+    "bytes": 33023221,
+    "sha256": "2222978930f657e08f3126c416f2af6a0cd7109fd54b06ce63f0c1a42de2ffd3",
+    "full_av_decode": "PASS",
+    "faststart": true,
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "audio_lufs": -14.01,
+    "true_peak_db": -1.36,
+    "critical_frame_count": 16,
+    "visual_frames_reviewed": true
+  },
   "cover_v4": {
-    "status": "URETILDI_GORSEL_QA_PASS",
+    "status": "FINAL_QA_PASS",
     "file": "kapaklar/thumbnail/bolum-030.png",
-    "method": "s14yenidenkullanım/yerelşaşkınyüz/v4PILbaşlık"
+    "sha256": "b2fdff1e4655dee7f1eac09eb921919e4772dbe7021c7bf9b39251cddfd75538",
+    "width": 1280,
+    "height": 720,
+    "method": "s14tabanı/yerelşaşkınyüz/v4PILbaşlık; yeniAIçağrısı değil"
   },
   "next": [
-    "Render bitişi, tamAVdecode, loudness/truepeak/faststart/duration/fps QA",
-    "10+kritik kare/tarihler/arşivetiketi/senkron/ayrı kartlar denetimi",
-    "YAYIN/SFX/finalQA güncelle→commit→hemenpush→uzakHEAD/blob doğrula",
-    "B030teslimden sonra seçilmişB031Samuray; başka konu sorusu ancakSamuraytümteslimleri bitince"
+    "Kullanıcının seçtiğiB031Samuray/Japonya kale savunması: İstanbulunFethi görselreferansı; öncearaştırma/ilk kostümgörselionayı",
+    "Titanicvebaşkakonularaotomatikgeçme. Samuraytümpaketteslimibitince Hangi konuya devam edelim? diye sor; docs/SIRADAKI-KONU.md",
+    "Bu teslimin kesin GitHubmührü commit/push/uzakdoğrulamasonrasıteslimmesajındadır; B018usermodlarıdahildeğil"
   ],
   "available_image_count": 25,
   "passed_image_count": 25,
@@ -598,7 +621,11 @@
     "speech_generation_calls": 0,
     "voice": "voice-03",
     "narration_count": 20,
-    "rendered": false,
-    "render_started": true
-  }
+    "rendered": true,
+    "render_started": true,
+    "technical_qa": "PASS",
+    "visual_critical_frames": 16,
+    "delivered_long_only": true
+  },
+  "narration_final_speed": 1.06
 }

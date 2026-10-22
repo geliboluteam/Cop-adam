@@ -1,0 +1,43 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Date,Montserrat ExtraBold,28,&H00FFFFFF,&H00FFFFFF,&H00202020,&H90000000,0,0,0,0,100,100,0,0,1,1,0,7,36,36,16,1
+Style: Type,Montserrat ExtraBold,24,&H00FFFFFF,&H00FFFFFF,&H00202020,&H90000000,0,0,0,0,100,100,0,0,1,1,0,9,36,36,18,1
+Style: Radio,Montserrat ExtraBold,30,&H00FFFFFF,&H00FFFFFF,&H00202020,&H90000000,0,0,0,0,100,100,0,0,1,1,0,7,36,36,70,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:05.40,0:00:40.57,Date,,0,0,0,,{\fs28}20 TEMMUZ 1969 · HOUSTON · MERAKLI KURGU
+Dialogue: 1,0:00:40.57,0:01:15.07,Date,,0,0,0,,{\fs28}1969 · MANNED SPACECRAFT CENTER · TEMSİLÎ
+Dialogue: 1,0:01:15.07,0:01:48.23,Date,,0,0,0,,{\fs28}EAGLE: ARMSTRONG + ALDRIN / COLUMBIA: COLLINS
+Dialogue: 1,0:01:48.23,0:02:22.50,Date,,0,0,0,,{\fs28}AY İNİŞİ · AÇIKLAYICI ŞEMA / CANLI VİDEO DEĞİL
+Dialogue: 1,0:02:22.50,0:02:57.57,Date,,0,0,0,,{\fs28}HOUSTON VE DESTEK AĞI · TEMSİLÎ
+Dialogue: 1,0:02:57.57,0:03:33.43,Date,,0,0,0,,{\fs28}CAPCOM: CHARLIE DUKE / FLIGHT: GENE KRANZ
+Dialogue: 1,0:03:33.43,0:04:06.03,Date,,0,0,0,,{\fs28}İNİŞ ÖNCESİ · SİMÜLASYON / GERİYE BAKIŞ
+Dialogue: 1,0:04:06.03,0:04:39.83,Date,,0,0,0,,{\fs28}1202 / 1201 · BALES VE GARMAN · TEMSİLÎ
+Dialogue: 1,0:04:39.83,0:05:15.03,Date,,0,0,0,,{\fs28}1960’LAR · MIT YAZILIM EKİBİ · GERİYE BAKIŞ
+Dialogue: 1,0:05:15.03,0:05:50.00,Date,,0,0,0,,{\fs28}DEVAM KARARI · SİSTEM DEĞERLENDİRMESİ
+Dialogue: 1,0:05:50.00,0:06:22.60,Date,,0,0,0,,{\fs28}ARAÇ İÇİ KONTROL ≠ HOUSTON’DAN OYUN KOLU
+Dialogue: 1,0:06:22.60,0:06:56.83,Date,,0,0,0,,{\fs28}60 / 30 SANİYE · OPERASYONEL YAKIT SINIRI
+Dialogue: 1,0:06:56.83,0:07:29.83,Date,,0,0,0,,{\fs28}İNİŞTE CANLI AY VİDEOSU YOK · RADYO / VERİ
+Dialogue: 1,0:07:29.83,0:08:04.77,Date,,0,0,0,,{\fs28}20 TEMMUZ 1969 · YAKLAŞIK 20.17 UTC · İNİŞ
+Dialogue: 1,0:08:04.77,0:08:48.13,Date,,0,0,0,,{\fs28}20 TEMMUZ 1969 · SES ARŞİVİ / TEMSİLÎ ÇİZİM
+Dialogue: 1,0:08:48.13,0:09:24.33,Date,,0,0,0,,{\fs28}TRANQUILITY BASE · İNİŞ BİLDİRİMİ ≠ İLK ADIM
+Dialogue: 1,0:09:24.33,0:09:55.30,Date,,0,0,0,,{\fs28}İNİŞ SONRASI · GÖREV DEVAM EDİYOR
+Dialogue: 1,0:09:55.30,0:10:27.90,Date,,0,0,0,,{\fs28}21 TEMMUZ 1969 · 02.56 UTC · İLK ADIM AYRI
+Dialogue: 1,0:10:27.90,0:10:43.70,Date,,0,0,0,,{\fs28}AY’DAN YÜKSELİŞ VE BULUŞMA · AÇIKLAYICI ŞEMA
+Dialogue: 1,0:10:43.70,0:10:59.93,Date,,0,0,0,,{\fs28}24 TEMMUZ 1969 · DÜNYA’YA DÖNÜŞ · TEMSİLÎ
+Dialogue: 1,0:10:59.93,0:11:31.03,Date,,0,0,0,,{\fs28}SEN HANGİ MASADA OLURDUN? · MERAKLI KURGU
+Dialogue: 1,0:00:05.40,0:11:31.03,Type,,0,0,0,,ÇİZİM: AI TEMSİLÎ
+Dialogue: 1,0:08:37.67,0:08:47.22,Radio,,0,0,0,,GERÇEK KAYIT · NASA/JSC · İŞLENMİŞ ALINTI
+Dialogue: 1,0:00:06.70,0:00:08.50,Radio,,0,0,0,,{\bord3\shad0}SES: MODERN ANALOJİ · CC0 FOLEY
+Dialogue: 1,0:01:24.87,0:01:26.67,Radio,,0,0,0,,{\bord3\shad0}SES: MODERN ANALOJİ · CC0 FOLEY
+Dialogue: 1,0:02:30.30,0:02:32.10,Radio,,0,0,0,,{\bord3\shad0}SES: MODERN ANALOJİ · CC0 FOLEY
+Dialogue: 1,0:03:45.23,0:03:47.03,Radio,,0,0,0,,{\bord3\shad0}SES: MODERN ANALOJİ · CC0 FOLEY
+Dialogue: 1,0:05:32.83,0:05:34.63,Radio,,0,0,0,,{\bord3\shad0}SES: MODERN ANALOJİ · CC0 FOLEY
+Dialogue: 1,0:09:33.13,0:09:34.93,Radio,,0,0,0,,{\bord3\shad0}SES: MODERN ANALOJİ · CC0 FOLEY
+Dialogue: 1,0:11:01.73,0:11:03.53,Radio,,0,0,0,,{\bord3\shad0}SES: MODERN ANALOJİ · CC0 FOLEY

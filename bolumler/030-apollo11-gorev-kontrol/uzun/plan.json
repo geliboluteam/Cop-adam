@@ -1,0 +1,613 @@
+{
+  "_durum": "FINAL_TESLIM",
+  "_uyari": "Yerel render_b030.py kullanılır;4ayrıkart ve ölçülmüşkarehassasiyetlitakvim. Genelvideo_yap.py bu özel zaman/etiketyerleşiminin üreticisi değildir.",
+  "format": "16:9",
+  "encode_preset": "veryfast",
+  "crf": 25,
+  "maxrate": "1150k",
+  "film_grain": 0,
+  "vignette": false,
+  "filter_complex_threads": 2,
+  "ken_burns_zoom": 0,
+  "ken_burns_pan": 0,
+  "baslik_karti": {
+    "yazi1": "EĞER 1969’DA OLSAYDIM",
+    "yazi2": "MERAKLI: HOUSTON’DA SON DAKİKALAR"
+  },
+  "kapanis_karti": {
+    "yazi": "SEN HANGİSİNİ SEÇERDİN?",
+    "alt": "VERİYİ OKUMAK · HABERLEŞMEK · SİSTEMİ SINAMAK",
+    "abone": "KANALIMA ABONE OLMAYI UNUTMAYIN!"
+  },
+  "hedef_sure": 697.9333333333333,
+  "hiz_max": 1.1,
+  "altyazi": false,
+  "voice_id": "voice-03",
+  "language": "tr",
+  "sahneler": [
+    {
+      "id": "s01",
+      "baslik": "Ay'a gitmeden Ay inişinin içinde",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s01.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s01.mp3",
+      "anlatim_metin": "Ay'a gitmeden, Ay'a inişin tam ortasında olabilir miydin? Önümde bir roket penceresi değil, sıra sıra ekranlar var. Birkaç dakika içinde bu odaya ulaşacak haber, bütün dünyada hatırlanacak. Adım Meraklı! Yıl bin dokuz yüz altmış dokuz, gün yirmi Temmuz. Houston'da görev kontrolünü hayal ediyorum. Buradaki varlığım kurgu; gerçek uçuş kontrolörlerinden biri değilim. Bugün düğmelere basmayacak, insanların yüz binlerce kilometre uzaktaki bir aracı hangi bilgiyle izlediğini anlamaya çalışacağım. Çünkü bu hikâyenin önemli bir kısmı, Ay'da değil, Dünya'da geçiyor.",
+      "tarih_bandi": "20 TEMMUZ 1969 · HOUSTON · MERAKLI KURGU",
+      "efektler": [
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 1.5,
+          "sure": 1.4,
+          "kazanc_db": -27,
+          "etiket": "MODERN ANALOJİ / CC0"
+        }
+      ],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "Açık koridorda Meraklı+3görevli tam boy;1969griyeşilCRT, arkada yalnız çizgisel yörünge panoları. Meraklı sağda, iki eli boş ve ayrı.",
+      "_karakter_min": 4,
+      "_measured_timing": {
+        "id": "s01",
+        "start": 5.2,
+        "narration_start": 5.7,
+        "narration_end": 40.1343125,
+        "end": 40.766666666666666,
+        "second_image_midpoint": null,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 34.4343125,
+        "narration_source_sha256": "e8cb8311de77496195dff00235c33b11cae3b177f4c3527de8c632d2b2b370af"
+      }
+    },
+    {
+      "id": "s02",
+      "baslik": "Burası uzay aracı değil",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s02.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s02.mp3",
+      "anlatim_metin": "Odanın yeşile çalan konsollarına bakınca kendimi bir uzay gemisinde sanabilirim. Ama burası Dünya'da, Houston'daki İnsanlı Uzay Araçları Merkezi. Bugün Johnson Uzay Merkezi dediğimiz yerin o tarihteki adı farklıydı. Bu ekranların arkasında pencere yok; Ay manzarasına doğrudan bakmıyoruz. Kontrolörler araçtan gelen ölçümleri, sistemlerin durumunu ve radyo konuşmalarını takip ediyor. Kâğıtlar, kablolu kulaklıklar ve görev dağılımı, gösterişli bir dekorun parçaları değil. Uzakta olup biteni anlayabilmek için burada her bilginin nereden geldiğini bilmek gerekiyor.",
+      "tarih_bandi": "1969 · MANNED SPACECRAFT CENTER · TEMSİLÎ",
+      "efektler": [],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "Daha geniş kontrolodası, Earth-side iç mekan; Meraklı ve3görevli açık koridorda. Dışuzaypenceresi yok.",
+      "_karakter_min": 4,
+      "_measured_timing": {
+        "id": "s02",
+        "start": 40.36666666666667,
+        "narration_start": 40.86666666666667,
+        "narration_end": 74.664875,
+        "end": 75.26666666666667,
+        "second_image_midpoint": null,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 33.798208333333335,
+        "narration_source_sha256": "0ebe3c9421e91d08c6e6db905445e6e782b05acc304832ae3e43aaa9cc021696"
+      }
+    },
+    {
+      "id": "s03",
+      "baslik": "Üç insan, iki araç",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s03.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s03.mp3",
+      "anlatim_metin": "Önce kim nerede, onu ayıralım. Neil Armstrong ve Buzz Aldrin, Kartal anlamına gelen Eagle adlı Ay modülünde. Michael Collins ise Columbia adlı komuta modülünde, Ay yörüngesinde kalıyor. Üç astronot aynı anda yüzeye inmiyor. Houston'daki ekip de onların yanında uçmuyor; Dünya'dan destek veriyor. Benim defterimde iki ayrı araç ve iki ayrı görev var. Bu ayrım birazdan önem kazanacak: Yüzeye inen araç, daha sonra yeniden yükselip yörüngedeki arkadaşına ulaşmak zorunda. Başarı, yalnızca aşağı inmeyi başarmak olmayacak.",
+      "tarih_bandi": "EAGLE: ARMSTRONG + ALDRIN / COLUMBIA: COLLINS",
+      "efektler": [
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+          "t": 10.0,
+          "sure": 0.6,
+          "kazanc_db": -27,
+          "etiket": "MODERN ANALOJİ / CC0"
+        }
+      ],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "Onaylı s01tabanında4figürün el ve ayaklarını örtmeyen sağ açık koridora kendi çizdiğimiz küçük şematik Eagle ve ayrı Columbia komuta/hizmet modülü masa modelleri kompozit. Kaynak betik uzun/kompozit-kaynaklari/s03_modeller.py. Mühendislik planı/NASAarşivi değil.",
+      "_karakter_min": 4,
+      "_measured_timing": {
+        "id": "s03",
+        "start": 74.86666666666666,
+        "narration_start": 75.36666666666666,
+        "narration_end": 107.82189583333333,
+        "end": 108.43333333333334,
+        "second_image_midpoint": null,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 32.45522916666667,
+        "narration_source_sha256": "c63cbb1431ed9b0b153092b9f47967c4c0ad708051c625c1f53f7fb14d58ce01"
+      }
+    },
+    {
+      "id": "s04",
+      "baslik": "İniş bir düğme değil",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s04.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s04.mp3",
+      "anlatim_metin": "Bir yörüngeden ayrılıp istediğin noktaya süzülmek, haritada bir yere dokunmak kadar kolay değil. Aracın hızının ve yüksekliğinin birlikte yönetilmesi gerekiyor. Houston'daki uzmanlar bu süreci gelen verilerle izlerken, Eagle'ın bilgisayarı ve içindeki iki insan da iş başında. Buradaki yörünge levhası, anlamayı kolaylaştıran bir çizim; o anda Ay'dan gelen canlı kamera görüntüsü değil. Ben çizginin sonuna küçük bir nokta koyabilirim. Fakat gerçek araç o noktaya bir kalem hareketiyle ulaşmıyor. Her aşamanın sonucu, bir sonraki aşamanın koşulunu değiştiriyor.",
+      "tarih_bandi": "AY İNİŞİ · AÇIKLAYICI ŞEMA / CANLI VİDEO DEĞİL",
+      "efektler": [],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "Meraklı+3görevli veri ekranlarını izler, bütün uzuvlar açık.",
+      "_karakter_min": 4,
+      "gorsel2": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s04b.png",
+      "gorsel2_oran": 0.5,
+      "_gorsel2_tanim": "Aynı4figür yanında bağımsız büyük yörünge/iniş çizim levhası; canlı görüntü sanılmayacak çizim, modern UI yok.",
+      "_gorsel2_durum": "PASS: eller ayrıldı; sağ el/önkol yerel kompozit düzeltmesi, kaynak maskesi depoda.",
+      "_measured_timing": {
+        "id": "s04",
+        "start": 108.03333333333333,
+        "narration_start": 108.53333333333333,
+        "narration_end": 142.09383333333332,
+        "end": 142.7,
+        "second_image_midpoint": 125.16666666666667,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 33.5605,
+        "narration_source_sha256": "b931a6c748059bfd029774b50b522a9141bdcc966809f86caa2e6ce04d57ab5c"
+      }
+    },
+    {
+      "id": "s05",
+      "baslik": "Odanın dışındaki büyük ekip",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s05.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s05.mp3",
+      "anlatim_metin": "Bütün hikâyeyi şu birkaç sıraya sığdırmak da yanıltıcı olur. Her kontrol masasının arkasında başka uzmanlar, destek odaları ve yıllarca hazırlanmış sistemler var. Haberleşme, Dünya'nın farklı yerlerindeki istasyonlardan oluşan bir ağın emeğine dayanıyor. Donanımı yapanları, yazılımı sınayanları ve ölçümlerin güvenilirliği üzerine çalışanları tek karede göremiyorum. Ama görünmemeleri, önemsiz oldukları anlamına gelmiyor. Ben hayalî gözlemci olarak odanın içinde dururken şunu fark ediyorum: Ekranda beliren tek bir sayının arkasında bile çok sayıda insanın çalışması bulunabilir.",
+      "tarih_bandi": "HOUSTON VE DESTEK AĞI · TEMSİLÎ",
+      "efektler": [
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+          "t": 8.0,
+          "sure": 0.6,
+          "kazanc_db": -27,
+          "etiket": "MODERN ANALOJİ / CC0"
+        }
+      ],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "Destek alanını gösteren açık kapı; Meraklı+3uzman, periyodik kağıtlar/kablolu haberleşme. Derinlikte figürsüz oda; sayılmayan hayalet kalabalık yok.",
+      "_karakter_min": 4,
+      "_measured_timing": {
+        "id": "s05",
+        "start": 142.3,
+        "narration_start": 142.8,
+        "narration_end": 177.13708333333335,
+        "end": 177.76666666666668,
+        "second_image_midpoint": null,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 34.33708333333333,
+        "narration_source_sha256": "e24cadbb1e997375537bb9eb95a70b8f966595ad3e2081c123135e4a9d3a5038"
+      }
+    },
+    {
+      "id": "s06",
+      "baslik": "Neden tek kişi konuşuyor?",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s06.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s06.mp3",
+      "anlatim_metin": "Bir sorun olduğunda herkes aynı anda astronotlara seslenseydi ne olurdu? Bilgi çoğalırken anlaşılabilirlik azalabilirdi. Bu yüzden ekipteki görevler ve konuşma kanalları önemli. İniş sırasında astronotlarla konuşan kapsül haberleşme görevlisi Charlie Duke; bu göreve kısaca kapkom deniyor. Uçuş direktörü Gene Kranz ise uzmanların değerlendirmelerini bir araya getiriyor. Buradaki tek ses, tek kişinin bütün cevapları bildiği anlamına gelmiyor. Birçok kişinin çalışması, gerektiğinde kısa ve açık bir mesaja dönüşüyor. Ben de konuşmak yerine hangi bilginin kimden geldiğini izlemeyi seçiyorum.",
+      "tarih_bandi": "CAPCOM: CHARLIE DUKE / FLIGHT: GENE KRANZ",
+      "efektler": [],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "Meraklı+3görevli; CAPCOMrolünde mutedmavigömlekli beyazçöpfigür kablolu kulaklıkla, beyazyelekli flightdirector ve griyelekli guidance. Hepsinin elleri boş/ayrı.",
+      "_karakter_min": 4,
+      "_measured_timing": {
+        "id": "s06",
+        "start": 177.36666666666667,
+        "narration_start": 177.86666666666667,
+        "narration_end": 213.01639583333335,
+        "end": 213.63333333333333,
+        "second_image_midpoint": null,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 35.14972916666667,
+        "narration_source_sha256": "1882f789a08f7461d66018c9fc9aa2f0d420a83b74e8d05639ff2a94cfca2da1"
+      }
+    },
+    {
+      "id": "s07",
+      "baslik": "Tehlikeyi önceden prova etmek",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s07.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s07.mp3",
+      "anlatim_metin": "Şimdi iniş gününden önceki hazırlıklara kısa bir bakış atalım. Görev kontrolü yalnızca her şey yolunda giderken çalışmayı öğrenmiyor. Simülasyonlarda ekiplerin önüne sorunlar çıkarılıyor; bilgi akışı ve verilen kararlar sınanıyor. Prova, sonucun her seferinde aynı olacağını garanti etmez. Ama beklenmedik bir durumda kime sorulacağını, hangi bilginin eksik olduğunu ve bir kararı nasıl gerekçelendireceğini çalıştırır. Bu sahne gerçek inişte bir arıza çıktığını göstermiyor; hazırlığın temsili. Bugünkü sakin görünen cümlelerin arkasında, daha önce sorulmuş zor sorular var.",
+      "tarih_bandi": "İNİŞ ÖNCESİ · SİMÜLASYON / GERİYE BAKIŞ",
+      "efektler": [
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+          "t": 12.0,
+          "sure": 1.5,
+          "kazanc_db": -27,
+          "etiket": "MODERN ANALOJİ / CC0"
+        }
+      ],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "İniş öncesi simülasyon: ayrı oda, Meraklı+3görevli, kâğıt sorun senaryosu. PROVA etiketi sonradan, kırmızı felaket ışığı yok.",
+      "_karakter_min": 4,
+      "_measured_timing": {
+        "id": "s07",
+        "start": 213.23333333333332,
+        "narration_start": 213.73333333333332,
+        "narration_end": 245.6308958333333,
+        "end": 246.23333333333332,
+        "second_image_midpoint": null,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 31.8975625,
+        "narration_source_sha256": "1cd52f745fa758ca82e8bc1fec918835955769f05fecb19bdb4c51bead0fe294"
+      }
+    },
+    {
+      "id": "s08",
+      "baslik": "Ekrandaki bin iki yüz iki",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s08.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s08.mp3",
+      "anlatim_metin": "Yeniden iniş günündeyiz. Eagle'dan program uyarıları bildiriliyor: Bin iki yüz iki, ardından süreç içinde bin iki yüz bir. Rakamları duymak, anlamlarını bilmekle aynı şey değil. Houston'daki rehberlik uzmanı Steve Bales, destek odasındaki Jack Garman'ın bilgisinden yararlanıyor. Garman'ı sanki bütün işi tek başına ana salonda yapıyormuş gibi düşünmeyelim. Birbirine bağlı uzmanlıklar çalışıyor. O anda soru, kulağa ürkütücü gelen bir sayıyı susturmak değil. Asıl soru şu: Araç, iniş için gereken önemli hesapları güvenilir biçimde sürdürmeye devam ediyor mu?",
+      "tarih_bandi": "1202 / 1201 · BALES VE GARMAN · TEMSİLÎ",
+      "efektler": [],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "Ana oda: Meraklı+3görevli; Balesrolü griyelek. Uyarı sayıları AIgörsele yazılmayacak, bantta yer alacak.",
+      "_karakter_min": 4,
+      "gorsel2": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s08b.png",
+      "gorsel2_oran": 0.5,
+      "_gorsel2_tanim": "Destekodası: Garmanrolü hardal-gri yelek+2destekuzmanı+Meraklı. Ön oda birebir aynı gösterilmez; konsollar elleri/ayakları saklamaz.",
+      "_measured_timing": {
+        "id": "s08",
+        "start": 245.83333333333334,
+        "narration_start": 246.33333333333334,
+        "narration_end": 279.41200000000003,
+        "end": 280.03333333333336,
+        "second_image_midpoint": 262.73333333333335,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 33.07866666666666,
+        "narration_source_sha256": "ba89caf862cdb457b0b2486f301aeb18fe01a45ec8f4d09dbdbe39cb49faaba3"
+      }
+    },
+    {
+      "id": "s09",
+      "baslik": "Bilgisayar gerçekten durmuş muydu?",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s09.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s09.mp3",
+      "anlatim_metin": "Bu uyarıları, bilgisayarın tamamen kapandığı şeklinde anlamak yanlış olur. Sistem, işlem yükü altında zorlanıyor; yazılım ise önemli görevleri önceleyerek çalışmayı sürdürebiliyor. Bir anda hayalî bir kahraman gelip bütün kodu yeniden yazmıyor. Bu noktada, Margaret Hamilton'ın liderlik ettiği uçuş yazılımı takımı dahil, MIT'deki geliştirme ve sınama emeğine geriye bakıyoruz. Başarıyı yalnız bir kişiye vermek yerine, önceden düşünülmüş hata yönetimini görmek gerekiyor. Benim çıkaracağım ders daha basit: Güvenilir bir sistem, yalnız işler yolundayken değil, zorlandığında ne yapacağıyla da tasarlanır.",
+      "tarih_bandi": "1960’LAR · MIT YAZILIM EKİBİ · GERİYE BAKIŞ",
+      "efektler": [],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "1960larMITyazılım geriyebakış: Hamiltonrolü matzeytin hırka/lacivert midi etekli BEYAZçöpfigür+2yazılımgörevlisi+Meraklı, ayrı eller/tam boy. Kâğıt dosyalar, modern laptop yok.",
+      "_karakter_min": 4,
+      "_measured_timing": {
+        "id": "s09",
+        "start": 279.6333333333333,
+        "narration_start": 280.1333333333333,
+        "narration_end": 314.6129583333333,
+        "end": 315.23333333333335,
+        "second_image_midpoint": null,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 34.479625,
+        "narration_source_sha256": "d06a1de5b1d6cea0a40b055c28ca9914701c9d8a78da0be92a8da0cd49aa0179"
+      }
+    },
+    {
+      "id": "s10",
+      "baslik": "Devam kararı bir tahmin mi?",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s10.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s10.mp3",
+      "anlatim_metin": "Yerden verilen devam yanıtı, uyarıları önemsememek demek değildi. Uzmanların bilgisayarı ve aracın davranışını değerlendirmesine dayanıyordu. Bales'in, Garman'ın ve diğer görevlilerin katkısı, karar zincirinin içinde anlam kazanıyor. Buradan her alarmda devam edilir gibi bir kural çıkaramayız. Uyarının türü ve sistemin hâlâ neyi doğru yapabildiği önemli. Ben ekrandaki sayıya bakıp bir kahramanlık cümlesi söylemiyorum. Bilmediğimde bilene sormanın, bir kararı doğru kişiye ve açık gerekçeyle ulaştırmanın neden değerli olduğunu görüyorum. Cesaret ile bilgi birbirinin yerine geçmiyor.",
+      "tarih_bandi": "DEVAM KARARI · SİSTEM DEĞERLENDİRMESİ",
+      "efektler": [
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+          "t": 18.0,
+          "sure": 0.6,
+          "kazanc_db": -27,
+          "etiket": "MODERN ANALOJİ / CC0"
+        }
+      ],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "Houstonanaoda: Meraklı+3görevli açık aralıklarla değerlendirme; yalnız beyazyelekli direktör rolü, gri guidance ve mavi haberleşme. Eller kenetlenmez.",
+      "_karakter_min": 4,
+      "_measured_timing": {
+        "id": "s10",
+        "start": 314.8333333333333,
+        "narration_start": 315.3333333333333,
+        "narration_end": 349.57325,
+        "end": 350.2,
+        "second_image_midpoint": null,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 34.239916666666666,
+        "narration_source_sha256": "1aee936a5ce566f09143d92486ec903a314331726533ef2b578a30927d2652fb"
+      }
+    },
+    {
+      "id": "s11",
+      "baslik": "Houston uzaktan mı indiriyor?",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s11.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s11.mp3",
+      "anlatim_metin": "Peki kontrol odası, Ay modülünü bir oyuncak araç gibi uzaktan mı kullanıyor? Hayır. Houston'daki bir kol çevrilip Eagle'ın ayakları yere konmuyor. Aracın içindeki kontrol sistemleriyle Armstrong ve Aldrin'in görevleri belirleyici. Yerden gelen değerlendirmeler ve bilgiler, bu sürecin desteği. Gösterdiğimiz çizimler de bir uçuş kullanım kılavuzu değil. Benim önümdeki masada hayalî bir iniş düğmesi yok. Odanın gücü, uzaktaki insanların yerine geçmesinde değil; onların durumunu anlayıp doğru zamanda gerekli bilgiyi sağlayabilmesinde yatıyor.",
+      "tarih_bandi": "ARAÇ İÇİ KONTROL ≠ HOUSTON’DAN OYUN KOLU",
+      "efektler": [],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "Meraklı+3görevli uzaktan kumanda OLMAYAN konsollar yanında; küçük açıklayıcı levhada araç içi kontrol simgesi, canlı inişvideo/oyunjoystickyok.",
+      "_karakter_min": 4,
+      "_measured_timing": {
+        "id": "s11",
+        "start": 349.8,
+        "narration_start": 350.3,
+        "narration_end": 382.17214583333333,
+        "end": 382.8,
+        "second_image_midpoint": null,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 31.872145833333335,
+        "narration_source_sha256": "bf7e5176f9ccbcd4eec9cbf725d3cf9cfefe4be948d60f22f51438e1632aee0b"
+      }
+    },
+    {
+      "id": "s12",
+      "baslik": "Altmış, sonra otuz",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s12.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s12.mp3",
+      "anlatim_metin": "Son yaklaşmada yakıtla ilgili süre çağrıları duyuluyor: Altmış saniye, sonra otuz saniye. Gerilimi anlamak için bunları duymak yeterli. Ama sayıları, motorun kesin olarak sıfır saniyede duracağı değişmez bir saat gibi anlatmayalım. Çağrılar, operasyonel sınırlar ve eldeki ölçümlerin değerlendirilmesiyle ilgili. Burada gösterdiğim çizelge de gerçek bir yakıt göstergesinin birebir kopyası değil. Karar vermek için zaman daralıyor; aynı anda irtifa, hareket ve uygun zemin önemini koruyor. Bir tek sayıya kilitlenmek, diğer bilgileri görmezden gelmeye yol açabilir.",
+      "tarih_bandi": "60 / 30 SANİYE · OPERASYONEL YAKIT SINIRI",
+      "efektler": [],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "Meraklı+3görevli irtifa/hareketi temsil eden CRTçizgilerine bakar;60/30bantmetinleri sonradan.",
+      "_karakter_min": 4,
+      "gorsel2": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s12b.png",
+      "gorsel2_oran": 0.5,
+      "_gorsel2_tanim": "Aynı4figür güvenli yanda, masada açıklayıcı yakıt/süre kâğıdı. Patlamaya giden sıfırkronometre/tam tank ölçümü iddiası yok.",
+      "_gorsel2_durum": "PASS: baş oranı AI ile düzeltildi,4figür tümuzuvlar açık.",
+      "_measured_timing": {
+        "id": "s12",
+        "start": 382.4,
+        "narration_start": 382.9,
+        "narration_end": 416.40216666666663,
+        "end": 417.03333333333336,
+        "second_image_midpoint": 399.5333333333333,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 33.50216666666667,
+        "narration_source_sha256": "815fb7b54c6498ff01038ce3f6fcd03bd53512a250f4cba0057dc591bd96606c"
+      }
+    },
+    {
+      "id": "s13",
+      "baslik": "Zemini kim görüyor?",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s13.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s13.mp3",
+      "anlatim_metin": "Armstrong, son yaklaşmada daha uygun bir iniş alanına yöneliyor; Aldrin de göstergeleri ve hareket bilgilerini takip ediyor. Bu sırada Houston'da herkes onların gördüğü manzarayı canlı televizyondan seyretmiyor. İniş anının Ay görüntüsü bu odaya bir maç yayını gibi gelmiyor. Sonradan izlediğimiz filmle o anda elde bulunan bilgiyi ayırmak önemli. Ben burada bir ekranın önünde dursam bile, pencerenin dışındaki taşları gördüğümü söyleyemem. Uzakta verilen kararları anlamak için, karar verenlerin neyi görebildiğini ve neyi ölçebildiğini de bilmek gerekir.",
+      "tarih_bandi": "İNİŞTE CANLI AY VİDEOSU YOK · RADYO / VERİ",
+      "efektler": [],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "Houstonoda: Meraklı+3görevli radyo/veri izler. Masada pürüzlü yüzeyli Ay haritası; canlı Armstrong/inişvideo yok.",
+      "_karakter_min": 4,
+      "_measured_timing": {
+        "id": "s13",
+        "start": 416.6333333333333,
+        "narration_start": 417.1333333333333,
+        "narration_end": 449.42647916666664,
+        "end": 450.03333333333336,
+        "second_image_midpoint": null,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 32.293145833333334,
+        "narration_source_sha256": "c036163936b6e537a46cfc52759306c1a0efaa1cd7af619953fa6ae1f0f67aa8"
+      }
+    },
+    {
+      "id": "s14",
+      "baslik": "Temas, sonra teyit",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s14.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s14.mp3",
+      "anlatim_metin": "Takvim yirmi Temmuz bin dokuz yüz altmış dokuz. Evrensel saatle yaklaşık yirmi on yedide Eagle, Ay yüzeyine ulaşıyor. Kayıtlarda önce Aldrin'in temas ışığı bildirimi, ardından motoru kapatma ve durum teyidi konuşmaları var. Ünlü iniş cümlesi, bütün bu adımların tam aynı anında söylenmiş tek bir işaret değil. Ben defterimde olayları yan yana ama ayrı yazıyorum: Yaklaşma, temas, motorun durması, yerde olduğunun bildirilmesi. Birkaç saniyeyi tek kareye sıkıştırmak kolay. Oysa belgenin sırası, heyecan kadar değerli bir bilgi taşıyor.",
+      "tarih_bandi": "20 TEMMUZ 1969 · YAKLAŞIK 20.17 UTC · İNİŞ",
+      "efektler": [],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "Kontrolodasında dikkatli dinleyen Meraklı+3görevli; büyük panoda yörüngeyi gösteren sade çizgi. Altınkonfetiyok, kapıdan astronot çıkmıyor.",
+      "_karakter_min": 4,
+      "_gorsel_durum": "PASS:3yanfigür tam dönem pantolonu/gömlek/yelek düzeltildi.",
+      "_measured_timing": {
+        "id": "s14",
+        "start": 449.6333333333333,
+        "narration_start": 450.1333333333333,
+        "narration_end": 484.36654166666665,
+        "end": 484.96666666666664,
+        "second_image_midpoint": null,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 34.23320833333333,
+        "narration_source_sha256": "69f09ce4fcf9bf786f79ce773eb488546e2909353fd22e136883365b2f38cb97"
+      }
+    },
+    {
+      "id": "s15",
+      "baslik": "O günün gerçek sesi",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s15.mp3",
+      "anlatim_metin": "Buraya kadar duyduğun Türkçe ses, benim anlatımım. Şimdi kısa bir ara verip, o günün gerçek radyo kaydından iniş bildirimini dinleyelim. Bu ses bir oyuncunun canlandırması ya da astronota benzetilmiş yapay bir ses değil. Kaynağı ve yapılan kesit düzenlemesi yayın künyesinde açıkça belirtilecek. Ekrandaki çöp adamlı sahne ise yine temsili çizim; arşiv görüntüsüne dönüşmüyor. Kısa kayıtta iki ayrı şeyi birbirine karıştırmadan dinleyelim: Gerçek bir insanın geçmişten gelen sesi ve o anı anlamak için bugün kurduğumuz görsel anlatı.",
+      "tarih_bandi": "20 TEMMUZ 1969 · SES ARŞİVİ / TEMSİLÎ ÇİZİM",
+      "efektler": [
+        {
+          "dosya": "bolumler/030-apollo11-gorev-kontrol/uzun/arsiv-sesleri/eagle-has-landed-islenmis.mp3",
+          "t": 33.10774999999995,
+          "sure": 9.550041666666667,
+          "kazanc_db": 3,
+          "etiket": "GERÇEK KAYIT · NASA/JSC · İŞLENMİŞ ALINTI",
+          "hiz": 1.0
+        }
+      ],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "Meraklı+3görevli arşiv sesine geçişi temsil eden kablolu kulaklık/makaralı kayıt masası yanında; kaydı yapan Meraklı gibi sunulmaz.",
+      "_karakter_min": 4,
+      "gorsel2": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15b.png",
+      "gorsel2_oran": 0.5,
+      "_gorsel2_tanim": "Dört tam boy PASS figürlü s14 tabanı + kendi çizdiğimiz temsili makaralı kayıt aygıtı; s15b kesik ayaklı AI taslağı kullanılmadı. Taban figürlerin4×2kol/2ayrıel/2bacak/2ayağı finalkompozitte tekrar incelendi/PASS.",
+      "_ek_sure_bekliyor": "Özgün kayıt uzunluğu + güvenli boşluk; atempo/trim sonrası s15anlatım sonuyla eşleştir.",
+      "_arsiv_durum": "Mikste, normal1×hız. Kaynakzinciri/caption/ALSJbağlamı/teknikQA; bağımsızinsandinlemesi ve kelimekelimeASR doğrulaması yapılmışdenmez.",
+      "_measured_timing": {
+        "id": "s15",
+        "start": 484.56666666666666,
+        "narration_start": 485.06666666666666,
+        "narration_end": 517.1744166666666,
+        "end": 528.3333333333334,
+        "second_image_midpoint": 506.23333333333335,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 32.10775,
+        "narration_source_sha256": "ee3815dce4feb1e821f3a789a7fc9016fcf74d42704d51b74a69c32e6fe78f6a",
+        "archive": {
+          "start": 517.6744166666666,
+          "end": 527.2244583333332,
+          "duration": 9.550041666666667,
+          "speed": 1.0,
+          "source_sha256": "ba45c8de4e9f22ccc0e05b818642eec0775175081413da622a1b82e252d064d3",
+          "scene": "s15"
+        }
+      }
+    },
+    {
+      "id": "s16",
+      "baslik": "İniş cümlesi neyi söylüyor?",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s16.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s16.mp3",
+      "anlatim_metin": "Armstrong'un mesajı, Türkçe anlamıyla Houston'a Sükûnet Üssü'nden seslenip Kartal'ın indiğini bildiriyor. İngilizce yer adı Tranquility Base. Bu söz, ilk adımın atıldığı cümleyle aynı değil. Radyo konuşması, aracın yüzeye ulaştığını bildirirken görev kontrolünün karşılığı da bilginin alındığını gösteriyor. Ben bu kısa haberleşmede yalnız bir zafer sözü duymuyorum. Uzakta olan bir olayın, kısa ve anlaşılır bir mesajla ortak bilgiye dönüşmesini görüyorum. Böylece Houston'daki insanlar ne bildiklerini ve hangi aşamaya geçildiğini daha açık biçimde ayırabiliyor.",
+      "tarih_bandi": "TRANQUILITY BASE · İNİŞ BİLDİRİMİ ≠ İLK ADIM",
+      "efektler": [],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "Meraklı+3görevli masada küçük Ay yüzeyi haritası/yer bildirimi levhası; ilkadım fotoğrafı yok, özgün kaydı kendilerine maletmezler.",
+      "_karakter_min": 4,
+      "_measured_timing": {
+        "id": "s16",
+        "start": 527.9333333333333,
+        "narration_start": 528.4333333333333,
+        "narration_end": 563.9022708333333,
+        "end": 564.5333333333333,
+        "second_image_midpoint": null,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 35.4689375,
+        "narration_source_sha256": "39fab2598b74c6e6bf52d1f62053cb7f77367cf822516e1fb20f2e00c255357f"
+      }
+    },
+    {
+      "id": "s17",
+      "baslik": "Sevinç var, görev bitmedi",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s17.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s17.mp3",
+      "anlatim_metin": "İniş haberi gelince insan rahatlamak ister. Ama aracın yüzeye ulaşması, tehlikelerin ve yapılacakların bir anda bittiği anlamına gelmiyor. Astronotlar ve yerdeki ekip durum kontrollerini sürdürüyor; gerektiğinde yeniden kalkabilmek de düşünülüyor. Kapı hemen açılıp dışarı koşulmuyor. Benim hayalî sevincim bile bu gerçeği değiştirmemeli. Bu bölümde başarıyı, son işi yapmadan masadan kalkmak gibi anlatmıyoruz. İyi bir ekip, önemli bir aşamayı kutlayabilir; aynı zamanda tamamlanmamış görevin sorumluluğunu da koruyabilir.",
+      "tarih_bandi": "İNİŞ SONRASI · GÖREV DEVAM EDİYOR",
+      "efektler": [
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+          "t": 9.0,
+          "sure": 0.6,
+          "kazanc_db": -27,
+          "etiket": "MODERN ANALOJİ / CC0"
+        }
+      ],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "s15 tam boy/dört açık kollu figür tabanı + kendi kontrol kâğıdı çizimimiz; arkası dönük/gizli kollu s17 AI taslağı kullanılmadı. Taban figürlerin4×2kol/2ayrıel/2bacak/2ayağı finalkompozitte tekrar incelendi/PASS.",
+      "_karakter_min": 4,
+      "_measured_timing": {
+        "id": "s17",
+        "start": 564.1333333333333,
+        "narration_start": 564.6333333333333,
+        "narration_end": 594.8977708333333,
+        "end": 595.5,
+        "second_image_midpoint": null,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 30.2644375,
+        "narration_source_sha256": "0843636beb0461953e5b75a11b6e2f9de144c8cdc182b5b9d157ce9b4faf43d2"
+      }
+    },
+    {
+      "id": "s18",
+      "baslik": "İlk adım hemen atılmadı",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s18.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s18.mp3",
+      "anlatim_metin": "İnişle ilk adımın arasına saatler giriyor. Armstrong'un yüzeye ilk adımı, evrensel saatle yirmi bir Temmuz'da, yaklaşık iki elli altıda. Amerika'daki yerel takvimdeyse hâlâ yirmi Temmuz. İki farklı tarihin anlatılması bu yüzden tek başına bir çelişki değil. Televizyonla gördüğümüz meşhur merdiven ve yürüyüş görüntüleri de bu sonraki aşamaya ait. Houston'daki ekranı şimdi temsili olarak gösteriyorsak, zamanı değiştirdiğimizi açıkça belirtiyoruz. Bir görüntünün gerçekten var olması, onu olayın istediğimiz dakikasına taşıyabileceğimiz anlamına gelmez.",
+      "tarih_bandi": "21 TEMMUZ 1969 · 02.56 UTC · İLK ADIM AYRI",
+      "efektler": [],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "Daha sonrası: Meraklı+3görevli yanında CRTte tek beyazçöp-astronotun merdivenini TEMSİL EDEN küçük siyahbeyazçizim. İlkadım21TemmuzUTCbandı; iniş anına taşınmaz.",
+      "_karakter_min": 4,
+      "_measured_timing": {
+        "id": "s18",
+        "start": 595.1,
+        "narration_start": 595.6,
+        "narration_end": 627.4924166666667,
+        "end": 628.1,
+        "second_image_midpoint": null,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 31.892416666666666,
+        "narration_source_sha256": "1955f35ea09aeffd7479b9e6f8b947243ce7fd1031f96fbe5edccec31f46db77"
+      }
+    },
+    {
+      "id": "s19",
+      "baslik": "Ay'a inmek ve geri dönmek",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s19.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s19.mp3",
+      "anlatim_metin": "Görevin hedefi, insanları Ay'a ulaştırıp güvenle Dünya'ya geri getirmekti. Eagle'ın yükselişi, Columbia ile buluşması ve dönüş yolculuğu bu yüzden hikâyenin dışında değil. Collins'in yörüngedeki işi de başarıya dahil. Yirmi dört Temmuz'da üç astronot Dünya'ya dönüyor; bu tarih, iniş günüyle karıştırılmamalı. Ben Houston'dan ayrılırken yalnız bir ayak izini düşünmüyorum. Aracın yapımından son karşılamaya kadar uzanan bir emeği düşünüyorum. Bir görevin tamamlandığını söylemek için, önce o görevin başta neyi amaçladığını doğru hatırlamak gerekiyor.",
+      "tarih_bandi": "21–24 TEMMUZ 1969 · DÖNÜŞ AŞAMALARI AYRI",
+      "efektler": [],
+      "ek_sure": 0.6,
+      "_gorsel_tanim": "El örtüşmesi olmayan s12b tabanındaki kâğıda kendi temsili yükseliş/buluşma şemamız; örtüşen elli s19 taslağı kullanılmadı. Taban figürlerin4×2kol/2ayrıel/2bacak/2ayağı finalkompozitte tekrar incelendi/PASS.",
+      "_karakter_min": 4,
+      "gorsel2": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s19b.png",
+      "gorsel2_oran": 0.5,
+      "_gorsel2_tanim": "Kanonik yüzlü/dört tam boy s16 tabanı + kendi paraşüt/kapsül/deniz şemamız; eksik yüzlü s19b taslağı kullanılmadı. Tarih bandı 24 Temmuz olacak. Taban figürlerin4×2kol/2ayrıel/2bacak/2ayağı finalkompozitte tekrar incelendi/PASS.",
+      "_ikinci_tarih_bandi": "24 TEMMUZ 1969 · DÜNYA’YA DÖNÜŞ · TEMSİLÎ",
+      "_measured_timing": {
+        "id": "s19",
+        "start": 627.7,
+        "narration_start": 628.2,
+        "narration_end": 659.509125,
+        "end": 660.1333333333333,
+        "second_image_midpoint": 643.7,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 31.309125,
+        "narration_source_sha256": "fec5aef073623721d6a43023ac754b9771a35b557ddd895d2b1b618aad8dd643"
+      },
+      "tarih_bandi2": "24 TEMMUZ 1969 · DÜNYA’YA DÖNÜŞ · TEMSİLÎ"
+    },
+    {
+      "id": "s20",
+      "baslik": "Sen hangi masada olurdun?",
+      "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s20.png",
+      "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s20.mp3",
+      "anlatim_metin": "Ay'a adım atmadan da bu yolculuğun önemli bir parçası olabilirdin. Bir veriyi kontrol ederek, bir yazılımı sınayarak ya da doğru bilgiyi doğru kişiye ulaştırarak. Ben Meraklı, bu hayalî ziyaretimde bir aracı indirmedim; bir başarıyı tek kişinin hikâyesine sığdırmamayı öğrendim. Sen Houston'daki bu ekipte olsaydın hangi işi seçerdin? Veriyi okumayı mı, haberleşmeyi mi, yoksa sistemi sınamayı mı? Seçimini yorumlara yaz. Tarihin içinde başka soruların peşine düşmek için kanalıma abone olmayı unutmayın!",
+      "tarih_bandi": "SEN HANGİ MASADA OLURDUN? · MERAKLI KURGU",
+      "efektler": [
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 2.0,
+          "sure": 1.2,
+          "kazanc_db": -27,
+          "etiket": "MODERN ANALOJİ / CC0"
+        }
+      ],
+      "ek_sure": 5,
+      "_gorsel_tanim": "Meraklı sağda iki eli açık ve aşağıda; el sallamaz.3giyinik görevli, tümuzuvlar açık. s14tabanında yerelkompozit; kapanış/abone metinleri AYRI kartlarda.",
+      "_karakter_min": 4,
+      "_measured_timing": {
+        "id": "s20",
+        "start": 659.7333333333333,
+        "narration_start": 660.2333333333333,
+        "narration_end": 690.6025208333333,
+        "end": 691.2333333333333,
+        "second_image_midpoint": null,
+        "narration_speed": 1.06,
+        "narration_pcm_seconds": 30.3691875,
+        "narration_source_sha256": "dd94fcac085ef7861e89afcfc2f496b8249c40792d8a93c1cccb66621fb8dfa9"
+      }
+    }
+  ],
+  "arsiv_kayit_plani": {
+    "status": "EDINIM_VE_ICERIK_DOGRULAMA_BEKLIYOR",
+    "scene": 15,
+    "primary_source": "https://www.nasa.gov/historical-sounds/",
+    "official_short_url": "https://www.nasa.gov/wp-content/uploads/2015/01/569462main_eagle_has_landed.mp3",
+    "official_extended_url": "https://www.nasa.gov/wp-content/uploads/2015/01/590333main_ringtone_eagleHasLanded_extended.mp3",
+    "placement": "Türkçe s15anlatımı bittikten sonra, anlatıcı susarken; gerçek kaydı atempo ile hızlandırma. Süre/ek_sure/efektt ölçümden sonra yazılacak.",
+    "label": "GERÇEK KAYIT · APOLLO 11 · NASA",
+    "label_interval": "Yalnız gerçek seskesitinin başladığı/bittiği aralık; çizimler her zaman TEMSİLÎ.",
+    "music": "Alıntıda müziği azalt veya kes; sözlerin üstüne SFX/TTSbindirme."
+  },
+  "_nihai_plan_gorevleri": [
+    "Giriş/kapanış kartlarını s01/s20boş alanına konumlandır; ortalı yazıyla yüz kapatma. Uzun seçenek satırını font genişliğine göre sığdır.",
+    "s15arsiv kaydı edinim/içerik/decode/süre sonra Türkçe anlatım sonuna ek_sure ve efektt yaz; atempo uygulama.",
+    "GERÇEK KAYIT ASS olayı yalnız gerçek arşiv alıntısının başlama/bitme aralığında, diğer sesler voice-03anlatım.",
+    "s19b24Temmuztarih bandını ikinci görsel aralığına bağla; mevcut renderer tek tarih_bandi kullanır, otomatik destek varmış sanma.",
+    "20anlatım ve kayıt ölçüldükten sonra5–12dk/senkron doğrula; taslak dosyayı finalplan gibi render etme."
+  ],
+  "_renderer": "bolumler/030-apollo11-gorev-kontrol/uzun/render_b030.py",
+  "_timing": "bolumler/030-apollo11-gorev-kontrol/uzun/ZAMAN-CIZELGESI.json",
+  "_narration_speed": 1.06,
+  "_archive_speed": 1.0,
+  "_crossfade_seconds": 0.4,
+  "_separate_cards": [
+    "giris",
+    "tarih",
+    "kapanis",
+    "abone"
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "status": "TEKNIK_VE_16_KRITIK_KARE_QA_PASS",
+  "file": "bolumler/030-apollo11-gorev-kontrol/uzun/merakli-030-uzun-apollo11-gorev-kontrol.mp4",
+  "sha256": "2222978930f657e08f3126c416f2af6a0cd7109fd54b06ce63f0c1a42de2ffd3",
+  "bytes": 33023221,
+  "duration_seconds": 698.0,
+  "duration_timeline_seconds": 697.9333333333333,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "audio_sample_rate": 48000,
+  "audio_channels": 2,
+  "full_av_decode": "PASS",
+  "faststart": true,
+  "mp4_atoms": [
+    {
+      "type": "ftyp",
+      "offset": 0,
+      "size": 32
+    },
+    {
+      "type": "moov",
+      "offset": 32,
+      "size": 770466
+    },
+    {
+      "type": "free",
+      "offset": 770498,
+      "size": 8
+    },
+    {
+      "type": "mdat",
+      "offset": 770506,
+      "size": 32252715
+    }
+  ],
+  "loudness": {
+    "input_i": "-14.01",
+    "input_tp": "-1.36",
+    "input_lra": "3.10",
+    "input_thresh": "-24.36",
+    "output_i": "-13.80",
+    "output_tp": "-1.50",
+    "output_lra": "3.30",
+    "output_thresh": "-24.15",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.20"
+  },
+  "all_29_picture_matches": [
+    {
+      "id": "giris",
+      "at_seconds": 1.75,
+      "mean_absolute_rgb_difference_below_header": 1.3209,
+      "result": "PASS"
+    },
+    {
+      "id": "tarih",
+      "at_seconds": 4.35,
+      "mean_absolute_rgb_difference_below_header": 1.3085,
+      "result": "PASS"
+    },
+    {
+      "id": "s01",
+      "at_seconds": 22.983333,
+      "mean_absolute_rgb_difference_below_header": 1.9698,
+      "result": "PASS"
+    },
+    {
+      "id": "s02",
+      "at_seconds": 57.816667,
+      "mean_absolute_rgb_difference_below_header": 1.909,
+      "result": "PASS"
+    },
+    {
+      "id": "s03",
+      "at_seconds": 91.65,
+      "mean_absolute_rgb_difference_below_header": 2.0339,
+      "result": "PASS"
+    },
+    {
+      "id": "s04",
+      "at_seconds": 116.7,
+      "mean_absolute_rgb_difference_below_header": 2.1261,
+      "result": "PASS"
+    },
+    {
+      "id": "s04b",
+      "at_seconds": 133.833333,
+      "mean_absolute_rgb_difference_below_header": 2.4387,
+      "result": "PASS"
+    },
+    {
+      "id": "s05",
+      "at_seconds": 160.033333,
+      "mean_absolute_rgb_difference_below_header": 2.0189,
+      "result": "PASS"
+    },
+    {
+      "id": "s06",
+      "at_seconds": 195.5,
+      "mean_absolute_rgb_difference_below_header": 2.1416,
+      "result": "PASS"
+    },
+    {
+      "id": "s07",
+      "at_seconds": 229.733333,
+      "mean_absolute_rgb_difference_below_header": 1.6818,
+      "result": "PASS"
+    },
+    {
+      "id": "s08",
+      "at_seconds": 254.383333,
+      "mean_absolute_rgb_difference_below_header": 2.1951,
+      "result": "PASS"
+    },
+    {
+      "id": "s08b",
+      "at_seconds": 271.283333,
+      "mean_absolute_rgb_difference_below_header": 2.8337,
+      "result": "PASS"
+    },
+    {
+      "id": "s09",
+      "at_seconds": 297.433333,
+      "mean_absolute_rgb_difference_below_header": 2.0271,
+      "result": "PASS"
+    },
+    {
+      "id": "s10",
+      "at_seconds": 332.516667,
+      "mean_absolute_rgb_difference_below_header": 2.4027,
+      "result": "PASS"
+    },
+    {
+      "id": "s11",
+      "at_seconds": 366.3,
+      "mean_absolute_rgb_difference_below_header": 2.7645,
+      "result": "PASS"
+    },
+    {
+      "id": "s12",
+      "at_seconds": 391.066667,
+      "mean_absolute_rgb_difference_below_header": 2.5947,
+      "result": "PASS"
+    },
+    {
+      "id": "s12b",
+      "at_seconds": 408.183333,
+      "mean_absolute_rgb_difference_below_header": 2.7137,
+      "result": "PASS"
+    },
+    {
+      "id": "s13",
+      "at_seconds": 433.333333,
+      "mean_absolute_rgb_difference_below_header": 2.1677,
+      "result": "PASS"
+    },
+    {
+      "id": "s14",
+      "at_seconds": 467.3,
+      "mean_absolute_rgb_difference_below_header": 2.078,
+      "result": "PASS"
+    },
+    {
+      "id": "s15",
+      "at_seconds": 495.5,
+      "mean_absolute_rgb_difference_below_header": 2.408,
+      "result": "PASS"
+    },
+    {
+      "id": "s15b",
+      "at_seconds": 517.183333,
+      "mean_absolute_rgb_difference_below_header": 2.0964,
+      "result": "PASS"
+    },
+    {
+      "id": "s16",
+      "at_seconds": 546.233333,
+      "mean_absolute_rgb_difference_below_header": 2.2704,
+      "result": "PASS"
+    },
+    {
+      "id": "s17",
+      "at_seconds": 579.816667,
+      "mean_absolute_rgb_difference_below_header": 2.2471,
+      "result": "PASS"
+    },
+    {
+      "id": "s18",
+      "at_seconds": 611.6,
+      "mean_absolute_rgb_difference_below_header": 2.3211,
+      "result": "PASS"
+    },
+    {
+      "id": "s19",
+      "at_seconds": 635.8,
+      "mean_absolute_rgb_difference_below_header": 2.4335,
+      "result": "PASS"
+    },
+    {
+      "id": "s19b",
+      "at_seconds": 651.816667,
+      "mean_absolute_rgb_difference_below_header": 2.2704,
+      "result": "PASS"
+    },
+    {
+      "id": "s20",
+      "at_seconds": 675.483333,
+      "mean_absolute_rgb_difference_below_header": 2.0783,
+      "result": "PASS"
+    },
+    {
+      "id": "kapanis",
+      "at_seconds": 692.583333,
+      "mean_absolute_rgb_difference_below_header": 1.2386,
+      "result": "PASS"
+    },
+    {
+      "id": "abone",
+      "at_seconds": 695.933333,
+      "mean_absolute_rgb_difference_below_header": 1.4033,
+      "result": "PASS"
+    }
+  ],
+  "source_png_count": 25,
+  "scene_count": 20,
+  "separate_cards": 4,
+  "narrations": 20,
+  "voice_id": "voice-03",
+  "subtitles": false,
+  "archive_normal_speed": true,
+  "archive_no_narration_overlap": true,
+  "archive_no_foley_overlap": true,
+  "source_content_limitations": "No human listening performed. Archival provenance and publisher caption/primary context checked; PocketSphinx radio ASR was unreliable, not used as a transcript.",
+  "critical_frames": [
+    {
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/qa-kareleri/01-giris.jpg",
+      "at_seconds": 1.3,
+      "visual_review": "PASS",
+      "sha256": "04df81d1ec46625f0b4d25584c74466fb581b37836dc59789f5142d7f7b7e849"
+    },
+    {
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/qa-kareleri/02-tarih.jpg",
+      "at_seconds": 4.1,
+      "visual_review": "PASS",
+      "sha256": "0536c1f87d46b8ab13d8fcd5fbf71c9e0e3e3a27216fdd2e4e3c40fdfb08f7bc"
+    },
+    {
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/qa-kareleri/03-s01-modern.jpg",
+      "at_seconds": 7.3,
+      "visual_review": "PASS",
+      "sha256": "9291e8463d5dc7b680bc9ac7a893182d4250ca01f90caf27aaac96c41fb21ec8"
+    },
+    {
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/qa-kareleri/04-s04b.jpg",
+      "at_seconds": 132,
+      "visual_review": "PASS",
+      "sha256": "e1106efe3c2cb2cc75a3681a48d4bfc485382fbe81307e80b07630089d0e642c"
+    },
+    {
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/qa-kareleri/05-s09.jpg",
+      "at_seconds": 294,
+      "visual_review": "PASS",
+      "sha256": "b4c403ded0db8caec9f366884883c1c17b320345b96b9005eb577f72c161273c"
+    },
+    {
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/qa-kareleri/06-s12b.jpg",
+      "at_seconds": 407,
+      "visual_review": "PASS",
+      "sha256": "428c888b04355ccdc60d9f7163d87448633d1134ac24952d975e900dbfc45ae5"
+    },
+    {
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/qa-kareleri/07-s14.jpg",
+      "at_seconds": 464,
+      "visual_review": "PASS",
+      "sha256": "5cb765ab58153eac0cfa828656ed21b6a3d7e71b03d0a70a6c80c5bd8f863b4d"
+    },
+    {
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/qa-kareleri/08-kayit-oncesi.jpg",
+      "at_seconds": 517.424417,
+      "visual_review": "PASS",
+      "sha256": "9679bed0917bb55aed9b8da9cbdb2858321a5d5b49c5b4563b0d968d0ac043dd"
+    },
+    {
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/qa-kareleri/09-gercek-kayit.jpg",
+      "at_seconds": 520,
+      "visual_review": "PASS",
+      "sha256": "c261d6db35b0c0f4d2d8dc80aefb422d9e668c7d98773f58ed11eaf75dc2cd4b"
+    },
+    {
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/qa-kareleri/10-kayit-sonrasi.jpg",
+      "at_seconds": 527.474458,
+      "visual_review": "PASS",
+      "sha256": "95f8e7bae9069eab0cacaa21f8f4a5022f3f66420983dbd67a006b1327065565"
+    },
+    {
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/qa-kareleri/11-ilk-adim.jpg",
+      "at_seconds": 610,
+      "visual_review": "PASS",
+      "sha256": "ec819d93bf86d70147221b56500a7b4a8df6c470625ed7178c0c37a6ae991a4d"
+    },
+    {
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/qa-kareleri/12-yukselis.jpg",
+      "at_seconds": 636,
+      "visual_review": "PASS",
+      "sha256": "554a9075f39d57b98016da41ecf27d8e796854048f7bed5efdb6294441b0d618"
+    },
+    {
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/qa-kareleri/13-donus24temmuz.jpg",
+      "at_seconds": 650,
+      "visual_review": "PASS",
+      "sha256": "be4460916e295af369df1aa0dcab5f1aaa8f66b6c779cc88392f2b4cbe6f1022"
+    },
+    {
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/qa-kareleri/14-s20.jpg",
+      "at_seconds": 678,
+      "visual_review": "PASS",
+      "sha256": "df2f40a260b8beca1a75e0c9e1cfdcf18093ad6c45f790de18b680183e55b3fc"
+    },
+    {
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/qa-kareleri/15-kapanis.jpg",
+      "at_seconds": 692.4,
+      "visual_review": "PASS",
+      "sha256": "bfe85a3063423da02c635015997255e343c17f5178b7093986ef6a4a3d10d8ce"
+    },
+    {
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/qa-kareleri/16-abone.jpg",
+      "at_seconds": 696,
+      "visual_review": "PASS",
+      "sha256": "34f9a3c1e969390ff09a9fb921909af499ccefa35396ab30a1360fdf4739b5e7"
+    }
+  ],
+  "visual_frames_reviewed": true,
+  "visual_frame_count": 16,
+  "visual_review_notes": [
+    "16kare read_file ile açılarak incelendi:4ayrıkart,modernanaloji etiketi,NASAetiketönce/içinde/sonra,21Temmuzilkadım,24Temmuzdönüş,kompozitanatomi.",
+    "Kritik anlatıkarelerinde dört giyinik beyazçöpadam;Meraklıda kırmızıfular;iki kol/iki el/iki bacak,baş/ayaklar kadrajda. Kalabalıkteki küçükastronot, TViçinde temsilişema.",
+    "GörselQA sesdinlemesi değildir. Tümvideoyu gerçekzamanlı izleme/bağımsızinsandinlemesi yapılmışdenmez."
+  ],
+  "modern_analogy_labels": [
+    {
+      "sound_start": 6.7,
+      "sound_end": 8.1,
+      "label_end": 8.5,
+      "scene": "s01"
+    },
+    {
+      "sound_start": 84.86666666666666,
+      "sound_end": 85.46666666666665,
+      "label_end": 86.66666666666666,
+      "scene": "s03"
+    },
+    {
+      "sound_start": 150.3,
+      "sound_end": 150.9,
+      "label_end": 152.10000000000002,
+      "scene": "s05"
+    },
+    {
+      "sound_start": 225.23333333333332,
+      "sound_end": 226.73333333333332,
+      "label_end": 227.03333333333333,
+      "scene": "s07"
+    },
+    {
+      "sound_start": 332.8333333333333,
+      "sound_end": 333.43333333333334,
+      "label_end": 334.6333333333333,
+      "scene": "s10"
+    },
+    {
+      "sound_start": 573.1333333333333,
+      "sound_end": 573.7333333333333,
+      "label_end": 574.9333333333333,
+      "scene": "s17"
+    },
+    {
+      "sound_start": 661.7333333333333,
+      "sound_end": 662.9333333333334,
+      "label_end": 663.5333333333333,
+      "scene": "s20"
+    }
+  ],
+  "modern_analogy_ass_events": 7
+}

@@ -1,6 +1,6 @@
 {
-  "_durum": "25GORSEL_PASS_20SES_RENDER_QA",
-  "_uyari": "25görselPASS/20ses hazır.5son sahne güvenli kaynakfigürlerle kompozit; provenansbetikleri depoda. Yerelrender_b030.py,4ayrıkart ve karehassasiyetlitakvim. Render/QAbitmeden finalteslimdeme.",
+  "_durum": "TAMAMLANDI_FINAL_PLAN_JSONA_BAK",
+  "_uyari": "Üretimkaynağı. Final zamanlar/efektler plan.json ve ZAMAN-CIZELGESI.json içinde; paket11:38teslim/QAPASS.",
   "format": "16:9",
   "encode_preset": "veryfast",
   "crf": 25,

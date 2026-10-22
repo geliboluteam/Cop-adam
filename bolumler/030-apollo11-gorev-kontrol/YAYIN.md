@@ -1,51 +1,65 @@
-# B030 — YAYIN TASLAĞI / HENÜZ FİNAL DEĞİL
+# B030 — YAYINA HAZIR TESLİM / APOLLO 11
 
-> Üretimde: kostüm onaylı;17PNG/15PASS/2düzeltme(s12bbaş,s14kostüm),20voice-03ses hazır.8yeniPNGeksik.9,613061sn işlenmişNASAkökenli alıntı edinildi; soniçerik/miks/video/kapak yok. Zaman damgaları finalQAsonrası.
+**Uzun video: 11:38 · 1920×1080 / 30 fps · 20 sahne / 25 görsel / 20 anlatım · Shorts YOK.**
+Paket hazırdır; bu belge YouTube'a yükleme yapıldığı anlamına gelmez.
 
-## Başlık adayı
-Eğer 1969'da Houston'da Olsaydım: Apollo11'in Son Dakikaları | MERAKLI
+## Başlık
+Eğer 1969’da Houston’da Olsaydım: Apollo 11’in Son Dakikaları | MERAKLI
 
-## Alternatif kanca
-1202Alarmı! Ay'a İnişi Houston'dan İzleseydim — MERAKLI
+## Dosyalar
+- Video: `uzun/merakli-030-uzun-apollo11-gorev-kontrol.mp4`
+- Kapak v4: `kapaklar/thumbnail/bolum-030.png` (1280×720; “1202 ALARMI!” / “1969 · APOLLO 11”)
+- Kaynaklar: `arastirma/030-uzun-apollo11-gorev-kontrol.md`
+- Ses künyesi: `SFX-KUNYE.md`; arşiv ayrıntısı `uzun/arsiv-sesleri/KAYNAK.json`
+- QA: `TEKNIK-QA.md` / `TEKNIK-QA.json`; 16 kritik kare `uzun/qa-kareleri/`
+- Zamanlar: `uzun/ZAMAN-CIZELGESI.json`; nihai plan `uzun/plan.json`
 
-## Açıklama taslağı
-Ay'a gitmeden Ay inişinin tam ortasında olabilir miydin? Meraklı bu kez20Temmuz1969Houston görev kontrolünde hayalî bir gözlemci. Armstrong ve Aldrin Eagle'da yüzeye inerken Michael Collins Columbia'da Ay yörüngesindeydi. Dünya'daki ekip ise radyo ve verilerle onları destekliyordu.
+## Açıklama
+Ay’a gitmeden Ay inişinin tam ortasında olabilir miydin? Meraklı bu kez 20 Temmuz 1969’da Houston görev kontrolünde hayalî bir gözlemci. Armstrong ve Aldrin Eagle ile yüzeye inerken Michael Collins Columbia’da Ay yörüngesindeydi. Dünya’daki ekip onları radyo ve verilerle destekliyordu.
 
-1201/1202uyarıları, önceden yapılan provalar, yazılımın öncelikleri ve uzmanların karar zinciri üzerinden bir başarıyı tek kişinin hikâyesine sığdırmadan anlamaya çalışıyoruz. İniş sırasında Houston'da canlı Ay iniş videosu yoktu; meşhur ilk adım görüntüleri saatler sonraki aşamaya ait.
+1201/1202 uyarıları, provalar, yazılımın öncelikleri ve uzmanların karar zinciri üzerinden bir başarıyı tek kişinin hikâyesine sığdırmadan anlamaya çalışıyoruz. İniş sırasında Houston’da canlı Ay iniş videosu yoktu; ilk adımın televizyon görüntüleri saatler sonraki aşamaya aittir.
 
-İniş20Temmuzyaklaşık20.17UTC; ilk adım21Temmuz02.56UTC, ABDyerel takviminde20Temmuz. 'Kartal indi' bildirimi ve ilk adım aynı an değil. Yakıtla ilgili60/30sçağrıları kesin bir sıfırkronometre gibi anlatılmıyor.
+İniş 20 Temmuz 1969, yaklaşık 20.17 UTC; ilk adım 21 Temmuz 02.56 UTC, ABD yerel takviminde 20 Temmuz. “Kartal indi” bildirimi ve ilk adım aynı an değildir. Yakıtla ilgili 60/30 saniye çağrıları kesin bir sıfır kronometresi diye anlatılmaz. 24 Temmuz’daki dönüş ayrı tarih bandıyla gösterilir.
 
-**Kurgu/temsil:** Meraklı gerçek kontrolör, astronot veya belgelenmiş tanık değildir. Görseller yapay zekâ ile üretilmiş TEMSİLÎ çizimlerdir, NASAarşiv fotoğrafı veya NASAüretimi görsel değildir. Video bağımsız tarih anlatımıdır; NASAonayı/işbirliği ima etmez. NASAlogoları AIgörsellerde kullanılmaz.
+**Kurgu/temsil:** Meraklı gerçek kontrolör, astronot veya belgelenmiş tanık değildir. Tüm çizimler AI üretimi ve/veya yerel kompozit **TEMSİLÎ** görsellerdir; NASA arşiv fotoğrafı veya NASA üretimi çizim değildir. Bazı sahneler doğru anatomili önceki karelerden yeniden oluşturuldu; kaynak betikleri depodadır. Video bağımsız tarih anlatımıdır, NASA onayı/işbirliği ima etmez.
 
-**SES — finalde gerçek kullanıma göre kesinleştirilecek:** NASA/JSC kökenli iniş konuşmasının9,613061sn işlenmiş kısa kopyası GitHubmirror üzerinden edinildi; kaynak/işlem/SHA/decode künyede. Kesintisiz ham kayıt değil. Son içerik-kesit denetimi ve miks henüz yapılmadı. Türkçe anlatımvoice-03, gerçek İngilizce arşiv alıntısından ayrı. Modern kâğıt/kumaş/kalem foleyleri MODERNANALOJİ diye açıklanacak. Künye `SFX-KUNYE.md` içinde; final olmayan bu cümle yayın öncesi güncellenmeli.
+**Ses:** Türkçe anlatıcı aynı voice-03. İngilizce tarihî radyo alıntısı NASA/JSC Apollo 11 Audio Highlights kökenli, belgeli işlenmiş mirror kopyasıdır. Reel parçaları birleştirilmiş, sessizlik atılmış, bandpass/normalizasyon uygulanmıştır; kesintisiz ham kayıt değildir. Bu videoda arşiv normal hızda, Türkçe anlatıdan ayrı çalar. GERÇEK KAYIT etiketi yalnız 517.674–527.224 sn aralığında; görsel aynı anda da TEMSİLÎ. Müzik yok. Kâğıt/kalem/kumaş sesleri CC0 modern foley ve MODERN ANALOJİ; 1969 oda sesi veya 1202 alarmı diye sunulmaz.
 
-Sen hangi işi seçerdin: veriyi okumak, haberleşmek, yoksa sistemi sınamak mı? Yorumlara yaz.
-
-**KANALIMA ABONE OLMAYI UNUTMAYIN!**
+Sen bu ekipte olsaydın veriyi okumayı mı, haberleşmeyi mi, sistemi sınamayı mı seçerdin? Yorumlara yaz. **KANALIMA ABONE OLMAYI UNUTMAYIN!**
 
 ## Bölümler
-20başlık ve tam anlatımlar `BOLUM-PLANI.md` içinde. Gerçek20zaman damgası final ASS zaman çizelgesinden çıkarılacak; tahminî dakikalar yayımlanmıyor.
+00:00 Ay’a gitmeden Ay inişinin içinde
+00:40 Burası uzay aracı değil
+01:14 Üç insan, iki araç
+01:48 İniş bir düğme değil
+02:22 Odanın dışındaki büyük ekip
+02:57 Neden tek kişi konuşuyor?
+03:33 Tehlikeyi önceden prova etmek
+04:05 Ekrandaki bin iki yüz iki
+04:39 Bilgisayar gerçekten durmuş muydu?
+05:14 Devam kararı bir tahmin mi?
+05:49 Houston uzaktan mı indiriyor?
+06:22 Altmış, sonra otuz
+06:56 Zemini kim görüyor?
+07:29 Temas, sonra teyit
+08:04 O günün gerçek sesi
+08:47 İniş cümlesi neyi söylüyor?
+09:24 Sevinç var, görev bitmedi
+09:55 İlk adım hemen atılmadı
+10:27 Ay'a inmek ve geri dönmek
+10:59 Sen hangi masada olurdun?
 
-## Kaynaklar
-- NASA Apollo11: https://www.nasa.gov/mission/apollo-11/
-- NASA'nın yönlendirdiği ApolloLunarSurfaceJournal, iniş transkripti: https://apollojournals.org/alsj/a11/a11.landing.html
-- NASA JackGarman: https://www.nasa.gov/image-article/apollo-era-hero-john-jack-garman-dies/
-- NASA görev kontrol restorasyonu / veri-video ayrımı: https://www.nasa.gov/podcasts/houston-we-have-a-podcast/restoring-the-apollo-mission-control-center/
-- NASA MargaretHamilton ve takımının yazılım emeği: https://history.nasa.gov/wp-content/uploads/static/history/alsj/a11/a11Hamilton.html
-- Smithsonian NASM zaman çizelgesi: https://airandspace.si.edu/explore/stories/apollo-missions/apollo-11-moon-landing/apollo-11-timeline
-- NASA ses kaynakları: https://www.nasa.gov/historical-sounds/ ve https://www.nasa.gov/history/apollo-11-audio-highlights/
-- Ayrıntılı okuma sınırları/kaynak uyuşmazlıkları: `arastirma/030-uzun-apollo11-gorev-kontrol.md`.
+## Kaynak / ses kredisi
+- NASA Apollo 11: https://www.nasa.gov/mission/apollo-11/
+- Apollo Lunar Surface Journal: https://apollojournals.org/alsj/a11/a11.landing.html
+- NASA Historical Sounds: https://www.nasa.gov/historical-sounds/
+- NASA Images and Media Usage Guidelines: https://www.nasa.gov/nasa-brand-center/images-and-media/
+- Sesin asıl kaynak beyanı: NASA/Johnson Space Center, Apollo 11 Audio Highlights / https://archive.org/details/Apollo11AudioHighlights / Public Domain Mark. PDM yeni bir lisans izni değil, kamu malı durum işaretidir; NASA desteği/onayı yok.
+- İşlenmiş kesit hazırlığı: seankd3/orbital-mechanics. Sabit edinim: https://github.com/seankd3/orbital-mechanics/blob/5f0ad6b09eca781416cc333bed557004499766da/public/audio/apollo11/eagle-has-landed.mp3 ; işlemler aynı commit scripts/mission-audio/README.md ve cut.py içinde.
+- Modern foley: OwlishMedia / Sound Effects Pack / CC0 / https://opengameart.org/content/sound-effects-pack . Tam dosyalar/yerleşimler SFX-KUNYE.md içinde.
 
-## Kapak v4
-Henüz üretilmedi. Büyük konu başlıkları; dönem kıyafetli Meraklı odakta, arka planda en az iki giyinik beyazçöp görevli, yüzlere/ellere taşmayan yazı. NASAinsignia/worm/seal yok. Yalnız uzun videoya.
+## Etiketler
+#Meraklı #Apollo11 #Tarih #Ayİnişi #Houston
 
-## Final öncesi kontrol
-- Kostüm onaylı; s04belörtüşme düzeltmesi+17eksik yeni görsel. Her figürde ayrı2el denetimi. İlk10voice-03ses hazır; son10bekliyor.
--20voice-03anlatımın ham/işlenmiş süreleri; kayıt alıntısı normalhızda ve anlatıcı susarken.
-- NASAalıntısı gerçekdosya/provenans/içerik/lisans/decode ve yalnız gerçek ses aralığında GERÇEKKAYITetiketi.
-- s07prova/s09MITgeriyebakış; s18ilkadım/s19bdönüş tarihleri ayrı.
--5–12dk,1920×1080,30fps,H264/AAC,faststart,tamAVdecode,loudness,10kritik kare.
-- Giriş/tarih/kapanış/ayrıabonesatırı okunur; metinler yüzleri ve birbirini kapatmaz.
-- Kapakv4 + finalYAYIN/SFXkünyesi/TEKNIK-QA + commit/push/uzakblobmührü.
-
-#Apollo11 #Meraklı #EğerOradaOlsaydım #UzayTarihi #GörevKontrolü
+## Teslim denetimi
+Tam AV decode, faststart, süre, ses ölçümü, 29 görüntü/kartın gerçek videoda eşleşmesi ve 16 kritik kare kontrol edildi. Teknik sonuç TEKNIK-QA.json içindedir. Bağımsız insan dinlemesi/kelime kelime ASR doğrulaması yapıldığı iddia edilmez; tarihî sesin atfı belgeli kaynak zincirine dayanır. Sonraki kullanıcı seçimi **Samuray/Japonya kale savunması**; başka konuya otomatik geçilmez.

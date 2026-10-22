@@ -62,3 +62,9 @@ Araştırma: 22 Ekim 2026. Seri E 7. bölüm · YOL45 / Konu18. Yalnız uzun vid
 - Asıl kaynak beyanı NASAJSC Apollo11AudioHighlights / https://archive.org/details/Apollo11AudioHighlights / Public Domain Mark. PDM yeni lisans izni değil, kamu malı durum işaretidir; NASAonayı yok. Bandpass250–3600Hz,−18LUFShedefi,22.05kHzmono48kbps, fade ve sessizlikbirleştirme mirror işlemleridir. Kesintisiz ham olay kaydı diye sunulmaz.
 - Kaynakreel1335.1–1337.95ve1338.3–1345.0sn, bizde yenidenkesme/işleme yok. Mirror güncel `src/game/voice.ts` captionı TranquilityBase/Eaglelanded ve Duke groundcopy yanıtını listeler; bu, bizim bağımsız dinleme/ASRsonucumuz değildir. Son içerik/kesit denetimi render kapısında bekliyor.
 - KAYNAK.json ve SFX-KUNYE.md teknik veri/atıf içerir. Anlatıcı aynıvoice-03Türkçe; arşiv ayrıkatman/normalhızda, yalnızalinti anında GERÇEKKAYITetiketi; şimdilik miks/finalvideo yok.
+
+## Nihai üretim kaydı /22Ekim2026
+-11:38uzun,20sahne/25görsel/20anlatım. Yerelkompozit kaynakları açık, çizimler NASAarşivi değil.
+- NASA/JSCişlenmişmirrorkesiti kaynakbaytlarıkorunarakdecodePCM9,550042sn, final517,674417–527,224458sn/normal1×, anlatıcı susuyor. Caption/ALSJbağlamı ve dosyaedinimzinciri kontrol edildi; bağımsızinsandinlemesi/kelimekelimeASR doğrulaması iddia edilmez. PocketSphinxdenemesi düşük güvenli/kullanılmadı.
+- s18ilkadım21TemmuzUTC; s19b24Temmuzdönüş ayrı bant.4ayrıkart ve yalnızkayıtanındaGERÇEKKAYIT; görsellerTEMSİLÎ.
+- TamAVdecode/loudness/faststart/29görüntüeşleşme/16kritikkareQA tamam; sayısalsonuç TEKNIK-QA.json. Sıradaki kullanıcıseçimiSamuray, kaynakaraştırması henüzbaşlamadı.

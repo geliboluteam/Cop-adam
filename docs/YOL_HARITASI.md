@@ -10,7 +10,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 - Samuray sorusu: **“Samuray olarak Japonya’da bir kalenin savunmasına katılsaydım saldırı başladığında ne yapardım?”**
 - Ana karakter, olaydaki yan karakterler ve görseller **İstanbul'un Fethi bölümlerinin tarzını** referans alacak; Japon dönem kıyafeti/mimarisi araştırmaya göre, ilk kostüm görseli kullanıcı onaylı.
 - **Samuray paketi tamamen teslim edilince “Hangi konuya devam edelim?” diye sor.** Cevap almadan başka konuya otomatik geçme; samuray zaten seçildiği için bu soruyu şimdi/Apollo11 sonunda tekrar sorma.
-- Ayrıntılı bağlayıcı kayıt: `docs/SIRADAKI-KONU.md`. Mevcut B030 eksikleri ve QA kapıları değişmedi; B031 üretimi henüz başlamadı.
+- Ayrıntılı bağlayıcı kayıt: `docs/SIRADAKI-KONU.md`. B030 teslim/QA tamam; B031 araştırma/ilk kostüm görseli henüz başlamadı.
 
 ## PAKET DÜZENİ (yeni format)
 
@@ -85,7 +85,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 42 | 49 | 1776, Connecticut / New York | Tek kişilik Turtle: hava, akıntı ve insan gücü | ✅ TAMAMLANDI (B027): 10:14 uzun video, 20 sahne/25 görsel, kapak v4, YAYIN ve SFX künyesi. Seri E 4. bölüm; tarihî görevde yalnız Ezra Lee |
 | 43 | 54 | 1839, Paris | Fotoğraf çırağı: daguerreotip, ışık ve beklemek | ✅ TAMAMLANDI (B028): 9:35 uzun,20sahne/25görsel; kapakv4,YAYIN,SFXkünyesi veQA. Niépce daha erken, kimyasal uygulama yok |
 | 44 | 17 | 1903, Kitty Hawk yakınları / Kill Devil Hills | Wright kardeşlerin ilk motorlu uçuşları | ✅ TAMAMLANDI (B029): 11:24uzun,20sahne/25görsel,20ses,63SFX+müzik; min3karakter/Taylor-Daniels4; kapakv4,YAYIN,künye,tamAVdecode+10kareQA PASS |
-| 45 | 18 | 1969, Houston | Apollo 11 görev kontrol odasında (NASA ses arşivi = gerçek kayıt!) | 🟥 B030 ÜRETİMDE:17PNG/15PASS/2düzeltme(s12bbaş,s14kostüm);20voice-03ses734,136sn ham/700,18sn trim1×/tamdecodePASS.8yeniPNGeksik; işlenmiş9,613061sn arşiv edinildi, soniçerik/miks/video/kapak bekliyor. Yalnız uzun |
+| 45 | 18 | 1969, Houston | Apollo 11 görev kontrol odasında (NASA ses arşivi = gerçek kayıt!) | ✅ TAMAMLANDI (B030): 11:38 uzun, 20 sahne / 25 görsel PASS / 20 anlatım; işlenmiş NASA kökenli radyo alıntısı normal hızda, 7 CC0 foley; 4 ayrı kart, kapak v4, YAYIN/künye; tam AV decode / 29 görüntü eşleşmesi / 16 kare QA. Sıradaki B031 Samuray, kullanıcı seçimi |
 | 46 | 16 | 1912, Kuzey Atlantik | Titanic'in çarptığı gece güvertede | ⬜ |
 | 47 | 55 | 1911, kutup | Kızak sürücüsü: köpekler, don, rasyon | ⬜ |
 | 48 | 25 | çağlar boyu | Keşif gemisi bilinmeyen adaya vardığında | ⬜ |

@@ -2,7 +2,7 @@
 
 ## Bağlayıcı üretim sırası
 
-1. Önce aktif **B030 Apollo 11 / Houston** paketi tamamen bitirilecek. Kullanıcının bu mesajı Apollo11'in tamamlandığı anlamına gelmez; mevcut eksikler ve QA kapıları geçerlidir.
+1. ✅ **B030 Apollo 11 / Houston tamamlandı:** 11:38 uzun video, 25 görsel, 20 anlatım, kapak v4, yayın/künye ve teknik/görsel QA. Bu kayıt kullanıcı seçimi verildiği andaki hazırlık durumunu değil, son teslimi yansıtır.
 2. Hemen ardından **B031: Japonya'da samuray olarak kale savunması** yapılacak. Yol haritasındaki mevcut **YOL33 / Konu40** kullanıcı tarafından öne alındı; yeni/ikinci bir samuray konusu açılmayacak. Bu, tüm SeriD'yi başlatma kararı değildir.
 3. Titanic veya başka bir konu araya otomatik alınmayacak.
 4. **Samuray paketinin tamamı teslim edildikten sonra kullanıcıya “Hangi konuya devam edelim?” diye sorulacak.** Cevap gelmeden başka konu üretimine başlanmayacak. Bu soru şimdi veya Apollo11 bitince tekrar sorulmayacak; sıradaki samuray zaten kullanıcı tarafından seçildi.
@@ -33,7 +33,7 @@
 - Yalnız uzun video, **5–12dk /20sahne /25görsel**;5kilit sahnede ikinci görsel, senkron/süre bozulmaz. Shorts yok.
 - Aynı Türkçe **voice-03**; altyazı yok. Döneme uygun kayıt bulunamazsa modern kayıtlar açıkça MODERN ANALOJİ; sahte tarihî ses yok.
 - Giriş/tarih/kapanış/ayrı abone kartları, yazılar ve yüzler çakışmaz. Kapanış: **KANALIMA ABONE OLMAYI UNUTMAYIN!**
-- Nihai video + YouTube kapakv4 + YAYIN.md + kaynak/lisanslı ses künyesi + görsel/teknik QA + GitHub commit/push/uzak doğrulama tamamlanacak.
+- Nihai video + YouTube kapak v4 + YAYIN.md + kaynak/lisanslı ses künyesi + görsel/teknik QA + GitHub commit/push/uzak doğrulama tamamlanacak.
 - Bu kapılar geçilmeden “komple bitti” denmeyecek ve sonraki konu sorusu erkene alınmayacak.
 
-**Şu anki durum:** Sıra ve kullanıcı isteği kaydedildi. B030 üretimi devam ediyor; B031 araştırma/görsel/ses/video üretimi başlamadı.
+**Şu anki durum:** B030 Apollo 11 tamamlandı: 11:38 uzun / 25 görsel / 20 ses / kapak v4 / QA. Sıradaki B031 Samuray; araştırma/ilk kostüm görseli onayı henüz başlamadı. Sonraki konu sorusu ancak Samuray tüm paket tesliminden sonra.
