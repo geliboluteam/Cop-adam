@@ -1,7 +1,7 @@
 # B029 — 1903: WRIGHT KARDEŞLERİN İLK UÇUŞLARI
 
 > Seri E 6. bölüm · YOL44 / Konu17.
-> DURUM: **Kostüm/karakter onaylı; 12/25 görsel kontrolü geçti, 20/20 voice-03 Türkçe ses hazır (727,224 sn ham).** Sahne başına min3 karakter, Taylor sahnesinde4. Önceki 5 düzeltme tamamlandı; final video henüz üretilmedi. Güncel durum: `URETIM-DURUMU.json`.
+> DURUM: **20/25 görsel dosyası: 18 kontrolü geçti / s13 ve s15 kadraj düzeltmesi açık. 20/20 voice-03 ses hazır (727,224 sn ham; 694,85 sn sessizlik düzenlenmiş).** Min3 karakter, Taylor/Daniels sahnelerinde4. 63SFX taslak planı, kaynak künyesi ve YAYIN taslağı hazır; video henüz yok. Güncel durum: `URETIM-DURUMU.json`.
 > Kaynak: `arastirma/029-uzun-wright-ilk-ucus.md`.
 
 ## Format ve kilitler
@@ -17,7 +17,7 @@
 
 ## Yeni kullanıcı düzeltmesi — yan karakter yoğunluğu (22 Ekim 2026)
 - “Wright kardeşler diyor tek kişi çıkıyor; en az 3 karakter” düzeltmesi uygulandı. Anlatı görsellerinde **Meraklı + Wilbur + Orville** birlikte ve ayrı okunur; s07 motor sahnesinde Taylor ile **4 karakter**.
-- Yeni üretilecek kalan 13 görsel de bu minimumu koruyacak. Teknik yakın ayrıntıda nesne önde olsa bile kardeşler ve Meraklı güvenli arka planda bulunacak.
+- Yeni üretilecek kalan 5 görsel de bu minimumu koruyacak. Teknik yakın ayrıntıda nesne önde olsa bile kardeşler ve Meraklı güvenli arka planda bulunacak.
 - Kardeşler küçük fakat fark edilir, boş siluetli: Wilbur koyu kömür yelek/kahverengi diz pantolonu, Orville arduvaz yelek/gri diz pantolonu. İkisi de krem gömlekli, beyaz kafa/uzuv/el/ayaklı çöp adam. Kırmızı fular yalnız Meraklı.
 - Yan yana eller birleşmez; en az omuz genişliğinde açık aralık. Her figürde 2 kol/2 ayrı el/2 bacak/2 ayak denetimi.
 - Bu kompozisyon tarihsel tanık listesi değildir; Meraklı kurgu katmanda.
@@ -144,3 +144,12 @@ Günün sonunda benim defterimde yalnız on iki saniye yazmıyor. Ölçmek, yeni
 - Kalan **13 görsel**: s11/s12/s12b/s13/s14/s15/s15b/s16/s17/s18/s19/s19b/s20. Yeni görsel kotası bu tur 10 çağrıyla kullanıldı.
 - Ham ses 12 dakikadan uzun; final sınırı ham toplamdan varsayılmayacak. Sessizlik düzenleme, gerçek zaman çizelgesi ve gerekirse düşük oranlı hız ayarı sonrası **final giriş/kapanış dahil 5–12 dakika** doğrulanacak.
 - Henüz final kapak, SFX planı/künye, YAYIN ve render yok.
+
+### 22 Ekim 2026 — uçuş ve fotoğraf sahneleri / taslak final hazırlığı
+- Bu tur 10 görsel çağrısı: s11/s12/s12b/s13/s14/s15/s15b/s16, ayrıca s12 pantolon/fular ve s13 pervane/kadraj düzeltmesi. Yeni ses yok.
+- s12 ilk taslak pantolon eksikliği düzeltildi. s13 pervane düzeldi ama ayaklar alt sınıra değiyor; s15 Meraklı ayakları kadraj dışında ve pilot bacakları daha açık ayrılmalı. Bu ikisi final PASS değildir.
+- Toplam **20 görsel dosyası, 18 kontrol geçti / 2 düzeltme açık**. Karakter sayısı tümünde en az3; s07 Taylor ve s15 Daniels ile4. İlk uçuş Orville gri / dördüncü Wilbur kahverengi kostümüyle ayrıldı.
+- Kalan5 görsel s17/s18/s19/s19b/s20. Kapak ayrıca üretilecek.
+- Renderer ile gerçek sessizlik düzenleme testi: 694,85sn (x1.0). 727,224sn ham değer mutagen ölçümü, ffmpeg süre başlıklarının yuvarlanmış toplamı727,26sn. `ANLATIM-SURE-OLCUMU.json` geçerli ön ölçüm; final süre değil.
+- `uzun/plan.taslak.json`: 20sahne/25görsel, çiftler04/08/12/15/19, hedef690sn, hızüst1.12, altyazıfalse, ayrı giriş/tarih/kapanış/abone, 63efekt+müzik/10kaynak. Eksik görseller ve iki kadraj düzelmeden RENDER ETME.
+- `SFX-KUNYE.md` ve `YAYIN.md` açıkça TASLAK; gerçek zaman damgaları ve teknik ölçümler render sonrası eklenecek. Özgün1903 motor sesi iddiası yok.

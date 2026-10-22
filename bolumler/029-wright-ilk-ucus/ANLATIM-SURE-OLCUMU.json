@@ -1,0 +1,108 @@
+{
+  "stage": "PRE_RENDER_MEASUREMENT",
+  "raw_seconds": 727.26,
+  "silence_trimmed_seconds_at_1x": 694.85,
+  "scenes": [
+    {
+      "scene": 1,
+      "raw": 35.78,
+      "silence_trimmed": 32.15
+    },
+    {
+      "scene": 2,
+      "raw": 37.13,
+      "silence_trimmed": 36.05
+    },
+    {
+      "scene": 3,
+      "raw": 34.85,
+      "silence_trimmed": 33.3
+    },
+    {
+      "scene": 4,
+      "raw": 38.02,
+      "silence_trimmed": 34.69
+    },
+    {
+      "scene": 5,
+      "raw": 36.53,
+      "silence_trimmed": 35.63
+    },
+    {
+      "scene": 6,
+      "raw": 38.86,
+      "silence_trimmed": 38.21
+    },
+    {
+      "scene": 7,
+      "raw": 38.09,
+      "silence_trimmed": 36.67
+    },
+    {
+      "scene": 8,
+      "raw": 36.74,
+      "silence_trimmed": 34.89
+    },
+    {
+      "scene": 9,
+      "raw": 35.66,
+      "silence_trimmed": 34.64
+    },
+    {
+      "scene": 10,
+      "raw": 36.53,
+      "silence_trimmed": 34.68
+    },
+    {
+      "scene": 11,
+      "raw": 38.09,
+      "silence_trimmed": 36.15
+    },
+    {
+      "scene": 12,
+      "raw": 35.26,
+      "silence_trimmed": 33.77
+    },
+    {
+      "scene": 13,
+      "raw": 35.54,
+      "silence_trimmed": 33.98
+    },
+    {
+      "scene": 14,
+      "raw": 37.42,
+      "silence_trimmed": 36.04
+    },
+    {
+      "scene": 15,
+      "raw": 36.94,
+      "silence_trimmed": 35.58
+    },
+    {
+      "scene": 16,
+      "raw": 33.94,
+      "silence_trimmed": 32.37
+    },
+    {
+      "scene": 17,
+      "raw": 34.06,
+      "silence_trimmed": 32.6
+    },
+    {
+      "scene": 18,
+      "raw": 34.06,
+      "silence_trimmed": 32.91
+    },
+    {
+      "scene": 19,
+      "raw": 40.66,
+      "silence_trimmed": 39.06
+    },
+    {
+      "scene": 20,
+      "raw": 33.1,
+      "silence_trimmed": 31.48
+    }
+  ],
+  "note": "Renderer narr_isle filtresiyle ölçüldü; final MP4 ölçümü değildir. Nihai hedef planı 690sn; gerçek süre render sonrası doğrulanacak."
+}

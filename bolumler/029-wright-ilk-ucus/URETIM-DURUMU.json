@@ -159,6 +159,111 @@
         "Wilbur Wright",
         "Orville Wright"
       ]
+    },
+    {
+      "id": "s11",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s11.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Üç figür, ayrı beyaz eller; 14 Aralık başarısız girişim sonrası durağan sahne. Alev/yaralanma yok; tarih bandıyla 17 Aralık ayrılacak.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
+    },
+    {
+      "id": "s12",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s12.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Üç figür ve rüzgâr; ilk taslakta Meraklı pantolonu eksikti, düzeltildi. Krem gömlek/koyu yelek/antrasit diz pantolonu/uzun kırmızı fular doğru; eller ayrı.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
+    },
+    {
+      "id": "s12b",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s12b.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Üç figür; kavramsal tahta, sağa mavi karşı rüzgâr oku / sola yeşil yere göre ilerleme oku. Uçak burnu solda. İki farklı referans çerçevesi, hız denklemi değil.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
+    },
+    {
+      "id": "s13",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s13.png",
+      "status": "DUZELTME_BEKLIYOR",
+      "notes": "Üç figür: Orville alt kanatta yüzükoyun, Wilbur yerde, Meraklı gözlemci. Dört-palalı sol pervane düzeltildi. Meraklı ayak uçları alt sınıra değiyor/kısmen kırpılıyor: final öncesi alt boşluklu tam boy kadraj gerekiyor. Ellerin görünür sayısı doğru.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
+    },
+    {
+      "id": "s14",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s14.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Üç figür; Orville pilot (gri), Wilbur yerde (kahverengi), Meraklı uzakta. Uçak gerçekten alçak irtifada, kızak altında boşluk/gölge var; iki ayrı pilot eli ve iki bacak/ayak okunuyor. TEMSİLÎ.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
+    },
+    {
+      "id": "s15",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s15.png",
+      "status": "DUZELTME_BEKLIYOR",
+      "notes": "Dört figür: Daniels kamerada, Orville pilot, Wilbur yerde, Meraklı kurgu uzakta. Kamera dönem tipi; flaş yok. Meraklı alt bacakları/ayakları kadraj dışında; daha geniş tam boy kompozisyon ve pilotun ikinci bacağının görünürlüğü düzeltilecek. Belgeli fotoğrafın kendisi değil.",
+      "character_count": 4,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright",
+        "John T. Daniels"
+      ]
+    },
+    {
+      "id": "s15b",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s15b.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Üç figür, altı ayrı beyaz el/ayak. Çerçevedeki siyah-beyaz resim de AI temsilî; belgeli buluşma/özgün arşiv fotoğrafı değil. Tarihî konuşma atfedilmiyor.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
+    },
+    {
+      "id": "s16",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s16.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Üç figür: bu kez kahverengi pantolonlu Wilbur pilot, gri pantolonlu Orville yerde. Meraklı tam boy. İki pilot eli/bacağı okunuyor; ilk ve dördüncü uçuş kimlikleri ayrı.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
     }
   ],
   "audio": [
@@ -345,10 +450,12 @@
   ],
   "audio_total_seconds": 727.224,
   "next": [
-    "Kalan 13 görseli üret: s11–s20 + s12b/s15b/s19b; min3 karakter",
-    "Kapak v4, yayın metni ve SFX künyesi",
-    "Ham 727,224sn anlatımı doğal sessizlik sıkıştırmasıyla ölç; giriş/kapanış dahil final 5–12dk sınırını doğrula, gerekirse düşük oranlı hız sınırıyla zamanla",
-    "Render ve baştan sona AV decode/loudness/8kritik kare QA; henüz video üretilmedi"
+    "Önce s13/s15 alt boşluklu kadraj düzeltmesi; s15 pilot iki bacak/ayak",
+    "s17/s18/s19/s19b/s20 üret; min3 karakter",
+    "Kapak v4 üret, YAYIN taslağını finalleştir",
+    "63SFX planı/kaynakları hazır; plan.taslak.json eksik görseller tamamlandıktan sonra plan.json yapılacak",
+    "Ölçülen sessizlik sıkıştırılmış anlatım 694,85sn; taslak hedef690sn/hiz_max1.12. Tahmini x1.031 ve yaklaşık683sn final; gerçek hız/süre render sonrası ölçülecek",
+    "Final render/tam AV decode/loudness/8kritik kare QA ve GitHub dosya mührü"
   ],
   "cast_rule": {
     "user_correction": "Yan karakterler çok az; Wright kardeşler konusu en az 3 karakter olmalı.",
@@ -366,17 +473,9 @@
     ],
     "style": "Bütün figürler beyaz çöp adam, giyinik, kırmızı fular yalnız Meraklı.",
     "historical_boundary": "Bu birlikte görünme TEMSİLÎ anlatı kompozisyonu; Meraklı belgeli altıncı tanık değil.",
-    "future_images": "Kalan 13 görsel de en az üç karakter; Meraklı kurgu gözlemci olarak güvenli uzakta, iki kardeş eksiksiz."
+    "future_images": "Kalan beş görsel ve kapakta min3 karakter; iki kardeş eksiksiz, Meraklı kurgu katmanda."
   },
   "remaining_images": [
-    "s11",
-    "s12",
-    "s12b",
-    "s13",
-    "s14",
-    "s15",
-    "s15b",
-    "s16",
     "s17",
     "s18",
     "s19",
@@ -386,11 +485,21 @@
   "latest_turn": {
     "date": "2026-10-22",
     "image_calls_successful": 10,
-    "new_images": 3,
-    "edits": 7,
-    "speech_clips_new": 10,
-    "all_images_count": 12,
+    "new_images": 8,
+    "edits": 2,
+    "speech_clips_new": 0,
+    "all_images_count": 20,
+    "images_control_pass": 18,
+    "images_pending": 2,
     "all_audio_count": 20,
-    "rendered": false
-  }
+    "rendered": false,
+    "draft_plan": "uzun/plan.taslak.json",
+    "planned_sfx_placements": 63,
+    "unique_audio_sources": 10,
+    "silence_trimmed_seconds_at_1x": 694.85
+  },
+  "pending_image_corrections": [
+    "s13: alt boşlukla tam boy",
+    "s15: tam boy kadraj + pilotun iki ayrı bacağı/ayağı"
+  ]
 }

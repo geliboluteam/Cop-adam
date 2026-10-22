@@ -1,0 +1,564 @@
+{
+  "_durum": "TASLAK — eksik 5 görsel ve s13/s15 kadraj düzeltmesi tamamlanmadan render ETME",
+  "format": "16:9",
+  "encode_preset": "veryfast",
+  "crf": 25,
+  "maxrate": "1250k",
+  "baslik_karti": {
+    "yazi1": "EĞER 1903’TE OLSAYDIM",
+    "yazi2": "MERAKLI: İLK UÇUŞUN KIYISINDA"
+  },
+  "kapanis_karti": {
+    "yazi": "SEN HANGİSİNİ SEÇERDİN?",
+    "alt": "UÇMAK · ÖLÇMEK · FOTOĞRAFLAMAK — YORUMLARA YAZ",
+    "abone": "KANALIMA ABONE OLMAYI UNUTMAYIN!"
+  },
+  "muzik": {
+    "dosya": "sfx/0ad/music/The_Hellespont.ogg",
+    "kazanc_db": -23
+  },
+  "hedef_sure": 690,
+  "hiz_max": 1.12,
+  "altyazi": false,
+  "sahneler": [
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s01.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s01.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "17 ARALIK 1903 · KILL DEVIL HILLS · MERAKLI KURGU",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+          "t": 11,
+          "kazanc_db": -37
+        }
+      ],
+      "ek_sure": 0.6
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s02.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s02.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "KITTY HAWK YAKINLARI · GÖRÜNTÜLER TEMSİLÎ",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+          "t": 11,
+          "kazanc_db": -37
+        }
+      ],
+      "ek_sure": 0.6
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s03.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s03.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "DAYTON · KURGU GÖZLEMCİ / TARİHSEL ÇALIŞMA",
+      "efektler": [
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+          "t": 0,
+          "kazanc_db": -32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+          "t": 11,
+          "kazanc_db": -31
+        }
+      ],
+      "ek_sure": 0.6
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s04.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s04.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "1900–1902 PLANÖRLER → 1903 MOTORLU FLYER · TEMSİLÎ",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+          "t": 11,
+          "kazanc_db": -31
+        }
+      ],
+      "ek_sure": 0.6,
+      "gorsel2": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s04b.png",
+      "gorsel2_oran": 0.5
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s05.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s05.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "1901 · RÜZGÂR TÜNELİ DENEYLERİ · TEMSİLÎ",
+      "efektler": [
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+          "t": 0,
+          "kazanc_db": -32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+          "t": 11,
+          "kazanc_db": -31
+        }
+      ],
+      "ek_sure": 0.6
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s06.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s06.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "KALDIRMA · İTKİ · KONTROL — AÇIKLAYICI TEMSİL",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus",
+          "t": 11,
+          "kazanc_db": -31
+        }
+      ],
+      "ek_sure": 0.6
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s07.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s07.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "CHARLES TAYLOR · MOTOR İMALATINA KATKI",
+      "efektler": [
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+          "t": 0,
+          "kazanc_db": -32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+          "t": 11,
+          "kazanc_db": -31
+        }
+      ],
+      "ek_sure": 0.6
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s08.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s08.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "İKİ İTİCİ PERVANE · ZİNCİR AKTARIMI · TEMSİLÎ",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+          "t": 11,
+          "kazanc_db": -31
+        }
+      ],
+      "ek_sure": 0.6,
+      "gorsel2": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s08b.png",
+      "gorsel2_oran": 0.5
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s09.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s09.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "1903 · KALKIŞ RAYI / UÇAK KIZAKLARI",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+          "t": 11,
+          "kazanc_db": -31
+        }
+      ],
+      "ek_sure": 0.6
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s10.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s10.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "YÜZÜKOYUN PİLOT · ÜÇ EKSENDE KONTROL",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+          "t": 11,
+          "kazanc_db": -31
+        }
+      ],
+      "ek_sure": 0.6
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s11.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s11.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "14 ARALIK 1903 · BAŞARISIZ DENEME — AYRI OLAY",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+          "t": 11,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+          "t": 18,
+          "kazanc_db": -34
+        }
+      ],
+      "ek_sure": 0.6
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s12.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s12.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "17 ARALIK 1903 · HAVA HIZI ≠ YER HIZI",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+          "t": 11,
+          "kazanc_db": -37
+        },
+        {
+          "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+          "t": 18,
+          "kazanc_db": -34
+        }
+      ],
+      "ek_sure": 0.6,
+      "gorsel2": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s12b.png",
+      "gorsel2_oran": 0.5
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s13.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s13.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "17 ARALIK 1903 · İLK PİLOT ORVILLE · 10.35",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Human/breath-male.opus",
+          "t": 11,
+          "kazanc_db": -31
+        }
+      ],
+      "ek_sure": 0.6
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s14.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s14.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "İLK UÇUŞ · ORVILLE · 12 SANİYE / YAKLAŞIK 37 M",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+          "t": 11,
+          "kazanc_db": -37
+        }
+      ],
+      "ek_sure": 0.6
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s15.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s15.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "JOHN DANIELS: FOTOĞRAF · BU GÖRSELLER TEMSİLÎ",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+          "t": 11,
+          "kazanc_db": -31
+        }
+      ],
+      "ek_sure": 0.6,
+      "gorsel2": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s15b.png",
+      "gorsel2_oran": 0.5
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s16.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s16.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "DÖRDÜNCÜ UÇUŞ · WILBUR · 59 SANİYE / YAKLAŞIK 260 M",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/0ad/ambient/water/wave_21.ogg",
+          "t": 11,
+          "kazanc_db": -37
+        }
+      ],
+      "ek_sure": 0.6
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s17.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s17.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "UÇUŞLARDAN SONRA · YERDE RÜZGÂR HASARI",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Impacts/scrape1.opus",
+          "t": 11,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/0ad/ambient/weather/windgust_11.ogg",
+          "t": 18,
+          "kazanc_db": -34
+        }
+      ],
+      "ek_sure": 0.6
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s18.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s18.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "1904–1905: SONRAKİ GELİŞMELER · 1903 İLE AYRI",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus",
+          "t": 11,
+          "kazanc_db": -31
+        }
+      ],
+      "ek_sure": 0.6
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s19.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s19.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "MOTORLU · KONTROLLÜ · HAVADAN AĞIR UÇUŞ",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+          "t": 11,
+          "kazanc_db": -31
+        }
+      ],
+      "ek_sure": 0.6,
+      "gorsel2": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s19b.png",
+      "gorsel2_oran": 0.5
+    },
+    {
+      "gorsel": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s20.png",
+      "anlatim": "bolumler/029-wright-ilk-ucus/uzun/sesler/s20.mp3",
+      "anlatim_metin": "",
+      "tarih_bandi": "SEN NEYİ SEÇERDİN? · MERAKLI KURGU GÖZLEMCİ",
+      "efektler": [
+        {
+          "dosya": "sfx/0ad/ambient/weather/wind_11.ogg",
+          "t": 0,
+          "kazanc_db": -34,
+          "dongu": true,
+          "sure": 32
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Cloth, Rustle/320137__owlstorm__blanket-movement-1.opus",
+          "t": 4,
+          "kazanc_db": -31
+        },
+        {
+          "dosya": "sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus",
+          "t": 11,
+          "kazanc_db": -31
+        }
+      ],
+      "ek_sure": 5.0
+    }
+  ]
+}
