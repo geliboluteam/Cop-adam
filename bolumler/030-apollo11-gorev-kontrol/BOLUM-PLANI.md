@@ -1,13 +1,13 @@
 # B030 — 1969: APOLLO 11 GÖREV KONTROLÜNDE OLSAYDIM
 
 > Seri E 7. bölüm · YOL45 / Konu18.
-> DURUM: **ARAŞTIRMA + 20 TAM METİN + 25 GÖRSEL PLANI HAZIR. s01 kostüm/karakter ONAYI BEKLENİYOR.**
+> DURUM: **ÜRETİMDE — s01 kostüm kullanıcı ONAYLI. 8 görsel dosyası / 7 PASS / s04b el örtüşmesi düzeltmesi; ilk10 voice-03 anlatım hazır.** Toplam hedef20sahne/25görsel;17yeni görsel ve son10ses henüz yok.
 > Kaynak dosyası: `arastirma/030-uzun-apollo11-gorev-kontrol.md`.
 
 ## Format ve teslim kilitleri
 - **Yalnız uzun video, 5–12dk. Shorts YOK.** Hedef10–11dk; gerçek sesler üretildikten sonra süre ölçülecek, tahmin nihai süre diye yayımlanmayacak.
 - **20 sahne / 25 görsel.** İkinci görseller04/08/12/15/19; ilgili sahnenin yaklaşık ortasında değişir, anlatım/senkron/sahne sayısı değişmez.
-- Aynı Türkçe anlatıcı **voice-03**; onay öncesi yeni ses üretilmedi. Altyazı YOK. Açıklayıcı kısa tarih/yer/kurgu bantları altyazı değildir.
+- Aynı Türkçe anlatıcı **voice-03**; s01–s10 üretildi:374,928sn ham /357,57sn sessizlik düzenlemeli1×;10MP3tamdecodePASS. Son10ses henüz yok; finalhız/süre belirlenmedi. Altyazı YOK. Açıklayıcı kısa tarih/yer/kurgu bantları altyazı değildir.
 - Giriş: **EĞER 1969'DA OLSAYDIM / MERAKLI: HOUSTON'DA SON DAKİKALAR**.
 - Ana yer: **20 TEMMUZ 1969 · HOUSTON · MANNED SPACECRAFT CENTER**. Johnson adı1973sonrası;1969yer adı ile bugünkü adı ayrılır.
 - Kapanış: **SEN HANGİSİNİ SEÇERDİN? / VERİYİ OKUMAK · HABERLEŞMEK · SİSTEMİ SINAMAK — YORUMLARA YAZ**.
@@ -72,7 +72,7 @@ Odanın yeşile çalan konsollarına bakınca kendimi bir uzay gemisinde sanabil
 Bir yörüngeden ayrılıp istediğin noktaya süzülmek, haritada bir yere dokunmak kadar kolay değil. Aracın hızının ve yüksekliğinin birlikte yönetilmesi gerekiyor. Houston'daki uzmanlar bu süreci gelen verilerle izlerken, Eagle'ın bilgisayarı ve içindeki iki insan da iş başında. Buradaki yörünge levhası, anlamayı kolaylaştıran bir çizim; o anda Ay'dan gelen canlı kamera görüntüsü değil. Ben çizginin sonuna küçük bir nokta koyabilirim. Fakat gerçek araç o noktaya bir kalem hareketiyle ulaşmıyor. Her aşamanın sonucu, bir sonraki aşamanın koşulunu değiştiriyor.
 
 ### s05 — Odanın dışındaki büyük ekip
-Bütün hikâyeyi şu birkaç sıraya sığdırmak da yanıltıcı olur. Her kontrol masasının arkasında başka uzmanlar, destek odaları ve yıllarca hazırlanmış sistemler var. Haberleşme, Dünya'nın farklı yerlerindeki istasyonlardan oluşan bir ağın emeğine dayanıyor. Donanımı yapanları, yazılımı sınayanları ve ölçümlerin güvenilirliğini çalışanları tek karede göremiyorum. Ama görünmemeleri, önemsiz oldukları anlamına gelmiyor. Ben hayalî gözlemci olarak odanın içinde dururken şunu fark ediyorum: Ekranda beliren tek bir sayının arkasında bile çok sayıda insanın çalışması bulunabilir.
+Bütün hikâyeyi şu birkaç sıraya sığdırmak da yanıltıcı olur. Her kontrol masasının arkasında başka uzmanlar, destek odaları ve yıllarca hazırlanmış sistemler var. Haberleşme, Dünya'nın farklı yerlerindeki istasyonlardan oluşan bir ağın emeğine dayanıyor. Donanımı yapanları, yazılımı sınayanları ve ölçümlerin güvenilirliği üzerine çalışanları tek karede göremiyorum. Ama görünmemeleri, önemsiz oldukları anlamına gelmiyor. Ben hayalî gözlemci olarak odanın içinde dururken şunu fark ediyorum: Ekranda beliren tek bir sayının arkasında bile çok sayıda insanın çalışması bulunabilir.
 
 ### s06 — Neden tek kişi konuşuyor?
 Bir sorun olduğunda herkes aynı anda astronotlara seslenseydi ne olurdu? Bilgi çoğalırken anlaşılabilirlik azalabilirdi. Bu yüzden ekipteki görevler ve konuşma kanalları önemli. İniş sırasında astronotlarla konuşan kapsül haberleşme görevlisi Charlie Duke; bu göreve kısaca kapkom deniyor. Uçuş direktörü Gene Kranz ise uzmanların değerlendirmelerini bir araya getiriyor. Buradaki tek ses, tek kişinin bütün cevapları bildiği anlamına gelmiyor. Birçok kişinin çalışması, gerektiğinde kısa ve açık bir mesaja dönüşüyor. Ben de konuşmak yerine hangi bilginin kimden geldiğini izlemeyi seçiyorum.
@@ -120,8 +120,16 @@ Görevin hedefi, insanları Ay'a ulaştırıp güvenle Dünya'ya geri getirmekti
 Ay'a adım atmadan da bu yolculuğun önemli bir parçası olabilirdin. Bir veriyi kontrol ederek, bir yazılımı sınayarak ya da doğru bilgiyi doğru kişiye ulaştırarak. Ben Meraklı, bu hayalî ziyaretimde bir aracı indirmedim; bir başarıyı tek kişinin hikâyesine sığdırmamayı öğrendim. Sen Houston'daki bu ekipte olsaydın hangi işi seçerdin? Veriyi okumayı mı, haberleşmeyi mi, yoksa sistemi sınamayı mı? Seçimini yorumlara yaz. Tarihin içinde başka soruların peşine düşmek için kanalıma abone olmayı unutmayın!
 
 ## Üretim sırası ve kabul kapısı
-1. s01 teknik/görsel kontrolü tamam:4beyazçöpfigür ayrı ayrı incelendi; her kişide2kol/2ayrıel/2bacak/2ayak. Dönem kıyafeti/CRT/baş boşluğu/noNASAlogo PASS. **Kullanıcı kostüm onayı bekleniyor.**
-2. Kullanıcı Devam/onay sonrası kalan24görsel, aynıvoice-03ile20anlatım. Görsel başına el/kol/ayak ve yanfigür sayısı ayrı kontrol edilecek.
+1. s01 teknik/görsel kontrolü tamam:4beyazçöpfigür ayrı ayrı incelendi; her kişide2kol/2ayrıel/2bacak/2ayak. Dönem kıyafeti/CRT/baş boşluğu/noNASAlogo PASS. **Kullanıcı kostümü Devam diyerek onayladı; üretim başladı.**
+2. Kullanıcı Devam ile onayladı. İlk grupta8PNG/7PASS/1s04bdüzeltme;17eksikyeniPNG ve son10voice-03anlatım kaldı. Görsel başına el/kol/ayak ve yanfigür sayısı ayrı kontrol edilecek.
 3. GerçekNASAalıntı dosyasını edinip provenans/metin/lisans/süre/tamdecode doğrula. Sahne15Türkçe giriş bittiğinde kaydı normal hızda çal; konuşmalar üst üste binmesin. GERÇEKKAYIT etiketi sadece gerçek ses aralığında.
 4. Bütün kaynaklar ölçüldükten sonra nihai plan, YAYIN, SFXkünyesi, kapakv4 ve render. 5–12dk,faststart,tamAVdecode,loudness,10kritikkareQA. Şu an finalvideo/kapak üretilmiş gibi işaretleme.
 5. Her tur commit→hemenpush→uzakHEAD/blobdoğrulama. B018kullanıcıdosyaları bu bölüme dahil edilmez.
+
+## 22 Ekim 2026 — İlk üretim grubu
+- Kostüm onayı alındı. 10görsel çağrısı:7yeni dosya ve3AIkadraj/örtüşme düzeltmesi. Toplam8PNG/7PASS/1PENDING.
+- s02konsol arkasındaki uzuvlar, s05kesik ayaklar düzeltildi. s03model/masa ayakları örtüyordu: onaylı4figürlü tabana iki şematik modeli uzuvları kapatmadan kompozit ettik; kaynak betik depoda. s07baş oranı yerel maskeleme ile düzeltildi.
+- **s04b FAIL/PENDING:** krem ve gri yan figürün elleri örtüşüyor. İki kol olması yeterli sayılmadı; bu kare onaylı sayısına katılmadı. Sonraki grupta ilk düzeltme bu.
+- s01–s10voice-03/tr üretildi; tüm10MP3tamdecodePASS. Ham374,928sn; sessizlik düzenleme1×357,57sn. Yalnız ilk yarı ölçümü, final video süresi değil.
+- NASA ses dosyası henüz indirilmedi/karşılaştırılmadı, miks ve video yok. Kaynak araştırması hazır.
+- Ayrıntı `QA-ILK-GRUP.md`, dosya durumları `URETIM-DURUMU.json`; önceki onaybekleyen günlük notları tarihî hazırlık kaydıdır.

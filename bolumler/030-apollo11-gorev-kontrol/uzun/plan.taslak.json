@@ -1,6 +1,6 @@
 {
-  "_durum": "TASLAK_KULLANICI_KOSTUM_ONAYI_BEKLENIYOR",
-  "_uyari": "Render-ready değil. Eksik24görsel/20ses/NASAseskesiti/SFX. Onay kapısı geçilmeden toplu görsel üretme.",
+  "_durum": "URETIMDE_7PASS_1DUZELTME_10SES",
+  "_uyari": "Render-ready değil:8PNG/7PASS/1s04belörtüşme düzeltmesi,17eksikPNG; ilk10voice-03anlatım var. Son10ses/NASAalıntısı/SFX/finalkartlar/QA bekleniyor.",
   "format": "16:9",
   "encode_preset": "veryfast",
   "crf": 25,
@@ -58,7 +58,7 @@
       "tarih_bandi": "EAGLE: ARMSTRONG + ALDRIN / COLUMBIA: COLLINS",
       "efektler": [],
       "ek_sure": 0.6,
-      "_gorsel_tanim": "Meraklı+3görevli yanında masada iki AÇIKLAYICI araç modeli/levhası: örümceksi Eagle ve konik Columbia; gerçek canlı video değil.",
+      "_gorsel_tanim": "Onaylı s01tabanında4figürün el ve ayaklarını örtmeyen sağ açık koridora kendi çizdiğimiz küçük şematik Eagle ve ayrı Columbia komuta/hizmet modülü masa modelleri kompozit. Kaynak betik uzun/kompozit-kaynaklari/s03_modeller.py. Mühendislik planı/NASAarşivi değil.",
       "_karakter_min": 4
     },
     {
@@ -74,14 +74,15 @@
       "_karakter_min": 4,
       "gorsel2": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s04b.png",
       "gorsel2_oran": 0.5,
-      "_gorsel2_tanim": "Aynı4figür yanında bağımsız büyük yörünge/iniş çizim levhası; canlı görüntü sanılmayacak çizim, modern UI yok."
+      "_gorsel2_tanim": "Aynı4figür yanında bağımsız büyük yörünge/iniş çizim levhası; canlı görüntü sanılmayacak çizim, modern UI yok.",
+      "_gorsel2_durum": "FAIL/PENDING: krem/gri yan figür elleri örtüşüyor; render öncesi düzelt."
     },
     {
       "id": "s05",
       "baslik": "Odanın dışındaki büyük ekip",
       "gorsel": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s05.png",
       "anlatim": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s05.mp3",
-      "anlatim_metin": "Bütün hikâyeyi şu birkaç sıraya sığdırmak da yanıltıcı olur. Her kontrol masasının arkasında başka uzmanlar, destek odaları ve yıllarca hazırlanmış sistemler var. Haberleşme, Dünya'nın farklı yerlerindeki istasyonlardan oluşan bir ağın emeğine dayanıyor. Donanımı yapanları, yazılımı sınayanları ve ölçümlerin güvenilirliğini çalışanları tek karede göremiyorum. Ama görünmemeleri, önemsiz oldukları anlamına gelmiyor. Ben hayalî gözlemci olarak odanın içinde dururken şunu fark ediyorum: Ekranda beliren tek bir sayının arkasında bile çok sayıda insanın çalışması bulunabilir.",
+      "anlatim_metin": "Bütün hikâyeyi şu birkaç sıraya sığdırmak da yanıltıcı olur. Her kontrol masasının arkasında başka uzmanlar, destek odaları ve yıllarca hazırlanmış sistemler var. Haberleşme, Dünya'nın farklı yerlerindeki istasyonlardan oluşan bir ağın emeğine dayanıyor. Donanımı yapanları, yazılımı sınayanları ve ölçümlerin güvenilirliği üzerine çalışanları tek karede göremiyorum. Ama görünmemeleri, önemsiz oldukları anlamına gelmiyor. Ben hayalî gözlemci olarak odanın içinde dururken şunu fark ediyorum: Ekranda beliren tek bir sayının arkasında bile çok sayıda insanın çalışması bulunabilir.",
       "tarih_bandi": "HOUSTON VE DESTEK AĞI · TEMSİLÎ",
       "efektler": [],
       "ek_sure": 0.6,

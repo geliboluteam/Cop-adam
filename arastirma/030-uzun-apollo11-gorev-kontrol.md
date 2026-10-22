@@ -52,4 +52,4 @@ Araştırma: 22 Ekim 2026. Seri E 7. bölüm · YOL45 / Konu18. Yalnız uzun vid
 - Her kişi2kol/2AYRIgörünür el/2bacak/2ayak. Oturma/konsol arkasında uzuv saklama yerine açık koridor, yarım vücut kalabalığı yok. Eller birbiriyle/aynı nesneyle birleşmez.
 - 1960larCRT/analog panel/kâğıt/kablolu kulaklık. Laptop/LEDduvar/touchscreen/oyun kolu/akıllı telefon yok. Büyük panolarda iniş öncesi yalnız veri/çizgisel yörünge, canlı Eagle/astronot filmi yok. Ay aracı şeması ayrı açıklayıcı çizim, canlı telemetri kamerası değil.
 - İlk adım TV sahnesi daha sonra, ayrı tarih bandıyla. TV içindeki çizim de TEMSİLÎ; gerçek arşiv görüntüsü diye etiketlenmez.
-- Kostüm ilk onayı kullanıcıda: s01görsel teknik/figür kontrolü PASS; **kullanıcı onayı henüz bekleniyor**. Onaydan önce toplu görsel üretimi yok.
+- Kostüm ilk onayı kullanıcıda: s01görsel teknik/figür kontrolü PASS; **kullanıcı Devam diyerek kostümü onayladı**. İlk üretim grubu yapıldı; güncel7PASS/1düzeltme ve10voice-03ses URETIM-DURUMU.json içinde. s04börtüşenelleri PASS sayılmadı.

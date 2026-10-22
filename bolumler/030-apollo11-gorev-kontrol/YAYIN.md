@@ -1,6 +1,6 @@
 # B030 — YAYIN TASLAĞI / HENÜZ FİNAL DEĞİL
 
-> Hazırlık:20tammetin/25görselplanı; s01kostüm onayı bekleniyor. Video/kapak/ses miksajı henüz yok. Zaman damgası ve nihai kullanılan ses listesi render/QAsonrası eklenecek.
+> Üretimde: kostüm onaylı;8PNG/7PASS/1s04belörtüşme düzeltmesi,10voice-03ses hazır.17yeni görsel/son10ses/özgünNASAalıntısı bekliyor. Video/kapak/miks henüz yok. Zaman damgaları finalQAsonrası.
 
 ## Başlık adayı
 Eğer 1969'da Houston'da Olsaydım: Apollo11'in Son Dakikaları | MERAKLI
@@ -40,7 +40,7 @@ Sen hangi işi seçerdin: veriyi okumak, haberleşmek, yoksa sistemi sınamak m�
 Henüz üretilmedi. Büyük konu başlıkları; dönem kıyafetli Meraklı odakta, arka planda en az iki giyinik beyazçöp görevli, yüzlere/ellere taşmayan yazı. NASAinsignia/worm/seal yok. Yalnız uzun videoya.
 
 ## Final öncesi kontrol
-- Kullanıcı s01kostüm onayı;24kalan görsel, tümü4+karakter ve2ayrıel denetimi.
+- Kostüm onaylı; s04belörtüşme düzeltmesi+17eksik yeni görsel. Her figürde ayrı2el denetimi. İlk10voice-03ses hazır; son10bekliyor.
 -20voice-03anlatımın ham/işlenmiş süreleri; kayıt alıntısı normalhızda ve anlatıcı susarken.
 - NASAalıntısı gerçekdosya/provenans/içerik/lisans/decode ve yalnız gerçek ses aralığında GERÇEKKAYITetiketi.
 - s07prova/s09MITgeriyebakış; s18ilkadım/s19bdönüş tarihleri ayrı.

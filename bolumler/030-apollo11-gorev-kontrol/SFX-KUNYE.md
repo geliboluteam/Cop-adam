@@ -1,6 +1,6 @@
 # B030 — SES KÜNYESİ TASLAĞI / HENÜZ MİKS DEĞİL
 
-**Durum:** Yalnız kaynak ve kullanım planı. Henüz B030anlatımı, ses miksajı veya video üretilmedi. Aşağıdaki adaylar kullanılmış ses listesi değildir; finalden önce gerçek dosya/süre/provenans/decode ve miks yerleşimiyle güncellenecek.
+**Durum:** Yalnız kaynak ve kullanım planı. İlk10voice-03Türkçeanlatım üretildi; NASAalıntısı henüz edinilmedi, sesmiksajı/video yok. Aşağıdaki adaylar kullanılmış ses listesi değildir; finalden önce gerçek dosya/süre/provenans/decode ve miks yerleşimiyle güncellenecek.
 
 ## Özgün tarihî kayıt
 - Hedef: s15'te Armstrong'un **Houston / Tranquility Base / The Eagle has landed** iniş bildiriminin kısa radyo alıntısı. Apollo11,20Temmuz1969; 'one small step' veya Apollo13problem bildirimi ile karıştırılmaz.

@@ -1,0 +1,121 @@
+{
+  "status": "ILK10SES_20TAMAM_DEGIL",
+  "voice_id": "voice-03",
+  "count": 10,
+  "total_raw_seconds": 374.928,
+  "clips": [
+    {
+      "id": "s01",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s01.mp3",
+      "duration_seconds": 38.568,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 36.5,
+      "sha256": "e8cb8311de77496195dff00235c33b11cae3b177f4c3527de8c632d2b2b370af",
+      "source_text_sha256": "a8f207442caea294f107f69630cf347b0505eba899a40dc098a6cfe8ee9aab95"
+    },
+    {
+      "id": "s02",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s02.mp3",
+      "duration_seconds": 37.248,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 35.81,
+      "sha256": "0ebe3c9421e91d08c6e6db905445e6e782b05acc304832ae3e43aaa9cc021696",
+      "source_text_sha256": "72d7c3025023bdc034f5fbf00c5e3d0aa6327c63d08802aabad998a3cf780ee7"
+    },
+    {
+      "id": "s03",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s03.mp3",
+      "duration_seconds": 36.408,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 34.4,
+      "sha256": "c63cbb1431ed9b0b153092b9f47967c4c0ad708051c625c1f53f7fb14d58ce01",
+      "source_text_sha256": "56b2802e7baf55f3fd092c7c46d2d3974e89ecb95045a85305bff1face708eac"
+    },
+    {
+      "id": "s04",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s04.mp3",
+      "duration_seconds": 38.208,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 35.56,
+      "sha256": "b931a6c748059bfd029774b50b522a9141bdcc966809f86caa2e6ce04d57ab5c",
+      "source_text_sha256": "6dcd23399b890ad6937c74c72ce6bce608699059a85ef3101b465bfd8cd63604"
+    },
+    {
+      "id": "s05",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s05.mp3",
+      "duration_seconds": 37.824,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 36.38,
+      "sha256": "e24cadbb1e997375537bb9eb95a70b8f966595ad3e2081c123135e4a9d3a5038",
+      "source_text_sha256": "a0d239f6685b93511fa25bd97641f02eb6debfdd025d1b8f10c32988dba0bd17"
+    },
+    {
+      "id": "s06",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s06.mp3",
+      "duration_seconds": 39.144,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 37.25,
+      "sha256": "1882f789a08f7461d66018c9fc9aa2f0d420a83b74e8d05639ff2a94cfca2da1",
+      "source_text_sha256": "be42c0e2304a38501ca99590f7a557bcbd41758c820158e3082d59afbfd4d486"
+    },
+    {
+      "id": "s07",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s07.mp3",
+      "duration_seconds": 34.968,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 33.8,
+      "sha256": "1cd52f745fa758ca82e8bc1fec918835955769f05fecb19bdb4c51bead0fe294",
+      "source_text_sha256": "a926a0d2f3171bd2ba7fdb6bc5cf5167aa6dde64723420b81899e0a0c85dff1c"
+    },
+    {
+      "id": "s08",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s08.mp3",
+      "duration_seconds": 37.224,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 35.05,
+      "sha256": "ba89caf862cdb457b0b2486f301aeb18fe01a45ec8f4d09dbdbe39cb49faaba3",
+      "source_text_sha256": "0e31f106c1b395c177cca5fa8c56e3e6a129c4382e97058096091f06b329bbb8"
+    },
+    {
+      "id": "s09",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s09.mp3",
+      "duration_seconds": 37.968,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 36.53,
+      "sha256": "d06a1de5b1d6cea0a40b055c28ca9914701c9d8a78da0be92a8da0cd49aa0179",
+      "source_text_sha256": "7b17b0e5228e30535c7584f1768f8f968bf9fa2833102d4b68c151bd05532b5b"
+    },
+    {
+      "id": "s10",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s10.mp3",
+      "duration_seconds": 37.368,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 36.29,
+      "sha256": "1aee936a5ce566f09143d92486ec903a314331726533ef2b578a30927d2652fb",
+      "source_text_sha256": "e4e88ef5e0debec7be7a72596a6caa607f11ff86154fae0be5c0d47be784ce4d"
+    }
+  ],
+  "total_trimmed_1x_seconds": 357.57,
+  "final_speed_not_set": true,
+  "note": "Yalnız ilk10anlatım; toplam20ses ve özgün radyoalıntısı bitmeden final süre/hız ilan edilmez."
+}
