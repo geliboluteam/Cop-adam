@@ -3,13 +3,13 @@
   "roadmap": 45,
   "topic": 18,
   "series": "E",
-  "stage": "URETIMDE_7PASS_1DUZELTME_10SES",
+  "stage": "URETIMDE_15PASS_2DUZELTME_20SES_ARSIV_EDINILDI",
   "updated": "2026-10-22",
   "long_only": true,
   "shorts": false,
   "scene_count": 20,
   "planned_image_count": 25,
-  "completed_image_count": 7,
+  "completed_image_count": 15,
   "double_scenes": [
     4,
     8,
@@ -19,7 +19,7 @@
   ],
   "planned_voice": "voice-03",
   "language": "tr",
-  "narration_count": 10,
+  "narration_count": 20,
   "narration_word_count": 1464,
   "narration_character_count": 11141,
   "narration_seconds": null,
@@ -79,11 +79,11 @@
       "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s04b.png",
       "width": 1920,
       "height": 1080,
-      "sha256": "37b55fc470ec195192cef330a1a891c5c1f96b6bd4933ec061f707af36ad05c3",
-      "status": "DUZELTME_BEKLIYOR_ELLER_ORTUSUYOR",
+      "sha256": "8e16dbfb075493038b27df4f6e9808743ccab49469ec19363c295fd628a579d6",
+      "status": "GORSEL_KONTROL_GECTI",
       "character_count": 4,
-      "anatomy": "FAIL: iki yan figürün elleri örtüşüyor",
-      "notes": "FAIL/PENDING: krem yelekli yan figürün sağ eli ile gri yelekli figürün sol eli örtüşüyor. Kol sayısı doğru olsa bile ayrı el görünürlüğü yeterli değil. Birleşik/üst üste eller PASS sayılmadı. Sonraki tur önce karakterleri ayırarak bu kareyi düzelt.",
+      "anatomy": "PASS:4figürün2kol/2AYRIel/2bacak/2ayağı ayrı incelendi",
+      "notes": "AI ile yan figürler ayrıldı. Meraklı sol el tek kalem tutar, sağ el ayrı/aşağıdadır. AI top biçimli sağ el, önceki çizimden alfa maskeli el/önkol ile yerel kompozit düzeltildi. Diğer6el boş ve ayrı;4figür tam boy. Çok uzun çizim kolu başka figürün önünden geçer ama el/kol birleşmesi yok.",
       "user_costume_approved": true
     },
     {
@@ -121,18 +121,118 @@
       "anatomy": "PASS:4figürün2kol/2AYRIel/2bacak/2ayağı ayrı incelendi",
       "notes": "Prova odasında4figür; Meraklı bir eliyle boş kâğıt tutar, diğer beyaz eli kalçada kapalı fakat ayrı ve görünür. Baş boyutu yerel maskeleme ile büyütülerek kanonik oran güçlendirildi. Fular bu sahnede öne sarkar. Tüm4figürde2kol/2ayrıel/2bacak/2ayak. PROVAgeriyebakış bandı planlı.",
       "user_costume_approved": true
+    },
+    {
+      "id": "s08",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s08.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6192610ef621ce719f2a16d680c788c9fbffc0e96fc6a594929f082aee4420df",
+      "status": "GORSEL_KONTROL_GECTI",
+      "character_count": 4,
+      "anatomy": "PASS:4figürün2kol/2AYRIel/2bacak/2ayağı ayrı incelendi",
+      "notes": "Meraklı+3guidance/flight/CAPCOMrolü;4figürün2kol/2ayrıel/2bacak/2ayağı açık;1202/1201rakamları sonradan bantta, canlıAyvideosu yok.",
+      "user_costume_approved": true
+    },
+    {
+      "id": "s08b",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s08b.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4ea437b5e8de8cc8a6008d58ec41a2b266b76fb3688f90afe8897295b5700b86",
+      "status": "GORSEL_KONTROL_GECTI",
+      "character_count": 4,
+      "anatomy": "PASS:4figürün2kol/2AYRIel/2bacak/2ayağı ayrı incelendi",
+      "notes": "Ayrı destek odasında Meraklı+3uzman. İki küçük yüzde eksik kaş/burun/ağız yerel çizildi; Meraklı yeleğinin ana yüzeyi petrol tonuna çevrildi, rib/kenar gölgeleri muted.4figürde2kol/2ayrıel/2bacak/2ayak görünür.",
+      "user_costume_approved": true
+    },
+    {
+      "id": "s09",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s09.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c90ad1229ca209ecb386561345987ddd8e9d49a34b86efa05384f42b1504397d",
+      "status": "GORSEL_KONTROL_GECTI",
+      "character_count": 4,
+      "anatomy": "PASS:4figürün2kol/2AYRIel/2bacak/2ayağı ayrı incelendi",
+      "notes": "MITgeriye bakış: Hamiltonrolü zeytin hırka/lacivertetekli beyazçöpfigür+2yazılımuzmanı+Meraklı.3yüzün eksik küçük kaş/burun/ağız çizgileri yerel tamamlandı. Tüm4figürün2kol/2ayrıel/2bacak/2ayağı açık. Ana figürde kulaklık yok, MITziyaret çizimi; kırmızı fular/kıyafet kimliği korunuyor.",
+      "user_costume_approved": true
+    },
+    {
+      "id": "s10",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s10.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "bac069ecc0bcc179094f749a3bd3e79ffa9fa6e9001f6c6840ddc276d7901178",
+      "status": "GORSEL_KONTROL_GECTI",
+      "character_count": 4,
+      "anatomy": "PASS:4figürün2kol/2AYRIel/2bacak/2ayağı ayrı incelendi",
+      "notes": "4ayrı tam boy figür,2kol/2ayrıel/2bacak/2ayak; değerlendirme duruşu, eller boş/kenetlenmez; analogCRT.",
+      "user_costume_approved": true
+    },
+    {
+      "id": "s11",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s11.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "99ad4a41f3f9ff0c7f18a258e81e433abfe0b439c590bd68b1fc99cc7a1bb4b1",
+      "status": "GORSEL_KONTROL_GECTI",
+      "character_count": 4,
+      "anatomy": "PASS:4figürün2kol/2AYRIel/2bacak/2ayağı ayrı incelendi",
+      "notes": "Meraklı+3görevli tam boy; her2el ve2ayak açık. Ayrı levhada iki kabin figürlü şematikAy aracı, ana odada4kişiye ek gerçek kişi değildir. Uzaktan kumanda/joystick yok; fular başka figürün gövdesinin önünden geçer ama elleri örtmez.",
+      "user_costume_approved": true
+    },
+    {
+      "id": "s12",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s12.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ea1e144a5249e3aa76998ad2067e9a778764463aef82fa197510733b6e2c1a75",
+      "status": "GORSEL_KONTROL_GECTI",
+      "character_count": 4,
+      "anatomy": "PASS:4figürün2kol/2AYRIel/2bacak/2ayağı ayrı incelendi",
+      "notes": "4tam boy figür;2kol/2ayrıel/2bacak/2ayak. Verigrafikleri, canlıvideo/geriyesayımsıfıriddiası yok.",
+      "user_costume_approved": true
+    },
+    {
+      "id": "s12b",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s12b.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f1d1eb2956d964028556b184b96702c0de4181f3fcd5259f90025dff8fc97c17",
+      "status": "DUZELTME_BEKLIYOR",
+      "character_count": 4,
+      "anatomy": "2kol/2AYRIel/2bacak/2ayak: görünür; kostüm/baş oranı kapısında FAIL",
+      "notes": "Uzuvlar ayrı fakat Meraklı başı kanonik büyük baş oranına ve anafigür ayrımına göre küçük: baş oranı düzeltilecek. PASS sayılmadı. Açıklayıcı kâğıt levhası gerçekyakıtgöstergesi değil.",
+      "user_costume_approved": true
+    },
+    {
+      "id": "s13",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s13.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3075686373b9d4dcd2a4ef0b5ef181807f56cfb984904ef2510609e22b9e2f42",
+      "status": "GORSEL_KONTROL_GECTI",
+      "character_count": 4,
+      "anatomy": "PASS:4figürün2kol/2AYRIel/2bacak/2ayağı ayrı incelendi",
+      "notes": "4tam boy beyazçöpfigür;2kol/2ayrıel/2bacak/2ayak. Veri ekranları ve masada ayrı kâğıtkraterşeması; inişvideosu yok.",
+      "user_costume_approved": true
+    },
+    {
+      "id": "s14",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s14.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "acef4a7d0fc4bc9b89c487277c864d6d0477aa0d7bb388bf4c88c15bb4f0c5d3",
+      "status": "DUZELTME_BEKLIYOR",
+      "character_count": 4,
+      "anatomy": "2kol/2AYRIel/2bacak/2ayak: görünür; kostüm/baş oranı kapısında FAIL",
+      "notes": "4figürün2kol/2ayrıel/2bacak/2ayağı ayrı; fakat3yanfigürde dönem pantolonu eksik, vestaltı beyazçubukbacaklar. Giyinik dönemkostümü için düzeltilecek, PASS sayılmadı.",
+      "user_costume_approved": true
     }
   ],
   "remaining_images": [
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s04b.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s08.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s08b.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s09.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s10.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s11.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s12.png",
     "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s12b.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s13.png",
     "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s14.png",
     "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15.png",
     "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15b.png",
@@ -144,36 +244,32 @@
     "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s20.png"
   ],
   "archive_audio": {
-    "status": "KAYNAKLAR_BULUNDU_DOSYA_EDINIMI_VE_ICERIK_DOGRULAMASI_BEKLIYOR",
-    "downloaded": false,
+    "status": "EDINILDI_PROVENANS_DECODE_PASS_ICERIK_SON_KONTROL_VE_MIKS_BEKLIYOR",
+    "downloaded": true,
     "mixed": false,
-    "planned_scene": 15
+    "planned_scene": 15,
+    "file": "bolumler/030-apollo11-gorev-kontrol/uzun/arsiv-sesleri/eagle-has-landed-islenmis.mp3",
+    "duration_seconds": 9.613061,
+    "sha256": "ba45c8de4e9f22ccc0e05b818642eec0775175081413da622a1b82e252d064d3",
+    "processed_excerpt": true,
+    "independent_listening_done": false
   },
   "final_video": null,
   "cover_v4": {
     "status": "HENUZ_URETILMEDI"
   },
   "next": [
-    "ÖNCE s04b krem/gri yan figür ellerini ayır, her eli kol sayısından bağımsız incele",
-    "s08/s08b/s09/s10...17eksik yeni görsel; min4kanonikfigür ve tüm ayrı el/ayak",
-    "s11–s20anlatımlarını aynıvoice-03/tr ile üret; ilk10sesi tekrar üretme",
-    "NASA özgün radyoalıntısı edinim/provenans/metin/decode/süre, SFXkünyesi",
-    "Nihai kart konumları/yüz örtmeme; s15yalnızkayıt aralığında GERÇEKKAYIT etiketi, s19b24Temmuzbandı",
-    "Tüm25görsel PASS ve20ses/kayıt hazır olmadan render yok; ardından kapakv4/YAYIN/QA",
-    "Her tur commit→hemenpush→uzakdoğrulama; B018usermodları koru"
+    "ÖNCE s12b Meraklı baş oranı ve s14üç yanfigür dönem pantolonunu düzelt; ayrı el/kol/ayak denetimi",
+    "8eksikPNG:s15/s15b/s16/s17/s18/s19/s19b/s20; min4kanonikfigür; tüm25PASS olmadan render yok",
+    "20voice-03anlatım TAMAM; tekrar üretme. Ham734,136sn/trim1×700,18sn; finalhız/video süresi henüz yok",
+    "Arşiv9,613061sn edinildi/işlenmiş; nihai içerik-kesit incelemesi, normalhızda ayrı katman ve sessiz Türkçe anlatıcı aralığı",
+    "SFXCC0teknik QA/yerleşim; s15yalnızkayıt anında GERÇEKKAYIT, s19b24Temmuzbandı, kartlar yüzleri örtmez",
+    "Nihai render/kapakv4/YAYIN/loudness/tamAVdecode/kritikkareler/5–12dk",
+    "Her tur commit→hemenpush→uzakdoğrulama; B018kullanıcıdosyalarını koru"
   ],
-  "available_image_count": 8,
-  "passed_image_count": 7,
+  "available_image_count": 17,
+  "passed_image_count": 15,
   "missing_images": [
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s08.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s08b.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s09.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s10.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s11.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s12.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s12b.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s13.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s14.png",
     "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15.png",
     "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15b.png",
     "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s16.png",
@@ -184,10 +280,11 @@
     "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s20.png"
   ],
   "pending_image_corrections": [
-    "s04b: krem/gri yan figür elleri örtüşüyor; önce düzelt, PASS deme"
+    "s12b: Meraklı baş oranı/anafigür ayrımı",
+    "s14:3yanfigür dönem pantolonu eksik"
   ],
-  "narration_seconds_raw_current": 374.928,
-  "narration_seconds_trimmed_1x_current": 357.57,
+  "narration_seconds_raw_current": 734.136,
+  "narration_seconds_trimmed_1x_current": 700.18,
   "narrations": [
     {
       "id": "s01",
@@ -298,22 +395,134 @@
       "silence_trimmed_1x_seconds": 36.29,
       "sha256": "1aee936a5ce566f09143d92486ec903a314331726533ef2b578a30927d2652fb",
       "source_text_sha256": "e4e88ef5e0debec7be7a72596a6caa607f11ff86154fae0be5c0d47be784ce4d"
+    },
+    {
+      "id": "s11",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s11.mp3",
+      "duration_seconds": 35.328,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 33.77,
+      "sha256": "bf7e5176f9ccbcd4eec9cbf725d3cf9cfefe4be948d60f22f51438e1632aee0b",
+      "source_text_sha256": "bbeab6a1f9d291393c6659883aa3a029b230fb0ff176be5b21b52888149fb76d"
+    },
+    {
+      "id": "s12",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s12.mp3",
+      "duration_seconds": 37.176,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 35.51,
+      "sha256": "815fb7b54c6498ff01038ce3f6fcd03bd53512a250f4cba0057dc591bd96606c",
+      "source_text_sha256": "5a0fa1402d7b458c345ae2a517c7163292952878c03cd36bcefbd0d666090ab8"
+    },
+    {
+      "id": "s13",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s13.mp3",
+      "duration_seconds": 35.664,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 34.22,
+      "sha256": "c036163936b6e537a46cfc52759306c1a0efaa1cd7af619953fa6ae1f0f67aa8",
+      "source_text_sha256": "37a9f982bd80d9ab9b054ba3a96fe5fdc9e089821ef23091cfe40495398e75dd"
+    },
+    {
+      "id": "s14",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s14.mp3",
+      "duration_seconds": 37.968,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 36.28,
+      "sha256": "69f09ce4fcf9bf786f79ce773eb488546e2909353fd22e136883365b2f38cb97",
+      "source_text_sha256": "fd5a01cdfd32f4dd673a3d362e3bf7b08b63fdc59620e11825ae3aa32976b357"
+    },
+    {
+      "id": "s15",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s15.mp3",
+      "duration_seconds": 34.608,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 34.03,
+      "sha256": "ee3815dce4feb1e821f3a789a7fc9016fcf74d42704d51b74a69c32e6fe78f6a",
+      "source_text_sha256": "a2d151ba729c48cdc0ef3c6c9fb8d216e87f7cefa483e96d0521fe6192f059b9"
+    },
+    {
+      "id": "s16",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s16.mp3",
+      "duration_seconds": 40.008,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 37.58,
+      "sha256": "39fab2598b74c6e6bf52d1f62053cb7f77367cf822516e1fb20f2e00c255357f",
+      "source_text_sha256": "6b28afa30ef4cc4192f2fb693a73f1ef53078a6e8c209a4ec44d75acb31f5c56"
+    },
+    {
+      "id": "s17",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s17.mp3",
+      "duration_seconds": 33.576,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 32.07,
+      "sha256": "0843636beb0461953e5b75a11b6e2f9de144c8cdc182b5b9d157ce9b4faf43d2",
+      "source_text_sha256": "b4dbb3dcd9a403f5efb45e65c41bfd98b482e850c761c64e08246a85e707c759"
+    },
+    {
+      "id": "s18",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s18.mp3",
+      "duration_seconds": 35.928,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 33.79,
+      "sha256": "1955f35ea09aeffd7479b9e6f8b947243ce7fd1031f96fbe5edccec31f46db77",
+      "source_text_sha256": "9a480bd5db407b2c90917651ab44660ad00ba5b7566d4bbcbf2e3bca40943158"
+    },
+    {
+      "id": "s19",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s19.mp3",
+      "duration_seconds": 35.448,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 33.18,
+      "sha256": "fec5aef073623721d6a43023ac754b9771a35b557ddd895d2b1b618aad8dd643",
+      "source_text_sha256": "2d2ccb6eea8beda1e9f5be789faab3f2f42dda52937bd1b54df90a89f32a30c9"
+    },
+    {
+      "id": "s20",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/sesler/s20.mp3",
+      "duration_seconds": 33.504,
+      "voice_id": "voice-03",
+      "language": "tr",
+      "full_decode": "PASS",
+      "silence_trimmed_1x_seconds": 32.18,
+      "sha256": "dd94fcac085ef7861e89afcfc2f496b8249c40792d8a93c1cccb66621fb8dfa9",
+      "source_text_sha256": "f5c959fbbd24b1aa8cf9b570e231e22fd99abe845254bb659f2d4c34e0404b23"
     }
   ],
   "latest_turn": {
     "image_generation_calls": 10,
-    "new_image_files": 7,
-    "ai_correction_calls": 3,
+    "new_image_files": 9,
+    "ai_correction_calls": 1,
     "local_corrections": [
-      "s03ayak örtmeyen şematik model kompoziti",
-      "s07baş oranı maskeleme büyütmesi"
+      "s04bayrıel/önkol kompoziti",
+      "s09eksik küçük yüzçizgileri",
+      "s08beksik yüzçizgileri ve yelekrenk düzeltmesi"
     ],
-    "images_available": 8,
-    "images_passed": 7,
-    "images_pending": 1,
+    "images_available": 17,
+    "images_passed": 15,
+    "images_pending": 2,
     "speech_generation_calls": 10,
     "voice": "voice-03",
-    "speech_full_decode": "PASS10",
+    "speech_full_decode": "PASS20",
+    "archive_acquired": true,
     "rendered": false
   }
 }

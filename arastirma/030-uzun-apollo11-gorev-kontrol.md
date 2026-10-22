@@ -36,7 +36,9 @@ Araştırma: 22 Ekim 2026. Seri E 7. bölüm · YOL45 / Konu18. Yalnız uzun vid
 - NASA Charles Duke biyografisi: https://www.nasa.gov/former-astronaut-charles-m-duke-jr/ — Apollo11CAPCOM, Apollo16Ay yürüyüşü ayrı görev.
 - NASA Gene Kranz biyografik podcast girişleri: https://www.nasa.gov/podcasts/houston-we-have-a-podcast/call-sign-white-flight/ — white flight/flight director, beyaz yelek. Renk kıyafet rol ayrımı için; fotogerçekçi portre üretmiyoruz.
 
-## Gerçek ses için edinim planı — henüz miks/edinim doğrulanmadı
+## Gerçek ses için ilk edinim planı — tarihî hazırlık kaydı
+
+> Güncel: aşağıdaki İkinci üretim grubu edinim kaydı geçerlidir; resmî kısa dosyalar değil, belgeli işlenmiş mirror edinildi.
 - Resmî kısa dosya: https://www.nasa.gov/wp-content/uploads/2015/01/569462main_eagle_has_landed.mp3 ; extended: https://www.nasa.gov/wp-content/uploads/2015/01/590333main_ringtone_eagleHasLanded_extended.mp3 . Bunlar okunan NASA sayfasındaki gerçek bağlantılardır; dosyalar henüz indirilmedi.
 - Tercih: NASA Historical Sounds'taki kısa **Eagle Has Landed** alıntısı; gerçek İngilizce radyo kaydı. Kullanılacak dosya edinilip tamdecode/süre/metin/provenans denetimi yapılmadan 'videoda var' denmez.
 - Alternatif küçük GitHub mirror bulundu: https://github.com/seankd3/orbital-mechanics/tree/main/public/audio/apollo11 . API dosya listesi ve `scripts/mission-audio/README.md`, `clips.json`, `cut.py` okundu.
@@ -52,4 +54,11 @@ Araştırma: 22 Ekim 2026. Seri E 7. bölüm · YOL45 / Konu18. Yalnız uzun vid
 - Her kişi2kol/2AYRIgörünür el/2bacak/2ayak. Oturma/konsol arkasında uzuv saklama yerine açık koridor, yarım vücut kalabalığı yok. Eller birbiriyle/aynı nesneyle birleşmez.
 - 1960larCRT/analog panel/kâğıt/kablolu kulaklık. Laptop/LEDduvar/touchscreen/oyun kolu/akıllı telefon yok. Büyük panolarda iniş öncesi yalnız veri/çizgisel yörünge, canlı Eagle/astronot filmi yok. Ay aracı şeması ayrı açıklayıcı çizim, canlı telemetri kamerası değil.
 - İlk adım TV sahnesi daha sonra, ayrı tarih bandıyla. TV içindeki çizim de TEMSİLÎ; gerçek arşiv görüntüsü diye etiketlenmez.
-- Kostüm ilk onayı kullanıcıda: s01görsel teknik/figür kontrolü PASS; **kullanıcı Devam diyerek kostümü onayladı**. İlk üretim grubu yapıldı; güncel7PASS/1düzeltme ve10voice-03ses URETIM-DURUMU.json içinde. s04börtüşenelleri PASS sayılmadı.
+- Kostüm ilk onayı kullanıcıda: s01görsel teknik/figür kontrolü PASS; **kullanıcı Devam diyerek kostümü onayladı**. İkinci grupta17PNG/15PASS/2düzeltme ve20voice-03ses mevcut. s04bdüzeltildi; s12bbaş oranı/s14kostüm PASS sayılmadı. URETIM-DURUMU.json günceldir.
+
+## İkinci üretim grubu — gerçek ses edinimi / 22 Ekim 2026
+- İşlenmiş9,613061sn NASA/JSC kökenli radyo alıntısı edinildi: `uzun/arsiv-sesleri/eagle-has-landed-islenmis.mp3`. Bayt58023/SHA256`ba45c8de4e9f22ccc0e05b818642eec0775175081413da622a1b82e252d064d3`;22.05kHzmono, tamdecodePASS.
+- Edinim: https://github.com/seankd3/orbital-mechanics/blob/5f0ad6b09eca781416cc333bed557004499766da/public/audio/apollo11/eagle-has-landed.mp3 . README/clipJSON/cut.py aynıcommitten okundu.
+- Asıl kaynak beyanı NASAJSC Apollo11AudioHighlights / https://archive.org/details/Apollo11AudioHighlights / Public Domain Mark. PDM yeni lisans izni değil, kamu malı durum işaretidir; NASAonayı yok. Bandpass250–3600Hz,−18LUFShedefi,22.05kHzmono48kbps, fade ve sessizlikbirleştirme mirror işlemleridir. Kesintisiz ham olay kaydı diye sunulmaz.
+- Kaynakreel1335.1–1337.95ve1338.3–1345.0sn, bizde yenidenkesme/işleme yok. Mirror güncel `src/game/voice.ts` captionı TranquilityBase/Eaglelanded ve Duke groundcopy yanıtını listeler; bu, bizim bağımsız dinleme/ASRsonucumuz değildir. Son içerik/kesit denetimi render kapısında bekliyor.
+- KAYNAK.json ve SFX-KUNYE.md teknik veri/atıf içerir. Anlatıcı aynıvoice-03Türkçe; arşiv ayrıkatman/normalhızda, yalnızalinti anında GERÇEKKAYITetiketi; şimdilik miks/finalvideo yok.

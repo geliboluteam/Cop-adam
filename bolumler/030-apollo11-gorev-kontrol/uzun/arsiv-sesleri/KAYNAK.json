@@ -1,0 +1,39 @@
+{
+  "file": "bolumler/030-apollo11-gorev-kontrol/uzun/arsiv-sesleri/eagle-has-landed-islenmis.mp3",
+  "original_creator": "NASA / Johnson Space Center, Apollo 11 air-to-ground recording, 20 July 1969",
+  "source_reel": "https://archive.org/details/Apollo11AudioHighlights",
+  "official_context": "https://www.nasa.gov/historical-sounds/",
+  "acquired_from": "https://github.com/seankd3/orbital-mechanics/blob/5f0ad6b09eca781416cc333bed557004499766da/public/audio/apollo11/eagle-has-landed.mp3",
+  "mirror_commit": "5f0ad6b09eca781416cc333bed557004499766da",
+  "github_blob_sha": "5bca917fb5b34158626b9a690d345102a779c54c",
+  "sha256": "ba45c8de4e9f22ccc0e05b818642eec0775175081413da622a1b82e252d064d3",
+  "bytes": 58023,
+  "duration_seconds": 9.613061,
+  "sample_rate": 22050,
+  "channels": 1,
+  "full_decode": "PASS",
+  "source_segments_seconds": [
+    [
+      1335.1,
+      1337.95
+    ],
+    [
+      1338.3,
+      1345.0
+    ]
+  ],
+  "processing_disclosed_by_mirror": [
+    "Highlight reel already edited, not continuous raw mission tape",
+    "dead air spliced out between segments",
+    "250–3600Hz bandpass",
+    "loudness normalization target -18LUFS / -2dBTP",
+    "22.05kHz mono MP3 48kbps, fades"
+  ],
+  "local_processing": "None; bytes downloaded unchanged. Final mix pending; archive remains normal speed.",
+  "rights": "Mirror README attributes NASA JSC federal recording and source reel Public Domain Mark. PDM is a status mark, not a new license grant; no NASA endorsement. Processing credited to seankd3/orbital-mechanics.",
+  "source_caption_expected_not_independent_transcript": "TRANQUILITY BASE HERE. THE EAGLE HAS LANDED. — ROGER, TRANQUILITY, WE COPY YOU ON THE GROUND.",
+  "caption_source": "https://github.com/seankd3/orbital-mechanics/blob/main/src/game/voice.ts",
+  "content_review": "Publisher caption / primary-event context checked. No independent listening or ASR performed; final content/cut review remains a render gate. Do not assert every word is audible yet.",
+  "mixed": false,
+  "planned_scene": 15
+}

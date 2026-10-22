@@ -1,7 +1,7 @@
 # B030 — 1969: APOLLO 11 GÖREV KONTROLÜNDE OLSAYDIM
 
 > Seri E 7. bölüm · YOL45 / Konu18.
-> DURUM: **ÜRETİMDE — s01 kostüm kullanıcı ONAYLI. 8 görsel dosyası / 7 PASS / s04b el örtüşmesi düzeltmesi; ilk10 voice-03 anlatım hazır.** Toplam hedef20sahne/25görsel;17yeni görsel ve son10ses henüz yok.
+> DURUM: **ÜRETİMDE — kostüm kullanıcı ONAYLI.17PNG/15PASS/2düzeltme(s12bbaş,s14kostüm);20voice-03anlatım TAMAM.** 8yeniPNGeksik; işlenmiş9,613061snNASAkökenli arşiv edinildi, soniçerik/miks/kartlar/finalvideo/kapak bekliyor.
 > Kaynak dosyası: `arastirma/030-uzun-apollo11-gorev-kontrol.md`.
 
 ## Format ve teslim kilitleri
@@ -121,8 +121,8 @@ Ay'a adım atmadan da bu yolculuğun önemli bir parçası olabilirdin. Bir veri
 
 ## Üretim sırası ve kabul kapısı
 1. s01 teknik/görsel kontrolü tamam:4beyazçöpfigür ayrı ayrı incelendi; her kişide2kol/2ayrıel/2bacak/2ayak. Dönem kıyafeti/CRT/baş boşluğu/noNASAlogo PASS. **Kullanıcı kostümü Devam diyerek onayladı; üretim başladı.**
-2. Kullanıcı Devam ile onayladı. İlk grupta8PNG/7PASS/1s04bdüzeltme;17eksikyeniPNG ve son10voice-03anlatım kaldı. Görsel başına el/kol/ayak ve yanfigür sayısı ayrı kontrol edilecek.
-3. GerçekNASAalıntı dosyasını edinip provenans/metin/lisans/süre/tamdecode doğrula. Sahne15Türkçe giriş bittiğinde kaydı normal hızda çal; konuşmalar üst üste binmesin. GERÇEKKAYIT etiketi sadece gerçek ses aralığında.
+2. Kostüm kullanıcı onaylı. Güncel17PNG/15PASS/2düzeltme(s12bbaş,s14kostüm);8yeniPNGeksik.20anlatım hazır. Ayrıel/kol/ayak ve yanfigür sayısı her dosyada denetlenir.
+3. İşlenmiş9,613061snNASAkökenli alıntı edinildi/provenans/decodePASS; soniçerik-kesit incelemesi ve miks kaldı. Sahne15Türkçe giriş bittiğinde kaydı normal hızda çal; konuşmalar üst üste binmesin. GERÇEKKAYIT etiketi sadece gerçek ses aralığında.
 4. Bütün kaynaklar ölçüldükten sonra nihai plan, YAYIN, SFXkünyesi, kapakv4 ve render. 5–12dk,faststart,tamAVdecode,loudness,10kritikkareQA. Şu an finalvideo/kapak üretilmiş gibi işaretleme.
 5. Her tur commit→hemenpush→uzakHEAD/blobdoğrulama. B018kullanıcıdosyaları bu bölüme dahil edilmez.
 
@@ -133,3 +133,9 @@ Ay'a adım atmadan da bu yolculuğun önemli bir parçası olabilirdin. Bir veri
 - s01–s10voice-03/tr üretildi; tüm10MP3tamdecodePASS. Ham374,928sn; sessizlik düzenleme1×357,57sn. Yalnız ilk yarı ölçümü, final video süresi değil.
 - NASA ses dosyası henüz indirilmedi/karşılaştırılmadı, miks ve video yok. Kaynak araştırması hazır.
 - Ayrıntı `QA-ILK-GRUP.md`, dosya durumları `URETIM-DURUMU.json`; önceki onaybekleyen günlük notları tarihî hazırlık kaydıdır.
+
+## 22 Ekim 2026 — İkinci üretim grubu (güncel)
+- 9yeniPNG+1AIdüzeltme; s04belleri ayrıldı, top biçimli sağ el önceki çizimden maskeli el/önkol kompozitiyle düzeltildi. s09yüz çizgileri; s08byüz/yelek tonu yerel tamamlandı. Kaynak notları depoda.
+-17dosya/15PASS/2düzeltme: s12bbaş oranı, s14yanfigür pantolonları.8yeniPNGeksik; başarısızlar PASS sayılmadı.
+- s11–s20üretildi:20voice-03TR tamdecodePASS. Ham734,136sn/trim1×700,18sn; finalvideo süresi değildir.
+- İşlenmiş NASAJSC radyo alıntısı9,613061sn/mirrorcommit veSHA kayıtlı; bağımsızdinleme/ASR ve sonkesit incelemesi yapılmış denmiyor. Miks/render/kapak yok. Ayrıntı `QA-IKINCI-GRUP.md`.

@@ -1,6 +1,6 @@
 {
-  "_durum": "URETIMDE_7PASS_1DUZELTME_10SES",
-  "_uyari": "Render-ready değil:8PNG/7PASS/1s04belörtüşme düzeltmesi,17eksikPNG; ilk10voice-03anlatım var. Son10ses/NASAalıntısı/SFX/finalkartlar/QA bekleniyor.",
+  "_durum": "URETIMDE_15PASS_2DUZELTME_20SES_ARSIV_EDINILDI",
+  "_uyari": "Render-ready değil:17PNG/15PASS/2düzeltme(s12bbaşoranı,s14kostüm);8PNGeksik.20voice-03anlatım hazır. Arşiv9,613061sn edinildi/decodePASS, soniçerikkontrolü/miks/kartlar/video/kapakQA bekliyor.",
   "format": "16:9",
   "encode_preset": "veryfast",
   "crf": 25,
@@ -75,7 +75,7 @@
       "gorsel2": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s04b.png",
       "gorsel2_oran": 0.5,
       "_gorsel2_tanim": "Aynı4figür yanında bağımsız büyük yörünge/iniş çizim levhası; canlı görüntü sanılmayacak çizim, modern UI yok.",
-      "_gorsel2_durum": "FAIL/PENDING: krem/gri yan figür elleri örtüşüyor; render öncesi düzelt."
+      "_gorsel2_durum": "PASS: eller ayrıldı; sağ el/önkol yerel kompozit düzeltmesi, kaynak maskesi depoda."
     },
     {
       "id": "s05",
@@ -177,7 +177,8 @@
       "_karakter_min": 4,
       "gorsel2": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s12b.png",
       "gorsel2_oran": 0.5,
-      "_gorsel2_tanim": "Aynı4figür güvenli yanda, masada açıklayıcı yakıt/süre kâğıdı. Patlamaya giden sıfırkronometre/tam tank ölçümü iddiası yok."
+      "_gorsel2_tanim": "Aynı4figür güvenli yanda, masada açıklayıcı yakıt/süre kâğıdı. Patlamaya giden sıfırkronometre/tam tank ölçümü iddiası yok.",
+      "_gorsel2_durum": "FAIL/PENDING: Meraklı baş oranı küçüklüğü, düzeltmeden render yok."
     },
     {
       "id": "s13",
@@ -201,7 +202,8 @@
       "efektler": [],
       "ek_sure": 0.6,
       "_gorsel_tanim": "Kontrolodasında dikkatli dinleyen Meraklı+3görevli; büyük panoda yörüngeyi gösteren sade çizgi. Altınkonfetiyok, kapıdan astronot çıkmıyor.",
-      "_karakter_min": 4
+      "_karakter_min": 4,
+      "_gorsel_durum": "FAIL/PENDING:3yanfigür dönem pantolonu eksik; düzeltmeden render yok."
     },
     {
       "id": "s15",
@@ -217,7 +219,8 @@
       "gorsel2": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15b.png",
       "gorsel2_oran": 0.5,
       "_gorsel2_tanim": "Aynı4figür, sessizce dinleme kompozisyonu; boş duvar/bantalanı. GERÇEK KAYIT etiketi yalnız seskesiti süresinde sonradan, çizimlerTEMSİLÎ.",
-      "_ek_sure_bekliyor": "Özgün kayıt uzunluğu + güvenli boşluk; atempo/trim sonrası s15anlatım sonuyla eşleştir."
+      "_ek_sure_bekliyor": "Özgün kayıt uzunluğu + güvenli boşluk; atempo/trim sonrası s15anlatım sonuyla eşleştir.",
+      "_arsiv_durum": "İşlenmişNASAkökenli9,613061sn dosya edinildi. KAYNAK.json; finaliçerik-kesit/ayrıkatman/timestamp gereksinimi henüz uygulanmadı."
     },
     {
       "id": "s16",

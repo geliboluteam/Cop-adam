@@ -1,0 +1,21 @@
+[
+  {
+    "id": "s04b",
+    "operation": "AI figürler ayrıldı; top biçimli sağ el önceki çizimden alfa maskeli ayrı el/önkol ile değiştirildi",
+    "base_pixel_sha256": "a174c0c7b9df70616405be9c130869d2510b955e600777d53ce9c7b5c166e0b7",
+    "hand_patch": "s04b-ayri-el-kaynagi.png",
+    "final_png_sha256": "8e16dbfb075493038b27df4f6e9808743ccab49469ec19363c295fd628a579d6"
+  },
+  {
+    "id": "s09",
+    "operation": "Eksik küçük kaş/burun/ağız çizgileri yerel çizimle eklendi",
+    "base_pixel_sha256": "b3f8674e1cf576e257c827d9eedbf20a566065ef2afe218dc7e6d4d3ad896b91",
+    "final_png_sha256": "c90ad1229ca209ecb386561345987ddd8e9d49a34b86efa05384f42b1504397d"
+  },
+  {
+    "id": "s08b",
+    "operation": "Eksik küçük kaş/burun/ağız çizgileri yerel çizimle eklendi; petrol yelek rengi düzeltildi",
+    "base_pixel_sha256": "ada58bc68988ec25aff30e1e6ec00aba6c182ff5f7a10100bae0075316a62904",
+    "final_png_sha256": "4ea437b5e8de8cc8a6008d58ec41a2b266b76fb3688f90afe8897295b5700b86"
+  }
+]

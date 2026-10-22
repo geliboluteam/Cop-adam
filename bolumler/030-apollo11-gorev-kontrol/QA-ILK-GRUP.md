@@ -1,5 +1,7 @@
 # B030 — İlk üretim grubu QA / 22 Ekim 2026
 
+> TARİHÎ ARA KAYIT: Bu dosya ilk grubun o andaki sonucudur. s04bsonra düzeltildi; güncel durum `QA-IKINCI-GRUP.md` ve `URETIM-DURUMU.json` içinde.
+
 **Ara durum: 8 görsel dosyası / 7 PASS / 1 DÜZELTME; 10 anlatım hazır. Final video değildir.**
 
 ## Onay ve kapsam

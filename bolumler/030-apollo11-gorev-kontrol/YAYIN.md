@@ -1,6 +1,6 @@
 # B030 — YAYIN TASLAĞI / HENÜZ FİNAL DEĞİL
 
-> Üretimde: kostüm onaylı;8PNG/7PASS/1s04belörtüşme düzeltmesi,10voice-03ses hazır.17yeni görsel/son10ses/özgünNASAalıntısı bekliyor. Video/kapak/miks henüz yok. Zaman damgaları finalQAsonrası.
+> Üretimde: kostüm onaylı;17PNG/15PASS/2düzeltme(s12bbaş,s14kostüm),20voice-03ses hazır.8yeniPNGeksik.9,613061sn işlenmişNASAkökenli alıntı edinildi; soniçerik/miks/video/kapak yok. Zaman damgaları finalQAsonrası.
 
 ## Başlık adayı
 Eğer 1969'da Houston'da Olsaydım: Apollo11'in Son Dakikaları | MERAKLI
@@ -17,7 +17,7 @@ Ay'a gitmeden Ay inişinin tam ortasında olabilir miydin? Meraklı bu kez20Temm
 
 **Kurgu/temsil:** Meraklı gerçek kontrolör, astronot veya belgelenmiş tanık değildir. Görseller yapay zekâ ile üretilmiş TEMSİLÎ çizimlerdir, NASAarşiv fotoğrafı veya NASAüretimi görsel değildir. Video bağımsız tarih anlatımıdır; NASAonayı/işbirliği ima etmez. NASAlogoları AIgörsellerde kullanılmaz.
 
-**SES — finalde gerçek kullanıma göre kesinleştirilecek:** NASA'nın özgün iniş radyo kaydından kısa alıntı planlandı; henüz edinim/içerik/süre ve miks doğrulaması yapılmadı. Türkçe anlatımvoice-03, gerçek İngilizce arşiv alıntısından ayrı. Modern kâğıt/kumaş/kalem foleyleri MODERNANALOJİ diye açıklanacak. Künye `SFX-KUNYE.md` içinde; final olmayan bu cümle yayın öncesi güncellenmeli.
+**SES — finalde gerçek kullanıma göre kesinleştirilecek:** NASA/JSC kökenli iniş konuşmasının9,613061sn işlenmiş kısa kopyası GitHubmirror üzerinden edinildi; kaynak/işlem/SHA/decode künyede. Kesintisiz ham kayıt değil. Son içerik-kesit denetimi ve miks henüz yapılmadı. Türkçe anlatımvoice-03, gerçek İngilizce arşiv alıntısından ayrı. Modern kâğıt/kumaş/kalem foleyleri MODERNANALOJİ diye açıklanacak. Künye `SFX-KUNYE.md` içinde; final olmayan bu cümle yayın öncesi güncellenmeli.
 
 Sen hangi işi seçerdin: veriyi okumak, haberleşmek, yoksa sistemi sınamak mı? Yorumlara yaz.
 
