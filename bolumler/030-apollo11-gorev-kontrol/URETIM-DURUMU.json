@@ -1,0 +1,86 @@
+{
+  "episode": 30,
+  "roadmap": 45,
+  "topic": 18,
+  "series": "E",
+  "stage": "KOSTUM_KULLANICI_ONAYI_BEKLENIYOR",
+  "updated": "2026-10-22",
+  "long_only": true,
+  "shorts": false,
+  "scene_count": 20,
+  "planned_image_count": 25,
+  "completed_image_count": 1,
+  "double_scenes": [
+    4,
+    8,
+    12,
+    15,
+    19
+  ],
+  "planned_voice": "voice-03",
+  "language": "tr",
+  "narration_count": 0,
+  "narration_word_count": 1463,
+  "narration_character_count": 11135,
+  "narration_seconds": null,
+  "user_costume_approved": false,
+  "image_generation_calls_this_turn": 1,
+  "images": [
+    {
+      "id": "s01",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s01.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7993e1559a6942f53a7e4b940bb54022b40e1832d13046a68d9ad35c68f1b2c8",
+      "status": "GORSEL_KONTROL_GECTI_KULLANICI_ONAYI_BEKLIYOR",
+      "character_count": 4,
+      "anatomy": "Her4figür:2kol/2AYRIel/2bacak/2beyazayak; eller boş/ayrı, kenetli el yok.",
+      "costume": "Krem kısa kollu gömlek, matpetrol-mavi örgü yelek, antrasit bilek pantolonu, beyaz el/ayak, uzun kırmızı fular yalnızMeraklı, kablolu dönem kulaklığı.",
+      "period_qa": "CRT/analogkonsol; yalnız yörünge çizimleri. Canlı inişvideo/modernUI/NASAlogo/gerçekçiyüz yok.",
+      "user_approved": false
+    }
+  ],
+  "remaining_images": [
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s02.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s03.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s04.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s04b.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s05.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s06.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s07.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s08.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s08b.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s09.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s10.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s11.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s12.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s12b.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s13.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s14.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15b.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s16.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s17.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s18.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s19.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s19b.png",
+    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s20.png"
+  ],
+  "archive_audio": {
+    "status": "KAYNAKLAR_BULUNDU_DOSYA_EDINIMI_VE_ICERIK_DOGRULAMASI_BEKLIYOR",
+    "downloaded": false,
+    "mixed": false,
+    "planned_scene": 15
+  },
+  "final_video": null,
+  "cover_v4": {
+    "status": "HENUZ_URETILMEDI"
+  },
+  "next": [
+    "s01kostüm/karakter kullanıcı onayı",
+    "Onaydan sonra24görsel +20voice-03ses",
+    "NASA özgün radyoalıntısı edinim/provenans/metin/decode/süre, SFXkünyesi",
+    "Nihai ölçülü plan/render/kapak/YAYIN/QA",
+    "Her tur commit→hemenpush→uzakdoğrulama"
+  ]
+}

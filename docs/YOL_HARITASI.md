@@ -76,7 +76,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 42 | 49 | 1776, Connecticut / New York | Tek kişilik Turtle: hava, akıntı ve insan gücü | ✅ TAMAMLANDI (B027): 10:14 uzun video, 20 sahne/25 görsel, kapak v4, YAYIN ve SFX künyesi. Seri E 4. bölüm; tarihî görevde yalnız Ezra Lee |
 | 43 | 54 | 1839, Paris | Fotoğraf çırağı: daguerreotip, ışık ve beklemek | ✅ TAMAMLANDI (B028): 9:35 uzun,20sahne/25görsel; kapakv4,YAYIN,SFXkünyesi veQA. Niépce daha erken, kimyasal uygulama yok |
 | 44 | 17 | 1903, Kitty Hawk yakınları / Kill Devil Hills | Wright kardeşlerin ilk motorlu uçuşları | ✅ TAMAMLANDI (B029): 11:24uzun,20sahne/25görsel,20ses,63SFX+müzik; min3karakter/Taylor-Daniels4; kapakv4,YAYIN,künye,tamAVdecode+10kareQA PASS |
-| 45 | 18 | 1969, Houston | Apollo 11 görev kontrol odasında (NASA ses arşivi = gerçek kayıt!) | 🟧 SIRADAKİ B030 — kullanıcı Devam sonrası |
+| 45 | 18 | 1969, Houston | Apollo 11 görev kontrol odasında (NASA ses arşivi = gerçek kayıt!) | 🟡 B030 HAZIRLIK: araştırma/20tammetin/25görselplanı; s01dörtfigürlü kostüm ONAYI BEKLENİYOR. GerçekNASAsesi kaynakları bulundu, edinim/QAhenüz yok. Yalnız uzun |
 | 46 | 16 | 1912, Kuzey Atlantik | Titanic'in çarptığı gece güvertede | ⬜ |
 | 47 | 55 | 1911, kutup | Kızak sürücüsü: köpekler, don, rasyon | ⬜ |
 | 48 | 25 | çağlar boyu | Keşif gemisi bilinmeyen adaya vardığında | ⬜ |
