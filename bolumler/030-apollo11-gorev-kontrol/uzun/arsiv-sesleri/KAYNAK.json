@@ -29,11 +29,18 @@
     "loudness normalization target -18LUFS / -2dBTP",
     "22.05kHz mono MP3 48kbps, fades"
   ],
-  "local_processing": "None; bytes downloaded unchanged. Final mix pending; archive remains normal speed.",
+  "local_processing": "Kaynak MP3 baytları korunur. Miks için48kHzstereo PCMdecode, +3dB göreli gain ve tüm miks iki-pass loudness. Süre/hız kesme yok; kaynak MP3frame/encoderpadding9.613061sn, decodePCM9.550042sn.",
   "rights": "Mirror README attributes NASA JSC federal recording and source reel Public Domain Mark. PDM is a status mark, not a new license grant; no NASA endorsement. Processing credited to seankd3/orbital-mechanics.",
   "source_caption_expected_not_independent_transcript": "TRANQUILITY BASE HERE. THE EAGLE HAS LANDED. — ROGER, TRANQUILITY, WE COPY YOU ON THE GROUND.",
   "caption_source": "https://github.com/seankd3/orbital-mechanics/blob/main/src/game/voice.ts",
-  "content_review": "Publisher caption / primary-event context checked. No independent listening or ASR performed; final content/cut review remains a render gate. Do not assert every word is audible yet.",
+  "content_review": "Kaynakcommit/blob/caption ve ALSJiniş konuşması bağlamı karşılaştırıldı. Caption tam kelimekelime transkript sayılmadı. Bağımsız işitsel dinleme yapılmadı. PocketSphinxASR düşük güvenli; doğrulama veya altyazı olarak kullanılmadı. Gerçekkonuşma olarak atıf kaynak zincirine dayanır; dosyaadına tekbaşına dayanmaz.",
   "mixed": false,
-  "planned_scene": 15
+  "planned_scene": 15,
+  "decoded_pcm_seconds": 9.550041666666667,
+  "independent_asr": {
+    "engine": "PocketSphinx default English acoustic model",
+    "status": "DUSUK_GUVEN_KELIME_DOGRULAMASI_ICIN_KULLANILMADI",
+    "result": "the quality of the new vehicle of limited i get really high quality would not be on the ground in the with that about the blue with glee that again like the law",
+    "limitation": "Radyo kaydında isim/ifadeler hatalı tanındı; otomatikmetin yayınlanmaz. Whispermodelindirme ağkısıtı nedeniyle başarısız; Whisperçalıştı denmez."
+  }
 }

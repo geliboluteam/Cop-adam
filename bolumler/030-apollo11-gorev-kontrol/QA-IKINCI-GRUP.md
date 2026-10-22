@@ -1,5 +1,7 @@
 # B030 — İkinci üretim grubu QA / 22 Ekim 2026
 
+> TARİHÎ ARA KAYIT: s12b/s14 sonraki grupta düzeltildi; güncel25görselPASS. Final durum URETIM-DURUMU.json / TEKNIK-QA.md içinde.
+
 **Güncel: 17/25 PNG mevcut; 15 PASS, 2 DÜZELTME; 8 yeni görsel eksik. 20/20 voice-03 Türkçe anlatım hazır. Final video yok.**
 
 Kostüm kullanıcı tarafından önceki s01 sunumundan sonra **Devam** ile onaylandı; tekrar onay beklenmiyor. Bu grupta 10 görsel çağrısı = 9 yeni dosya + 1 s04b AI düzeltmesi; 10 anlatım çağrısı = s11–s20. Yerel çizim/kompozit düzeltmeleri ayrıca yapıldı.

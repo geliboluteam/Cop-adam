@@ -1,6 +1,6 @@
 {
-  "_durum": "URETIMDE_15PASS_2DUZELTME_20SES_ARSIV_EDINILDI",
-  "_uyari": "Render-ready değil:17PNG/15PASS/2düzeltme(s12bbaşoranı,s14kostüm);8PNGeksik.20voice-03anlatım hazır. Arşiv9,613061sn edinildi/decodePASS, soniçerikkontrolü/miks/kartlar/video/kapakQA bekliyor.",
+  "_durum": "25GORSEL_PASS_20SES_RENDER_QA",
+  "_uyari": "25görselPASS/20ses hazır.5son sahne güvenli kaynakfigürlerle kompozit; provenansbetikleri depoda. Yerelrender_b030.py,4ayrıkart ve karehassasiyetlitakvim. Render/QAbitmeden finalteslimdeme.",
   "format": "16:9",
   "encode_preset": "veryfast",
   "crf": 25,
@@ -178,7 +178,7 @@
       "gorsel2": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s12b.png",
       "gorsel2_oran": 0.5,
       "_gorsel2_tanim": "Aynı4figür güvenli yanda, masada açıklayıcı yakıt/süre kâğıdı. Patlamaya giden sıfırkronometre/tam tank ölçümü iddiası yok.",
-      "_gorsel2_durum": "FAIL/PENDING: Meraklı baş oranı küçüklüğü, düzeltmeden render yok."
+      "_gorsel2_durum": "PASS: baş oranı AI ile düzeltildi,4figür tümuzuvlar açık."
     },
     {
       "id": "s13",
@@ -203,7 +203,7 @@
       "ek_sure": 0.6,
       "_gorsel_tanim": "Kontrolodasında dikkatli dinleyen Meraklı+3görevli; büyük panoda yörüngeyi gösteren sade çizgi. Altınkonfetiyok, kapıdan astronot çıkmıyor.",
       "_karakter_min": 4,
-      "_gorsel_durum": "FAIL/PENDING:3yanfigür dönem pantolonu eksik; düzeltmeden render yok."
+      "_gorsel_durum": "PASS:3yanfigür tam dönem pantolonu/gömlek/yelek düzeltildi."
     },
     {
       "id": "s15",
@@ -218,7 +218,7 @@
       "_karakter_min": 4,
       "gorsel2": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15b.png",
       "gorsel2_oran": 0.5,
-      "_gorsel2_tanim": "Aynı4figür, sessizce dinleme kompozisyonu; boş duvar/bantalanı. GERÇEK KAYIT etiketi yalnız seskesiti süresinde sonradan, çizimlerTEMSİLÎ.",
+      "_gorsel2_tanim": "Dört tam boy PASS figürlü s14 tabanı + kendi çizdiğimiz temsili makaralı kayıt aygıtı; s15b kesik ayaklı AI taslağı kullanılmadı. Taban figürlerin4×2kol/2ayrıel/2bacak/2ayağı finalkompozitte tekrar incelendi/PASS.",
       "_ek_sure_bekliyor": "Özgün kayıt uzunluğu + güvenli boşluk; atempo/trim sonrası s15anlatım sonuyla eşleştir.",
       "_arsiv_durum": "İşlenmişNASAkökenli9,613061sn dosya edinildi. KAYNAK.json; finaliçerik-kesit/ayrıkatman/timestamp gereksinimi henüz uygulanmadı."
     },
@@ -243,7 +243,7 @@
       "tarih_bandi": "İNİŞ SONRASI · GÖREV DEVAM EDİYOR",
       "efektler": [],
       "ek_sure": 0.6,
-      "_gorsel_tanim": "Meraklı+3görevli sade sevinç ama eller ayrı; alkış/kenetli el yok. Kâğıt kontrolleri gözden geçirme, işlem düğmesi tarifi yok.",
+      "_gorsel_tanim": "s15 tam boy/dört açık kollu figür tabanı + kendi kontrol kâğıdı çizimimiz; arkası dönük/gizli kollu s17 AI taslağı kullanılmadı. Taban figürlerin4×2kol/2ayrıel/2bacak/2ayağı finalkompozitte tekrar incelendi/PASS.",
       "_karakter_min": 4
     },
     {
@@ -267,11 +267,11 @@
       "tarih_bandi": "21–24 TEMMUZ 1969 · DÖNÜŞ AŞAMALARI AYRI",
       "efektler": [],
       "ek_sure": 0.6,
-      "_gorsel_tanim": "İniş sonrası planlama: Meraklı+3görevli, masada Eagle-Columbia buluşma çizimlevhası.",
+      "_gorsel_tanim": "El örtüşmesi olmayan s12b tabanındaki kâğıda kendi temsili yükseliş/buluşma şemamız; örtüşen elli s19 taslağı kullanılmadı. Taban figürlerin4×2kol/2ayrıel/2bacak/2ayağı finalkompozitte tekrar incelendi/PASS.",
       "_karakter_min": 4,
       "gorsel2": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s19b.png",
       "gorsel2_oran": 0.5,
-      "_gorsel2_tanim": "24Temmuzdönüş: aynı4figür Houstonoda; küçük siyahbeyaz temsili kapsül/deniz çizimi ayrı levhada. Üç astronot aynı anda Houstonoda da değil.",
+      "_gorsel2_tanim": "Kanonik yüzlü/dört tam boy s16 tabanı + kendi paraşüt/kapsül/deniz şemamız; eksik yüzlü s19b taslağı kullanılmadı. Tarih bandı 24 Temmuz olacak. Taban figürlerin4×2kol/2ayrıel/2bacak/2ayağı finalkompozitte tekrar incelendi/PASS.",
       "_ikinci_tarih_bandi": "24 TEMMUZ 1969 · DÜNYA’YA DÖNÜŞ · TEMSİLÎ"
     },
     {
@@ -283,7 +283,7 @@
       "tarih_bandi": "SEN HANGİ MASADA OLURDUN? · MERAKLI KURGU",
       "efektler": [],
       "ek_sure": 5,
-      "_gorsel_tanim": "Kapanış: Meraklı sağda el sallar, diğer eli aşağıda ve ayrı;3görevli geride açık boşluklarla. Üstsol ve alt güvenli yazıalanı, bütün ayaklar içeride.",
+      "_gorsel_tanim": "Meraklı sağda iki eli açık ve aşağıda; el sallamaz.3giyinik görevli, tümuzuvlar açık. s14tabanında yerelkompozit; kapanış/abone metinleri AYRI kartlarda.",
       "_karakter_min": 4
     }
   ],

@@ -3,13 +3,13 @@
   "roadmap": 45,
   "topic": 18,
   "series": "E",
-  "stage": "URETIMDE_15PASS_2DUZELTME_20SES_ARSIV_EDINILDI",
+  "stage": "25GORSEL_PASS_20SES_RENDER_QA",
   "updated": "2026-10-22",
   "long_only": true,
   "shorts": false,
   "scene_count": 20,
   "planned_image_count": 25,
-  "completed_image_count": 15,
+  "completed_image_count": 25,
   "double_scenes": [
     4,
     8,
@@ -199,11 +199,11 @@
       "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s12b.png",
       "width": 1920,
       "height": 1080,
-      "sha256": "f1d1eb2956d964028556b184b96702c0de4181f3fcd5259f90025dff8fc97c17",
-      "status": "DUZELTME_BEKLIYOR",
+      "sha256": "abe3ced103157616e132d50ed4d9bf80ce191de2864226edc981849a57c22e97",
+      "status": "GORSEL_KONTROL_GECTI",
       "character_count": 4,
-      "anatomy": "2kol/2AYRIel/2bacak/2ayak: görünür; kostüm/baş oranı kapısında FAIL",
-      "notes": "Uzuvlar ayrı fakat Meraklı başı kanonik büyük baş oranına ve anafigür ayrımına göre küçük: baş oranı düzeltilecek. PASS sayılmadı. Açıklayıcı kâğıt levhası gerçekyakıtgöstergesi değil.",
+      "anatomy": "PASS:4figür×2kol/2AYRIel/2bacak/2ayak",
+      "notes": "AI baş oranı düzeltmesi PASS: Meraklı başı büyüdü,4tam boy figür/2kol/2ayrıel/2bacak/2ayak; çizelge şematik.",
       "user_costume_approved": true
     },
     {
@@ -223,26 +223,111 @@
       "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s14.png",
       "width": 1920,
       "height": 1080,
-      "sha256": "acef4a7d0fc4bc9b89c487277c864d6d0477aa0d7bb388bf4c88c15bb4f0c5d3",
-      "status": "DUZELTME_BEKLIYOR",
+      "sha256": "c428f86954a420a5e1859803a11abd548b4408b96df954c359a1c71fb68d3e59",
+      "status": "GORSEL_KONTROL_GECTI",
       "character_count": 4,
-      "anatomy": "2kol/2AYRIel/2bacak/2ayak: görünür; kostüm/baş oranı kapısında FAIL",
-      "notes": "4figürün2kol/2ayrıel/2bacak/2ayağı ayrı; fakat3yanfigürde dönem pantolonu eksik, vestaltı beyazçubukbacaklar. Giyinik dönemkostümü için düzeltilecek, PASS sayılmadı.",
+      "anatomy": "PASS:4figür×2kol/2AYRIel/2bacak/2ayak",
+      "notes": "AI kostüm düzeltmesi PASS:3yanfigür creamgömlek/muteyelek/tam pantolon/beyazayak;4figürde2kol/2ayrıel/2bacak/2ayak.",
+      "user_costume_approved": true
+    },
+    {
+      "id": "s15",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "740a8908fb07f66632dd9b632b7e1c93ada260baaf4ff7e3122f4e73326398f7",
+      "status": "GORSEL_KONTROL_GECTI",
+      "character_count": 4,
+      "anatomy": "PASS:4figür×2kol/2AYRIel/2bacak/2ayak",
+      "notes": "4tam boy figür,2kol/2ayrıel/2bacak/2ayak; arka planda makara aygıtı; Meraklı kayıt yaratıcısı değil.",
+      "user_costume_approved": true
+    },
+    {
+      "id": "s15b",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15b.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "702653a860563dd43598eeb0c4464c80c501052214a3a533ef4c8d45fb4000d6",
+      "status": "GORSEL_KONTROL_GECTI",
+      "character_count": 4,
+      "anatomy": "PASS:4figür×2kol/2AYRIel/2bacak/2ayak",
+      "notes": "Dört tam boy PASS figürlü s14 tabanı + kendi çizdiğimiz temsili makaralı kayıt aygıtı; s15b kesik ayaklı AI taslağı kullanılmadı. Taban figürlerin4×2kol/2ayrıel/2bacak/2ayağı finalkompozitte tekrar incelendi/PASS.",
+      "user_costume_approved": true
+    },
+    {
+      "id": "s16",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s16.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b8480ff9fc8d16c72b58d55cea96a9d82f12ed9dd31841e55fbaa4e97081f0f4",
+      "status": "GORSEL_KONTROL_GECTI",
+      "character_count": 4,
+      "anatomy": "PASS:4figür×2kol/2AYRIel/2bacak/2ayak",
+      "notes": "4tam boy kanonikfigür; her2el ve2ayak açık; ayrıAyharitası kâğıdı.",
+      "user_costume_approved": true
+    },
+    {
+      "id": "s17",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s17.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ec5a82670976d7d886a591ab6dc25df37ff8e919cbd1cfd810b8da7d93853cac",
+      "status": "GORSEL_KONTROL_GECTI",
+      "character_count": 4,
+      "anatomy": "PASS:4figür×2kol/2AYRIel/2bacak/2ayak",
+      "notes": "s15 tam boy/dört açık kollu figür tabanı + kendi kontrol kâğıdı çizimimiz; arkası dönük/gizli kollu s17 AI taslağı kullanılmadı. Taban figürlerin4×2kol/2ayrıel/2bacak/2ayağı finalkompozitte tekrar incelendi/PASS.",
+      "user_costume_approved": true
+    },
+    {
+      "id": "s18",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s18.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "04b460e315f53661b12671a14282a5d390ed3739d552b981bb174967edf74922",
+      "status": "GORSEL_KONTROL_GECTI",
+      "character_count": 4,
+      "anatomy": "PASS:4figür×2kol/2AYRIel/2bacak/2ayak",
+      "notes": "4tam boy kontrolör/2kol/2ayrıel/2bacak/2ayak. CRTiçindeki küçük astronot/merdiven beyazçöp-uzaygiysili temsili çizim; gerçekarşivgörüntüsü değil, tarih21TemmuzUTC.",
+      "user_costume_approved": true
+    },
+    {
+      "id": "s19",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s19.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0ca114b3568b04ee7f0025f18e20f980ce15f1290f2a5869fd0f25fc16d55679",
+      "status": "GORSEL_KONTROL_GECTI",
+      "character_count": 4,
+      "anatomy": "PASS:4figür×2kol/2AYRIel/2bacak/2ayak",
+      "notes": "El örtüşmesi olmayan s12b tabanındaki kâğıda kendi temsili yükseliş/buluşma şemamız; örtüşen elli s19 taslağı kullanılmadı. Taban figürlerin4×2kol/2ayrıel/2bacak/2ayağı finalkompozitte tekrar incelendi/PASS.",
+      "user_costume_approved": true
+    },
+    {
+      "id": "s19b",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s19b.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "465a87416e7e4a633d8dc80c21c45fbcbec3655a43297f0dff9b997bd886dcc7",
+      "status": "GORSEL_KONTROL_GECTI",
+      "character_count": 4,
+      "anatomy": "PASS:4figür×2kol/2AYRIel/2bacak/2ayak",
+      "notes": "Kanonik yüzlü/dört tam boy s16 tabanı + kendi paraşüt/kapsül/deniz şemamız; eksik yüzlü s19b taslağı kullanılmadı. Tarih bandı 24 Temmuz olacak. Taban figürlerin4×2kol/2ayrıel/2bacak/2ayağı finalkompozitte tekrar incelendi/PASS.",
+      "user_costume_approved": true
+    },
+    {
+      "id": "s20",
+      "file": "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s20.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "323ecf85e59ab7450affa64b16fb427324cbcf608f0a827d10d692537cf2cc20",
+      "status": "GORSEL_KONTROL_GECTI",
+      "character_count": 4,
+      "anatomy": "PASS:4figür×2kol/2AYRIel/2bacak/2ayak",
+      "notes": "Tam boy s14 tabanı ve kontrol kâğıdı çizimleri. Meraklı iki eli açık/aşağıda kapanış yapar, el sallama iddiası yok; kesik ayaklı s20 taslağı kullanılmadı. Taban figürlerin4×2kol/2ayrıel/2bacak/2ayağı finalkompozitte tekrar incelendi/PASS.",
       "user_costume_approved": true
     }
   ],
-  "remaining_images": [
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s12b.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s14.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15b.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s16.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s17.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s18.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s19.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s19b.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s20.png"
-  ],
+  "remaining_images": [],
   "archive_audio": {
     "status": "EDINILDI_PROVENANS_DECODE_PASS_ICERIK_SON_KONTROL_VE_MIKS_BEKLIYOR",
     "downloaded": true,
@@ -256,33 +341,20 @@
   },
   "final_video": null,
   "cover_v4": {
-    "status": "HENUZ_URETILMEDI"
+    "status": "URETILDI_GORSEL_QA_PASS",
+    "file": "kapaklar/thumbnail/bolum-030.png",
+    "method": "s14yenidenkullanım/yerelşaşkınyüz/v4PILbaşlık"
   },
   "next": [
-    "ÖNCE s12b Meraklı baş oranı ve s14üç yanfigür dönem pantolonunu düzelt; ayrı el/kol/ayak denetimi",
-    "8eksikPNG:s15/s15b/s16/s17/s18/s19/s19b/s20; min4kanonikfigür; tüm25PASS olmadan render yok",
-    "20voice-03anlatım TAMAM; tekrar üretme. Ham734,136sn/trim1×700,18sn; finalhız/video süresi henüz yok",
-    "Arşiv9,613061sn edinildi/işlenmiş; nihai içerik-kesit incelemesi, normalhızda ayrı katman ve sessiz Türkçe anlatıcı aralığı",
-    "SFXCC0teknik QA/yerleşim; s15yalnızkayıt anında GERÇEKKAYIT, s19b24Temmuzbandı, kartlar yüzleri örtmez",
-    "Nihai render/kapakv4/YAYIN/loudness/tamAVdecode/kritikkareler/5–12dk",
-    "Her tur commit→hemenpush→uzakdoğrulama; B018kullanıcıdosyalarını koru"
+    "Render bitişi, tamAVdecode, loudness/truepeak/faststart/duration/fps QA",
+    "10+kritik kare/tarihler/arşivetiketi/senkron/ayrı kartlar denetimi",
+    "YAYIN/SFX/finalQA güncelle→commit→hemenpush→uzakHEAD/blob doğrula",
+    "B030teslimden sonra seçilmişB031Samuray; başka konu sorusu ancakSamuraytümteslimleri bitince"
   ],
-  "available_image_count": 17,
-  "passed_image_count": 15,
-  "missing_images": [
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s15b.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s16.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s17.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s18.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s19.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s19b.png",
-    "bolumler/030-apollo11-gorev-kontrol/uzun/gorseller/s20.png"
-  ],
-  "pending_image_corrections": [
-    "s12b: Meraklı baş oranı/anafigür ayrımı",
-    "s14:3yanfigür dönem pantolonu eksik"
-  ],
+  "available_image_count": 25,
+  "passed_image_count": 25,
+  "missing_images": [],
+  "pending_image_corrections": [],
   "narration_seconds_raw_current": 734.136,
   "narration_seconds_trimmed_1x_current": 700.18,
   "narrations": [
@@ -508,21 +580,25 @@
     }
   ],
   "latest_turn": {
-    "image_generation_calls": 10,
-    "new_image_files": 9,
-    "ai_correction_calls": 1,
-    "local_corrections": [
-      "s04bayrıel/önkol kompoziti",
-      "s09eksik küçük yüzçizgileri",
-      "s08beksik yüzçizgileri ve yelekrenk düzeltmesi"
+    "image_generation_calls_succeeded": 10,
+    "new_image_files": 8,
+    "ai_correction_calls_succeeded": 2,
+    "image_retry_calls_blocked_by_turn_limit": 5,
+    "local_composite_outputs": [
+      "s15b",
+      "s17",
+      "s19",
+      "s19b",
+      "s20"
     ],
-    "images_available": 17,
-    "images_passed": 15,
-    "images_pending": 2,
-    "speech_generation_calls": 10,
+    "composite_source_disclosed": true,
+    "images_available": 25,
+    "images_passed": 25,
+    "images_pending": 0,
+    "speech_generation_calls": 0,
     "voice": "voice-03",
-    "speech_full_decode": "PASS20",
-    "archive_acquired": true,
-    "rendered": false
+    "narration_count": 20,
+    "rendered": false,
+    "render_started": true
   }
 }
