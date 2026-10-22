@@ -75,7 +75,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 41 | 50b | 1783, Paris | İlk balon uçuşunda sepettedir (Montgolfier) | ✅ TAMAMLANDI (B026): 10:14 uzun video, 25 görsel, kapak v4, YAYIN ve SFX künyesi; Seri E 3. bölüm |
 | 42 | 49 | 1776, Connecticut / New York | Tek kişilik Turtle: hava, akıntı ve insan gücü | ✅ TAMAMLANDI (B027): 10:14 uzun video, 20 sahne/25 görsel, kapak v4, YAYIN ve SFX künyesi. Seri E 4. bölüm; tarihî görevde yalnız Ezra Lee |
 | 43 | 54 | 1839, Paris | Fotoğraf çırağı: daguerreotip, ışık ve beklemek | 🟡 HAZIRLIK (B028): araştırma ve 20 tam metin hazır; 20 sahne/25 görsel. s01 kostüm onayı bekleniyor. Niépce daha erken, 1839 duyuru; kimyasal uygulama yok |
-| 44 | 17 | 1903, Kitty Hawk yakınları / Kill Devil Hills | Wright kardeşlerin ilk motorlu uçuşları | 🟥 B029 ÜRETİM: kostüm onaylı; 20 metin, 9 görsel: sekizinde 3, motor sahnesinde 4 karakter (genel QA: 4 geçti / 5 düzeltme bekliyor), 10 voice-03 ses (368,184 sn ham). Final henüz yok. Yalnız uzun video, hedef 20 sahne/25 görsel |
+| 44 | 17 | 1903, Kitty Hawk yakınları / Kill Devil Hills | Wright kardeşlerin ilk motorlu uçuşları | 🟥 B029 ÜRETİM: 12/25 görsel kontrolü geçti; her sahnede min3, motorda4 karakter; 20/20 voice-03 ses (727,224sn ham) decode PASS. Kalan13 görsel ve final paket/render; yalnız uzun 5–12dk |
 | 45 | 18 | 1969, Houston | Apollo 11 görev kontrol odasında (NASA ses arşivi = gerçek kayıt!) | ⬜ |
 | 46 | 16 | 1912, Kuzey Atlantik | Titanic'in çarptığı gece güvertede | ⬜ |
 | 47 | 55 | 1911, kutup | Kızak sürücüsü: köpekler, don, rasyon | ⬜ |

@@ -32,8 +32,8 @@
     {
       "id": "s03",
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s03.png",
-      "status": "DUZELTME_BEKLIYOR",
-      "notes": "3 karakter; kardeşler artık tam boy, eller ayrı. Meraklı ayakları hâlâ kadraj dışında: tam boy düzeltmesi bekliyor.",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Tam boy yeniden kuruldu; üç figürün altı ayrı eli/altı ayağı görünür. Yanlış tekerlekli/önden pervaneli oyuncak uçaklar kaldırıldı; tarihsel çalışma anlatımına uygun kitaplar/bisiklet kaldı.",
       "character_count": 3,
       "cast_count_check": "PASS",
       "cast": [
@@ -58,8 +58,8 @@
     {
       "id": "s04b",
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s04b.png",
-      "status": "DUZELTME_BEKLIYOR",
-      "notes": "3 karakter ve ayrı görünür eller. Yakın/sağ pervane iki palalı, sol pervane/çapraz destek ayrımı hâlâ belirsiz; mekanik doğruluk tekrar incelenecek.",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "İki pervanenin ikisi de iki palalı biçime düzeltildi; geniş ahşap pala ile ince destek ayrımı okunuyor. Üç figürde ayrı el/ayak kontrol edildi.",
       "character_count": 3,
       "cast_count_check": "PASS",
       "cast": [
@@ -71,8 +71,8 @@
     {
       "id": "s05",
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s05.png",
-      "status": "DUZELTME_BEKLIYOR",
-      "notes": "3 karaktere çıkarıldı; iki kardeş artık birlikte. Araları dar, iç eller kısmen örtüşüyor ve Meraklı ayakları kadraj dışında. Aralık ve tam boy düzeltmesi denemesi görsel servisi MAX_TOKENS/no images hatasıyla çıktı üretmedi; tekrar gerekli.",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Tam boy yeniden kuruldu; kardeşler arasında açık boşluk, altı el ayrı görünür. Üç figürün ayakları kadraj içinde; rüzgâr tüneli temsili korunuyor.",
       "character_count": 3,
       "cast_count_check": "PASS",
       "cast": [
@@ -84,8 +84,8 @@
     {
       "id": "s06",
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s06.png",
-      "status": "DUZELTME_BEKLIYOR",
-      "notes": "3 karakter, eller/ayaklar ayrı ve görünür. Tahtadaki oklar düzenlemede çoğaldı/karşıt yönler belirdi; yalnız kaldırma yukarı, itki buruna doğru, pitch kavisli olacak biçimde sadeleştirme gerekli.",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Şemada üç ok kaldı: kaldırma yukarı, itki burun yönüne (sol), yunuslama kavisi. Karşıt/fazla oklar kaldırıldı. Üç figürde ayrı el/ayak.",
       "character_count": 3,
       "cast_count_check": "PASS",
       "cast": [
@@ -97,8 +97,8 @@
     {
       "id": "s07",
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s07.png",
-      "status": "DUZELTME_BEKLIYOR",
-      "notes": "4 karakter: Meraklı + Wilbur + Orville + Taylor. Her figürde iki ayrı görünür el ve beyaz ayak. Eski gizli el sorunu çözüldü. Motor silindirleri hâlâ dik duruyor; yatay dört silindir doğruluğu düzeltilmeli.",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Dört figür, sekiz ayrı el/sekiz beyaz ayak. Motor alçak yatay dört silindirli temsile düzeltildi; dik finli motor kaldırıldı. Mühendislik planı değil.",
       "character_count": 4,
       "cast_count_check": "PASS",
       "cast": [
@@ -113,6 +113,45 @@
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s08.png",
       "status": "GORSEL_KONTROL_GECTI",
       "notes": "3 karakter; iki kardeş ayrı görünür, eller/ayaklar doğru; iki pervane iki palalı. Daha farklı arka-yan açı sonraki ayrıntı s08b ile verilecek.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
+    },
+    {
+      "id": "s08b",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s08b.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Yeni arka-yan yakın görünüm: iki ayrı iki-palalı itici pervane, zincir aktarımı; üç karakter güvenli uzakta, her birinde iki ayrı el/beyaz ayak. Açıklayıcı temsil, ölçülü plan değil.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
+    },
+    {
+      "id": "s09",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s09.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Tek ahşap ray, uçak kızakları ve ayrı tekerlekli taşıyıcı vurgusu; üç karakter. Kostüm tutarlılığı ve Meraklı uzun kırmızı fuları düzeltildi. Açıklayıcı temsil, ray/taşıyıcı birebir ölçülü model değil.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
+    },
+    {
+      "id": "s10",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s10.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Orville alt kanatta yüzükoyun, iki ayrı beyaz el (birinde kumanda), iki bacak/iki ayak okunuyor. Wilbur ve Meraklı yerde; toplam üç kişi. Makine durağan/motor kapalı açıklama sahnesi.",
       "character_count": 3,
       "cast_count_check": "PASS",
       "cast": [
@@ -212,14 +251,104 @@
       "duration_seconds": 36.528,
       "text": "Pilot bugünkü yolcu uçağındaki gibi bir koltukta dik oturmuyor; alt kanatta yüzükoyun yatıyor. Öndeki yatay yüzey, burnun yukarı ve aşağı hareketini yönetmeye yardım ediyor. Yana yatışta kanatların burulması kullanılıyor; arkadaki dikey dümen de yön kontrolüne katılıyor. Bunları ayrı ayrı anlatmak kolay, havada birlikte yönetmek çok daha zor. Kanat burmayı, bugünün kanadına takılmış ayrı hareketli parçalarla aynı çizmemeliyiz. Ben kumun üzerinde güvenli uzakta dururken bile sorunun büyüklüğü anlaşılıyor: Makinenin havaya çıkması, kendi kendine dengede kalacağı anlamına gelmiyor.",
       "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s11",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s11.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 38.088,
+      "text": "Takvimi üç gün geri alalım: On dört Aralık. İlk motorlu deneme fırsatı Wilbur'a gelmişti. Ancak bu girişim, on yedi Aralık'taki başarılı uçuşlarla aynı sonuç değildi. Makine aşırı yükseldi, tutunmasını kaybetti ve kuma indi; onarım gerekti. Bu sahneyi kahramanın hiç hata yapmadığı bir masala çevirirsek, denemenin anlamını kaybederiz. Öte yandan başarısızlığı da eğlenceli bir düşüş gösterisine dönüştürmüyoruz. Yeni bir kontrol sistemini kullanmanın gerçek güçlükleri vardı. Bugünkü hazırlık, yalnız cesaretin değil, o denemeden sonra yapılan çalışmanın da devamı.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s12",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s12.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 35.256,
+      "text": "On yedi Aralık sabahında kuvvetli karşı rüzgâr var. Uçağın yere göre ilerleyişiyle, çevresindeki havaya göre hareketi aynı şey değil. Karşı rüzgâr varken makine yerdeki gözlemciye yavaş ilerliyormuş gibi görünebilir; buna rağmen kanatların üzerinden belirgin bir hava akımı geçer. Açıklayıcı çizimde bu iki bakışı ayırıyoruz. Ama buradan rüzgâr ne kadar güçlü olursa o kadar iyi sonucu çıkmaz. Sert hava kontrolü zorlaştırabilir. Hele motor gereksizdi demek hiç doğru olmaz. Bu uçuşta motor, pervaneler, kanatlar ve pilot birlikte iş görüyor.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s13",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s13.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 35.544,
+      "text": "Artık yeniden on yedi Aralık bin dokuz yüz üçteyiz. İlk başarılı denemenin pilotu Orville. Wilbur ise kalkış sırasında makinenin yanında, kanadın dengelenmesine yardım ediyor. Sonraki ünlü fotoğrafta yerde görülen kişiyle uçaktaki kişiyi karıştırmak çok kolay. Ben o fotoğrafın içindeki bir yardımcı değilim; bu anlatıya sonradan eklenmiş kurgu gözlemciyim. Gerçek tanıklar ve görevler belgelerde ayrı. Saat yaklaşık on otuz beş olduğunda bütün bu hazırlığın sonucu uzun bir gösteri uçuşu olmayacak. Kısacık ama ölçülebilir bir deneme başlayacak.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s14",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s14.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 37.416,
+      "text": "Flyer raydan ayrılıyor. Fakat zihninde bugünün sakin ve dümdüz kalkışını canlandırma. Makine yükselip alçalarak ilerliyor; Orville yeni ve hassas kumandalarla uğraşıyor. İlk uçuş on iki saniye sürüyor ve yerde ölçülen mesafe yüz yirmi feet, yani yaklaşık otuz yedi metre oluyor. Bu kadar mı, diyebilirsin. Ama mesele yalnız uzaklık değil. İnsan taşıyan, motorlu ve pilotun kontrol ettiği havadan ağır bir makinenin uçuşundan söz ediyoruz. Yine de bunu kusursuz, sınırsız bir hâkimiyet gibi anlatmıyoruz. Başarı gerçek; çözülmesi gereken zorluklar da gerçek.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s15",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s15.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 36.936,
+      "text": "İlk uçuşun ünlü fotoğrafını John Daniels çekti. Kamera önceden hazırlanmıştı; o kısa an böylece görüntüye dönüştü. Bizim izlediğimiz renkli çöp adam sahnesi ise o fotoğrafın kendisi değil, yapay zekâyla üretilmiş temsili bir anlatım. İkisini aynı kanıt gibi kullanamayız. Üstelik tek fotoğraf bütün uçuşun süresini ya da her hareketini tek başına söylemez. Görüntü, yazılı kayıtlar ve ölçümler birlikte değerlendirilir. Önceki bölümde fotoğrafın nasıl oluştuğunu merak etmiştik. Şimdi başka bir soru var: Bir fotoğraf neyi gösterir, neyi göstermeye yetmez?",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s16",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s16.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 33.936,
+      "text": "O sabah yalnız tek bir kalkış yapılmadı. Kardeşler sırayla pilot oldu ve toplam dört uçuş gerçekleştirdi. İlk denemeden sonra mesafeler uzadı. Dördüncü ve günün en uzun uçuşunda kumandada Wilbur vardı: Elli dokuz saniye, sekiz yüz elli iki feet; yaklaşık iki yüz altmış metre. İlk uçuşun on iki saniyesiyle son uçuşun elli dokuz saniyesini birleştirip tek uçuşmuş gibi anlatmayalım. Bu ayrım küçük bir ayrıntı değil. Aynı gün içindeki tekrarlar, yeni makineyle deneyimin nasıl geliştiğini görmemize yardım ediyor.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s17",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s17.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 34.056,
+      "text": "Günün son uçuşundan sonra hikâye mutlu bir zafer turuyla kapanmıyor. Makine yerdeyken bir rüzgâr hamlesiyle devrilip ağır hasar görüyor. Bu, havada patlayan bir uçak ya da o gün yaşanmış ölümcül bir kaza değil. Gösterişli alevler eklemek daha dramatik görünebilir, ama gerçeği değiştirir. Flyer o gün yeniden uçmuyor. Ben de devrilen makineyi tutmak için pervanelerin arasına koşmuyorum. Bu sahnenin dersi kahramanca tehlikeye atılmak değil: Bir deneyin başarılı olması, çevredeki risklerin ortadan kalktığı anlamına gelmez.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s18",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s18.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 34.056,
+      "text": "On iki saniyeden bugünün kıtalar arası uçuşlarına zihnimizde hemen atlayabiliyoruz. Oysa arada yıllar süren geliştirme var. Wright kardeşler bin dokuz yüz dörtte ve bin dokuz yüz beşte yeni makinelerle daha uzun ve daha kullanışlı uçuşlara yöneldi. Bin dokuz yüz üçteki Flyer'ı ertesi sabah yolcu taşıyan bir araç gibi göstermiyoruz. Bir ilkenin çalıştığını göstermekle, güvenilir bir ulaşım sistemi kurmak farklı aşamalar. Kumun üzerindeki bu makine önemli bir başlangıç. Ama başlangıç demek, sonradan gereken bütün emeği hikâyeden silmek demek değil.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s19",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s19.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 40.656,
+      "text": "Peki insan ilk kez mi yerden ayrılıyordu? Hayır. Balonlar ve planörler bu günden önce de insan taşıdı. Buradaki önemli birleşim; motorlu, kontrollü ve sürdürülebilir havadan ağır uçuş. İlk kelimesini bağlamından koparırsak, kendimizden önce çalışan insanları görünmez kılarız. Bir de gördüğümüz görüntünün türünü unutmamalıyız. Bu renkli sahneler tarihî kamera kayıtları değil; kaynaklara dayanarak hazırlanmış temsiller. Meraklı'nın hayalî gözlemciliğiyle belgeli kişilerin yaptıklarını ayrı tutuyoruz. Gerçek başarıyı anlatmak için ona uydurma bir tanık ya da mucize eklemeye ihtiyacımız yok.",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
+    },
+    {
+      "id": "s20",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/sesler/s20.mp3",
+      "voice_id": "voice-03",
+      "language": "tr",
+      "duration_seconds": 33.096,
+      "text": "Günün sonunda benim defterimde yalnız on iki saniye yazmıyor. Ölçmek, yeniden denemek, başkasının emeğini görmek ve kanıtı dikkatle okumak da var. Uçağa binmedim, motoru çalıştırmadım; kurgu gözlemci olarak bu değişimi anlamaya çalıştım. Sen o kıyıda olsaydın hangisini seçerdin: Uçmayı öğrenmek mi, deneyleri ölçmek mi, yoksa o kısa anı fotoğraflamak mı? Seçimini yorumlara yaz. Ben Meraklı; eğer orada olsaydım diye sormaya devam edeceğim. Yeni yolculuklarda buluşmak için kanalıma abone olmayı unutmayın!",
+      "validation": "MP3_HEADER_READ_OK + FULL_FFMPEG_DECODE_PASS; dinleme/final miks QA sonraki aşama"
     }
   ],
-  "audio_total_seconds": 368.184,
+  "audio_total_seconds": 727.224,
   "next": [
-    "Mevcut s03/s05 tam boy ve elleri ayır; s04b pervane doğruluğu; s06 okları sadeleştir; s07 yatay motor",
-    "s08b, s09–s20 ve s12b/s15b/s19b üret; en az 3 karakter, s07 dört karakter",
-    "s11–s20 voice-03 sesler",
-    "final zamanlama 5–12dk, kapak v4, SFX künyesi ve QA"
+    "Kalan 13 görseli üret: s11–s20 + s12b/s15b/s19b; min3 karakter",
+    "Kapak v4, yayın metni ve SFX künyesi",
+    "Ham 727,224sn anlatımı doğal sessizlik sıkıştırmasıyla ölç; giriş/kapanış dahil final 5–12dk sınırını doğrula, gerekirse düşük oranlı hız sınırıyla zamanla",
+    "Render ve baştan sona AV decode/loudness/8kritik kare QA; henüz video üretilmedi"
   ],
   "cast_rule": {
     "user_correction": "Yan karakterler çok az; Wright kardeşler konusu en az 3 karakter olmalı.",
@@ -237,6 +366,31 @@
     ],
     "style": "Bütün figürler beyaz çöp adam, giyinik, kırmızı fular yalnız Meraklı.",
     "historical_boundary": "Bu birlikte görünme TEMSİLÎ anlatı kompozisyonu; Meraklı belgeli altıncı tanık değil.",
-    "future_images": "Yeni üretilecek 16 görsel de en az 3 karakteri korumalı; ayrıntı sahnesinde ana odak nesnede olsa da kişiler güvenli uzak arka planda."
+    "future_images": "Kalan 13 görsel de en az üç karakter; Meraklı kurgu gözlemci olarak güvenli uzakta, iki kardeş eksiksiz."
+  },
+  "remaining_images": [
+    "s11",
+    "s12",
+    "s12b",
+    "s13",
+    "s14",
+    "s15",
+    "s15b",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s19b",
+    "s20"
+  ],
+  "latest_turn": {
+    "date": "2026-10-22",
+    "image_calls_successful": 10,
+    "new_images": 3,
+    "edits": 7,
+    "speech_clips_new": 10,
+    "all_images_count": 12,
+    "all_audio_count": 20,
+    "rendered": false
   }
 }

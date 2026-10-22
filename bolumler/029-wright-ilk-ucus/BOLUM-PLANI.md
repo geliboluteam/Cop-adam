@@ -1,13 +1,13 @@
 # B029 — 1903: WRIGHT KARDEŞLERİN İLK UÇUŞLARI
 
 > Seri E 6. bölüm · YOL44 / Konu17.
-> DURUM: **Kostüm/karakter kullanıcı tarafından “Devam” ile onaylandı.** Ara üretim: 9 görsel dosyası (karakter sayısı: 8 sahnede 3, motor sahnesinde 4; genel görsel QA: 4 geçti / 5 düzeltme bekliyor), ilk 10 voice-03 Türkçe ses hazır (368,184 sn ham). Video henüz üretilmedi. Ayrıntı: `URETIM-DURUMU.json`.
+> DURUM: **Kostüm/karakter onaylı; 12/25 görsel kontrolü geçti, 20/20 voice-03 Türkçe ses hazır (727,224 sn ham).** Sahne başına min3 karakter, Taylor sahnesinde4. Önceki 5 düzeltme tamamlandı; final video henüz üretilmedi. Güncel durum: `URETIM-DURUMU.json`.
 > Kaynak: `arastirma/029-uzun-wright-ilk-ucus.md`.
 
 ## Format ve kilitler
 - Yalnız uzun video, 5–12 dakika; hedef yaklaşık 10 dakika. Shorts YOK.
 - 20 sahne / 25 görsel. Çiftler **04/08/12/15/19**; sahne ortasında ikinci görsel, süre ve anlatım senkronu değişmez.
-- Aynı Türkçe anlatıcı **voice-03**. s01–s10 üretildi; 368,184 sn ham toplam. s11–s20 sonraki tur. Nihai zamanlama bütün seslerden sonra ölçülecek; 12 dakika üst sınırı korunacak. Altyazı YOK.
+- Aynı Türkçe anlatıcı **voice-03**. s01–s20 tamamlandı; 727,224 sn ham toplam. Yirmi MP3 baştan sona FFmpeg decode kontrolünü geçti. Nihai zamanlama bütün seslerden sonra ölçülecek; 12 dakika üst sınırı korunacak. Altyazı YOK.
 - Giriş: EĞER 1903'TE OLSAYDIM / MERAKLI: İLK UÇUŞUN KIYISINDA.
 - Tarih/yer kartı: 17 ARALIK 1903 · KILL DEVIL HILLS / KITTY HAWK YAKINLARI.
 - Kapanış: SEN HANGİSİNİ SEÇERDİN? / UÇMAK · ÖLÇMEK · FOTOĞRAFLAMAK — YORUMLARA YAZ.
@@ -17,7 +17,7 @@
 
 ## Yeni kullanıcı düzeltmesi — yan karakter yoğunluğu (22 Ekim 2026)
 - “Wright kardeşler diyor tek kişi çıkıyor; en az 3 karakter” düzeltmesi uygulandı. Anlatı görsellerinde **Meraklı + Wilbur + Orville** birlikte ve ayrı okunur; s07 motor sahnesinde Taylor ile **4 karakter**.
-- Yeni üretilecek kalan 16 görsel de bu minimumu koruyacak. Teknik yakın ayrıntıda nesne önde olsa bile kardeşler ve Meraklı güvenli arka planda bulunacak.
+- Yeni üretilecek kalan 13 görsel de bu minimumu koruyacak. Teknik yakın ayrıntıda nesne önde olsa bile kardeşler ve Meraklı güvenli arka planda bulunacak.
 - Kardeşler küçük fakat fark edilir, boş siluetli: Wilbur koyu kömür yelek/kahverengi diz pantolonu, Orville arduvaz yelek/gri diz pantolonu. İkisi de krem gömlekli, beyaz kafa/uzuv/el/ayaklı çöp adam. Kırmızı fular yalnız Meraklı.
 - Yan yana eller birleşmez; en az omuz genişliğinde açık aralık. Her figürde 2 kol/2 ayrı el/2 bacak/2 ayak denetimi.
 - Bu kompozisyon tarihsel tanık listesi değildir; Meraklı kurgu katmanda.
@@ -136,3 +136,11 @@ Günün sonunda benim defterimde yalnız on iki saniye yazmıyor. Ölçmek, yeni
 - Dokuz başarılı görsel düzenleme; s05 ek ayrıştırma denemesi servis MAX_TOKENS/no-image hatasıyla sonuçlandı, mevcut üç karakterli sürüm korundu.
 - Güncel genel QA: s01/s02/s04/s08 geçti; s03/s05 kadraj-el aralığı, s04b mekanik netlik, s06 ok yönleri, s07 motor silindir yönelimi düzeltme bekliyor. Sayı onayı genel teknik onay yerine geçmez. Önceki günlük girdileri önceki taslakları anlatır; güncel kaynak URETIM-DURUMU.json.
 - Yeni ses üretilmedi; ilk 10 kayıt değişmedi. Kalan 16 görsel ve 10 ses henüz yok.
+
+### 22 Ekim 2026 — düzeltmeler ve ikinci ses grubu tamam
+- Bu tur 10 başarılı görsel çağrısı: s03/s04b/s05/s06/s07 düzeltildi, s03 yanlış oyuncak uçaklar ayrıca kaldırıldı, s09 fular/kostüm tutarlılığı ayrıca düzeltildi. Yeni s08b/s09/s10 üretildi. Toplam **12 kontrolü geçen görsel**, hepsinde min3 kişi, s07de4.
+- Eski beş açık düzeltme kapandı. s03/s05 kadrajları tam boy ve eller ayrık; s04b palalar iki; s06 üç açıklayıcı ok; s07 alçak yatay dört silindirli motor temsili.
+- s11–s20 voice-03/tr üretildi. Yirmi sesin ham toplamı **727,224 saniye**. Tümü baştan sona FFmpeg decode PASS; nihai ses dinleme/miks ölçümü henüz yok.
+- Kalan **13 görsel**: s11/s12/s12b/s13/s14/s15/s15b/s16/s17/s18/s19/s19b/s20. Yeni görsel kotası bu tur 10 çağrıyla kullanıldı.
+- Ham ses 12 dakikadan uzun; final sınırı ham toplamdan varsayılmayacak. Sessizlik düzenleme, gerçek zaman çizelgesi ve gerekirse düşük oranlı hız ayarı sonrası **final giriş/kapanış dahil 5–12 dakika** doğrulanacak.
+- Henüz final kapak, SFX planı/künye, YAYIN ve render yok.
