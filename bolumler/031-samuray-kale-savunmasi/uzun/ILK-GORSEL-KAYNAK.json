@@ -1,0 +1,43 @@
+{
+  "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s01.png",
+  "generation": "one AI generated first costume approval frame; no local character composite",
+  "model_output_dimensions": [
+    1376,
+    768
+  ],
+  "model_output_sha256": "bc33f981da9889d92a08abc4792147211127e9e9533ae1f03ebea67687f24d30",
+  "normalization": "RGB1920x1080, Lanczos full-image resize, no crop; no anatomy edits",
+  "sha256": "e793b24c2335a69f9fafc55f42f8472a135897c127e94918e0ceda0e91ef3773",
+  "viewed_reference_images": [
+    {
+      "file": "karakter/merakli-referans.png",
+      "sha256": "ab4b57f9655a7a4f6a4ee719c11612e74fe0761aa63281aaae5539e899dc2f31"
+    },
+    {
+      "file": "bolumler/001-1453-fethi-izci/uzun/gorseller/s01.png",
+      "sha256": "dceb7e9a383f5a1060e7b9d9cf365e059f7d380edf441da88f461b84fb58568f"
+    },
+    {
+      "file": "bolumler/002-1453-sahi-topcusu/uzun/gorseller/s06.png",
+      "sha256": "37202db1e4c2baaed786936e2b1c4f157376cc87ea5100dda5088f9e54daf0b6"
+    },
+    {
+      "file": "bolumler/003-1453-donanmada-denci/uzun/gorseller/s03.png",
+      "sha256": "9dd3fe0ff56a50036ecc5e94e23f9ef25782ac7dd62c58878e3485f0e21e4254"
+    },
+    {
+      "file": "bolumler/004-1453-surlarda-nobetci/uzun/gorseller/s10.png",
+      "sha256": "628cbd7bcfbf79e539506a1e976272588a61cc9942c180aec2ae342f41ecd561"
+    }
+  ],
+  "image_tool_references": [
+    "karakter/merakli-referans.png",
+    "bolumler/001-1453-fethi-izci/uzun/gorseller/s01.png",
+    "bolumler/004-1453-surlarda-nobetci/uzun/gorseller/s10.png"
+  ],
+  "character_count": 5,
+  "hands_count": 10,
+  "feet_count": 10,
+  "visual_anatomy_review": "PASS; model output and final normalized PNG both opened and reviewed; five figures individually counted",
+  "user_costume_approval": false
+}

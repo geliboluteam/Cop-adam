@@ -24,7 +24,7 @@
 
 ## Araştırma ve anlatı sınırı
 
-- Kale, kuşatma, tarih ve tarihsel kişiler **henüz seçilmedi/araştırılmadı**. Kullanıcı belirli bir kale veya yıl söylemedi; seçilecek olay kaynaklarla gerekçelendirilecek. Osaka gibi bir olay şimdiden kullanıcı seçimiymiş gibi yazılmayacak.
+- **B031 hazırlığı başladı:** editoryal çerçeve Osaka 1614 kış seferi; 1615 yaz sonucu ayrı tutulacak. Kullanıcı belirli kale/yıl söylemedi; Osaka kullanıcı seçimi diye sunulmaz. Kurumsal ilk kaynaklar ve açık kapılar `arastirma/031-uzun-samuray-kale-savunmasi.md` içinde. İlk kostüm/sahne görseli üretildi; kullanıcı onayı henüz yok.
 - Odak saldırı başladığında savunmanın içindeki Meraklı'nın deneyimi, görev/rol dağılımı ve tarihsel koşullar. Meraklı kurgu gözlemci/katılımcı olarak açıkça ayrılacak; belgelenmiş gerçek tanık veya kararları değiştiren tarihsel kişi yapılmayacak.
 - GERÇEK/RİVAYET/KURGU/TEMSİLÎ/MODERN ANALOJİ ayrımı ve kaynak/lisans künyesi korunacak.
 
@@ -36,4 +36,4 @@
 - Nihai video + YouTube kapak v4 + YAYIN.md + kaynak/lisanslı ses künyesi + görsel/teknik QA + GitHub commit/push/uzak doğrulama tamamlanacak.
 - Bu kapılar geçilmeden “komple bitti” denmeyecek ve sonraki konu sorusu erkene alınmayacak.
 
-**Şu anki durum:** B030 Apollo 11 tamamlandı: 11:38 uzun / 25 görsel / 20 ses / kapak v4 / QA. Sıradaki B031 Samuray; araştırma/ilk kostüm görseli onayı henüz başlamadı. Sonraki konu sorusu ancak Samuray tüm paket tesliminden sonra.
+**Şu anki durum:** B030 Apollo 11 tamamlandı / `b428401`. **B031 Samuray hazırlıkta:** Osaka 1614 kış seferi araştırması, 20 sahne/25 görsel taslak akışı ve ilk kostüm görseli hazır. s01 teknik/anatomi PASS (5 figür/10 ayrı el); **kullanıcı kostüm/stil onayı bekleniyor**. Kalan 24 görsel, sesler, video ve kapak henüz yok. Sonraki konu sorusu ancak Samuray tüm paket tesliminden sonra.

@@ -1,0 +1,71 @@
+{
+  "episode": "B031",
+  "topic": "Samuray olarak Japonya’da bir kalenin savunmasına katılsaydım saldırı başladığında ne yapardım?",
+  "roadmap": "YOL33/Konu40",
+  "stage": "ILK_KOSTUM_GORSELI_KULLANICI_ONAYI_BEKLENIYOR",
+  "date": "2026-10-22",
+  "editorial_setting": {
+    "place": "Toyotomi dönemi Osaka",
+    "main_campaign": "1614 kış seferi",
+    "separate_followup": "1615 yaz seferi",
+    "chosen_by": "üretim/editoryal seçim; kullanıcı belirli kale/yıl söylemedi"
+  },
+  "format": {
+    "long_only": true,
+    "shorts": false,
+    "scene_target": 20,
+    "image_target": 25,
+    "double_scenes": [
+      "s04",
+      "s08",
+      "s12",
+      "s15",
+      "s19"
+    ],
+    "duration_range_seconds": [
+      300,
+      720
+    ],
+    "measured_duration_seconds": null,
+    "subtitles": false,
+    "voice_id": "voice-03"
+  },
+  "user_costume_approved": false,
+  "user_costume_approval_gate": "s01 gösterildikten sonraki yanıt gerekli; önceki Devam bu yeni görselin onayı değildir",
+  "produced_image_count": 1,
+  "technical_anatomy_pass_count": 1,
+  "remaining_image_count": 24,
+  "narration_count": 0,
+  "rendered": false,
+  "cover_v4_produced": false,
+  "publication_package_complete": false,
+  "images": [
+    {
+      "id": "s01",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s01.png",
+      "sha256": "e793b24c2335a69f9fafc55f42f8472a135897c127e94918e0ceda0e91ef3773",
+      "width": 1920,
+      "height": 1080,
+      "mode": "RGB",
+      "type": "AI_TEMSILI",
+      "characters": 5,
+      "hands": 10,
+      "feet": 10,
+      "technical_anatomy": "PASS",
+      "user_style_costume_approval": "PENDING"
+    }
+  ],
+  "research": "arastirma/031-uzun-samuray-kale-savunmasi.md",
+  "research_open_gates": [
+    "Kesin gün/takvim dönüşümü",
+    "Sanada Maru ayrıntılı konum/geometri",
+    "Ateşkes/hendek doldurma koşulları ve fail/zaman",
+    "Osaka özelinde silah/top sayısı; doğrulanmadıkça sayı kullanılmaz"
+  ],
+  "audio_provenance_policy": "1614ten gerçek ses kaydı yok; modern foley ancak kaynak/lisans doğrulanarak MODERN ANALOJİ etiketiyle",
+  "next": [
+    "Kullanıcı ilk kostüm/sahneyi onaylar veya düzeltir; onaydan önce toplu görsel/TTS yok",
+    "Onay sonrası açık araştırma kapıları ve tam20sahne metni/25görsel planı",
+    "Tam Samuray paketi tesliminden sonra Hangi konuya devam edelim? diye sor; cevap olmadan başka konu yok"
+  ]
+}
