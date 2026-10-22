@@ -1,0 +1,79 @@
+[
+  {
+    "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s02.png",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "c77b6697fb511c3ca4f6bb3106c226f352f053109a22a26c51f55ef8729120df",
+    "normalized_sha256": "273d6f0ed7a89d27116a8d2e0888b5274b5c775892237a77323c01b78ca50392",
+    "method": "full image RGB resize1920x1080;no crop",
+    "note": ""
+  },
+  {
+    "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s03.png",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "c0fda4b052bfac18070a3f57ab4b061dbcda8249137b8b01bb2f8131679bb8c3",
+    "normalized_sha256": "de9b3a727e37475e09e9eefd68270e0a96afa12693cc957bc41776f58cb24fe7",
+    "method": "full image RGB resize1920x1080;no crop",
+    "note": ""
+  },
+  {
+    "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s04.png",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "28e7d05bce086110ca28a79830cd525d938f3d9329df135f2a8a9c6743f9a954",
+    "normalized_sha256": "8da750bb37d839e7b59f51c6a434809ee6f5363b4daaec0e3bff5dbe21a0a474",
+    "method": "full image RGB resize1920x1080;no crop",
+    "note": ""
+  },
+  {
+    "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s04b.png",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "0939d90e9ab7f8e1a0d3d1f6eb5b27799781a36c9e0e5a2034826a90b68a1f19",
+    "normalized_sha256": "5e29c65c54845118e4d9900e5f5220c30676219db4c3cec2918d2fa340e27f5a",
+    "method": "full image RGB resize1920x1080;no crop",
+    "note": "s04b normalized AIv2 later replaced by documented anatomical-spacing composite"
+  },
+  {
+    "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s05.png",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "f7b40ca9d9dcdaeffaae9e3fdc8245568008e66d37e7469964bd5b488f58e608",
+    "normalized_sha256": "ac70189b79a2d7e3df68803b98a9428d11e6cba1236e579bc7f21658cbf6f1fb",
+    "method": "full image RGB resize1920x1080;no crop",
+    "note": ""
+  },
+  {
+    "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s06.png",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "d3b4ba3dfaae012f9a4ab444de1dc75b3f6ceec38f058e336552b3b2dbebdb26",
+    "normalized_sha256": "9ced8acdea93b53a0c1d6966e6832493c153c0e81e9e576207a6cd1c05125aee",
+    "method": "full image RGB resize1920x1080;no crop",
+    "note": ""
+  },
+  {
+    "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s07.png",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "7265c582564a41932fbe6e1cebf30c90108b11abc089fd8f6ba449d5a9718036",
+    "normalized_sha256": "2ce9841056138d2a6a45cc0e8f807241bfdd4765df77b56a6a2b1fcf46287e38",
+    "method": "full image RGB resize1920x1080;no crop",
+    "note": ""
+  }
+]

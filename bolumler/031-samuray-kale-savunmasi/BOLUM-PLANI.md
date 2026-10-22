@@ -1,7 +1,7 @@
 # B031 — SAMURAY: SALDIRI BAŞLADIĞINDA NE YAPARDIM?
 
 > YOL33 / Konu40 — kullanıcı isteğiyle Apollo 11'in ardından öne alındı.
-> **DURUM: ARAŞTIRMA BAŞLANGICI + İLK KOSTÜM GÖRSELİ / KULLANICI ONAYI BEKLENİYOR.**
+> **DURUM: KOSTÜM ONAYLANDI — 23 Ekim 2026 tarihli “Devam”; ilk üretim grubu başlatıldı.**
 > Toplu görsel üretimi, sesler, final video, yayın paketi ve kapak henüz yok.
 
 ## Çerçeve
@@ -35,7 +35,7 @@ Dosya: `uzun/gorseller/s01.png` — 1920×1080 RGB, tam kadraj.
 - Zırh kol parçaları koyu renkli giysidir; açık el/ayaklar beyazdır. Oran, zırh ve miğferin nihai kabulü kullanıcıda; teknik inceleme kullanıcı onayının yerine geçmez.
 - Fetih stilinden ayrıntılı çevre, malzeme/ışık ve sahne derinliği alındı; eski gerçekçi insan yan figürleri veya giyinmemiş figürler alınmadı.
 - Bir AI görseli + tam görüntü ölçek normalizasyonu. Yerel anatomi kompoziti yapılmadı. Görsel birebir Osaka plan/cephe rekonstrüksiyonu değildir.
-- **Kullanıcı onayı henüz YOK.** Kalan 24 görsel ve anlatımlar beklemede.
+- **Kullanıcı onayı VAR:** s01 gösterildikten sonraki “Devam”, 23 Ekim 2026. Aynı kostüm/karakter üslubuyla kontrollü gruplar halinde ilerlenir.
 
 ## 20 sahnelik taslak akış — tam metin/süre henüz kilitli değil
 

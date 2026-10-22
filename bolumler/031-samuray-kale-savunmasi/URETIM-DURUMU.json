@@ -2,7 +2,7 @@
   "episode": "B031",
   "topic": "Samuray olarak Japonya’da bir kalenin savunmasına katılsaydım saldırı başladığında ne yapardım?",
   "roadmap": "YOL33/Konu40",
-  "stage": "ILK_KOSTUM_GORSELI_KULLANICI_ONAYI_BEKLENIYOR",
+  "stage": "BIRINCI_GRUP_QA_TAMAM_IKINCI_GRUP_BEKLIYOR",
   "date": "2026-10-22",
   "editorial_setting": {
     "place": "Toyotomi dönemi Osaka",
@@ -30,12 +30,12 @@
     "subtitles": false,
     "voice_id": "voice-03"
   },
-  "user_costume_approved": false,
-  "user_costume_approval_gate": "s01 gösterildikten sonraki yanıt gerekli; önceki Devam bu yeni görselin onayı değildir",
-  "produced_image_count": 1,
-  "technical_anatomy_pass_count": 1,
-  "remaining_image_count": 24,
-  "narration_count": 0,
+  "user_costume_approved": true,
+  "user_costume_approval_gate": "s01 kullanıcıya gösterildikten sonraki Devam yanıtıyla ONAYLANDI",
+  "produced_image_count": 8,
+  "technical_anatomy_pass_count": 7,
+  "remaining_image_count": 17,
+  "narration_count": 10,
   "rendered": false,
   "cover_v4_produced": false,
   "publication_package_complete": false,
@@ -46,13 +46,87 @@
       "sha256": "e793b24c2335a69f9fafc55f42f8472a135897c127e94918e0ceda0e91ef3773",
       "width": 1920,
       "height": 1080,
-      "mode": "RGB",
-      "type": "AI_TEMSILI",
       "characters": 5,
       "hands": 10,
       "feet": 10,
-      "technical_anatomy": "PASS",
-      "user_style_costume_approval": "PENDING"
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s02",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s02.png",
+      "sha256": "273d6f0ed7a89d27116a8d2e0888b5274b5c775892237a77323c01b78ca50392",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "feet": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s03",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s03.png",
+      "sha256": "de9b3a727e37475e09e9eefd68270e0a96afa12693cc957bc41776f58cb24fe7",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "feet": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s04",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s04.png",
+      "sha256": "8da750bb37d839e7b59f51c6a434809ee6f5363b4daaec0e3bff5dbe21a0a474",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "feet": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s04b",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s04b.png",
+      "sha256": "d6c11d2078c06c3baa3d5302341ea0145bbc39a5e51fff8f49866ba85137d5e1",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "feet": 10,
+      "technical_anatomy": "REGEN_PENDING_OLCEK_UYUMSUZ_KOMPOZIT"
+    },
+    {
+      "id": "s05",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s05.png",
+      "sha256": "ac70189b79a2d7e3df68803b98a9428d11e6cba1236e579bc7f21658cbf6f1fb",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "feet": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s06",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s06.png",
+      "sha256": "9ced8acdea93b53a0c1d6966e6832493c153c0e81e9e576207a6cd1c05125aee",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "feet": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s07",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s07.png",
+      "sha256": "2ce9841056138d2a6a45cc0e8f807241bfdd4765df77b56a6a2b1fcf46287e38",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "feet": 10,
+      "technical_anatomy": "PASS"
     }
   ],
   "research": "arastirma/031-uzun-samuray-kale-savunmasi.md",
@@ -64,8 +138,13 @@
   ],
   "audio_provenance_policy": "1614ten gerçek ses kaydı yok; modern foley ancak kaynak/lisans doğrulanarak MODERN ANALOJİ etiketiyle",
   "next": [
-    "Kullanıcı ilk kostüm/sahneyi onaylar veya düzeltir; onaydan önce toplu görsel/TTS yok",
-    "Onay sonrası açık araştırma kapıları ve tam20sahne metni/25görsel planı",
-    "Tam Samuray paketi tesliminden sonra Hangi konuya devam edelim? diye sor; cevap olmadan başka konu yok"
-  ]
+    "s04b yeniden uretim (kompozit olcek uyumsuz)",
+    "s08,s08b,s09-s20,s12b,s15b,s19b gorselleri (17)",
+    "s11-s20 sesleri (10) - kota sonraki tur",
+    "Final plan/render/cover/YAYIN/QA"
+  ],
+  "user_costume_approval_date": "2026-10-23",
+  "user_costume_approval_reply": "Devam",
+  "audio_decode_pass_count": 10,
+  "audio_raw_total_seconds": 409.06
 }
