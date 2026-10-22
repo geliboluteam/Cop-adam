@@ -1,7 +1,7 @@
 # B029 — 1903: WRIGHT KARDEŞLERİN İLK UÇUŞLARI
 
 > Seri E 6. bölüm · YOL44 / Konu17.
-> DURUM: **20/25 görsel dosyası: 18 kontrolü geçti / s13 ve s15 kadraj düzeltmesi açık. 20/20 voice-03 ses hazır (727,224 sn ham; 694,85 sn sessizlik düzenlenmiş).** Min3 karakter, Taylor/Daniels sahnelerinde4. 63SFX taslak planı, kaynak künyesi ve YAYIN taslağı hazır; video henüz yok. Güncel durum: `URETIM-DURUMU.json`.
+> DURUM: **25/25 görsel kontrolü geçti; 20/20 voice-03 ses hazır. Kapak v4 ve 63SFX planı hazır; RENDER AŞAMASI.** Her sahnede min3 karakter, Taylor ve Daniels sahnelerinde4. Final video/teknik QA henüz yok.
 > Kaynak: `arastirma/029-uzun-wright-ilk-ucus.md`.
 
 ## Format ve kilitler
@@ -153,3 +153,10 @@ Günün sonunda benim defterimde yalnız on iki saniye yazmıyor. Ölçmek, yeni
 - Renderer ile gerçek sessizlik düzenleme testi: 694,85sn (x1.0). 727,224sn ham değer mutagen ölçümü, ffmpeg süre başlıklarının yuvarlanmış toplamı727,26sn. `ANLATIM-SURE-OLCUMU.json` geçerli ön ölçüm; final süre değil.
 - `uzun/plan.taslak.json`: 20sahne/25görsel, çiftler04/08/12/15/19, hedef690sn, hızüst1.12, altyazıfalse, ayrı giriş/tarih/kapanış/abone, 63efekt+müzik/10kaynak. Eksik görseller ve iki kadraj düzelmeden RENDER ETME.
 - `SFX-KUNYE.md` ve `YAYIN.md` açıkça TASLAK; gerçek zaman damgaları ve teknik ölçümler render sonrası eklenecek. Özgün1903 motor sesi iddiası yok.
+
+### 22 Ekim 2026 — render öncesi son üretim
+- s17/s18/s19/s19b/s20 tamamlandı. s13/s15 geniş kadraj yeniden kuruldu; s13 kanonik Wilbur başı ve iki palalı pervaneler, s15 Daniels ayrı ikinci eli/pilot bacakları/pervaneler düzeltildi. 25/25 görsel kontrolü geçti.
+- s19b minyatüründeki tekerlekli önden pervaneli yanlış uçak, onaylı s16 canard/kızak çizimiyle perspektif kompozitte değiştirildi. Özgün arşiv belgesi değildir.
+- AI kapak adayındaki gerçekçi yan figürler reddedildi. Onaylı üç beyaz çöp adamlı s19b temelinden kapak v4 yapıldı; metin yüzlere taşmayacak dar blokta. 1280×720 **12 SANİYE! / İLK UÇUŞ / 1903 · WRIGHT**.
+- `uzun/plan.json` etkin: 25görsel/20ses/63SFX+müzik. Çok figürlü kadrajları korumak için hareket 0,015 zoom ve6pxpan; renderer varsayılanları diğer bölümler için değişmedi.
+- Görsel kotası10 çağrı kullanıldı; yeni ses üretilmedi. Final süre ve ses ölçümü render sonrası doğrulanacak.

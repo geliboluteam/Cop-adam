@@ -353,7 +353,11 @@ def main():
         s_bas, _, _, s_son = zamanlama[i]
         d = max(s_son - s_bas, 0.8)
         yon = (i % 2 == 0)          # True: zoom-in, False: zoom-out
-        px = 40 if (i % 3 == 0) else -40
+        # Çok figürlü sahnelerde plan daha küçük hareket seçebilir;
+        # varsayılanlar önceki bölümlerin görüntüsünü değiştirmez.
+        kb_zoom = max(0.0, min(float(plan.get("ken_burns_zoom", 0.11)), 0.25))
+        kb_pan = max(0.0, min(float(plan.get("ken_burns_pan", 40)), 100.0))
+        px = kb_pan if (i % 3 == 0) else -kb_pan
         # gorsel2 varsa sahne iki alt klibe bolunur; d1+d2-XF=d oldugu
         # icin son asamadaki xfade zinciri hem sahne ici gecisi yapar
         # hem de toplam sure/senkronu aynen korur (25 gorsel kurali).
@@ -372,7 +376,8 @@ def main():
             klip = f"{cikti}.s{len(klip_yollari)}.mp4"
             klip_yollari.append((klip, dparca))
             kareler = max(int(dparca*30), 12)
-            z = f"1+{0.11:.4f}*on/{kareler}" if yon_parca else f"1.11-{0.11:.4f}*on/{kareler}"
+            z = (f"1+{kb_zoom:.4f}*on/{kareler}" if yon_parca
+                 else f"{1+kb_zoom:.4f}-{kb_zoom:.4f}*on/{kareler}")
             filtre = (
                 f"[0:v]scale={OW}:{OH}:force_original_aspect_ratio=increase,crop={OW}:{OH},"
                 f"zoompan=z='{z}':x='iw/2-(iw/zoom/2)+({px_parca}*on/{kareler})':y='ih/2-(ih/zoom/2)'"

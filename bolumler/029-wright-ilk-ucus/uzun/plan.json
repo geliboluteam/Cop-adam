@@ -1,5 +1,4 @@
 {
-  "_durum": "TASLAK — eksik 5 görsel ve s13/s15 kadraj düzeltmesi tamamlanmadan render ETME",
   "format": "16:9",
   "encode_preset": "veryfast",
   "crf": 25,
@@ -560,5 +559,7 @@
       ],
       "ek_sure": 5.0
     }
-  ]
+  ],
+  "ken_burns_zoom": 0.015,
+  "ken_burns_pan": 6
 }

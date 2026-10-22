@@ -68,6 +68,7 @@ BOLUMLER = {
     "026": dict(buyuk="İLK UÇUŞ\nDÜMEN YOK!", vurgu="1783"),
     "027": dict(buyuk="TEK KİŞİ\nHAVA SINIRLI!", vurgu="1776 · TURTLE"),
     "028": dict(buyuk="KIPIRDAMA!\nTEK KARE", vurgu="1839 · FOTOĞRAF"),
+    "029": dict(buyuk="12 SANİYE!\nİLK UÇUŞ", vurgu="1903 · WRIGHT", baslik_maxw=560, vurgu_maxw=460),
 }
 
 
@@ -118,7 +119,7 @@ def kapak_yap(no, ayar):
     # 2) BÜYÜK İLGİ ÇEKİCİ BAŞLIK — beyaz, dev, kalın siyah kontur (sol blok)
     x0 = 40
     for satir in ayar["buyuk"].split("\n"):
-        font, kutu = yazi_sigdir(d, satir, F_BLACK, 660, 156, 16)
+        font, kutu = yazi_sigdir(d, satir, F_BLACK, ayar.get("baslik_maxw", 660), 156, 16)
         d.text((x0 + 8, y + 10), satir, font=font, fill=SIYAH + (140,),
                stroke_width=16, stroke_fill=SIYAH + (140,))
         d.text((x0, y), satir, font=font, fill=BEYAZ + (255,),
@@ -128,7 +129,7 @@ def kapak_yap(no, ayar):
     # 3) VURGU — KIRMIZI KUTU içinde beyaz yazı (örnek kapak imzası:
     #    kırmızı %15-24 blok vurgular; her kapakta düzgün kırmızı varlık)
     y += 4
-    font, kutu = yazi_sigdir(d, ayar["vurgu"], F_BLACK, 560, 108, 0)
+    font, kutu = yazi_sigdir(d, ayar["vurgu"], F_BLACK, ayar.get("vurgu_maxw", 560), 108, 0)
     tw, th = kutu[2] - kutu[0], kutu[3] - kutu[1]
     px_, py_ = 34, 16
     d.rounded_rectangle([x0, y, x0 + tw + 2 * px_, y + th + 2 * py_],

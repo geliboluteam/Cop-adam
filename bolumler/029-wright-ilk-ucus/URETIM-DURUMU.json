@@ -1,6 +1,6 @@
 {
   "episode": 29,
-  "stage": "ARA_URETIM_FINAL_DEGIL",
+  "stage": "RENDER_HAZIR_GORSELLER25_SESLER20",
   "costume_approved_by_user": true,
   "images": [
     {
@@ -202,8 +202,8 @@
     {
       "id": "s13",
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s13.png",
-      "status": "DUZELTME_BEKLIYOR",
-      "notes": "Üç figür: Orville alt kanatta yüzükoyun, Wilbur yerde, Meraklı gözlemci. Dört-palalı sol pervane düzeltildi. Meraklı ayak uçları alt sınıra değiyor/kısmen kırpılıyor: final öncesi alt boşluklu tam boy kadraj gerekiyor. Ellerin görünür sayısı doğru.",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Yeniden geniş kadraj: Meraklı dahil üç figür tam boy, alt boşluk var. Wilbur başı yuvarlak beyaz kanona düzeltildi. İki pervane ikişer pala, pilotun iki ayrı eli/bacağı okunuyor.",
       "character_count": 3,
       "cast_count_check": "PASS",
       "cast": [
@@ -228,8 +228,8 @@
     {
       "id": "s15",
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s15.png",
-      "status": "DUZELTME_BEKLIYOR",
-      "notes": "Dört figür: Daniels kamerada, Orville pilot, Wilbur yerde, Meraklı kurgu uzakta. Kamera dönem tipi; flaş yok. Meraklı alt bacakları/ayakları kadraj dışında; daha geniş tam boy kompozisyon ve pilotun ikinci bacağının görünürlüğü düzeltilecek. Belgeli fotoğrafın kendisi değil.",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Yeniden geniş kadraj ve düzeltme: Meraklı ayakları içeride; Daniels iki ayrı görünür beyaz el; pilotun iki bacağı/ayağı ayrı, pervaneler iki palalı. Dört karakter. Özgün arşiv fotoğrafı değil.",
       "character_count": 4,
       "cast_count_check": "PASS",
       "cast": [
@@ -257,6 +257,71 @@
       "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s16.png",
       "status": "GORSEL_KONTROL_GECTI",
       "notes": "Üç figür: bu kez kahverengi pantolonlu Wilbur pilot, gri pantolonlu Orville yerde. Meraklı tam boy. İki pilot eli/bacağı okunuyor; ilk ve dördüncü uçuş kimlikleri ayrı.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
+    },
+    {
+      "id": "s17",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s17.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Üç karakter ayrı beyaz eller/ayaklar. Uçuş sonrası YERDE rüzgâr hasarı, kırık ahşap/canard ve yana yatmış gövde. Yangın/ölüm yok.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
+    },
+    {
+      "id": "s18",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s18.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Üç karakter. Temsilî tahtada sonraki kontrol/rota gelişimi; 1904–1905 bandıyla 1903ten ayrılacak. İki ayrı el/bacak tüm figürlerde görünür.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
+    },
+    {
+      "id": "s19",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s19.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Üç karakter. Tahtada önceki balon/planör ayrımı; kaynaklara dayalı açıklayıcı temsil. Anatomide iki ayrı beyaz el/ayak kontrol edildi.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
+    },
+    {
+      "id": "s19b",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s19b.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Üç karakter, altı ayrı el/ayak. Çerçevedeki yanlış tekerlekli/önden pervaneli minyatür uçak yerel perspektif kompozitle onaylı canard/kızak resmiyle değiştirildi. Bu resim de TEMSİLÎ, arşiv değil.",
+      "character_count": 3,
+      "cast_count_check": "PASS",
+      "cast": [
+        "Meraklı",
+        "Wilbur Wright",
+        "Orville Wright"
+      ]
+    },
+    {
+      "id": "s20",
+      "file": "bolumler/029-wright-ilk-ucus/uzun/gorseller/s20.png",
+      "status": "GORSEL_KONTROL_GECTI",
+      "notes": "Üç karakter tam boy. Meraklı tek eliyle selam veriyor, diğer eli ayrı ve boş. Kırmızı fular yalnız Meraklı, kapanış yazısı için açık alan.",
       "character_count": 3,
       "cast_count_check": "PASS",
       "cast": [
@@ -450,12 +515,10 @@
   ],
   "audio_total_seconds": 727.224,
   "next": [
-    "Önce s13/s15 alt boşluklu kadraj düzeltmesi; s15 pilot iki bacak/ayak",
-    "s17/s18/s19/s19b/s20 üret; min3 karakter",
-    "Kapak v4 üret, YAYIN taslağını finalleştir",
-    "63SFX planı/kaynakları hazır; plan.taslak.json eksik görseller tamamlandıktan sonra plan.json yapılacak",
-    "Ölçülen sessizlik sıkıştırılmış anlatım 694,85sn; taslak hedef690sn/hiz_max1.12. Tahmini x1.031 ve yaklaşık683sn final; gerçek hız/süre render sonrası ölçülecek",
-    "Final render/tam AV decode/loudness/8kritik kare QA ve GitHub dosya mührü"
+    "plan.json ile uzun render",
+    "Tam AV decode/loudness/son kart ve kritik kare QA",
+    "YAYIN gerçek20chapter ve finalkünye/QA/YOL güncelle",
+    "Finalcommit/push/uzakMP4+kapakblob doğrulaması ve teslim"
   ],
   "cast_rule": {
     "user_correction": "Yan karakterler çok az; Wright kardeşler konusu en az 3 karakter olmalı.",
@@ -475,31 +538,29 @@
     "historical_boundary": "Bu birlikte görünme TEMSİLÎ anlatı kompozisyonu; Meraklı belgeli altıncı tanık değil.",
     "future_images": "Kalan beş görsel ve kapakta min3 karakter; iki kardeş eksiksiz, Meraklı kurgu katmanda."
   },
-  "remaining_images": [
-    "s17",
-    "s18",
-    "s19",
-    "s19b",
-    "s20"
-  ],
+  "remaining_images": [],
   "latest_turn": {
     "date": "2026-10-22",
     "image_calls_successful": 10,
-    "new_images": 8,
-    "edits": 2,
-    "speech_clips_new": 0,
-    "all_images_count": 20,
-    "images_control_pass": 18,
-    "images_pending": 2,
+    "new_scene_images": 5,
+    "scene_replacements_edits": 4,
+    "cover_candidate": 1,
+    "rejected_cover_replaced_with_approved_artwork": true,
+    "all_images_count": 25,
+    "images_control_pass": 25,
+    "images_pending": 0,
     "all_audio_count": 20,
     "rendered": false,
-    "draft_plan": "uzun/plan.taslak.json",
+    "plan": "uzun/plan.json",
     "planned_sfx_placements": 63,
-    "unique_audio_sources": 10,
-    "silence_trimmed_seconds_at_1x": 694.85
+    "unique_audio_sources": 10
   },
-  "pending_image_corrections": [
-    "s13: alt boşlukla tam boy",
-    "s15: tam boy kadraj + pilotun iki ayrı bacağı/ayağı"
-  ]
+  "pending_image_corrections": [],
+  "cover": {
+    "file": "kapaklar/thumbnail/bolum-029.png",
+    "version": 4,
+    "characters": 3,
+    "status": "GORSEL_KONTROL_GECTI",
+    "note": "Gerçekçi yan figürlü AI kapak adayı reddedildi; onaylı çöp adam sahnesinden v4 kompozit. Başlık üç figürün yüzüne/ellerine taşmıyor."
+  }
 }
