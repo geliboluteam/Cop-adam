@@ -1,13 +1,13 @@
-# B029 — SES KÜNYESİ / RENDER ÖNCESİ TASLAK
+# B029 — FİNAL SES KÜNYESİ
 
-> Final video henüz yok. Bu tablo `uzun/plan.taslak.json` içindeki planlanan kaynakları listeler; kullanıldı/final ölçüldü anlamına gelmez.
+> Final **11:24** uzun video. Aşağıdaki kaynaklar `uzun/plan.json` ile mikse yerleştirildi; kaynak dosyaları ve final MP4 teknik kontrolleri geçti.
 
 - Özgün 1903 uçuş ses kaydı kullanılmıyor. Rüzgâr ve kıyı dalgası modern türdeş doğa kayıtları, 1903 Kitty Hawk kaydı değil.
 - Kumaş, kâğıt, kalem, nefes ve sürtünme modern gerçek foley kayıtlarıdır; **MODERN ANALOJİ**. Sürtünme, ahşap makine/çerçeve hareketi için açıklayıcıdır, Flyer motorunun sesi diye sunulmaz.
 - Kaynak arşivinde doğrulanmış Flyer motoru kaydı olmadığından jet/otomobil/uydurma pervane motoru eklenmiyor. Motorun duyulduğu iddiası yok. Fotoğraf çekiminde elektronik deklanşör/flaş sesi yok.
-- Müzik modern beste; tarihsel ortam kaydı değil. Anlatım önde, müzik −23 dB; efekt kazançları −31…−37 dB. Nihai loudness ölçülmedi; hedef −14 LUFS.
-- Döngü/yerleştirme/kazanç değişikliği planlandı. CC-BY-SA kayıtların ses uyarlamalarında aynı lisans korunur; CC0 bileşenler CC0.
-- **63 planlı efekt yerleşimi + müzik; 10 benzersiz kaynak.**
+- Müzik modern beste; tarihsel ortam kaydı değil. Anlatım önde, müzik −23 dB; efekt kazançları −31…−37 dB. Final ölçümü **-14.07 LUFS / -1.40 dBTP / LRA 3.20 LU**.
+- Döngü/yerleştirme/kazanç değişikliği uygulandı. CC-BY-SA kayıtların ses uyarlamalarında aynı lisans korunur; CC0 bileşenler CC0.
+- **63 efekt yerleşimi + müzik; 10 benzersiz kaynak.**
 
 | Dosya | Sanatçı / kaynak | Lisans | Kaynak URL |
 |---|---|---|---|

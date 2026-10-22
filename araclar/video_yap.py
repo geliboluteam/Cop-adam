@@ -410,15 +410,24 @@ def main():
             onceki = etiket
         if son_asama:
             ass_gorunur = ass_yolu.replace("\\", "/").replace(":", "\\:")
-            video_filtre.append(
-                f"{onceki}vignette=PI/4.5,noise=alls=4:allf=t+u,"
-                f"subtitles=filename='{ass_gorunur}':fontsdir='{FONTS}',format=yuv420p[vf]"
-            )
+            son_filtreler = []
+            if plan.get("vignette", True):
+                son_filtreler.append("vignette=PI/4.5")
+            grain = max(0.0, min(float(plan.get("film_grain", 4)), 100.0))
+            if grain > 0:
+                son_filtreler.append(f"noise=alls={grain:g}:allf=t+u")
+            son_filtreler.extend([
+                f"subtitles=filename='{ass_gorunur}':fontsdir='{FONTS}'",
+                "format=yuv420p",
+            ])
+            video_filtre.append(f"{onceki}" + ",".join(son_filtreler) + "[vf]")
             crf_degeri = str(CRF)
         else:
             video_filtre.append(f"{onceki}format=yuv420p[vf]")
             crf_degeri = "18"
-        args = [FFMPEG, "-y", *girisler, "-filter_complex", ";".join(video_filtre),
+        filtre_thread = (["-filter_complex_threads", str(plan["filter_complex_threads"])]
+                         if plan.get("filter_complex_threads") else [])
+        args = [FFMPEG, "-y", *filtre_thread, *girisler, "-filter_complex", ";".join(video_filtre),
                 "-map", "[vf]", "-r", "30", "-c:v", "libx264", "-preset", PRESET,
                 "-crf", crf_degeri, "-pix_fmt", "yuv420p"]
         if son_asama and MAXRATE:

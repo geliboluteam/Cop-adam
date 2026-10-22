@@ -1,6 +1,6 @@
-# B029 — YAYIN TASLAĞI (HENÜZ FİNAL DEĞİL)
+# B029 — YAYIN PAKETİ / FİNAL
 
-> Video henüz derlenmedi. Süre, bölüm zaman damgaları, son kapak ve nihai teknik QA tamamlanmadan yayımlama. 20/25 görsel dosyası var; s13/s15 kadraj düzeltmesi açık.
+> **FİNAL HAZIR — 11:24 / 683.67 sn.** 1920×1080/30fps, 20 sahne/25 görsel, voice-03 anlatım; 63 efekt + müzik. Tam AV decode ve 10 kritik kare QA PASS. Kapak v4 hazır.
 
 ## Başlık
 Eğer 1903’te Orada Olsaydım: Wright Kardeşlerle İlk Uçuş | MERAKLI
@@ -8,7 +8,7 @@ Eğer 1903’te Orada Olsaydım: Wright Kardeşlerle İlk Uçuş | MERAKLI
 ## Alternatif kanca
 Sadece 12 Saniye! Wright Kardeşlerin İlk Uçuşu — Meraklı
 
-## Açıklama taslağı
+## Açıklama
 On iki saniyelik bir uçuş neden tarihe geçti? Meraklı bu kez 17 Aralık 1903’te, Kitty Hawk yakınlarındaki Kill Devil Hills kıyısında hayalî bir gözlemci. Wilbur ve Orville Wright’ın planör deneylerinden rüzgâr tüneline, Charlie Taylor’ın motor katkısından ilk motorlu uçuşlara uzanan çalışmasını keşfediyoruz.
 
 İlk başarılı uçuşta Orville 12 saniyede 120 feet, yaklaşık 37 metre ilerledi. Günün dördüncü ve en uzun uçuşunda Wilbur 59 saniyede 852 feet, yaklaşık 260 metre uçtu. Bu iki uçuş aynı deneme değildir. 14 Aralık’taki başarısız girişim ile 17 Aralık’taki dört başarılı uçuş da ayrı olaylardır.
@@ -39,19 +39,40 @@ KANALIMA ABONE OLMAYI UNUTMAYIN!
 Kaynak okuma kapsamı ve sayısal dönüşüm notları: `arastirma/029-uzun-wright-ilk-ucus.md`. Feet/metre karşılıklarında 1 ft = 0,3048 m kullanıldı; yaklaşık 37 ve 260 metreye yuvarlandı.
 
 ## Bölümler
-**Zaman damgaları final ASS zaman çizelgesinden eklenecek; burada tahminî dakika yayımlanmıyor.** 20 sahne başlığı `BOLUM-PLANI.md` içinde.
+00:00 On iki saniye yeter mi?
+00:32 Kitty Hawk mı, Kill Devil Hills mi?
+01:07 Bisiklet atölyesinden gelen soru
+01:39 Uçmak önce öğrenilir
+02:13 Veriler yanlışsa ne yaparsın?
+02:48 Kaldırma, itki ve kontrol
+03:25 Motorun arkasındaki başka bir isim
+04:00 Pervane de bir kanat
+04:34 Tekerleksiz uçak, yerde ray
+05:08 Üç eksende denge
+05:42 Üç gün önceki başarısızlık
+06:17 Karşı rüzgârın iki yüzü
+06:50 İlk pilot kim?
+07:23 On iki saniyelik uçuş
+07:58 Fotoğraf ve kanıt
+08:33 Bir uçuş değil, dört deneme
+09:04 Yerde gelen darbe
+09:36 Bugün uçtu, yarın yolcu mu taşıdı?
+10:08 İlk olmanın anlamı
+10:46 Sen orada olsaydın?
+
+Zamanlar final ASS tarih bandı başlangıçlarından alındı; ilk bölüm 00:00. Geçiş örtüşmeleri dikkate alındı.
 
 ## Kapak v4
-Henüz üretilmedi. Büyük başlık: **SADECE 12 SANİYE! / İLK UÇUŞ**. 1903 kırmızı vurgu; Meraklı dönem kıyafeti ve uzun kırmızı fularıyla odakta; iki kardeş de görünür. Yalnız uzun videoya.
+**1280×720 v4 hazır:** `kapaklar/thumbnail/bolum-029.png`. Büyük **12 SANİYE! / İLK UÇUŞ**, kırmızı **1903 · WRIGHT**. Meraklı dönem kıyafeti ve uzun kırmızı fularıyla odakta; iki kardeş de görünür, başlık yüzlere taşmıyor. Gerçekçi yan figürlü kapak adayı reddedildi; onaylı beyaz çöp adamlı çizimden kompozit kullanıldı. Yalnız uzun videoya.
 
-## Yayın öncesi kontrol
-- [ ] Kalan s17/s18/s19/s19b/s20 görselleri ve s13/s15 kadraj düzeltmeleri
-- [ ] 25 görselde anatomi, min3 karakter ve tarih/kurgu kontrolü
-- [ ] Final 1080p MP4, baştan sona AV decode, ses loudness ve kritik kare QA
-- [ ] Final 5–12 dakika; anlatımın gerçek hız/süre bilgisi
-- [ ] Büyük başlıklı 1280×720 kapak v4
-- [ ] Gerçek 20 bölüm zaman damgası
-- [ ] SFX künyesi taslaktan final duruma çevrilecek
-- [ ] Commit/push + uzak dosya doğrulaması + video teslimi
+## Teknik teslim ve doğrulama
+- Video: `uzun/merakli-029-uzun-wright-ilk-ucus.mp4`, **683.67 sn (11:24)**, **53,563,827 bayt**.
+- H.264/yuv420p, 1920×1080, 30fps; AAC 48kHz stereo; faststart ve tam AV decode PASS.
+- Final ses: **-14.07 LUFS / -1.40 dBTP / LRA 3.20 LU**. Teknik ölçüm; bütün video insan gibi baştan sona dinlendi iddiası değil.
+- Ham anlatım 727,224 sn; sessizlik düzenlemesi sonrası 694,85 sn; anlatım yaklaşık **×1,031**, nihai miks683,50sn. Altyazı yok.
+- 20 sahne / 25 görsel; çiftler04/08/12/15/19. Her sahnede min3 kişi, Taylor ve Daniels sahnelerinde4.
+- Kapanış abone satırı finalde yaklaşık **5.68sn** görünür. Soru/seçenek/abone metinleri ayrı, çakışma yok.
+- Lisanslar `SFX-KUNYE.md`, final kalite künyesi `TEKNIK-QA.md` içinde.
+- Son adım final commit/push ve uzak MP4/kapak blob doğrulamasıdır; GitHub mühür commit'i teslim yanıtında bildirilir.
 
 #WrightKardeşler #İlkUçuş #1903 #KittyHawk #Meraklı #EğerOradaOlsaydım

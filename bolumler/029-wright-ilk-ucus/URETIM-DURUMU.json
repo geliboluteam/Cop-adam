@@ -1,6 +1,6 @@
 {
   "episode": 29,
-  "stage": "RENDER_HAZIR_GORSELLER25_SESLER20",
+  "stage": "FINAL_TAMAMLANDI",
   "costume_approved_by_user": true,
   "images": [
     {
@@ -515,10 +515,7 @@
   ],
   "audio_total_seconds": 727.224,
   "next": [
-    "plan.json ile uzun render",
-    "Tam AV decode/loudness/son kart ve kritik kare QA",
-    "YAYIN gerçek20chapter ve finalkünye/QA/YOL güncelle",
-    "Finalcommit/push/uzakMP4+kapakblob doğrulaması ve teslim"
+    "Kullanıcı Devam derse B030/YOL45/Konu18: Apollo11 Houston görev kontrolü; B029u yeniden üretme"
   ],
   "cast_rule": {
     "user_correction": "Yan karakterler çok az; Wright kardeşler konusu en az 3 karakter olmalı.",
@@ -550,10 +547,12 @@
     "images_control_pass": 25,
     "images_pending": 0,
     "all_audio_count": 20,
-    "rendered": false,
+    "rendered": true,
     "plan": "uzun/plan.json",
     "planned_sfx_placements": 63,
-    "unique_audio_sources": 10
+    "unique_audio_sources": 10,
+    "technical_qa": "PASS",
+    "critical_final_frames_reviewed": 10
   },
   "pending_image_corrections": [],
   "cover": {
@@ -562,5 +561,91 @@
     "characters": 3,
     "status": "GORSEL_KONTROL_GECTI",
     "note": "Gerçekçi yan figürlü AI kapak adayı reddedildi; onaylı çöp adam sahnesinden v4 kompozit. Başlık üç figürün yüzüne/ellerine taşmıyor."
+  },
+  "final_video": {
+    "file": "bolumler/029-wright-ilk-ucus/uzun/merakli-029-uzun-wright-ilk-ucus.mp4",
+    "seconds": 683.67,
+    "display_duration": "11:24",
+    "size_bytes": 53563827,
+    "video": "1920x1080 H.264 yuv420p 30fps",
+    "audio": "AAC 48000Hz stereo",
+    "faststart": true,
+    "av_decode": "PASS",
+    "loudness": {
+      "input_i": "-14.07",
+      "input_tp": "-1.40",
+      "input_lra": "3.20",
+      "input_thresh": "-24.50",
+      "output_i": "-13.98",
+      "output_tp": "-1.50",
+      "output_lra": "3.30",
+      "output_thresh": "-24.39",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.02"
+    },
+    "abone_visible_seconds": 5.68,
+    "narration_speed": 1.031,
+    "critical_frames": [
+      {
+        "name": "01-giris",
+        "seconds": 1.5,
+        "visual_review": "PASS",
+        "review_note": "Üç kanonik figür ve giriş/tarih metinleri; yazı satırları ayrı, kadraj korunmuş."
+      },
+      {
+        "name": "07-taylor-motor",
+        "seconds": 223.35,
+        "visual_review": "PASS",
+        "review_note": "Taylor + iki Wright + Meraklı dört kişi; yatay dört silindir, ayrı eller ve ayaklar."
+      },
+      {
+        "name": "12b-hava-yer-hizi",
+        "seconds": 403.53,
+        "visual_review": "PASS",
+        "review_note": "Üç figür, ayrı iki el, oklar ve ≠ etiketi okunaklı."
+      },
+      {
+        "name": "13-orville-hazirlik",
+        "seconds": 430.51,
+        "visual_review": "PASS",
+        "review_note": "Orville gri, yüzükoyun; Wilbur kahve, Meraklı sağda; ayaklar kadrajda."
+      },
+      {
+        "name": "14-orville-ilk-ucus",
+        "seconds": 461.21,
+        "visual_review": "PASS",
+        "review_note": "Gri Orville, üç figür; ilk12sn/~37m ayrı tarih bandı."
+      },
+      {
+        "name": "15-daniels-fotograf",
+        "seconds": 487.26,
+        "visual_review": "PASS",
+        "review_note": "Daniels + pilot + Wilbur + Meraklı dört kişi; kamera eli ve boş eli ayrı."
+      },
+      {
+        "name": "16-wilbur-dorduncu",
+        "seconds": 529.11,
+        "visual_review": "PASS",
+        "review_note": "Kahverengi Wilbur pilot, gri Orville yerde;59sn/~260m etiketi doğru."
+      },
+      {
+        "name": "17-yerde-hasar",
+        "seconds": 560.73,
+        "visual_review": "PASS",
+        "review_note": "Kaza yerde, yangın/patlama yok; üç kişi iki ayrı el/ayak."
+      },
+      {
+        "name": "19b-temsil-belge",
+        "seconds": 638.39,
+        "visual_review": "PASS",
+        "review_note": "Üç kanonik beyaz figür; düzeltilmiş canard/kızak siyah-beyaz temsilî çizim."
+      },
+      {
+        "name": "20-kapanis-abone",
+        "seconds": 682.67,
+        "visual_review": "PASS",
+        "review_note": "Soru, seçenek ve abone satırları birbirinden ayrı; iki Meraklı eli net, üç figür, ayaklar kesilmemiş."
+      }
+    ]
   }
 }

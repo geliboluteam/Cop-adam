@@ -1,7 +1,7 @@
 # B029 — 1903: WRIGHT KARDEŞLERİN İLK UÇUŞLARI
 
 > Seri E 6. bölüm · YOL44 / Konu17.
-> DURUM: **25/25 görsel kontrolü geçti; 20/20 voice-03 ses hazır. Kapak v4 ve 63SFX planı hazır; RENDER AŞAMASI.** Her sahnede min3 karakter, Taylor ve Daniels sahnelerinde4. Final video/teknik QA henüz yok.
+> DURUM: **FİNAL TAMAM — 11:24 uzun video / 683.67sn; 20sahne/25görsel/20voice-03ses/63SFX+müzik.** Min3karakter; Taylor/Daniels4. Kapakv4, YAYIN, SFX künyesi, tam AV decode ve10kritik kare QA PASS.
 > Kaynak: `arastirma/029-uzun-wright-ilk-ucus.md`.
 
 ## Format ve kilitler
@@ -160,3 +160,8 @@ Günün sonunda benim defterimde yalnız on iki saniye yazmıyor. Ölçmek, yeni
 - AI kapak adayındaki gerçekçi yan figürler reddedildi. Onaylı üç beyaz çöp adamlı s19b temelinden kapak v4 yapıldı; metin yüzlere taşmayacak dar blokta. 1280×720 **12 SANİYE! / İLK UÇUŞ / 1903 · WRIGHT**.
 - `uzun/plan.json` etkin: 25görsel/20ses/63SFX+müzik. Çok figürlü kadrajları korumak için hareket 0,015 zoom ve6pxpan; renderer varsayılanları diğer bölümler için değişmedi.
 - Görsel kotası10 çağrı kullanıldı; yeni ses üretilmedi. Final süre ve ses ölçümü render sonrası doğrulanacak.
+
+### 22 Ekim 2026 — FİNAL TAMAMLANDI
+- 683.67sn / 11:24; 1920×1080/30fps/H264/AAC48kHzstereo/faststart; 53,563,827bayt.
+- Tam AVdecode ve10kritik kare PASS. Ses -14.07LUFS/-1.40dBTP/LRA3.20LU; abone5.68sn. Anlatım×1,031; altyazıYOK.
+- Kapakv4 ve gerçek20chapter içerenYAYIN, lisanslıSFXkünyesi veTEKNIK-QA hazır. Önceki taslak günlükleri arşivdir; güncel durum finaldir.

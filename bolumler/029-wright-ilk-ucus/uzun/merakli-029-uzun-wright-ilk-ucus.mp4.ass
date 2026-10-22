@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Montserrat ExtraBold,62,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,5,1,2,60,60,250,1
+Style: TarihBandi,Montserrat ExtraBold,40,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,1,0,1,3,0,7,40,40,40,1
+Style: BaslikKart,Montserrat ExtraBold,88,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,60,1
+Style: BaslikKart2,Montserrat ExtraBold,46,&H0027C4E8,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Kapanis,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,6,2,5,60,60,60,1
+Style: KapanisAlt,Montserrat ExtraBold,38,&H00D94F45,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+Style: Abone,Montserrat ExtraBold,42,&H003636D9,&H000000FF,&H00202020,&H96000000,0,0,0,0,100,100,1,0,1,4,1,5,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:32.69,TarihBandi,,0,0,0,,17 ARALIK 1903 · KILL DEVIL HILLS · MERAKLI KURGU
+Dialogue: 1,0:00:32.49,0:01:07.77,TarihBandi,,0,0,0,,KITTY HAWK YAKINLARI · GÖRÜNTÜLER TEMSİLÎ
+Dialogue: 1,0:01:07.57,0:01:40.16,TarihBandi,,0,0,0,,DAYTON · KURGU GÖZLEMCİ / TARİHSEL ÇALIŞMA
+Dialogue: 1,0:01:39.96,0:02:13.91,TarihBandi,,0,0,0,,1900–1902 PLANÖRLER → 1903 MOTORLU FLYER · TEMSİLÎ
+Dialogue: 1,0:02:13.71,0:02:48.58,TarihBandi,,0,0,0,,1901 · RÜZGÂR TÜNELİ DENEYLERİ · TEMSİLÎ
+Dialogue: 1,0:02:48.38,0:03:25.76,TarihBandi,,0,0,0,,KALDIRMA · İTKİ · KONTROL — AÇIKLAYICI TEMSİL
+Dialogue: 1,0:03:25.56,0:04:01.44,TarihBandi,,0,0,0,,CHARLES TAYLOR · MOTOR İMALATINA KATKI
+Dialogue: 1,0:04:01.24,0:04:35.39,TarihBandi,,0,0,0,,İKİ İTİCİ PERVANE · ZİNCİR AKTARIMI · TEMSİLÎ
+Dialogue: 1,0:04:35.19,0:05:09.08,TarihBandi,,0,0,0,,1903 · KALKIŞ RAYI / UÇAK KIZAKLARI
+Dialogue: 1,0:05:08.88,0:05:42.83,TarihBandi,,0,0,0,,YÜZÜKOYUN PİLOT · ÜÇ EKSENDE KONTROL
+Dialogue: 1,0:05:42.63,0:06:18.00,TarihBandi,,0,0,0,,14 ARALIK 1903 · BAŞARISIZ DENEME — AYRI OLAY
+Dialogue: 1,0:06:17.80,0:06:50.87,TarihBandi,,0,0,0,,17 ARALIK 1903 · HAVA HIZI ≠ YER HIZI
+Dialogue: 1,0:06:50.67,0:07:23.93,TarihBandi,,0,0,0,,17 ARALIK 1903 · İLK PİLOT ORVILLE · 10.35
+Dialogue: 1,0:07:23.73,0:07:58.98,TarihBandi,,0,0,0,,İLK UÇUŞ · ORVILLE · 12 SANİYE / YAKLAŞIK 37 M
+Dialogue: 1,0:07:58.78,0:08:33.60,TarihBandi,,0,0,0,,JOHN DANIELS: FOTOĞRAF · BU GÖRSELLER TEMSİLÎ
+Dialogue: 1,0:08:33.40,0:09:05.11,TarihBandi,,0,0,0,,DÖRDÜNCÜ UÇUŞ · WILBUR · 59 SANİYE / YAKLAŞIK 260 M
+Dialogue: 1,0:09:04.91,0:09:36.84,TarihBandi,,0,0,0,,UÇUŞLARDAN SONRA · YERDE RÜZGÂR HASARI
+Dialogue: 1,0:09:36.64,0:10:08.87,TarihBandi,,0,0,0,,1904–1905: SONRAKİ GELİŞMELER · 1903 İLE AYRI
+Dialogue: 1,0:10:08.67,0:10:46.86,TarihBandi,,0,0,0,,MOTORLU · KONTROLLÜ · HAVADAN AĞIR UÇUŞ
+Dialogue: 1,0:10:46.66,0:11:23.49,TarihBandi,,0,0,0,,SEN NEYİ SEÇERDİN? · MERAKLI KURGU GÖZLEMCİ
+Dialogue: 2,0:00:00.00,0:00:02.60,BaslikKart,,0,0,0,,{\an5\pos(960,444)}EĞER 1903’TE OLSAYDIM
+Dialogue: 3,0:00:00.25,0:00:02.60,BaslikKart2,,0,0,0,,{\an5\pos(960,576)}MERAKLI: İLK UÇUŞUN KIYISINDA
+Dialogue: 4,0:11:17.39,0:11:24.09,Kapanis,,0,0,0,,{\an5\pos(960,399)}SEN HANGİSİNİ SEÇERDİN?
+Dialogue: 4,0:11:17.69,0:11:24.09,KapanisAlt,,0,0,0,,{\an5\pos(960,514)}UÇMAK · ÖLÇMEK · FOTOĞRAFLAMAK — YORUMLARA YAZ
+Dialogue: 4,0:11:17.99,0:11:24.09,Abone,,0,0,0,,{\an5\pos(960,612)}KANALIMA ABONE OLMAYI UNUTMAYIN!

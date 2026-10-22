@@ -40,7 +40,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 16 | 35 | MÖ 149-146, Kartaca | Kartaca kuşatmasında sivil | ✅ UZUN: `bolumler/016-kartaca/uzun/merakli-016-uzun-kartaca.mp4` (10:41, 20 sahne/25 görsel, 95,3 MB) + kapak v4 ("Kartaca YIKILMALI!" / MÖ 149) |
 | 17 | 36 | MS 2. yy, limes | Roma lejyoneri sınır karakolunda sıradan gün | ✅ UZUN (kilitli yeniden üretim): `bolumler/017-roma-lejyoneri/uzun/merakli-017-uzun-roma-lejyoneri.mp4` (10:24, 20 sahne) + kapak v4 |
 | 18 | 34 | MÖ 399, Atina | Sokrates'in yargılanması: mahkeme salonunda | ✅ UZUN: `bolumler/018-sokrates-davasi/uzun/merakli-018-uzun-sokrates-davasi.mp4` (10:24, 20 sahne) + kapak v4 |
-| 19 | 43 | 54 | 1839, Paris | Fotoğraf çırağı: daguerreotip, ışık ve beklemek | ✅ TAMAMLANDI (B028): 9:35 uzun video, 20 sahne/25 görsel, kapak v4, YAYIN ve SFX künyesi. Seri E 5. bölüm; kimyasal uygulama yok |
+| 19 | 43 | 54 | 1839, Paris | Fotoğraf çırağı: daguerreotip, ışık ve beklemek | ✅ TAMAMLANDI (B028): 9:35 uzun,20sahne/25görsel; kapakv4,YAYIN,SFXkünyesi veQA. Niépce daha erken, kimyasal uygulama yok |
 | 20 | 56 | MÖ 48, İskenderiye | Kütüphane yangını: hangi tomarı kurtarırım? | ✅ UZUN: `bolumler/020-iskenderiye-kutuphanesi/uzun/merakli-020-uzun-iskenderiye-kutuphanesi.mp4` (10:24, 20 sahne/25 görsel, 80,1 MB) + kapak v4 ("KÜTÜPHANE YANIYOR!" / MÖ 48) |
 | 21 | 51 | MÖ 334-323 | Büyük İskender'in ordusunda haritacı | ✅ UZUN: `bolumler/021-iskender-haritaci/uzun/merakli-021-uzun-iskender-haritaci.mp4` (10:44, 20 sahne/25 görsel, 85,6 MB) + kapak v4 ("HARİTANIN UCU!" / MÖ 334) |
 | 22 | 30 | MS 457, Konstantinopolis | Taç giyme töreninde saray görevlisi | 🟢 HAZIRLIK: I. Leo'nun Hebdomon ilanından Ayasofya'ya taç günü; Meraklı *silentiarii* arkasında rütbe listesi taşıyor; ✅ UZUN: `bolumler/022-leo-tac-giyme/uzun/merakli-022-uzun-leo-tac-giyme.mp4` (10:34, 20 sahne/25 görsel, 87,0 MB) + kapak v4 ("TACI KİM VERDİ?" / MS 457) |
@@ -74,9 +74,9 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 40 | 20 | 1886-1900 | İlk otomobiller sokakta: halk tepkisi | ✅ TAMAMLANDI (B025): 10:14 uzun video + kapak v4 + YAYIN.md; Seri E 2. bölüm |
 | 41 | 50b | 1783, Paris | İlk balon uçuşunda sepettedir (Montgolfier) | ✅ TAMAMLANDI (B026): 10:14 uzun video, 25 görsel, kapak v4, YAYIN ve SFX künyesi; Seri E 3. bölüm |
 | 42 | 49 | 1776, Connecticut / New York | Tek kişilik Turtle: hava, akıntı ve insan gücü | ✅ TAMAMLANDI (B027): 10:14 uzun video, 20 sahne/25 görsel, kapak v4, YAYIN ve SFX künyesi. Seri E 4. bölüm; tarihî görevde yalnız Ezra Lee |
-| 43 | 54 | 1839, Paris | Fotoğraf çırağı: daguerreotip, ışık ve beklemek | 🟡 HAZIRLIK (B028): araştırma ve 20 tam metin hazır; 20 sahne/25 görsel. s01 kostüm onayı bekleniyor. Niépce daha erken, 1839 duyuru; kimyasal uygulama yok |
-| 44 | 17 | 1903, Kitty Hawk yakınları / Kill Devil Hills | Wright kardeşlerin ilk motorlu uçuşları | 🟥 B029 RENDER: 25görsel/20ses/63SFX+müzik; min3karakter, Taylor/Daniels4; kapakv4 hazır. FinalteknikQA bekliyor |
-| 45 | 18 | 1969, Houston | Apollo 11 görev kontrol odasında (NASA ses arşivi = gerçek kayıt!) | ⬜ |
+| 43 | 54 | 1839, Paris | Fotoğraf çırağı: daguerreotip, ışık ve beklemek | ✅ TAMAMLANDI (B028): 9:35 uzun,20sahne/25görsel; kapakv4,YAYIN,SFXkünyesi veQA. Niépce daha erken, kimyasal uygulama yok |
+| 44 | 17 | 1903, Kitty Hawk yakınları / Kill Devil Hills | Wright kardeşlerin ilk motorlu uçuşları | ✅ TAMAMLANDI (B029): 11:24uzun,20sahne/25görsel,20ses,63SFX+müzik; min3karakter/Taylor-Daniels4; kapakv4,YAYIN,künye,tamAVdecode+10kareQA PASS |
+| 45 | 18 | 1969, Houston | Apollo 11 görev kontrol odasında (NASA ses arşivi = gerçek kayıt!) | 🟧 SIRADAKİ B030 — kullanıcı Devam sonrası |
 | 46 | 16 | 1912, Kuzey Atlantik | Titanic'in çarptığı gece güvertede | ⬜ |
 | 47 | 55 | 1911, kutup | Kızak sürücüsü: köpekler, don, rasyon | ⬜ |
 | 48 | 25 | çağlar boyu | Keşif gemisi bilinmeyen adaya vardığında | ⬜ |

@@ -702,3 +702,10 @@ künyesini ve genel arşiv envanterini tutar.
 | `sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pageturn1.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
 | `sfx/free-sfx/Owlish/Sound Effects Pack/Paper/paper-sketchbook-page-flips-1.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
 | `sfx/free-sfx/Owlish/Sound Effects Pack/Paper/pencil-scratch-1.opus` | OwlishMedia | CC0 | https://opengameart.org/content/sound-effects-pack |
+
+## BÖLÜM 29 — WRIGHT İLK UÇUŞ FİNAL KÜNYESİ
+
+- Final11:24;63SFX+müzik/10kaynak. Ayrıntılı dosya/sanatçı/kaynak/lisans tablosu: `bolumler/029-wright-ilk-ucus/SFX-KUNYE.md`.
+- Rüzgâr/dalga modern türdeş kayıt; kumaş/kâğıt/kalem/nefes/sürtünme MODERN ANALOJİ. Özgün1903uçuş/motor sesi iddiası yok; jet/elektronikflaş yok.
+- 0AD kayıtları/müzik CC-BY-SA3.0, OwlishMedia foleyCC0. Kaynaklar https://github.com/0ad/0ad ve https://opengameart.org/content/sound-effects-pack .
+- Final-14.07LUFS/-1.40dBTP; tam AVdecode+10kritik kareQA PASS.

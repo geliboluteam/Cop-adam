@@ -561,5 +561,8 @@
     }
   ],
   "ken_burns_zoom": 0.015,
-  "ken_burns_pan": 6
+  "ken_burns_pan": 6,
+  "film_grain": 0,
+  "vignette": false,
+  "filter_complex_threads": 2
 }
