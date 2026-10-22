@@ -3,6 +3,15 @@
 Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 (Konu no = kanal sahibinin orijinal listesindeki sıra; Bölüm = önerilen yayın sırası)
 
+## Kullanıcı önceliği — 22 Ekim 2026 (güncel sıra)
+
+**Önce B030 Apollo11 tamamen bitecek → sonra B031 Samuray / Japonya'da kale savunması (aşağıdaki YOL33 / Konu40).** Kullanıcı bu konuyu öne aldı; Titanic araya otomatik alınmayacak. Bu seçim tüm SeriD'yi başlatmaz.
+
+- Samuray sorusu: **“Samuray olarak Japonya’da bir kalenin savunmasına katılsaydım saldırı başladığında ne yapardım?”**
+- Ana karakter, olaydaki yan karakterler ve görseller **İstanbul'un Fethi bölümlerinin tarzını** referans alacak; Japon dönem kıyafeti/mimarisi araştırmaya göre, ilk kostüm görseli kullanıcı onaylı.
+- **Samuray paketi tamamen teslim edilince “Hangi konuya devam edelim?” diye sor.** Cevap almadan başka konuya otomatik geçme; samuray zaten seçildiği için bu soruyu şimdi/Apollo11 sonunda tekrar sorma.
+- Ayrıntılı bağlayıcı kayıt: `docs/SIRADAKI-KONU.md`. Mevcut B030 eksikleri ve QA kapıları değişmedi; B031 üretimi henüz başlamadı.
+
 ## PAKET DÜZENİ (yeni format)
 
 - Güncel üretim kuralı: **YALNIZ 1 uzun video (20 sahne, 25 görsel, 5–12 dk) + YouTube küçük resmi v4. Shorts YOK.** Beş kilit sahnede ikinci görsel, sahne süresi/senkronu değişmeden kullanılır. (`kapaklar/thumbnail/`, `araclar/thumbnail_yap.py`). Önceki bölümlerin tabloda listelenen Shorts dosyaları tarihî arşivdir; yeni üretim kapsamı değildir.
@@ -59,7 +68,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 30 | 37 | Orta Çağ | Manastırda el yazması kopyalayan keşiş | ⬜ |
 | 31 | 45 | Orta Çağ | Kalede kuşatma aşçısı: yüzlere yemek | ⬜ |
 | 32 | 27 | Orta Çağ | Kaleye sızan casus | ⬜ |
-| 33 | 40 | Japonya | Samuray: kale savunması başladığında | ⬜ |
+| 33 | 40 | Japonya | Samuray: kale savunması başladığında ne yapardım? | 🟧 KULLANICI SEÇİMİ: B030 Apollo11 sonrası B031 olarak öne alındı. Karakter/yanfigür/görsel referansı İstanbul'un Fethi. Tam teslimden sonra sonraki konu kullanıcıya sorulacak |
 | 34 | 47 | Eski Mısır | Nil taşkınında çiftçi: tarla ve ev koruması | ⬜ |
 | 35 | 38 | 1519, Tenochtitlan | Aztek başkentine ilk gelen tüccar | ⬜ |
 | 36 | 39b/İnka | İnka | Dağ yollarında ulak (chaski): mesajı yetiştirir miyim | ⬜ |
@@ -126,3 +135,5 @@ senkronu değişmez. Ek görsel dosyaları `sXXb.png` düzenindedir.
 Seri sırası kararı (2026-10-20): Seri C tamamlanmadan B016 Kartaca
 da üretilir; ardından B021-B023 tamamlanır. Seri C bittiğinde
 Seri D bekletilir ve doğrudan Seri E Keşif & Ulaşım'a geçilir.
+
+**22 Ekim 2026 kullanıcı öncelik istisnası:** Yukarıdaki eski SeriD bekletme/SeriE sırası, Apollo11 sonrasında yalnız samuray konusu için güncellendi. Güncel sıra ve teslim sonrası kullanıcıya sorma şartında `SIRADAKI-KONU.md` esas alınır.
