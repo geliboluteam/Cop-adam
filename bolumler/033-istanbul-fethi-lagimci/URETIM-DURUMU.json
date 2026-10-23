@@ -1,7 +1,7 @@
 {
   "episode": "B033",
   "topic": "İstanbul'un Fethi'nde lağımcı olsaydım",
-  "stage": "METIN_YAZILDI_GORSEL_URETIMDE",
+  "stage": "GORSEL_GRUP1_QA_9_PASS_2_REGEN",
   "date": "2026-10-23",
   "format": {
     "long_only": true,
@@ -23,22 +23,101 @@
   },
   "style_lock": "B001 ilk bolum dili + B032 stil ornegi: buyuk kahraman on plan, parlak boyanmis okunakli sahne, ayni referans sablonu",
   "user_costume_approved": true,
-  "produced_image_count": 1,
+  "produced_image_count": 11,
   "images": [
     {
       "id": "s01",
       "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s01.png",
       "sha256": "00666ead2aad67f01db6c6b7eac829b9eca1ec8367c68e2714c55d35b19d589d",
-      "characters": 4,
-      "technical_anatomy": "STYLE_SAMPLE_PENDING_USER_APPROVAL",
-      "note": "kesit sahne: ustte Theodosius surlari, altta ahsap destekli lagim tuneli; fener tek el, sepet tek el"
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "APPROVED_STYLE_SAMPLE"
+    },
+    {
+      "id": "s02",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s02.png",
+      "sha256": "fa37066c7f83c51463fd4463fa9cfef961bb5f2e47288c480bd675950bf7339b",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s03",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s03.png",
+      "sha256": "f1fad0cfe1f5830d2ea3b6cb9ef4e8e411c07ba659da4a777704a0dff68f339f",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s04",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s04.png",
+      "sha256": "e084bac7916bb2c0fe5f854406305a398e24ed3a5672343bb021df9b10b573ef",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s04b",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s04b.png",
+      "sha256": "3db0da4af3fe9fc729b1baabaa9d876d78ff74287c56713a5e5fb99a2143fe2a",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s06",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s06.png",
+      "sha256": "20c191b64b974867dd8e88dea147c962c782bfc076cf5fbaf435d2228ff5aa24",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s07",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s07.png",
+      "sha256": "3104c6fb18f0579e248f6f5b755d86af9562455961fad2fb358025015ba8d7d9",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s08",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s08.png",
+      "sha256": "ef9901e149d872ee6159063a3f0989b0bfc9d04c03b1825b7699ec152f9deeda",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s08b",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s08b.png",
+      "sha256": "26e4347b07d1ff3c756b1ec428af96dd32c737adaf71b55cbf295c5cc2eaf1ca",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s05",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s05.png",
+      "technical_anatomy": "FAIL",
+      "reason": "FAIL: dikey 768x1376; yatay kesit yeniden",
+      "status": "REGEN_NEXT"
+    },
+    {
+      "id": "s09",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s09.png",
+      "technical_anatomy": "FAIL",
+      "reason": "FAIL: Grant figurunde siyah kol/bacak cizgileri (beyaz olmali); yeniden",
+      "status": "REGEN_NEXT"
     }
   ],
   "next": [
-    "Kullanici ornek kareyi onaylar/duzeltir",
-    "Onayda 20 metin + 25 gorsel ayni kilitle",
-    "Ses voice-03 + ortama gore lisansli ambiyans; render/QA/kapak v4/muhur"
+    "Yeniden: s05 yatay, s09 beyaz uzuvlar",
+    "Kalan: s10-s20 + s13b,s15b,s19b (25 toplam)",
+    "voice-03 + Fetih ses formulu, render, kapak v4, muhur"
   ],
   "user_costume_approval_gate": "s01 ornek gosterildi; kullanici 'Devam' ile onayladi",
-  "narration_texts_written": 20
+  "narration_texts_written": 20,
+  "technical_anatomy_pass_count": 9
 }
