@@ -1,7 +1,7 @@
 {
   "episode": "B033",
   "topic": "İstanbul'un Fethi'nde lağımcı olsaydım",
-  "stage": "ORNEK_KARE_URETILDI_KULLANICI_ONAYI_BEKLENIYOR",
+  "stage": "METIN_YAZILDI_GORSEL_URETIMDE",
   "date": "2026-10-23",
   "format": {
     "long_only": true,
@@ -22,7 +22,7 @@
     "voice_id": "voice-03"
   },
   "style_lock": "B001 ilk bolum dili + B032 stil ornegi: buyuk kahraman on plan, parlak boyanmis okunakli sahne, ayni referans sablonu",
-  "user_costume_approved": false,
+  "user_costume_approved": true,
   "produced_image_count": 1,
   "images": [
     {
@@ -38,5 +38,7 @@
     "Kullanici ornek kareyi onaylar/duzeltir",
     "Onayda 20 metin + 25 gorsel ayni kilitle",
     "Ses voice-03 + ortama gore lisansli ambiyans; render/QA/kapak v4/muhur"
-  ]
+  ],
+  "user_costume_approval_gate": "s01 ornek gosterildi; kullanici 'Devam' ile onayladi",
+  "narration_texts_written": 20
 }
