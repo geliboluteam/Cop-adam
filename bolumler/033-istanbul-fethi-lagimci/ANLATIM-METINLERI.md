@@ -56,7 +56,7 @@ Size korkmadığımı söylersem yalan olur. Ama benim korkum kurgu; kaynaklar b
 
 ## 14 — Lağımlar neden sonuç getirmedi?
 
-Şimdi dürüst soruya gelelim: Bu kadar emek neden surları yıkmadı? Çünkü Bizans savunması karşı-lağım işini ciddiye aldı; Grant ve yanındakiler tünellerin çoğunu zamanında buldu. Toprak ve kaya yapısı da her yerde kazıcıların istediği gibi davranmadı. Bazı tüneller ulaşti ama kapatıldı. Yani lağım savaşı Osmanlı'ya bir gedik kazandırmadı. Bunu bir başarısızlık hikâyesi olarak küçümsemek de yanlış olur: Savunmayı oyaladı, insanları yeraltını korumaya zorladı. Ama şehrin kaderini yeraltı değil, yirmi dokuz Mayis'taki genel hücum belirledi. Genç bir kazıcının bunu kabul etmesi kolay değildir; emek her zaman sonuç vermez.
+Şimdi dürüst soruya gelelim: Bu kadar emek neden surları yıkmadı? Çünkü Bizans savunması karşı-lağım işini ciddiye aldı; Grant ve yanındakiler tünellerin çoğunu zamanında buldu. Toprak ve kaya yapısı da her yerde kazıcıların istediği gibi davranmadı. Bazı tüneller ulaşti ama kapatıldı. Yani lağım savaşı Osmanlı'ya bir gedik kazandırmadı. Bunu bir başarısızlık hikâyesi olarak küçümsemek de yanlış olur: Savunmayı oyaladı, insanları yeraltını korumaya zorladı. Ama şehrin kaderini yeraltı değil, yirmi dokuz Mayıs'taki genel hücum belirledi. Genç bir kazıcının bunu kabul etmesi kolay değildir; emek her zaman sonuç vermez.
 
 ## 15 — 1453'ten kayıt yok; modern analoji
 
@@ -72,7 +72,7 @@ Yeraltında çalışırken yukarıda da hayat sürer. Sur üstünde nöbetçiler
 
 ## 18 — 29 Mayıs'a giderken
 
-Kuşatmanın son günlerine gelinirken lağım işi artık eski önemini yitirmişti. Tünellerin çoğu bulunmuş, kapatılmış ya da bırakılmıştı. Ordunun gözü genel hücuma çevrilmişti. Yirmi sekiz Mayis'i yirmi dokuza bağlayan gece, iki taraf için de uykusuz geçti. Benim hayalî hikâyemde o gece tünelde değilim; yukarıda bekleyenlerin arasındayım. Belgelenmiş bir tanık olmadığımı yine söyleyeyim. Ama şunu biliyorum: Şehrin kaderi o sabah, surların üstünde ve önlerinde belirlendi. Yeraltında kazdığımız yollar şehri düşürmedi; yine de o yolları kazan insanların emeği kuşatmanın bir parçasıydı.
+Kuşatmanın son günlerine gelinirken lağım işi artık eski önemini yitirmişti. Tünellerin çoğu bulunmuş, kapatılmış ya da bırakılmıştı. Ordunun gözü genel hücuma çevrilmişti. Yirmi sekiz Mayıs'i yirmi dokuza bağlayan gece, iki taraf için de uykusuz geçti. Benim hayalî hikâyemde o gece tünelde değilim; yukarıda bekleyenlerin arasındayım. Belgelenmiş bir tanık olmadığımı yine söyleyeyim. Ama şunu biliyorum: Şehrin kaderi o sabah, surların üstünde ve önlerinde belirlendi. Yeraltında kazdığımız yollar şehri düşürmedi; yine de o yolları kazan insanların emeği kuşatmanın bir parçasıydı.
 
 ## 19 — Bir tünelin sonu
 
