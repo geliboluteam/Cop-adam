@@ -1,7 +1,7 @@
 # B032 — EDİRNE'NİN FETHİ'NDE YENİÇERİ OLSAYDIM
 
 > Kullanıcı seçimi, 23 Ekim 2026: "Diğer işlemleri durdur, dediğimi yap." Moğol dahil bütün bekleyen işler durdu; bu konu öne geçti.
-> **DURUM: İLK KOSTÜM GÖRSELİ (Fetih tarzı) / KULLANICI ONAYI BEKLENİYOR — 23 Ekim 2026.**
+> **DURUM: KULLANICI ONAYLADI ('Devam et', 23 Ekim 2026). 20 sahne metni yazıldı; görsel toplu üretimde.**
 >
 > **Kullanıcı stil talimatı (23 Ekim 2026):** Son düz çizimler reddedildi. Görseller **ilk İstanbul Fetih bölümlerinin (B001–B004) boyanmış sinematik dilinde** olacak; sesler **ortama göre**: Fetih formülü — lisanslı müzik + sahneye uygun ambiyans/efektler, MODERN ANALOJİ etiketi ve tam künye.
 
