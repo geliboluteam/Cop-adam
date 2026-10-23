@@ -1,0 +1,52 @@
+{
+  "episode": "B032",
+  "topic": "Edirne'nin Fethi'nde yeniçeri olsaydım",
+  "stage": "ILK_KOSTUM_GORSELI_FETIH_TARZI_KULLANICI_ONAYI_BEKLENIYOR",
+  "date": "2026-10-23",
+  "user_style_directive": {
+    "date": "2026-10-23",
+    "text": "Urettigin gorselleri begenmedim; ilk Istanbul fetih tarzinda ayni sekilde gorseller ile devam et, ortama gore sesler",
+    "visual": "B001-B004 Fetih bolumlerinin boyali sinematik dili: sisli safak, katmanli derinlik, doku, dramatik isik",
+    "sound": "Fetih formulu: 0 A.D. The_Hellespont muzik (-21dB) + sahne ortamina gore lisansli ambiyans/efektler (ruzgar, su, ordugah, kus), MODERN ANALOJİ etiketi; kaynak SFX-KUNYEde"
+  },
+  "format": {
+    "long_only": true,
+    "shorts": false,
+    "scene_target": 20,
+    "image_target": 25,
+    "double_scenes": [
+      "s04",
+      "s08",
+      "s13",
+      "s15",
+      "s19"
+    ],
+    "duration_range_seconds": [
+      300,
+      720
+    ],
+    "voice_id": "voice-03"
+  },
+  "user_costume_approved": false,
+  "produced_image_count": 1,
+  "images": [
+    {
+      "id": "s01",
+      "file": "bolumler/032-edirne-fethi-yeniceri/uzun/gorseller/s01.png",
+      "sha256": "d528f81edbd6518322ab7bdccd1765ee9e4c50c3325aab52ed6b2726b8d4caec",
+      "model_output_dimensions": [
+        1376,
+        768
+      ],
+      "model_output_sha256": "fb9761ebefbd1f9046a9364a7c8cdce8922c6846096610d50ee20861dc9f8a10",
+      "characters": 5,
+      "technical_anatomy": "STYLE_APPROVAL_PENDING; known notes: distant hazy skyline and messenger two hands on paper to be fixed in bulk production prompts",
+      "user_style_approval": "PENDING"
+    }
+  ],
+  "next": [
+    "Kullanici Fetih tarzi/kostum onaylar veya duzeltir",
+    "20 sahne metni + 25 gorsel ayni tarzda",
+    "Sesler: voice-03 + ortama gore lisansli ambiyans/muzik (Fetih formulu)"
+  ]
+}

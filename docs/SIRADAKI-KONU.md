@@ -37,3 +37,14 @@
 - Bu kapılar geçilmeden “komple bitti” denmeyecek ve sonraki konu sorusu erkene alınmayacak.
 
 **Şu anki durum:** B031 Samuray TESLİM EDİLDİ (11:18, 25/25 görsel, 20 ses, kapak v4, QA PASS). Sıradaki kullanıcı seçimi: **B032 Moğol ordusu şehrime yaklaşırken** — üretim Samuray tesliminden sonra başlayacak.
+
+---
+
+## Kullanıcı kararı — 23 Ekim 2026: "Diğer işlemleri durdur, dediğimi yap"
+
+Kullanıcı Moğol dahil bekleyen bütün işleri durdurup şu konuyu doğrudan seçti:
+
+> Edirne'nin Fethi'nde yeniçeri olsaydım
+
+- **B032 artık bu konudur.** Moğol konusu silinmedi; önceki kullanıcı seçimi olarak kayıtta durur ama üretim sırası Edirne'nindir.
+- Kritik kronoloji: fetih yılı tartışmalı (1361/1369); Yeniçeri Ocağı fetihten sonra 1360'larda kuruldu. Bölüm anakronizmi gizlemez; Meraklı ocağın ilk yıllarında Edirne'ye gelen genç neferdir. Ayrıntı: `arastirma/032-uzun-edirne-yeniceri.md`.
