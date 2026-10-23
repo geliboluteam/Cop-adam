@@ -2,7 +2,7 @@
   "episode": "B031",
   "topic": "Samuray olarak Japonya’da bir kalenin savunmasına katılsaydım saldırı başladığında ne yapardım?",
   "roadmap": "YOL33/Konu40",
-  "stage": "GRUP2_QA_TAMAM_SON_GRUP_BEKLIYOR",
+  "stage": "GRUP3_QA_TAMAM_IKI_REGEN_KALDI",
   "date": "2026-10-22",
   "editorial_setting": {
     "place": "Toyotomi dönemi Osaka",
@@ -33,8 +33,8 @@
   "user_costume_approved": true,
   "user_costume_approval_gate": "s01 kullanıcıya gösterildikten sonraki Devam yanıtıyla ONAYLANDI",
   "produced_image_count": 17,
-  "technical_anatomy_pass_count": 15,
-  "remaining_image_count": 10,
+  "technical_anatomy_pass_count": 23,
+  "remaining_image_count": 2,
   "narration_count": 20,
   "rendered": false,
   "cover_v4_produced": false,
@@ -87,13 +87,12 @@
     {
       "id": "s04b",
       "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s04b.png",
-      "sha256": "d6c11d2078c06c3baa3d5302341ea0145bbc39a5e51fff8f49866ba85137d5e1",
+      "sha256": "1d62662d739a5e17291b0156cd5166ebe8eb6e011f06176394c6ac7917909165",
       "width": 1920,
       "height": 1080,
       "characters": 5,
       "hands": 10,
-      "feet": 10,
-      "technical_anatomy": "REGEN_PENDING_OLCEK_UYUMSUZ_KOMPOZIT"
+      "technical_anatomy": "PASS"
     },
     {
       "id": "s05",
@@ -129,16 +128,6 @@
       "technical_anatomy": "PASS"
     },
     {
-      "id": "s04b",
-      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s04b.png",
-      "sha256": "1d62662d739a5e17291b0156cd5166ebe8eb6e011f06176394c6ac7917909165",
-      "width": 1920,
-      "height": 1080,
-      "characters": 5,
-      "hands": 10,
-      "technical_anatomy": "PASS"
-    },
-    {
       "id": "s08",
       "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s08.png",
       "sha256": "9ceef20298b680c0feab5fdb65b1bd05afbabce0f39e9650eff68124c9c2b279",
@@ -171,12 +160,12 @@
     {
       "id": "s10",
       "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s10.png",
-      "sha256": "f19e483b290b73298e3912f37ce92f43151da0efe5d8be4361bd45e1acaae8d5",
-      "width": 1376,
-      "height": 768,
+      "sha256": "174aad289dda72dad3338e6ac211440fd2e8a552b753b862f8a26bfcd9f2785b",
+      "width": 1920,
+      "height": 1080,
       "characters": 5,
       "hands": 10,
-      "technical_anatomy": "REJECTED_REGEN_PENDING"
+      "technical_anatomy": "PASS"
     },
     {
       "id": "s11",
@@ -201,12 +190,12 @@
     {
       "id": "s12b",
       "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s12b.png",
-      "sha256": "c0e5fda2af1a45f573f96c6509cbf073c148e6f02b863657f66307409c11eb33",
+      "sha256": "5ce5b5765320d963e57ddd74ba3fc963e04e1bb83afe7f9174cd3981c7ada7e3",
       "width": 1376,
       "height": 768,
       "characters": 5,
       "hands": 10,
-      "technical_anatomy": "REJECTED_REGEN_PENDING"
+      "technical_anatomy": "REJECTED_REGEN_PENDING_TEN_RENGI_YUZ"
     },
     {
       "id": "s13",
@@ -227,6 +216,86 @@
       "characters": 6,
       "hands": 12,
       "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s15",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s15.png",
+      "sha256": "8b05212fec5d33c3a06bef19bce5a6076d6a30c53b2bdfc8068e7043c35334a2",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s15b",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s15b.png",
+      "sha256": "1763c8f5706d8b5e9eb5687ddbad6ca9477f19618660f5bcbca27e276e621457",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s16",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s16.png",
+      "sha256": "0ec76e64283bdbfdc48988638c17a6c44658f60c57928a8eb7d150e4844efe1a",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s17",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s17.png",
+      "sha256": "e1a7c33adf0e4597dbc34a90cd38d3622578b04e14fd6224b48db04cee10ff3c",
+      "width": 1376,
+      "height": 768,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "REJECTED_REGEN_PENDING_MERAKLI_AYAK_KIRPIK"
+    },
+    {
+      "id": "s18",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s18.png",
+      "sha256": "16d8ece2e9bfe6f0f81d2431a4f22265f558c36c99924e89acb04ef09db699b1",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s19",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s19.png",
+      "sha256": "1691f10d68ca73bb52a0a8e79bee4eec03dd004d99417f709c442fc769faaf91",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s19b",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s19b.png",
+      "sha256": "9ede1a428d3659b25cb9f42d937a1d019633df627853c9a1a57c914d6b652f89",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s20",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s20.png",
+      "sha256": "17c553797a8a5572def9e1742a65b11a4c0e2d7648fb8d292494fbaa60502ab8",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "PASS"
     }
   ],
   "research": "arastirma/031-uzun-samuray-kale-savunmasi.md",
@@ -238,10 +307,10 @@
   ],
   "audio_provenance_policy": "1614ten gerçek ses kaydı yok; modern foley ancak kaynak/lisans doğrulanarak MODERN ANALOJİ etiketiyle",
   "next": [
-    "s10 ve s12b yeniden uretim (red nedenleri GORSEL-QA-GRUP2)",
-    "s15,s15b,s16,s17,s18,s19,s19b,s20 (8 gorsel)",
+    "s12b regen: iki yan figurde ten rengi yuz",
+    "s17 regen: Merakli ayaklari kirpik",
     "Final plan.json + render + kapak v4 + YAYIN + SFX kunye + teknik QA",
-    "Teslim sonrasi: Hangi konuya devam edelim? sorusu"
+    "Teslim sonrasi B032 kullanici secimi: Mogol ordusu sehrime yaklasirken (docs/SIRADAKI-KONU.md)"
   ],
   "user_costume_approval_date": "2026-10-23",
   "user_costume_approval_reply": "Devam",

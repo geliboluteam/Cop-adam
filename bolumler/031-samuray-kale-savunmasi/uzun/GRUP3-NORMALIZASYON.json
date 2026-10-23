@@ -1,0 +1,74 @@
+[
+  {
+    "id": "s10",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "dd4d26beaef7530cdbd3bc66c2a07576cafa36b3dc2a8c399c30679b44499e43",
+    "normalized_sha256": "174aad289dda72dad3338e6ac211440fd2e8a552b753b862f8a26bfcd9f2785b"
+  },
+  {
+    "id": "s15",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "636f27b83785c66f108e18c85f13cbec152f68a57ea4675604cdeac8136f1759",
+    "normalized_sha256": "8b05212fec5d33c3a06bef19bce5a6076d6a30c53b2bdfc8068e7043c35334a2"
+  },
+  {
+    "id": "s15b",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "c5df56381c996bd9e2593741d2bb1d8194ff2373f6395ff26630bd3d1f8b4095",
+    "normalized_sha256": "1763c8f5706d8b5e9eb5687ddbad6ca9477f19618660f5bcbca27e276e621457"
+  },
+  {
+    "id": "s16",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "6087aa418553e32c5e01569fca61c8fcb72ebcb164b2fe9781309085ddef0d4e",
+    "normalized_sha256": "0ec76e64283bdbfdc48988638c17a6c44658f60c57928a8eb7d150e4844efe1a"
+  },
+  {
+    "id": "s18",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "c578d6e215543d5a42bc14d075b857ea0accfa718810675372e08d759680ef16",
+    "normalized_sha256": "16d8ece2e9bfe6f0f81d2431a4f22265f558c36c99924e89acb04ef09db699b1"
+  },
+  {
+    "id": "s19",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "c1bdd7252007200aeb8b3ca1408eff178a3645b013adf164e0f7fe80dff58a2a",
+    "normalized_sha256": "1691f10d68ca73bb52a0a8e79bee4eec03dd004d99417f709c442fc769faaf91"
+  },
+  {
+    "id": "s19b",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "d12fedf90eacce5676a30b648122712e14cb1c3555109bf787917399df571b3a",
+    "normalized_sha256": "9ede1a428d3659b25cb9f42d937a1d019633df627853c9a1a57c914d6b652f89"
+  },
+  {
+    "id": "s20",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "7450331244242dc959c961b7284b9a3316037fe1d9bebd024004625c792833b8",
+    "normalized_sha256": "17c553797a8a5572def9e1742a65b11a4c0e2d7648fb8d292494fbaa60502ab8"
+  }
+]
