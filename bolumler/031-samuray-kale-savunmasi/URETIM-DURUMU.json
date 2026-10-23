@@ -2,7 +2,7 @@
   "episode": "B031",
   "topic": "Samuray olarak Japonya’da bir kalenin savunmasına katılsaydım saldırı başladığında ne yapardım?",
   "roadmap": "YOL33/Konu40",
-  "stage": "BIRINCI_GRUP_QA_TAMAM_IKINCI_GRUP_BEKLIYOR",
+  "stage": "GRUP2_QA_TAMAM_SON_GRUP_BEKLIYOR",
   "date": "2026-10-22",
   "editorial_setting": {
     "place": "Toyotomi dönemi Osaka",
@@ -32,10 +32,10 @@
   },
   "user_costume_approved": true,
   "user_costume_approval_gate": "s01 kullanıcıya gösterildikten sonraki Devam yanıtıyla ONAYLANDI",
-  "produced_image_count": 8,
-  "technical_anatomy_pass_count": 7,
-  "remaining_image_count": 17,
-  "narration_count": 10,
+  "produced_image_count": 17,
+  "technical_anatomy_pass_count": 15,
+  "remaining_image_count": 10,
+  "narration_count": 20,
   "rendered": false,
   "cover_v4_produced": false,
   "publication_package_complete": false,
@@ -127,6 +127,106 @@
       "hands": 10,
       "feet": 10,
       "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s04b",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s04b.png",
+      "sha256": "1d62662d739a5e17291b0156cd5166ebe8eb6e011f06176394c6ac7917909165",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s08",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s08.png",
+      "sha256": "9ceef20298b680c0feab5fdb65b1bd05afbabce0f39e9650eff68124c9c2b279",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s08b",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s08b.png",
+      "sha256": "a6a6c4220ac6f7d3ab616e3d986be38b2c78bc0a00c16b05a294479f87d08dc5",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s09",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s09.png",
+      "sha256": "68624615faf12ad244d2eff248072bb3ab815dd3a9b96a74b8180d49d4e99e6c",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s10",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s10.png",
+      "sha256": "f19e483b290b73298e3912f37ce92f43151da0efe5d8be4361bd45e1acaae8d5",
+      "width": 1376,
+      "height": 768,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "REJECTED_REGEN_PENDING"
+    },
+    {
+      "id": "s11",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s11.png",
+      "sha256": "65a45c7bb3b37ea05b903b8f1d165079ed6cc2d1be10880f15e3696bee139703",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s12",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s12.png",
+      "sha256": "7ee79a87152f1598b311447df0cdde951346e4162c70bcc2b320825f314b1656",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s12b",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s12b.png",
+      "sha256": "c0e5fda2af1a45f573f96c6509cbf073c148e6f02b863657f66307409c11eb33",
+      "width": 1376,
+      "height": 768,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "REJECTED_REGEN_PENDING"
+    },
+    {
+      "id": "s13",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s13.png",
+      "sha256": "e49fbc2a3dccf748d3133b1a3a2fb5aa32dbd5771d7d63eda6776375af19d156",
+      "width": 1920,
+      "height": 1080,
+      "characters": 5,
+      "hands": 10,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s14",
+      "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s14.png",
+      "sha256": "3ee26bc211ae035d10cad9d864124b9206788cfb49f50fb325f316fdc650cb00",
+      "width": 1920,
+      "height": 1080,
+      "characters": 6,
+      "hands": 12,
+      "technical_anatomy": "PASS"
     }
   ],
   "research": "arastirma/031-uzun-samuray-kale-savunmasi.md",
@@ -138,13 +238,15 @@
   ],
   "audio_provenance_policy": "1614ten gerçek ses kaydı yok; modern foley ancak kaynak/lisans doğrulanarak MODERN ANALOJİ etiketiyle",
   "next": [
-    "s04b yeniden uretim (kompozit olcek uyumsuz)",
-    "s08,s08b,s09-s20,s12b,s15b,s19b gorselleri (17)",
-    "s11-s20 sesleri (10) - kota sonraki tur",
-    "Final plan/render/cover/YAYIN/QA"
+    "s10 ve s12b yeniden uretim (red nedenleri GORSEL-QA-GRUP2)",
+    "s15,s15b,s16,s17,s18,s19,s19b,s20 (8 gorsel)",
+    "Final plan.json + render + kapak v4 + YAYIN + SFX kunye + teknik QA",
+    "Teslim sonrasi: Hangi konuya devam edelim? sorusu"
   ],
   "user_costume_approval_date": "2026-10-23",
   "user_costume_approval_reply": "Devam",
-  "audio_decode_pass_count": 10,
-  "audio_raw_total_seconds": 409.06
+  "audio_decode_pass_count": 20,
+  "audio_raw_total_seconds": 807.11,
+  "audio_decoded_total_seconds": 806.0,
+  "duration_note": "20 ses ham 806sn; final sure 300-720sn icin silence-trim + yaklasik 1.14-1.15x atempo final planda hesaplanacak"
 }
