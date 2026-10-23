@@ -1,0 +1,581 @@
+{
+  "fps": 30,
+  "transition_frames": 12,
+  "narration_speed": 1.18,
+  "total_seconds": 678.1666666666666,
+  "scene_count": 20,
+  "scene_image_count": 25,
+  "separate_card_count": 4,
+  "scene_timing": [
+    {
+      "id": "s01",
+      "start": 5.2,
+      "narration_start": 5.7,
+      "narration_end": 34.897645833333335,
+      "end": 35.5,
+      "second_image_midpoint": null,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 29.197645833333333,
+      "narration_source_sha256": "289ad2ac03fa54eea816a2d3f9fcf95fc58ac85ad6b336f4b73787bab6190ce6"
+    },
+    {
+      "id": "s02",
+      "start": 35.1,
+      "narration_start": 35.6,
+      "narration_end": 67.85860416666667,
+      "end": 68.46666666666667,
+      "second_image_midpoint": null,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 32.258604166666665,
+      "narration_source_sha256": "dafeab0ed5625d6871705e06b6385acc1309c28e5a13d3dfd3db5dcf1f93d01e"
+    },
+    {
+      "id": "s03",
+      "start": 68.06666666666666,
+      "narration_start": 68.56666666666666,
+      "narration_end": 100.73964583333333,
+      "end": 101.36666666666666,
+      "second_image_midpoint": null,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 32.172979166666664,
+      "narration_source_sha256": "0578a21734a0b52bb9b48115b08b9e848dc22d06b1984539985ac9bf9b57ad2c"
+    },
+    {
+      "id": "s04",
+      "start": 100.96666666666667,
+      "narration_start": 101.46666666666667,
+      "narration_end": 133.89010416666667,
+      "end": 134.5,
+      "second_image_midpoint": 117.53333333333333,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 32.4234375,
+      "narration_source_sha256": "66867c8242436fca942e134db03a2c3ecc64aedab04823c2951e36b04013d07e"
+    },
+    {
+      "id": "s05",
+      "start": 134.1,
+      "narration_start": 134.6,
+      "narration_end": 167.82722916666665,
+      "end": 168.43333333333334,
+      "second_image_midpoint": null,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 33.22722916666667,
+      "narration_source_sha256": "09515764682ebb704ae6dc7ea96f04b5ea4a1fc35004f65f70af37ba6491fb93"
+    },
+    {
+      "id": "s06",
+      "start": 168.03333333333333,
+      "narration_start": 168.53333333333333,
+      "narration_end": 203.68464583333332,
+      "end": 204.3,
+      "second_image_midpoint": null,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 35.1513125,
+      "narration_source_sha256": "a26fdad9ae2d9dd7195340f71ac6edcdf22599d3ba86ed0a916cd559a83671d5"
+    },
+    {
+      "id": "s07",
+      "start": 203.9,
+      "narration_start": 204.4,
+      "narration_end": 238.00797916666667,
+      "end": 238.63333333333333,
+      "second_image_midpoint": null,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 33.60797916666667,
+      "narration_source_sha256": "72249090c9389d2d0be741893f6d2e0a993d51ee1b26efc94cb816a6035f90db"
+    },
+    {
+      "id": "s08",
+      "start": 238.23333333333332,
+      "narration_start": 238.73333333333332,
+      "narration_end": 272.26212499999997,
+      "end": 272.8666666666667,
+      "second_image_midpoint": 255.36666666666665,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 33.52879166666666,
+      "narration_source_sha256": "f37bec1adbfba1f36acfe618bfb6a8672150d46090336862dbb95186e5ef9937"
+    },
+    {
+      "id": "s09",
+      "start": 272.46666666666664,
+      "narration_start": 272.96666666666664,
+      "narration_end": 310.1236666666666,
+      "end": 310.73333333333335,
+      "second_image_midpoint": null,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 37.157,
+      "narration_source_sha256": "d0aa81ac9546a2dc03993ee222753329a5e37c7000ed8d4659f22943b29d3afc"
+    },
+    {
+      "id": "s10",
+      "start": 310.3333333333333,
+      "narration_start": 310.8333333333333,
+      "narration_end": 342.079125,
+      "end": 342.7,
+      "second_image_midpoint": null,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 31.245791666666666,
+      "narration_source_sha256": "ff6af1d638aa0dc4aa40a55db48aca590ab7830c9d58536e0eb275ce6a75a2bc"
+    },
+    {
+      "id": "s11",
+      "start": 342.3,
+      "narration_start": 342.8,
+      "narration_end": 371.8565208333333,
+      "end": 372.46666666666664,
+      "second_image_midpoint": null,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 29.056520833333334,
+      "narration_source_sha256": "fd9e2e71faf75c082c6d1d58b61329582470670ef7fc58b38ba27d8790a3cacf"
+    },
+    {
+      "id": "s12",
+      "start": 372.06666666666666,
+      "narration_start": 372.56666666666666,
+      "narration_end": 403.90749999999997,
+      "end": 404.53333333333336,
+      "second_image_midpoint": 388.09999999999997,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 31.340833333333332,
+      "narration_source_sha256": "91db71c8f14dfa0254cb87dd7c590a4b7918902b6abf0af57dbe2e110f6e795b"
+    },
+    {
+      "id": "s13",
+      "start": 404.1333333333333,
+      "narration_start": 404.6333333333333,
+      "narration_end": 437.12558333333334,
+      "end": 437.73333333333335,
+      "second_image_midpoint": null,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 32.49225,
+      "narration_source_sha256": "c4786b17fc240fd285b27a89c9cf30da8ac23adc49beea48326988e5fd9c7018"
+    },
+    {
+      "id": "s14",
+      "start": 437.3333333333333,
+      "narration_start": 437.8333333333333,
+      "narration_end": 472.38987499999996,
+      "end": 473.0,
+      "second_image_midpoint": null,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 34.55654166666667,
+      "narration_source_sha256": "25d420368b7f57c1bfc5d9bc6e8805bd85608b26f380c2ed0469d48a9c88b7a2"
+    },
+    {
+      "id": "s15",
+      "start": 472.6,
+      "narration_start": 473.1,
+      "narration_end": 505.3334375,
+      "end": 505.96666666666664,
+      "second_image_midpoint": 489.06666666666666,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 32.2334375,
+      "narration_source_sha256": "079efc6f8056431162eaff545102bb61a6e806d7445be51540cc082b4ec1eb29"
+    },
+    {
+      "id": "s16",
+      "start": 505.56666666666666,
+      "narration_start": 506.06666666666666,
+      "narration_end": 540.1537708333333,
+      "end": 540.7666666666667,
+      "second_image_midpoint": null,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 34.08710416666667,
+      "narration_source_sha256": "5b64c740da37e48b2737ada7ffeeebaf5769fbabb6434fe9e5a39fc2d9da8705"
+    },
+    {
+      "id": "s17",
+      "start": 540.3666666666667,
+      "narration_start": 540.8666666666667,
+      "narration_end": 571.2342083333333,
+      "end": 571.8666666666667,
+      "second_image_midpoint": null,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 30.367541666666668,
+      "narration_source_sha256": "75f0e6f326726970c88550bd6f22be8f401f3fc2a413890fd40f4bf32e20a1f1"
+    },
+    {
+      "id": "s18",
+      "start": 571.4666666666667,
+      "narration_start": 571.9666666666667,
+      "narration_end": 606.1781458333334,
+      "end": 606.8,
+      "second_image_midpoint": null,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 34.21147916666666,
+      "narration_source_sha256": "f48d1771ed29a988f432f39c8c0c17bad503b9487540ddd71145c8477ff40853"
+    },
+    {
+      "id": "s19",
+      "start": 606.4,
+      "narration_start": 606.9,
+      "narration_end": 640.1226666666666,
+      "end": 640.7333333333333,
+      "second_image_midpoint": 623.3666666666667,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 33.22266666666667,
+      "narration_source_sha256": "0e494b958c8c9f576e58a5c12a0f1d4709fc179fb1805dc7d491d74033c9431a"
+    },
+    {
+      "id": "s20",
+      "start": 640.3333333333334,
+      "narration_start": 640.8333333333334,
+      "narration_end": 670.8581250000001,
+      "end": 671.4666666666667,
+      "second_image_midpoint": null,
+      "narration_speed": 1.18,
+      "narration_pcm_seconds": 30.024791666666665,
+      "narration_source_sha256": "585bca3f1aab1e7afe73f9a3aeb3c33f18f30acb6f0706fd00e3d8763867dc0d"
+    }
+  ],
+  "clips": [
+    {
+      "id": "giris",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/kartlar/giris.png",
+      "frames": 105,
+      "start_frame": 0,
+      "end_frame": 105
+    },
+    {
+      "id": "tarih",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/kartlar/tarih.png",
+      "frames": 75,
+      "start_frame": 93,
+      "end_frame": 168
+    },
+    {
+      "id": "s01",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s01.png",
+      "frames": 909,
+      "start_frame": 156,
+      "end_frame": 1065
+    },
+    {
+      "id": "s02",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s02.png",
+      "frames": 1001,
+      "start_frame": 1053,
+      "end_frame": 2054
+    },
+    {
+      "id": "s03",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s03.png",
+      "frames": 999,
+      "start_frame": 2042,
+      "end_frame": 3041
+    },
+    {
+      "id": "s04",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s04.png",
+      "frames": 503,
+      "start_frame": 3029,
+      "end_frame": 3532
+    },
+    {
+      "id": "s04b",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s04b.png",
+      "frames": 515,
+      "start_frame": 3520,
+      "end_frame": 4035
+    },
+    {
+      "id": "s05",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s05.png",
+      "frames": 1030,
+      "start_frame": 4023,
+      "end_frame": 5053
+    },
+    {
+      "id": "s06",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s06.png",
+      "frames": 1088,
+      "start_frame": 5041,
+      "end_frame": 6129
+    },
+    {
+      "id": "s07",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s07.png",
+      "frames": 1042,
+      "start_frame": 6117,
+      "end_frame": 7159
+    },
+    {
+      "id": "s08",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s08.png",
+      "frames": 520,
+      "start_frame": 7147,
+      "end_frame": 7667
+    },
+    {
+      "id": "s08b",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s08b.png",
+      "frames": 531,
+      "start_frame": 7655,
+      "end_frame": 8186
+    },
+    {
+      "id": "s09",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s09.png",
+      "frames": 1148,
+      "start_frame": 8174,
+      "end_frame": 9322
+    },
+    {
+      "id": "s10",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s10.png",
+      "frames": 971,
+      "start_frame": 9310,
+      "end_frame": 10281
+    },
+    {
+      "id": "s11",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s11.png",
+      "frames": 905,
+      "start_frame": 10269,
+      "end_frame": 11174
+    },
+    {
+      "id": "s12",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s12.png",
+      "frames": 487,
+      "start_frame": 11162,
+      "end_frame": 11649
+    },
+    {
+      "id": "s12b",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s12b.png",
+      "frames": 499,
+      "start_frame": 11637,
+      "end_frame": 12136
+    },
+    {
+      "id": "s13",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s13.png",
+      "frames": 1008,
+      "start_frame": 12124,
+      "end_frame": 13132
+    },
+    {
+      "id": "s14",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s14.png",
+      "frames": 1070,
+      "start_frame": 13120,
+      "end_frame": 14190
+    },
+    {
+      "id": "s15",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s15.png",
+      "frames": 500,
+      "start_frame": 14178,
+      "end_frame": 14678
+    },
+    {
+      "id": "s15b",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s15b.png",
+      "frames": 513,
+      "start_frame": 14666,
+      "end_frame": 15179
+    },
+    {
+      "id": "s16",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s16.png",
+      "frames": 1056,
+      "start_frame": 15167,
+      "end_frame": 16223
+    },
+    {
+      "id": "s17",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s17.png",
+      "frames": 945,
+      "start_frame": 16211,
+      "end_frame": 17156
+    },
+    {
+      "id": "s18",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s18.png",
+      "frames": 1060,
+      "start_frame": 17144,
+      "end_frame": 18204
+    },
+    {
+      "id": "s19",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s19.png",
+      "frames": 515,
+      "start_frame": 18192,
+      "end_frame": 18707
+    },
+    {
+      "id": "s19b",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s19b.png",
+      "frames": 527,
+      "start_frame": 18695,
+      "end_frame": 19222
+    },
+    {
+      "id": "s20",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s20.png",
+      "frames": 934,
+      "start_frame": 19210,
+      "end_frame": 20144
+    },
+    {
+      "id": "kapanis",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/kartlar/kapanis.png",
+      "frames": 105,
+      "start_frame": 20132,
+      "end_frame": 20237
+    },
+    {
+      "id": "abone",
+      "image": "bolumler/031-samuray-kale-savunmasi/uzun/kartlar/abone.png",
+      "frames": 120,
+      "start_frame": 20225,
+      "end_frame": 20345
+    }
+  ],
+  "tracks": [
+    {
+      "t": 5.7,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s01",
+      "duration": 29.197645833333333
+    },
+    {
+      "t": 35.6,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s02",
+      "duration": 32.258604166666665
+    },
+    {
+      "t": 68.56666666666666,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s03",
+      "duration": 32.172979166666664
+    },
+    {
+      "t": 101.46666666666667,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s04",
+      "duration": 32.4234375
+    },
+    {
+      "t": 134.6,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s05",
+      "duration": 33.22722916666667
+    },
+    {
+      "t": 168.53333333333333,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s06",
+      "duration": 35.1513125
+    },
+    {
+      "t": 204.4,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s07",
+      "duration": 33.60797916666667
+    },
+    {
+      "t": 238.73333333333332,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s08",
+      "duration": 33.52879166666666
+    },
+    {
+      "t": 272.96666666666664,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s09",
+      "duration": 37.157
+    },
+    {
+      "t": 310.8333333333333,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s10",
+      "duration": 31.245791666666666
+    },
+    {
+      "t": 342.8,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s11",
+      "duration": 29.056520833333334
+    },
+    {
+      "t": 372.56666666666666,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s12",
+      "duration": 31.340833333333332
+    },
+    {
+      "t": 404.6333333333333,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s13",
+      "duration": 32.49225
+    },
+    {
+      "t": 437.8333333333333,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s14",
+      "duration": 34.55654166666667
+    },
+    {
+      "t": 473.1,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s15",
+      "duration": 32.2334375
+    },
+    {
+      "t": 506.06666666666666,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s16",
+      "duration": 34.08710416666667
+    },
+    {
+      "t": 540.8666666666667,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s17",
+      "duration": 30.367541666666668
+    },
+    {
+      "t": 571.9666666666667,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s18",
+      "duration": 34.21147916666666
+    },
+    {
+      "t": 606.9,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s19",
+      "duration": 33.22266666666667
+    },
+    {
+      "t": 640.8333333333334,
+      "gain_db": 0,
+      "type": "narration",
+      "scene": "s20",
+      "duration": 30.024791666666665
+    }
+  ],
+  "music_used": false,
+  "external_sfx_used": false,
+  "subtitles": false
+}

@@ -10,7 +10,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 - Samuray sorusu: **“Samuray olarak Japonya’da bir kalenin savunmasına katılsaydım saldırı başladığında ne yapardım?”**
 - Ana karakter, olaydaki yan karakterler ve görseller **İstanbul'un Fethi bölümlerinin tarzını** referans alacak; Japon dönem kıyafeti/mimarisi araştırmaya göre, ilk kostüm görseli kullanıcı onaylı.
 - **Samuray paketi tamamen teslim edilince “Hangi konuya devam edelim?” diye sor.** Cevap almadan başka konuya otomatik geçme; samuray zaten seçildiği için bu soruyu şimdi/Apollo11 sonunda tekrar sorma.
-- Ayrıntılı bağlayıcı kayıt: `docs/SIRADAKI-KONU.md`. B030 teslim/QA tamam; B031 Osaka 1614 kış seferi hazırlığı ve ilk kostüm görseli hazır, kullanıcı onayı bekleniyor.
+- Ayrıntılı bağlayıcı kayıt: `docs/SIRADAKI-KONU.md`. B030 teslim/QA tamam; B031 teslim/QA tamam; sıradaki B032 Moğol (kullanıcı seçimi).
 
 ## PAKET DÜZENİ (yeni format)
 
@@ -68,7 +68,7 @@ Durum: 🟥 üretimde · 🟧 sıradaki · ⬜ planlandı
 | 30 | 37 | Orta Çağ | Manastırda el yazması kopyalayan keşiş | ⬜ |
 | 31 | 45 | Orta Çağ | Kalede kuşatma aşçısı: yüzlere yemek | ⬜ |
 | 32 | 27 | Orta Çağ | Kaleye sızan casus | ⬜ |
-| 33 | 40 | Japonya | Samuray: kale savunması başladığında ne yapardım? | 🟥 B031 HAZIRLIK: Osaka 1614 kış seferi; 20 sahne/25 görsel taslak; s01 5 figür/10 ayrı el teknik PASS, kullanıcı kostüm/stil onayı bekleniyor. Kalan24 görsel/ses/video/kapak yok. Kullanıcı isteğiyle B030 ardından öne alındı; tüm Seri D başlamaz |
+| 33 | 40 | Japonya | Samuray: kale savunması başladığında ne yapardım? | ✅ B031 TESLİM: Osaka 1614 kış/1615 yaz ayrı; 11:18 uzun, 25/25 görsel PASS, 20 voice-03, kapak v4, QA PASS. Sıradaki kullanıcı seçimi B032 Moğol ordusu |
 | 34 | 47 | Eski Mısır | Nil taşkınında çiftçi: tarla ve ev koruması | ⬜ |
 | 35 | 38 | 1519, Tenochtitlan | Aztek başkentine ilk gelen tüccar | ⬜ |
 | 36 | 39b/İnka | İnka | Dağ yollarında ulak (chaski): mesajı yetiştirir miyim | ⬜ |

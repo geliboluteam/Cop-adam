@@ -70,5 +70,23 @@
     ],
     "model_output_sha256": "7450331244242dc959c961b7284b9a3316037fe1d9bebd024004625c792833b8",
     "normalized_sha256": "17c553797a8a5572def9e1742a65b11a4c0e2d7648fb8d292494fbaa60502ab8"
+  },
+  {
+    "id": "s12b",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "7192f27794207c474dfdbf1e80284afba0e8a8fe98958016ad374d0941efcae2",
+    "normalized_sha256": "171ed77356debf49eab4db1156c03049cfd7d1919e0c157b54c947782792a414"
+  },
+  {
+    "id": "s17",
+    "model_output_dimensions": [
+      1376,
+      768
+    ],
+    "model_output_sha256": "7bcc65af9c09cedc74ab01dabff6e8926fbbe25c863da98df4430ee5e016b459",
+    "normalized_sha256": "297038b5e680e3af1dfc9208afd6110bffd86f122452adac5bfafb7d58c2fc9e"
   }
 ]

@@ -2,7 +2,7 @@
   "episode": "B031",
   "topic": "Samuray olarak Japonya’da bir kalenin savunmasına katılsaydım saldırı başladığında ne yapardım?",
   "roadmap": "YOL33/Konu40",
-  "stage": "GRUP3_QA_TAMAM_IKI_REGEN_KALDI",
+  "stage": "TAMAMLANDI_TESLIM",
   "date": "2026-10-22",
   "editorial_setting": {
     "place": "Toyotomi dönemi Osaka",
@@ -32,13 +32,13 @@
   },
   "user_costume_approved": true,
   "user_costume_approval_gate": "s01 kullanıcıya gösterildikten sonraki Devam yanıtıyla ONAYLANDI",
-  "produced_image_count": 17,
-  "technical_anatomy_pass_count": 23,
-  "remaining_image_count": 2,
+  "produced_image_count": 25,
+  "technical_anatomy_pass_count": 25,
+  "remaining_image_count": 0,
   "narration_count": 20,
-  "rendered": false,
-  "cover_v4_produced": false,
-  "publication_package_complete": false,
+  "rendered": true,
+  "cover_v4_produced": true,
+  "publication_package_complete": true,
   "images": [
     {
       "id": "s01",
@@ -190,12 +190,12 @@
     {
       "id": "s12b",
       "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s12b.png",
-      "sha256": "5ce5b5765320d963e57ddd74ba3fc963e04e1bb83afe7f9174cd3981c7ada7e3",
-      "width": 1376,
-      "height": 768,
+      "sha256": "171ed77356debf49eab4db1156c03049cfd7d1919e0c157b54c947782792a414",
+      "width": 1920,
+      "height": 1080,
       "characters": 5,
       "hands": 10,
-      "technical_anatomy": "REJECTED_REGEN_PENDING_TEN_RENGI_YUZ"
+      "technical_anatomy": "PASS"
     },
     {
       "id": "s13",
@@ -250,12 +250,12 @@
     {
       "id": "s17",
       "file": "bolumler/031-samuray-kale-savunmasi/uzun/gorseller/s17.png",
-      "sha256": "e1a7c33adf0e4597dbc34a90cd38d3622578b04e14fd6224b48db04cee10ff3c",
-      "width": 1376,
-      "height": 768,
+      "sha256": "297038b5e680e3af1dfc9208afd6110bffd86f122452adac5bfafb7d58c2fc9e",
+      "width": 1920,
+      "height": 1080,
       "characters": 5,
       "hands": 10,
-      "technical_anatomy": "REJECTED_REGEN_PENDING_MERAKLI_AYAK_KIRPIK"
+      "technical_anatomy": "PASS"
     },
     {
       "id": "s18",
@@ -307,15 +307,16 @@
   ],
   "audio_provenance_policy": "1614ten gerçek ses kaydı yok; modern foley ancak kaynak/lisans doğrulanarak MODERN ANALOJİ etiketiyle",
   "next": [
-    "s12b regen: iki yan figurde ten rengi yuz",
-    "s17 regen: Merakli ayaklari kirpik",
-    "Final plan.json + render + kapak v4 + YAYIN + SFX kunye + teknik QA",
-    "Teslim sonrasi B032 kullanici secimi: Mogol ordusu sehrime yaklasirken (docs/SIRADAKI-KONU.md)"
+    "B032 kullanici secimi: Mogol ordusu sehrime yaklasirken orada olsaydim ne yapardim? (docs/SIRADAKI-KONU.md)"
   ],
   "user_costume_approval_date": "2026-10-23",
   "user_costume_approval_reply": "Devam",
   "audio_decode_pass_count": 20,
   "audio_raw_total_seconds": 807.11,
   "audio_decoded_total_seconds": 806.0,
-  "duration_note": "20 ses ham 806sn; final sure 300-720sn icin silence-trim + yaklasik 1.14-1.15x atempo final planda hesaplanacak"
+  "duration_note": "20 ses ham 806sn; final sure 300-720sn icin silence-trim + yaklasik 1.14-1.15x atempo final planda hesaplanacak",
+  "final_video": "bolumler/031-samuray-kale-savunmasi/uzun/merakli-031-uzun-samuray-kale-savunmasi.mp4",
+  "final_duration_seconds": 678.2,
+  "final_duration_mmss": "11:18",
+  "final_sha256": "8f976d025ae79a26a553d5d5ae1afd6c72a03a675c2fa400f77841e6a7e19d52"
 }

@@ -70,6 +70,7 @@ BOLUMLER = {
     "028": dict(buyuk="KIPIRDAMA!\nTEK KARE", vurgu="1839 · FOTOĞRAF"),
     "029": dict(buyuk="12 SANİYE!\nİLK UÇUŞ", vurgu="1903 · WRIGHT", baslik_maxw=560, vurgu_maxw=460),
     "030": dict(buyuk="1202\nALARMI!", vurgu="1969 · APOLLO 11", baslik_maxw=650, vurgu_maxw=590),
+    "031": dict(buyuk="KALE\nSAVUNMASI!", vurgu="1614 · Osaka", baslik_maxw=650, vurgu_maxw=590),
 }
 
 

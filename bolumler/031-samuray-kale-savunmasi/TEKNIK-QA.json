@@ -1,0 +1,36 @@
+{
+  "episode": "B031",
+  "video": "bolumler/031-samuray-kale-savunmasi/uzun/merakli-031-uzun-samuray-kale-savunmasi.mp4",
+  "sha256": "8f976d025ae79a26a553d5d5ae1afd6c72a03a675c2fa400f77841e6a7e19d52",
+  "bytes": 36296805,
+  "duration_seconds": 678.2,
+  "duration_mmss": "11:18",
+  "video_stream": "1920x1080 30fps",
+  "full_decode": "PASS",
+  "faststart_moov_before_mdat": true,
+  "loudness": {
+    "integrated_LUFS": -14.01,
+    "true_peak_dBTP": -1.26,
+    "LRA": 4.0
+  },
+  "scenes": 20,
+  "images": 25,
+  "narrations": 20,
+  "voice_id": "voice-03",
+  "narration_speed": 1.18,
+  "external_sfx": false,
+  "music": false,
+  "subtitles": false,
+  "qa_frames": {
+    "giris": 1.5,
+    "tarih": 4.5,
+    "s01": 10,
+    "s04b_mid": 120.53333333333333,
+    "s12b_mid": 391.09999999999997,
+    "s19_winter": 615,
+    "s19b_summer": 626.3666666666667,
+    "kapanis": 674,
+    "abone": 677
+  },
+  "qa_frames_dir": "bolumler/031-samuray-kale-savunmasi/uzun/qa-kareleri"
+}

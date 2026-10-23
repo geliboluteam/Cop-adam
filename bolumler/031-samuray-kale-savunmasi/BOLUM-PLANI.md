@@ -1,7 +1,7 @@
 # B031 — SAMURAY: SALDIRI BAŞLADIĞINDA NE YAPARDIM?
 
 > YOL33 / Konu40 — kullanıcı isteğiyle Apollo 11'in ardından öne alındı.
-> **DURUM: KOSTÜM ONAYLANDI — 23 Ekim 2026 tarihli “Devam”; ilk üretim grubu başlatıldı.**
+> **DURUM: TAMAMLANDI / TESLİM — 23 Ekim 2026. 11:18 uzun video, 25 görsel, 20 ses, kapak v4, QA PASS.**
 > Toplu görsel üretimi, sesler, final video, yayın paketi ve kapak henüz yok.
 
 ## Çerçeve

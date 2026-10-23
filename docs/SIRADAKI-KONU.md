@@ -36,16 +36,4 @@
 - Nihai video + YouTube kapak v4 + YAYIN.md + kaynak/lisanslı ses künyesi + görsel/teknik QA + GitHub commit/push/uzak doğrulama tamamlanacak.
 - Bu kapılar geçilmeden “komple bitti” denmeyecek ve sonraki konu sorusu erkene alınmayacak.
 
-**Şu anki durum:** B030 Apollo 11 tamamlandı / `b428401`. **B031 Samuray hazırlıkta:** Osaka 1614 kış seferi araştırması, 20 sahne/25 görsel taslak akışı ve ilk kostüm görseli hazır. s01 teknik/anatomi PASS (5 figür/10 ayrı el); **kullanıcı kostüm/stil onayı bekleniyor**. Kalan 24 görsel, sesler, video ve kapak henüz yok. Sonraki konu sorusu ancak Samuray tüm paket tesliminden sonra.
-
----
-
-## Kullanıcı seçimi — Samuray sonrası Moğol konusu / 23 Ekim 2026
-
-Kullanıcı, Samuray bölümü sürerken sıradaki konuyu kendisi öne çekerek sordu:
-
-> Moğol ordusu şehrime yaklaşırken orada olsaydım ne yapardım?
-
-- Bu, **B032 için kullanıcı tarafından seçilmiş sıradaki konudur.** Samuray (B031) paketi tamamen teslim edilmeden Moğol üretimine başlanmayacak; teslimden sonra ayrıca konu sorusu sorulmasına gerek kalmadan bu seçim uygulanacak (kullanıcı isterse değiştirebilir).
-- Şehir/dönem henüz seçilmedi ve araştırılmadı. Moğol seferleri bağlamında şehir seçimi kaynaklarla gerekçelendirilecek; Meraklı kurgu gözlemci/sakin olarak ayrılacak, belgelenmiş tanık veya sonucu değiştiren kişi yapılmayacak. Şiddet/gore gösterimi yok; odak yaklaşan ordu karşısında şehirdeki sıradan insanın deneyimi, haberleşme, korku ve hazırlık olacak.
-- Aynı format kilitleri geçerli: yalnız uzun video 5–12 dk, 20 sahne/25 görsel, voice-03, kapak v4, GERÇEK/RİVAYET/KURGU/TEMSİLÎ ayrımı.
+**Şu anki durum:** B031 Samuray TESLİM EDİLDİ (11:18, 25/25 görsel, 20 ses, kapak v4, QA PASS). Sıradaki kullanıcı seçimi: **B032 Moğol ordusu şehrime yaklaşırken** — üretim Samuray tesliminden sonra başlayacak.
