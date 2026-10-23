@@ -1,7 +1,7 @@
 {
   "episode": "B033",
   "topic": "İstanbul'un Fethi'nde lağımcı olsaydım",
-  "stage": "GORSEL_GRUP2_QA_17_PASS_2_REGEN",
+  "stage": "GORSEL_QA_24_PASS_1_REGEN_S13B",
   "date": "2026-10-23",
   "format": {
     "long_only": true,
@@ -23,7 +23,7 @@
   },
   "style_lock": "B001 ilk bolum dili + B032 stil ornegi: buyuk kahraman on plan, parlak boyanmis okunakli sahne, ayni referans sablonu",
   "user_costume_approved": true,
-  "produced_image_count": 19,
+  "produced_image_count": 25,
   "images": [
     {
       "id": "s01",
@@ -132,9 +132,10 @@
     {
       "id": "s12",
       "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s12.png",
-      "technical_anatomy": "FAIL",
-      "reason": "FAIL: subayda uzun kahverengi cizme + bir kol gizli; yemeni/beyaz uzuvla yeniden",
-      "status": "REGEN_NEXT"
+      "sha256": "7e6c64ecb70a33ce10976d03d243b778d16ea9d0b7e037ef224f55248690f310",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS"
     },
     {
       "id": "s13",
@@ -148,7 +149,7 @@
       "id": "s13b",
       "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s13b.png",
       "technical_anatomy": "FAIL",
-      "reason": "FAIL: Merakli'nin eli kaya duvara temas ediyor; el havada/ayri yeniden",
+      "reason": "Arkadaki kucuk figurde kollar capraz/katli; kollar yanda ayri yeniden",
       "status": "REGEN_NEXT"
     },
     {
@@ -174,14 +175,62 @@
       "width": 1920,
       "height": 1080,
       "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s16",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s16.png",
+      "sha256": "599279e0a2990ccc90078741bf45a546473fc47dbd8686ad68c18e69b159281f",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s17",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s17.png",
+      "sha256": "b46909d5d2daf4ee2fd3c0242e5dfa19f6ccdd71ce20a649116437247e9caa0d",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s18",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s18.png",
+      "sha256": "9687d09a0a38ba40e2c77d56670b85244b89343e61ea1347dad4444871c69e09",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s19",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s19.png",
+      "sha256": "05a79ec1b863e628c77de86be866d6aa50d4e099aa5f988111b81a6d09a8b9fb",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s19b",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s19b.png",
+      "sha256": "3187559b22bf8286a68e4b538aaf4bb7731bc8ebd0d93bf3031a0006a25cd138",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS"
+    },
+    {
+      "id": "s20",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s20.png",
+      "sha256": "f90cdb2d0fcab91bf5375dc2d8c375bac6ec60251807fe81cbab6e560ccd03c9",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS"
     }
   ],
   "next": [
-    "Yeniden: s12, s13b",
-    "Kalan yeni: s16,s17,s18,s19,s19b,s20 (toplam 25)",
-    "voice-03 + Fetih ses formulu, render, kapak v4, muhur"
+    "Yeniden: s13b (son kare)",
+    "voice-03 20 anlatim kaydi",
+    "Fetih ses formulu ile render, QA, kapak v4, muhur"
   ],
   "user_costume_approval_gate": "s01 ornek gosterildi; kullanici 'Devam' ile onayladi",
   "narration_texts_written": 20,
-  "technical_anatomy_pass_count": 17
+  "technical_anatomy_pass_count": 24
 }
