@@ -1,7 +1,7 @@
 {
   "episode": "B032",
   "topic": "Edirne'nin Fethi'nde yeniçeri olsaydım",
-  "stage": "KULLANICI_ONAYLADI_METIN_YAZILDI_GORSEL_URETIMDE",
+  "stage": "GORSEL_GRUP1_QA_7_PASS_4_REGEN",
   "date": "2026-10-23",
   "user_style_directive": {
     "date": "2026-10-23",
@@ -28,26 +28,104 @@
     "voice_id": "voice-03"
   },
   "user_costume_approved": true,
-  "produced_image_count": 1,
+  "produced_image_count": 11,
   "images": [
     {
       "id": "s01",
       "file": "bolumler/032-edirne-fethi-yeniceri/uzun/gorseller/s01.png",
       "sha256": "d528f81edbd6518322ab7bdccd1765ee9e4c50c3325aab52ed6b2726b8d4caec",
-      "model_output_dimensions": [
-        1376,
-        768
-      ],
-      "model_output_sha256": "fb9761ebefbd1f9046a9364a7c8cdce8922c6846096610d50ee20861dc9f8a10",
-      "characters": 5,
-      "technical_anatomy": "STYLE_APPROVAL_PENDING; known notes: distant hazy skyline and messenger two hands on paper to be fixed in bulk production prompts",
-      "user_style_approval": "PENDING"
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS",
+      "user_style_approval": "APPROVED"
+    },
+    {
+      "id": "s02",
+      "file": "bolumler/032-edirne-fethi-yeniceri/uzun/gorseller/s02.png",
+      "sha256": "99b6715bfe214c692de9832f0272a24d7588857014fe8fdd9aa8b7403345ac89",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS",
+      "user_style_approval": "bulk style approved"
+    },
+    {
+      "id": "s03",
+      "file": "bolumler/032-edirne-fethi-yeniceri/uzun/gorseller/s03.png",
+      "sha256": "367101a78538f3dd5116de8f3f1d7d85c6aed4f2ebf38bfb8f10398b282dc257",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS",
+      "user_style_approval": "bulk style approved"
+    },
+    {
+      "id": "s05",
+      "file": "bolumler/032-edirne-fethi-yeniceri/uzun/gorseller/s05.png",
+      "sha256": "e5d536d4b70e4c0deb17e5173ccf24955c5524a5b633de9969474de3b4db0957",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS",
+      "user_style_approval": "bulk style approved"
+    },
+    {
+      "id": "s06",
+      "file": "bolumler/032-edirne-fethi-yeniceri/uzun/gorseller/s06.png",
+      "sha256": "5dc203213b910f4f40c8bc7dac3c1b371c2de31fb15b290e4172bf2118ce6ec1",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS",
+      "user_style_approval": "bulk style approved"
+    },
+    {
+      "id": "s08",
+      "file": "bolumler/032-edirne-fethi-yeniceri/uzun/gorseller/s08.png",
+      "sha256": "78c6bd08739d0c33664a036bf4adc941810bf90b3469fbc0dcc608fc0b1cf8d4",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS",
+      "user_style_approval": "bulk style approved"
+    },
+    {
+      "id": "s09",
+      "file": "bolumler/032-edirne-fethi-yeniceri/uzun/gorseller/s09.png",
+      "sha256": "dcc0b6799fce5814d6ecb8afac26be39309d04d0201151a8bc7a771850d61390",
+      "width": 1920,
+      "height": 1080,
+      "technical_anatomy": "PASS",
+      "user_style_approval": "bulk style approved"
+    },
+    {
+      "id": "s04",
+      "file": "bolumler/032-edirne-fethi-yeniceri/uzun/gorseller/s04.png",
+      "technical_anatomy": "FAIL",
+      "reason": "FAIL: dikey 768x1376 + kubbe silueti; yatay yeniden uretim",
+      "status": "REGEN_NEXT_TURN"
+    },
+    {
+      "id": "s04b",
+      "file": "bolumler/032-edirne-fethi-yeniceri/uzun/gorseller/s04b.png",
+      "technical_anatomy": "FAIL",
+      "reason": "FAIL: ikinci figurde de kirmizi fular",
+      "status": "REGEN_NEXT_TURN"
+    },
+    {
+      "id": "s07",
+      "file": "bolumler/032-edirne-fethi-yeniceri/uzun/gorseller/s07.png",
+      "technical_anatomy": "FAIL",
+      "reason": "FAIL: 6 figur (5 degil) + iki kirmizi fular",
+      "status": "REGEN_NEXT_TURN"
+    },
+    {
+      "id": "s08b",
+      "file": "bolumler/032-edirne-fethi-yeniceri/uzun/gorseller/s08b.png",
+      "technical_anatomy": "FAIL",
+      "reason": "FAIL: iki figur keseyi iki elle kenetli tutuyor",
+      "status": "REGEN_NEXT_TURN"
     }
   ],
   "next": [
-    "Kalan 24 görsel Fetih tarzında (toplam 25)",
-    "voice-03 ile 20 anlatım + Fetih formülü ortam sesleri/müzik",
-    "Render, QA, kapak v4, YAYIN/SFX-KUNYE, mühür"
+    "FAIL 4 kare yeniden: s04 yatay/kubbesiz, s04b tek fular, s07 tam 5 figur tek fular, s08b eller bos/ayri",
+    "Kalan sahneler s10-s20 + ciftler s13b,s15b,s19b (toplam 25)",
+    "voice-03 20 anlatim; Fetih formulu muzik+ortam sesleri; render/QA/kapak v4/muhur"
   ],
   "user_costume_approval_gate": "s01 gösterildi; kullanıcı 'Devam et' yanıtıyla Fetih tarzı+kostüm ONAYLANDI (2026-10-23)",
   "narration_texts_written": 20,
@@ -72,5 +150,6 @@
     "18": 575,
     "19": 563,
     "20": 548
-  }
+  },
+  "technical_anatomy_pass_count": 7
 }
