@@ -1,7 +1,7 @@
 {
   "episode": "B032",
   "topic": "Edirne'nin Fethi'nde yeniçeri olsaydım",
-  "stage": "GORSEL_GRUP1_QA_7_PASS_4_REGEN",
+  "stage": "STIL_ORNEK_ILK_TARZ_KULLANICI_ONAYI_BEKLENIYOR",
   "date": "2026-10-23",
   "user_style_directive": {
     "date": "2026-10-23",
@@ -123,9 +123,9 @@
     }
   ],
   "next": [
-    "FAIL 4 kare yeniden: s04 yatay/kubbesiz, s04b tek fular, s07 tam 5 figur tek fular, s08b eller bos/ayri",
-    "Kalan sahneler s10-s20 + ciftler s13b,s15b,s19b (toplam 25)",
-    "voice-03 20 anlatim; Fetih formulu muzik+ortam sesleri; render/QA/kapak v4/muhur"
+    "Kullanici stil ornegini onaylar/reddeder",
+    "Onayda: 25 karenin tamami ayni referans+sablonla yeniden",
+    "Ses/render/kapak sonra"
   ],
   "user_costume_approval_gate": "s01 gösterildi; kullanıcı 'Devam et' yanıtıyla Fetih tarzı+kostüm ONAYLANDI (2026-10-23)",
   "narration_texts_written": 20,
@@ -151,5 +151,12 @@
     "19": 563,
     "20": 548
   },
-  "technical_anatomy_pass_count": 7
+  "technical_anatomy_pass_count": 7,
+  "style_sample": {
+    "file": "bolumler/032-edirne-fethi-yeniceri/uzun/gorseller/stil-ornek-ilk-tarz.png",
+    "sha256": "8db3ccd2b83121af7d31d5b12ced760145698d820bd10e0e6814549367f69c37",
+    "reference": "B001 s01 ilk bolum tarzi: buyuk kahraman on plan, parlak gun isigi, boyanmis okunakli ilustrasyon",
+    "user_decision": "once 1 ornek kare secildi (ornek)",
+    "note": "Onaylanirsa tum 25 kare bu sablonla sifirdan kilitlenir; bozuk grup kareleri yamalanmaz, yenilenir."
+  }
 }
