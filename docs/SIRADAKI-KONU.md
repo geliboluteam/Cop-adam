@@ -36,6 +36,8 @@
 - Nihai video + YouTube kapak v4 + YAYIN.md + kaynak/lisanslı ses künyesi + görsel/teknik QA + GitHub commit/push/uzak doğrulama tamamlanacak.
 - Bu kapılar geçilmeden “komple bitti” denmeyecek ve sonraki konu sorusu erkene alınmayacak.
 
+**B033 (yeni kullanıcı seçimi, 23 Ekim 2026):** İstanbul'un Fethi'nde lağımcı olsaydım — örnek kare onay kapısında; B032 Edirne örneği de onay bekliyor.
+
 **Şu anki durum:** B031 Samuray TESLİM EDİLDİ (11:18, 25/25 görsel, 20 ses, kapak v4, QA PASS). Sıradaki kullanıcı seçimi: **B032 Moğol ordusu şehrime yaklaşırken** — üretim Samuray tesliminden sonra başlayacak.
 
 ---

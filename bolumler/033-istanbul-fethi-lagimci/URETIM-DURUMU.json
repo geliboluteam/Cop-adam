@@ -1,0 +1,42 @@
+{
+  "episode": "B033",
+  "topic": "İstanbul'un Fethi'nde lağımcı olsaydım",
+  "stage": "ORNEK_KARE_URETILDI_KULLANICI_ONAYI_BEKLENIYOR",
+  "date": "2026-10-23",
+  "format": {
+    "long_only": true,
+    "shorts": false,
+    "scene_target": 20,
+    "image_target": 25,
+    "double_scenes": [
+      "s04",
+      "s08",
+      "s13",
+      "s15",
+      "s19"
+    ],
+    "duration_range_seconds": [
+      300,
+      720
+    ],
+    "voice_id": "voice-03"
+  },
+  "style_lock": "B001 ilk bolum dili + B032 stil ornegi: buyuk kahraman on plan, parlak boyanmis okunakli sahne, ayni referans sablonu",
+  "user_costume_approved": false,
+  "produced_image_count": 1,
+  "images": [
+    {
+      "id": "s01",
+      "file": "bolumler/033-istanbul-fethi-lagimci/uzun/gorseller/s01.png",
+      "sha256": "00666ead2aad67f01db6c6b7eac829b9eca1ec8367c68e2714c55d35b19d589d",
+      "characters": 4,
+      "technical_anatomy": "STYLE_SAMPLE_PENDING_USER_APPROVAL",
+      "note": "kesit sahne: ustte Theodosius surlari, altta ahsap destekli lagim tuneli; fener tek el, sepet tek el"
+    }
+  ],
+  "next": [
+    "Kullanici ornek kareyi onaylar/duzeltir",
+    "Onayda 20 metin + 25 gorsel ayni kilitle",
+    "Ses voice-03 + ortama gore lisansli ambiyans; render/QA/kapak v4/muhur"
+  ]
+}
