@@ -11,7 +11,8 @@
     "comps": "bash scripts/remotion-offline.sh compositions src/index.ts",
     "still": "bash scripts/remotion-offline.sh still src/index.ts",
     "render": "bash scripts/remotion-offline.sh render src/index.ts",
-    "audio": "python3 scripts/gen-audio.py"
+    "audio": "python3 scripts/gen-audio.py",
+    "ready": "bash scripts/ready.sh"
   },
   "dependencies": {
     "@remotion/bundler": "4.0.530",
