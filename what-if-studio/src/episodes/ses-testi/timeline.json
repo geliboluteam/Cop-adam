@@ -1,0 +1,29 @@
+{
+  "slug": "ses-testi",
+  "title": "SES TESTI (AUDIO IN CODE)",
+  "fps": 30,
+  "total": 180,
+  "segments": [
+    { "shot": "T1", "a": 0, "b": 60, "t0": 0, "t1": 60, "line": "the mug goes down (pop @ 0.8 s)" },
+    { "shot": "T2", "a": 60, "b": 120, "t0": 0, "t1": 60, "line": "the tap on the worktop (whoosh @ 2.0 s, ding @ 2.6 s)" },
+    { "shot": "T3", "a": 120, "b": 180, "t0": 0, "t1": 60, "line": "the title, then the light goes (boom @ 4.0 s, power down @ 5.35 s)" }
+  ],
+  "shots": [
+    { "id": "T1", "size": "wide, slow push in", "key": 26, "len": 60, "first": 0, "line": "the mug goes down", "note": "study, Pip sets the mug on the desk: the pop lands on the frame the mug touches" },
+    { "id": "T2", "size": "medium over the island", "key": 20, "len": 60, "first": 60, "line": "the tap on the worktop", "note": "kitchen, the tap: the ding lands on the contact frame" },
+    { "id": "T3", "size": "wide, low", "key": 26, "len": 60, "first": 120, "line": "the title, then the light goes", "note": "rooftop, title card; the boom is on the cut, the power down as the city goes dark" }
+  ],
+  "fx": [
+    { "kind": "shake", "f": 24, "len": 6, "amp": 5 },
+    { "kind": "flash", "color": "#FFF3DC", "f": 120, "o": 0.45 },
+    { "kind": "shake", "f": 120, "len": 10, "amp": 12 }
+  ],
+  "audio": {
+    "voice": "ses-testi/voice.wav",
+    "sfx": "ses-testi/sfx.wav",
+    "music": "ses-testi/music.wav",
+    "voiceVol": 1.0,
+    "sfxVol": 0.85,
+    "musicVol": 0.75
+  }
+}
