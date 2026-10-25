@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
-import { createLab, type Lab, type LabOptions, type SfxKind, HITS, PHRASES, PROGRESSIONS, labDefaults } from './synth';
+import { createLab, type Lab, type LabOptions, type SfxKind, HITS, PHRASES, PROGRESSIONS, labDefaults, fileMix } from './synth';
 import { Stage, SHOT_INFO, LOOP_FRAMES, FPS, shakeAt } from './Stage';
 import { Fader, Pad, Knob } from './Controls';
 import { Timeline } from './Timeline';
@@ -40,6 +40,7 @@ export const App: React.FC = () => {
   const [levels, setLevels] = useState({ voice: 0, sfx: 0, music: 0 });
   const [mutes, setMutes] = useState({ voice: false, sfx: false, music: false });
   const [lastHit, setLastHit] = useState<string>('—');
+  const [copied, setCopied] = useState(false);
 
   // transport lives in refs: requestAnimationFrame must not wait for React
   const anchor = useRef(0); // ctx time that corresponds to loop second 0
@@ -151,6 +152,26 @@ export const App: React.FC = () => {
     return () => window.removeEventListener('keydown', onKey);
   }, [playing, play, pause, seek, frame, hit]);
 
+  const asFile = useMemo(
+    () =>
+      JSON.stringify(
+        {
+          pitch: Math.round(opt.f0),
+          key: opt.key,
+          voice: Number(opt.voice.toFixed(2)),
+          sfx: Number(opt.sfx.toFixed(2)),
+          music: Number(opt.music.toFixed(2)),
+          master: Number(opt.master.toFixed(2)),
+          send: Number(opt.send.toFixed(2)),
+        },
+        null,
+        2,
+      ),
+    [opt],
+  );
+  const file = useMemo(fileMix, []);
+  const changed = asFile !== JSON.stringify({ pitch: Math.round(file.f0), key: file.key, voice: Number(file.voice.toFixed(2)), sfx: Number(file.sfx.toFixed(2)), music: Number(file.music.toFixed(2)), master: Number(file.master.toFixed(2)), send: Number(file.send.toFixed(2)) }, null, 2);
+
   const hits = useMemo(() => HITS.map((h) => h.f), []);
   void shakeAt;
 
@@ -258,6 +279,31 @@ export const App: React.FC = () => {
             </div>
             <button className="ghost wide" onClick={() => iface().playVoice()}>voice'u tek başına duy</button>
             <button className="ghost wide" onClick={() => iface().playMusic()}>akoru tek başına duy</button>
+          </div>
+
+          <div className="card">
+            <h2>Dosyaya yaz</h2>
+            <pre className="mixjson">{asFile}</pre>
+            <div className="row2">
+              <button
+                className="ghost"
+                onClick={() => {
+                  void navigator.clipboard?.writeText(asFile);
+                  setCopied(true);
+                  setTimeout(() => setCopied(false), 1400);
+                }}
+              >
+                {copied ? 'kopyalandı ✓' : 'kopyala'}
+              </button>
+              <button className="ghost" onClick={() => { applyOpts({ f0: file.f0, key: file.key, voice: file.voice, sfx: file.sfx, music: file.music, master: file.master, send: file.send }); setMutes({ voice: false, sfx: false, music: false }); }}>
+                dosyaya dön
+              </button>
+              <span className={`dotflag ${changed ? 'on' : ''}`}>{changed ? 'değişti' : 'dosyayla aynı'}</span>
+            </div>
+            <p className="note">
+              Bu bloğu <code>src/episodes/ses-testi/audio.json</code> içindeki <code>mix</code>'e yapıştır, sonra{' '}
+              <code>python scripts/gen-audio.py ses-testi</code>. Render aynı sesi üretir: labda bulduğun miks dosyaya geçer.
+            </p>
           </div>
 
           <div className="card">

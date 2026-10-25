@@ -290,6 +290,28 @@ def sfx(sr, kind, dur=None, seed=1):
 
 # ---------- the music bed ----------
 
+# The same four-bar progressions the lab offers (lab/synth.ts PROGRESSIONS): audio.json's `mix.key` picks one.
+PROGRESSIONS = {
+    'Am': [
+        {'name': 'Am', 'notes': [['A', 2, 1.0], ['C', 3, 0.5], ['E', 3, 0.45]]},
+        {'name': 'F', 'notes': [['F', 2, 1.0], ['A', 2, 0.55], ['C', 3, 0.45]]},
+        {'name': 'C', 'notes': [['C', 3, 1.0], ['E', 3, 0.5], ['G', 3, 0.4]]},
+        {'name': 'G', 'notes': [['G', 2, 1.0], ['B', 2, 0.55], ['D', 3, 0.45]]},
+    ],
+    'Dm': [
+        {'name': 'Dm', 'notes': [['D', 3, 1.0], ['F', 3, 0.5], ['A', 3, 0.45]]},
+        {'name': 'Bb', 'notes': [['A#', 2, 1.0], ['D', 3, 0.55], ['F', 3, 0.45]]},
+        {'name': 'F', 'notes': [['F', 2, 1.0], ['A', 2, 0.5], ['C', 3, 0.4]]},
+        {'name': 'C', 'notes': [['C', 3, 1.0], ['E', 3, 0.5], ['G', 3, 0.4]]},
+    ],
+    'Em': [
+        {'name': 'Em', 'notes': [['E', 2, 1.0], ['G', 2, 0.5], ['B', 2, 0.45]]},
+        {'name': 'C', 'notes': [['C', 3, 1.0], ['E', 3, 0.55], ['G', 3, 0.4]]},
+        {'name': 'G', 'notes': [['G', 2, 1.0], ['B', 2, 0.5], ['D', 3, 0.45]]},
+        {'name': 'D', 'notes': [['D', 3, 1.0], ['F#', 3, 0.5], ['A', 3, 0.4]]},
+    ],
+}
+
 STEPS = {  # semitones above the key's root, so a chord is written as names
     'C': 0, 'C#': 1, 'D': 2, 'D#': 3, 'E': 4, 'F': 5, 'F#': 6, 'G': 7, 'G#': 8, 'A': 9, 'A#': 10, 'B': 11,
 }
@@ -360,6 +382,14 @@ def main():
     if '--out-dir' in args:
         out_dir = Path(args[args.index('--out-dir') + 1])
 
+    # The `mix` block is what the lab writes: it is the one place the two agree. The key picks the progression
+    # (unless the file spells its own chords), the pitch scales every phrase's f0 from the 150 Hz base.
+    mix = cfg.get('mix', {})
+    key = mix.get('key')
+    if key and key in PROGRESSIONS:
+        cfg['music']['chords'] = PROGRESSIONS[key]
+    pitch_scale = float(mix.get('pitch', 150)) / 150.0
+
     sr = cfg.get('sampleRate', 32000)
     secs = float(cfg['seconds'])
     n = int(secs * sr)
@@ -368,7 +398,7 @@ def main():
     vcfg = cfg.get('voice', {})
     voice = zeros(n)
     for i, ph in enumerate(vcfg.get('phrases', [])):
-        seg = voice_phrase(sr, ph['vowels'], float(ph['dur']), float(ph.get('f0', 148)), seed=11 + i)
+        seg = voice_phrase(sr, ph['vowels'], float(ph['dur']), float(ph.get('f0', 148)) * pitch_scale, seed=11 + i)
         add(voice, seg, int(float(ph['at']) * sr) if 'at' in ph else int(sum(p['dur'] for p in vcfg['phrases'][:i]) * sr))
     normalize(voice, vcfg.get('levelDb', -6))
 
@@ -392,6 +422,8 @@ def main():
     write_wav(out_dir / 'music.wav', mus, sr)
 
     print(f'gen-audio: {slug} -> {out_dir}  ({secs:.2f} s, {sr} Hz, mono 16-bit)')
+    print(f'  mix: key {key or "(chords from the file)"}, voice pitch {float(mix.get("pitch", 150)):.0f} Hz'
+          f' -> f0 x{pitch_scale:.3f}')
     for name, x in [('voice', voice), ('sfx', sfxb), ('music', mus)]:
         print(f'  {name:6s} peak {db(peak(x)):7.2f} dBFS   rms {db(rms(x)):7.2f} dBFS   {len(x) / sr:.2f} s')
     if placed:

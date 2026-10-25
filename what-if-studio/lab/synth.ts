@@ -10,6 +10,8 @@
 //
 // Routing: source -> stem gain -> (analyser, dry -> master, send -> reverb -> master) -> compressor -> out.
 
+import audio from '../src/episodes/ses-testi/audio.json';
+
 export type Stem = 'voice' | 'sfx' | 'music';
 export type SfxKind = 'pop' | 'ding' | 'whoosh' | 'click' | 'boom' | 'power_down' | 'room_tone';
 
@@ -22,23 +24,26 @@ export const VOWELS: Record<string, [number, number, number]> = {
 };
 
 /** The voice's lines, in seconds: the block-out from audio.json (vowels, not words). */
-export const PHRASES = [
-  { at: 0.3, vowels: ['a', 'o'], dur: 1.05, f0: 150 },
-  { at: 1.95, vowels: ['e', 'i', 'e'], dur: 1.15, f0: 158 },
-  { at: 3.3, vowels: ['o', 'a', 'u'], dur: 1.0, f0: 140 },
-];
+export const PHRASES = audio.voice.phrases as { at: number; vowels: string[]; dur: number; f0: number }[];
 
-/** Every hit the episode has, in frames: what the picture and the sound agree on. */
-export const HITS: { f: number; kind: SfxKind; note: string }[] = [
-  { f: 0, kind: 'room_tone', note: 'room tone under the loop' },
-  { f: 24, kind: 'pop', note: 'the mug meets the desk' },
-  { f: 60, kind: 'whoosh', note: 'the cut to the kitchen' },
-  { f: 73, kind: 'click', note: 'the tap' },
-  { f: 78, kind: 'ding', note: 'the ding on the contact frame' },
-  { f: 120, kind: 'boom', note: 'the title lands on the cut' },
-  { f: 137, kind: 'ding', note: 'the title accent' },
-  { f: 161, kind: 'power_down', note: 'the city goes dark' },
-];
+/** What each hit is for. The frames come from audio.json's `at`, so the picture and the sound cannot drift. */
+const HIT_NOTE: Record<string, string> = {
+  'room_tone@0': 'room tone under the loop',
+  'pop@0.8': 'the mug meets the desk',
+  'whoosh@1.98': 'the cut to the kitchen',
+  'click@2.42': 'the tap',
+  'ding@2.6': 'the ding on the contact frame',
+  'boom@4': 'the title lands on the cut',
+  'ding@4.55': 'the title accent',
+  'power_down@5.35': 'the city goes dark',
+};
+
+/** Every hit the episode has, in frames: the same list scripts/gen-audio.py renders. */
+export const HITS: { f: number; kind: SfxKind; note: string }[] = (audio.sfx.events as { kind: string; at: number }[]).map((e) => ({
+  f: Math.round(e.at * 30),
+  kind: e.kind as SfxKind,
+  note: HIT_NOTE[`${e.kind}@${e.at}`] ?? e.kind,
+}));
 
 const NOTE: Record<string, number> = { C: 0, 'C#': 1, D: 2, 'D#': 3, E: 4, F: 5, 'F#': 6, G: 7, 'G#': 8, A: 9, 'A#': 10, B: 11 };
 const hz = (name: string, oct: number) => 440 * Math.pow(2, (NOTE[name] - 9) / 12 + (oct - 4));
@@ -66,7 +71,19 @@ export const PROGRESSIONS: Record<string, { name: string; notes: [string, number
 
 export type LabOptions = { voice: number; sfx: number; music: number; master: number; send: number; f0: number; key: string };
 
-const DEFAULTS: LabOptions = { voice: 0.9, sfx: 0.8, music: 0.55, master: 0.85, send: 0.22, f0: 150, key: 'Am' };
+const MIX = audio.mix as { pitch: number; key: string; voice: number; sfx: number; music: number; master: number; send: number };
+const DEFAULTS: LabOptions = {
+  voice: MIX.voice,
+  sfx: MIX.sfx,
+  music: MIX.music,
+  master: MIX.master,
+  send: MIX.send,
+  f0: MIX.pitch,
+  key: MIX.key,
+};
+
+/** What the file says, for the "write it back / undo" panel: the lab starts here every reload. */
+export const fileMix = () => ({ ...DEFAULTS });
 
 export const labDefaults = DEFAULTS;
 

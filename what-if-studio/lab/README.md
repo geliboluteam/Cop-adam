@@ -30,4 +30,22 @@ touched while it loops. Nothing is pre-rendered: change the pitch and the next p
 - `lab/Stage.tsx` — draws the studio's own shots (`src/episodes/ses-testi/shots.tsx`), so there is nothing duplicated.
 - `lab/Timeline.tsx` — the loop as a picture; `lab/App.tsx` — the transport and the scheduler.
 
+## The round trip (lab -> file -> mp4)
+
+The lab does not have its own settings. It reads `src/episodes/ses-testi/audio.json`'s `mix` block for its starting
+pitch, key, faders and knobs, and `scripts/gen-audio.py` reads the same block for the offline render:
+
+```json
+"mix": { "pitch": 128, "key": "Em", "voice": 0.9, "sfx": 0.8, "music": 0.62, "master": 0.85, "send": 0.3 }
+```
+
+So the loop is: dial it in the lab -> press **kopyala** in "Dosyaya yaz" -> paste into that block ->
+`python scripts/gen-audio.py ses-testi` -> `npx remotion render src/index.ts SesTesti out/ses-testi/ses-testi.mp4`.
+The flag under the buttons says `dosyayla aynı` while the lab matches the file and `değişti` once you move something,
+and **dosyaya dön** puts it back to what is on disk.
+
+`pitch` is the voice f0 base (the phrases scale from 150 Hz), `key` picks one of the three progressions in both
+`lab/synth.ts` and `scripts/gen-audio.py` (Am / Dm / Em). The stems' peak targets are still `levelDb` in each stem's
+block: those are mastering numbers, the faders are the performance.
+
 Ship it as a file: `npx vite build --config vite.lab.config.ts` writes a static `lab/dist/`.

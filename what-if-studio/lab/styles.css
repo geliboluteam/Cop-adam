@@ -152,3 +152,10 @@ td.mono { width: 44px; }
 .playhead { position: absolute; top: 14px; bottom: 0; width: 2px; background: var(--yellow); box-shadow: 0 0 10px #ffe27a99; pointer-events: none; }
 td.mono:first-child { width: 42px; }
 td.mono:nth-child(2) { width: 96px; padding-right: 8px; white-space: nowrap; }
+
+/* ---------- write it back ---------- */
+.mixjson { margin: 0; padding: 10px 12px; background: #0e0b1a; border: 1px solid var(--line); border-radius: 9px; font-family: 'Fragment Mono', monospace; font-size: 11.5px; line-height: 1.55; color: var(--yellow); overflow-x: auto; }
+.row2 { display: flex; align-items: center; gap: 8px; margin-top: 10px; }
+.dotflag { margin-left: auto; font-size: 11px; color: var(--dim); }
+.dotflag.on { color: var(--orange); }
+.card code { font-family: 'Fragment Mono', monospace; font-size: 11px; color: var(--yellow); background: #0e0b1a; padding: 1px 4px; border-radius: 4px; }

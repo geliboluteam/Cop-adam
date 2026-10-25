@@ -3,36 +3,180 @@
   "seconds": 6,
   "sampleRate": 32000,
   "notes": "The three stems the engine expects, synthesised offline by scripts/gen-audio.py. Every event's `at` is in seconds from the first frame; the frame is at * 30 (see timeline.json fx and the hits in shots.tsx). Replace voice.wav with the ElevenLabs take when there is a key: nothing else has to change.",
+  "mix": {
+    "pitch": 128,
+    "key": "Em",
+    "voice": 0.9,
+    "sfx": 0.8,
+    "music": 0.62,
+    "master": 0.85,
+    "send": 0.3
+  },
+  "mixNotes": "Where the lab starts and what gen-audio.py renders: `pitch` is the voice f0 base in Hz, `key` picks the chord progression (Am / Dm / Em), the three stem numbers are the lab faders, master and send its knobs. Change them in the lab, write them back here, and the offline render follows.",
   "music": {
     "bpm": 60,
     "bars": 4,
     "levelDb": -15,
     "chords": [
-      { "name": "Am", "notes": [["A", 2, 1.0], ["C", 3, 0.5], ["E", 3, 0.45]] },
-      { "name": "F", "notes": [["F", 2, 1.0], ["A", 2, 0.55], ["C", 3, 0.45]] },
-      { "name": "C", "notes": [["C", 3, 1.0], ["E", 3, 0.5], ["G", 3, 0.4]] },
-      { "name": "G", "notes": [["G", 2, 1.0], ["B", 2, 0.55], ["D", 3, 0.45]] }
+      {
+        "name": "Am",
+        "notes": [
+          [
+            "A",
+            2,
+            1.0
+          ],
+          [
+            "C",
+            3,
+            0.5
+          ],
+          [
+            "E",
+            3,
+            0.45
+          ]
+        ]
+      },
+      {
+        "name": "F",
+        "notes": [
+          [
+            "F",
+            2,
+            1.0
+          ],
+          [
+            "A",
+            2,
+            0.55
+          ],
+          [
+            "C",
+            3,
+            0.45
+          ]
+        ]
+      },
+      {
+        "name": "C",
+        "notes": [
+          [
+            "C",
+            3,
+            1.0
+          ],
+          [
+            "E",
+            3,
+            0.5
+          ],
+          [
+            "G",
+            3,
+            0.4
+          ]
+        ]
+      },
+      {
+        "name": "G",
+        "notes": [
+          [
+            "G",
+            2,
+            1.0
+          ],
+          [
+            "B",
+            2,
+            0.55
+          ],
+          [
+            "D",
+            3,
+            0.45
+          ]
+        ]
+      }
     ]
   },
   "voice": {
     "levelDb": -4,
     "phrases": [
-      { "at": 0.3, "vowels": ["a", "o"], "dur": 1.05, "f0": 150 },
-      { "at": 1.95, "vowels": ["e", "i", "e"], "dur": 1.15, "f0": 158 },
-      { "at": 3.3, "vowels": ["o", "a", "u"], "dur": 1.0, "f0": 140 }
+      {
+        "at": 0.3,
+        "vowels": [
+          "a",
+          "o"
+        ],
+        "dur": 1.05,
+        "f0": 150
+      },
+      {
+        "at": 1.95,
+        "vowels": [
+          "e",
+          "i",
+          "e"
+        ],
+        "dur": 1.15,
+        "f0": 158
+      },
+      {
+        "at": 3.3,
+        "vowels": [
+          "o",
+          "a",
+          "u"
+        ],
+        "dur": 1.0,
+        "f0": 140
+      }
     ]
   },
   "sfx": {
     "levelDb": -10,
     "events": [
-      { "kind": "room_tone", "at": 0.0, "dur": 5.6, "gain": 0.5 },
-      { "kind": "pop", "at": 0.8 },
-      { "kind": "whoosh", "at": 1.98, "dur": 0.45 },
-      { "kind": "click", "at": 2.42 },
-      { "kind": "ding", "at": 2.6, "dur": 0.95 },
-      { "kind": "boom", "at": 4.0, "dur": 1.1 },
-      { "kind": "ding", "at": 4.55, "dur": 0.8, "gain": 0.6 },
-      { "kind": "power_down", "at": 5.35, "dur": 1.0 }
+      {
+        "kind": "room_tone",
+        "at": 0.0,
+        "dur": 5.6,
+        "gain": 0.5
+      },
+      {
+        "kind": "pop",
+        "at": 0.8
+      },
+      {
+        "kind": "whoosh",
+        "at": 1.98,
+        "dur": 0.45
+      },
+      {
+        "kind": "click",
+        "at": 2.42
+      },
+      {
+        "kind": "ding",
+        "at": 2.6,
+        "dur": 0.95
+      },
+      {
+        "kind": "boom",
+        "at": 4.0,
+        "dur": 1.1
+      },
+      {
+        "kind": "ding",
+        "at": 4.55,
+        "dur": 0.8,
+        "gain": 0.6
+      },
+      {
+        "kind": "power_down",
+        "at": 5.35,
+        "dur": 1.0
+      }
     ]
   }
 }
