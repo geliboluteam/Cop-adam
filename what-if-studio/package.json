@@ -5,7 +5,8 @@
   "description": "What If animation studio: one topic line in, a finished 15-25 s episode out. Every frame is SVG drawn in code (Remotion).",
   "scripts": {
     "studio": "remotion studio src/index.ts --port 3430",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "lab": "vite --config vite.lab.config.ts"
   },
   "dependencies": {
     "@remotion/bundler": "4.0.530",
@@ -19,6 +20,9 @@
   },
   "devDependencies": {
     "@types/react": "19.0.0",
-    "typescript": "5.8.2"
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^4.7.0",
+    "typescript": "5.8.2",
+    "vite": "^6.4.5"
   }
 }
