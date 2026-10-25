@@ -5,8 +5,13 @@
   "description": "What If animation studio: one topic line in, a finished 15-25 s episode out. Every frame is SVG drawn in code (Remotion).",
   "scripts": {
     "studio": "remotion studio src/index.ts --port 3430",
+    "lab": "vite --config vite.lab.config.ts",
     "typecheck": "tsc --noEmit",
-    "lab": "vite --config vite.lab.config.ts"
+    "setup:offline": "bash scripts/setup-offline.sh",
+    "comps": "bash scripts/remotion-offline.sh compositions src/index.ts",
+    "still": "bash scripts/remotion-offline.sh still src/index.ts",
+    "render": "bash scripts/remotion-offline.sh render src/index.ts",
+    "audio": "python3 scripts/gen-audio.py"
   },
   "dependencies": {
     "@remotion/bundler": "4.0.530",

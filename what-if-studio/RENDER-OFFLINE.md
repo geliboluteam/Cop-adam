@@ -1,4 +1,8 @@
-# Rendering this studio offline (sandbox notes)
+# Offline rendering: the short version
+
+**Use the scripts.** `npm run setup:offline` once, then `npm run comps` / `still` / `render`: they pass the browser
+and its libraries for you. `REMOTION.md` (Turkish) is the full guide. What follows is the manual version, for
+rebuilding it somewhere else.
 
 The skill assumes a normal machine: Chrome downloads itself, and Google Fonts is reachable at render time. Neither is
 true in a locked-down sandbox, so the CLI render needs three things. All of them are already set up in this checkout;
